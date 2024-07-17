@@ -121,9 +121,9 @@ def bio_spacy(texte, nlp="") -> list[list]:
 
 
 if __name__ == "__main__":
-    do_json: bool = False
-    for modele in ["lg"]:
-    # for modele in ["sm", "md", "lg"]:
+    do_json: bool = True
+    # for modele in ["lg"]:
+    for modele in ["sm", "md", "lg"]:
         # liste_subcorpus = glob.glob(f"{path_corpora}/*")
         liste_subcorpus = list(Path(path_corpora).glob("*"))
         print(liste_subcorpus)
@@ -182,7 +182,7 @@ if __name__ == "__main__":
                 # writer = csv.writer(file, delimiter=';', quotechar='|')
                 # writer.writerows(ent)
                 with open(concat_bio_path, "w",  newline='') as file:
-                    writer = csv.writer(file, delimiter=' ', quotechar='')
+                    writer = csv.writer(file, delimiter=' ', quotechar='|')
                     writer.writerows(entites_bio)
 
                     # writer.writerows([["Alice", 23], ["Bob", 27]])
