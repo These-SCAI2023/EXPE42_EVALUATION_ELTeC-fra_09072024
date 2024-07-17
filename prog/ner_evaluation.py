@@ -63,7 +63,7 @@ for auteur in liste_dossiers_auteurs:
         model_name_ref = get_model_name(reference_file)
         print(model_name_ref)
         texte_ref=lire_fichier(reference_file)
-        print(texte_ref)
+        # print(texte_ref)
         for ocr_path in ocr_paths:
             print(ocr_path)
             model_name_ocr = get_model_name(ocr_path)
@@ -80,8 +80,8 @@ for auteur in liste_dossiers_auteurs:
             new_scores_text = get_new_scores(texte_ref, texte_ocr)  # TODO:merge
             # TODO: CER, WER
             print(new_scores_text)
-            json_path = f"{sim_path}sim2-3_{configuration}"
-            # json_path = f"{sim_path}word_{configuration}"
+            json_path = f"{sim_path}sim2-3_{configuration}.json"
+            # json_path = f"{sim_path}word_{configuration}.json"
             new_scores_text["clean_eval"] = clean_eval_scores_txt
             for k, v in distance_txt.items():
                 new_scores_text[k] = v
