@@ -182,7 +182,7 @@ if __name__ == "__main__":
                 # writer = csv.writer(file, delimiter=';', quotechar='|')
                 # writer.writerows(ent)
                 with open(concat_bio_path, "w",  newline='') as file:
-                    writer = csv.writer(file, delimiter=' ', quotechar='|')
+                    writer = csv.writer(file, delimiter=' ', quotechar='')
                     writer.writerows(entites_bio)
 
                     # writer.writerows([["Alice", 23], ["Bob", 27]])
