@@ -78,7 +78,7 @@ def stocker(chemin, contenu):
 # Dict2list concaténation
 # path_corpora = "../DATA_ELTeC-fra/DAUDET/*/DAUDET_petit-chose_PP_multiNER_4tools-intersection2_annot.json"
 # path_corpora = "../DATA_test_09072024/ADAM_Mon-village/*"
-path_corpora = "../DATA/*/*"
+path_corpora = "../ELTeC-fra_Complet_ENliste/*/*"
 # modeles = ["camenBert_ner", "sm", "lg","flair"]
 # dico_entite = {}
 
@@ -102,7 +102,7 @@ for path in glob.glob(path_corpora):
         print(len(liste_entite))
         stocker(path_output, liste_entite)
 
-    for refpath in glob.glob("%s/*/*1.json"%path):
+    for refpath in glob.glob("%s/*/*.json"%path):
         print(refpath)
         mod = modeles(refpath)
         print(mod)
