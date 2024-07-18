@@ -1,0 +1,170 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 7035,
+    "EN-type": 5001
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 11292,
+    "EN-type": 7679
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 1851,
+    "EN-type": 852
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 1360,
+    "EN-type": 374
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 1532,
+    "EN-type": 1029
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 735,
+    "EN-type": 607
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 1315,
+    "EN-type": 535
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 1160,
+    "EN-type": 361
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 7249,
+    "EN-type": 4703
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7910,
+    "EN-type": 5715
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 2326,
+    "EN-type": 795
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 1812,
+    "EN-type": 360
+  },
+  "spacy-lg-3.7.5_TesseractFra-PNG-jspll-ELTeC": {
+    "EN-occ": 346,
+    "EN-type": 229
+  },
+  "spacy-lg-3.7.5_TesseractFra-PNG-jspll-pretrain": {
+    "EN-occ": 331,
+    "EN-type": 213
+  },
+  "spacy-lg-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 359,
+    "EN-type": 239
+  },
+  "spacy-lg-3.7.5_kraken-jspll-ELTeC": {
+    "EN-occ": 503,
+    "EN-type": 330
+  },
+  "spacy-lg-3.7.5_kraken-jspll-pretrain": {
+    "EN-occ": 432,
+    "EN-type": 269
+  },
+  "spacy-lg-3.7.5_kraken": {
+    "EN-occ": 507,
+    "EN-type": 331
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6640,
+    "EN-type": 4252
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7119,
+    "EN-type": 5127
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 2285,
+    "EN-type": 754
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 1903,
+    "EN-type": 389
+  },
+  "spacy-md-3.7.5_TesseractFra-PNG-jspll-ELTeC": {
+    "EN-occ": 345,
+    "EN-type": 238
+  },
+  "spacy-md-3.7.5_TesseractFra-PNG-jspll-pretrain": {
+    "EN-occ": 323,
+    "EN-type": 207
+  },
+  "spacy-md-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 368,
+    "EN-type": 246
+  },
+  "spacy-md-3.7.5_kraken-jspll-ELTeC": {
+    "EN-occ": 479,
+    "EN-type": 325
+  },
+  "spacy-md-3.7.5_kraken-jspll-pretrain": {
+    "EN-occ": 404,
+    "EN-type": 250
+  },
+  "spacy-md-3.7.5_kraken": {
+    "EN-occ": 484,
+    "EN-type": 318
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6956,
+    "EN-type": 3999
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7489,
+    "EN-type": 4770
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 3776,
+    "EN-type": 975
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 2570,
+    "EN-type": 478
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG-jspll-ELTeC": {
+    "EN-occ": 951,
+    "EN-type": 261
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG-jspll-pretrain": {
+    "EN-occ": 967,
+    "EN-type": 255
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 976,
+    "EN-type": 266
+  },
+  "spacy-sm-3.7.5_kraken-jspll-ELTeC": {
+    "EN-occ": 461,
+    "EN-type": 272
+  },
+  "spacy-sm-3.7.5_kraken-jspll-pretrain": {
+    "EN-occ": 452,
+    "EN-type": 244
+  },
+  "spacy-sm-3.7.5_kraken": {
+    "EN-occ": 492,
+    "EN-type": 286
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 4225,
+    "EN-type": 3230
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 5231,
+    "EN-type": 4365
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 2014,
+    "EN-type": 808
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 1503,
+    "EN-type": 385
+  }
+}
