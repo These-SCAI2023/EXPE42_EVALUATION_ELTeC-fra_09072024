@@ -31,11 +31,11 @@ corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_E
 corpa=corpusa[3]
 # path_corpora = f"../DATA_spaCy3.5.1_ENliste_globale/{corpa}/*"
 # path_corpora = f"../DATA_ELTeC-fra_EVAL_Intersection/*"
-path_corpora = f"../ELTeC-fra_Complet_ENliste_Intersection/*"
+path_corpora = f"../DATA_ELTeC-fra_spaCy3.7.5_INTERSECTION/*"
 dico_resultat={}
 dico_REN={}
 for gen_path in glob.glob(path_corpora):
-    # print("_____________",gen_path)
+    print("_____________",gen_path)
     corp = corpus(gen_path)
     # print(corp)
     auteur=gen_path.split("/")[-1]
@@ -45,7 +45,7 @@ for gen_path in glob.glob(path_corpora):
 
     # dico_resultat={}
     for path_ocr in glob.glob(paths_ocr):
-        # print(path_ocr)
+        print(path_ocr)
         version_REN_ocr=model_REN(path_ocr)
         # dico_REN[version_REN_ocr]={}
         moteur_ocr=model_ocr(path_ocr)
@@ -100,8 +100,8 @@ for gen_path in glob.glob(path_corpora):
                 dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
 
     for kle, value in dico_REN.items():
-        stocker(f"../Upsetplot_intersection/ELTeC-fra_Complet_global_{kle}.json" ,value)
-# # print(dico_resultat)
+        stocker(f"../Upsetplot_intersection/DATA_ELTeC-fra_spaCy3.7.5_global_{kle}.json" ,value)
+# print(dico_resultat)
 liste_res_nb = {}
 for key, dico_resultat in dico_REN.items():
     for cle, valeur in dico_resultat.items():
@@ -110,6 +110,6 @@ for key, dico_resultat in dico_REN.items():
         liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
         liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
 
-    stocker(f"../Upsetplot_intersection/ELTeC-fra_Complet_global--par-auteur--nb_entite.json",liste_res_nb)
+    stocker(f"../Upsetplot_intersection/DATA_ELTeC-fra_spaCy3.7.5_--nb_entite.json",liste_res_nb)
 
 

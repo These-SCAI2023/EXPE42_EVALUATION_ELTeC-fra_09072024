@@ -32,7 +32,7 @@ def stocker(chemin, contenu):
 
 liste_ren = []
 # path_corpora = "../Upstplt-ELTeC/*fra_sp*.json"
-path_corpora = "../Upsetplot_intersection/ELTeC-fra_Complet_par-auteur"
+path_corpora = "../Upsetplot_intersection/DATA_ELTeC-fra_EVAL_globaL"
 new_dic = {}
 # liste_version=[]
 
@@ -142,7 +142,7 @@ for path in glob.glob(f"{path_corpora}/*.json"):
 
 # print(i, new_dic.keys())
     liste_moteur = []
-    a = 2
+    a = 5
 
     for cle, valeur in new_dic.items():
         liste_moteur.append(cle)
@@ -178,8 +178,8 @@ for path in glob.glob(f"{path_corpora}/*.json"):
             text.set_fontsize(8)
     # plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
     # fig.figsize = (10, 6)
-    plt.yscale('log', base=10)
-    # plt.axis([-1.0, 2.3, 0.0, 25000.0])
+    # plt.yscale('log', base=10)
+    plt.axis([-1.0, 2.3, 0.0, 6000.0])
     plt.xticks(fontsize=8)
     plt.yticks(fontsize=8)
     plt.savefig(f"{path_output}_{liste_moteur[a]}_upsetplot.png", dpi=300)
