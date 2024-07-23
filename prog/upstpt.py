@@ -32,7 +32,7 @@ def stocker(chemin, contenu):
 
 liste_ren = []
 # path_corpora = "../Upstplt-ELTeC/*fra_sp*.json"
-path_corpora = "../Upsetplot_intersection/DATA_ELTeC-fra_EVAL_globaL"
+path_corpora = "../Upsetplot_intersection/small-ELTeC-fra_spaCy3.5.1"
 new_dic = {}
 # liste_version=[]
 
