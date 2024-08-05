@@ -4,14 +4,17 @@ import shutil
 import os
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../PREPA_Correction-Auto/small-ELTeC-fra-2021-*/*/*REF/NER/*"
+path_input="../ARCHEO_Correction/small-*/*3.7.5/*/*OCR/*/NER/*"
 
 
 for path in glob.glob(path_input):
     # print(path)
-    if "_PP.txt" in path:
+    if "spacy" not in path:
         print(path)
-        # os.remove(path)
+        os.remove(path)
+    # if "_PP.txt" in path:
+    #     print(path)
+
 
     # if "AIMARD" not in path:
         # print(path)
