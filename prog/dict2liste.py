@@ -78,23 +78,27 @@ def stocker(chemin, contenu):
 # Dict2list concaténation
 # path_corpora = "../DATA_ELTeC-fra/DAUDET/*/DAUDET_petit-chose_PP_multiNER_4tools-intersection2_annot.json"
 # path_corpora = "../DATA_test_09072024/ADAM_Mon-village/*"
-path_corpora = "../small-ELTeC-fra_spaCy3.5.1/*/*"
+path_corpora = "../PREPA_Correction-Auto/small-*/*"
 # modeles = ["camenBert_ner", "sm", "lg","flair"]
 # dico_entite = {}
 
 for path in glob.glob(path_corpora):
     print("_____________",path)
-    for subpath in glob.glob("%s/*/*/*.json"%path):
-        print(subpath)
+    for subpath in glob.glob("%s/*OCR/*/NER/*.json"%path):
+        print("OCR------------>",subpath)
         mod=modeles(subpath)
         print(mod)
         path_output=sortie(subpath)
-        print("path_output",path_output)
+
+        if "-liste-liste.json" in path_output:
+            print("Already DONE : ", path_output)
+            continue
+        print("path_output", path_output)
         dico_entite=lire_json(subpath)
         liste_entite=[]
         for cle, value in dico_entite.items():
             # print(value["label"])
-            if value["label"]=="LOC" or value["label"]=="GPE":
+            if value["label"]=="LOC" or value["label"]=="GPE" or value["label"]=="FAC":
                 # print(value["text"])
                 # i_replace = value["text"].replace(" ", "")
                 # print(i_replace)
@@ -102,17 +106,20 @@ for path in glob.glob(path_corpora):
         print(len(liste_entite))
         stocker(path_output, liste_entite)
 
-    for refpath in glob.glob("%s/*/*.json"%path):
-        print(refpath)
+    for refpath in glob.glob("%s/*REF/NER/*.json"%path):
+        print("REF------------>",refpath)
         mod = modeles(refpath)
         print(mod)
         path_output = sortie(refpath)
+        if "-liste-liste.json" in path_output:
+            print("Already DONE : ", path_output)
+            continue
         print("path_output", path_output)
         dico_entite = lire_json(refpath)
         liste_entite = []
         for cle, value in dico_entite.items():
             # print(value["label"])
-            if value["label"] == "LOC" or value["label"] == "GPE":
+            if value["label"] == "LOC" or value["label"] == "GPE" or value["label"]=="FAC":
                 # print(value["text"])
                 # i_replace = value["text"].replace(" ", "")
                 # print(i_replace)
