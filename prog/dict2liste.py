@@ -39,13 +39,16 @@ def stocker(chemin, contenu):
 
     return chemin
 
-# # Ajouter .json à la place de .txt
-# # path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-eng_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
-# path_corpora = "../DATA_TGB-2023_spaCy3.5.1_Distance/*/*OCR/*/SIM/*.txt"
+# Ajouter .json à la place de .txt
+# path_corpora = "../DATA_ELTeC_spaCy3.5.1_Distances/DATA_ELTeC-eng_spaCy3.5.1/*/*OCR/*/SIM/*.txt"
+# path_corpora = "../CORRECTION_DISTANCES/*/*/*OCR/*/SIM/*.txt"
 # for path in glob.glob(path_corpora):
 #     print(path)
 #     add_json=path.split(".txt")[0]+".json"
 #     print(add_json)
+#     if os.path.exists(add_json) == True:
+#         print("Already DONE : ", add_json)
+#         continue
 #     os.rename(path, add_json)
 
 # # # Compter le nombre de sorties par dossier pour détecter les fichiers manquants
@@ -78,9 +81,9 @@ def stocker(chemin, contenu):
 # Dict2list concaténation
 # path_corpora = "../DATA_ELTeC-fra/DAUDET/*/DAUDET_petit-chose_PP_multiNER_4tools-intersection2_annot.json"
 # path_corpora = "../DATA_test_09072024/ADAM_Mon-village/*"
-path_corpora = "../ARCHEO_Correction/small-*/*/*"
+path_corpora = "../DATA/*/"
 # modeles = ["camenBert_ner", "sm", "lg","flair"]
-# dico_entite = {}
+dico_entite = {}
 
 for path in glob.glob(path_corpora):
     print("_____________",path)
