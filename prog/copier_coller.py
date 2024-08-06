@@ -4,11 +4,12 @@ import shutil
 import os
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../ARCHEO_Distances/small-*/*/*/*OCR/*"
+path_input="../small-ELTeC-fra_REN/*/*OCR/*/SIM"
 
 
 for path in glob.glob(path_input):
-    # print(path)
+    print(path)
+    shutil.rmtree(path)
     # if "spacy" not in path:
     #     print(path)
         # os.remove(path)
@@ -22,9 +23,9 @@ for path in glob.glob(path_input):
         # path_rename = "_".join(path_rename[:3])
 
 
-    if "-jspll-" in path or "-jspl-" in path:
-        print(path)
-        shutil.rmtree(path)
+    # if "-jspll-" in path or "-jspl-" in path:
+    #     print(path)
+    #     shutil.rmtree(path)
 
     # path_rename= "/".join(path.split("/")[:4])+"/"+path.split("/")[3]+"_REF"
     # print(path_rename)
