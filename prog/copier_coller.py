@@ -5,11 +5,11 @@ import os
 import re
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../small-*/*/*OCR/*"
+path_input="../small-TGB-RevueTAL_REN/*/*OCR/*"
 
 
 for path in glob.glob(path_input):
-    print(path)
+    # print(path)
     # if "tesseract" in path:
     #     path_rename=re.sub("tesseract","tesseract0.3.10", path)
     #     print("version : ", path_rename)
@@ -18,6 +18,7 @@ for path in glob.glob(path_input):
     #     path_renamek=re.sub("kraken","kraken4.3.13.dev25", path)
     #     print("version : ", path_renamek)
     #     os.rename(path, path_renamek)
+
     # if ".txt.json" in path:
         # os.remove(path)
     # if "spacy" not in path:
