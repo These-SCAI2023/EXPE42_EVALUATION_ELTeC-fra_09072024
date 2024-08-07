@@ -1,5 +1,5 @@
 import re
-
+import json
 def lire_fichier (chemin):
     with open(chemin) as json_data:
         texte =json.load(json_data)
