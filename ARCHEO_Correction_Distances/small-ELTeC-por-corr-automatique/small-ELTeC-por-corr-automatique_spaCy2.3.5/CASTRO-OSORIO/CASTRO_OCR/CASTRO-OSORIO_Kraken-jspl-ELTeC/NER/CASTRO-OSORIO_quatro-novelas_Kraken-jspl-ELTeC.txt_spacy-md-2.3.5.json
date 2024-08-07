@@ -1,0 +1,11514 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "oso s",
+    "jalons": [
+      13,
+      18
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "1e",
+    "jalons": [
+      36,
+      38
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Arouca Amado",
+    "jalons": [
+      51,
+      63
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Oito",
+    "jalons": [
+      66,
+      70
+    ]
+  },
+  "entite_4": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      71,
+      78
+    ]
+  },
+  "entite_5": {
+    "label": "LOC",
+    "text": "G-FOI",
+    "jalons": [
+      89,
+      94
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "N01ELAS",
+    "jalons": [
+      107,
+      114
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "MA",
+    "jalons": [
+      115,
+      117
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "W0VEL8",
+    "jalons": [
+      175,
+      181
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      191,
+      192
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Il",
+    "jalons": [
+      194,
+      196
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      229,
+      230
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "I",
+    "jalons": [
+      285,
+      286
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      294,
+      296
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "H. I",
+    "jalons": [
+      318,
+      322
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "L=E3J",
+    "jalons": [
+      358,
+      363
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      385,
+      386
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "E--=",
+    "jalons": [
+      388,
+      392
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "IL",
+    "jalons": [
+      394,
+      396
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Il",
+    "jalons": [
+      409,
+      411
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      521,
+      522
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      523,
+      524
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "N O",
+    "jalons": [
+      528,
+      531
+    ]
+  },
+  "entite_23": {
+    "label": "ORG",
+    "text": "DI",
+    "jalons": [
+      534,
+      536
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      550,
+      551
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "VINHA",
+    "jalons": [
+      565,
+      570
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Us",
+    "jalons": [
+      571,
+      573
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Leis",
+    "jalons": [
+      963,
+      967
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      2644,
+      2651
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      3103,
+      3107
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      3432,
+      3436
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      4544,
+      4548
+    ]
+  },
+  "entite_32": {
+    "label": "MISC",
+    "text": "IE",
+    "jalons": [
+      4567,
+      4569
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      5487,
+      5491
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      5494,
+      5501
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      5819,
+      5826
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "XIII",
+    "jalons": [
+      5897,
+      5901
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "s6",
+    "jalons": [
+      5923,
+      5925
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Leis",
+    "jalons": [
+      5972,
+      5976
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "pessOas",
+    "jalons": [
+      6725,
+      6732
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "vam sopro",
+    "jalons": [
+      6775,
+      6784
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "elle",
+    "jalons": [
+      6789,
+      6793
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      6840,
+      6844
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Estrada",
+    "jalons": [
+      8136,
+      8143
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "banais--",
+    "jalons": [
+      8181,
+      8189
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      8264,
+      8270
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "em Portugal",
+    "jalons": [
+      8455,
+      8466
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      8688,
+      8695
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      9355,
+      9362
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "D. Engracia",
+    "jalons": [
+      10227,
+      10238
+    ]
+  },
+  "entite_50": {
+    "label": "ORG",
+    "text": "Rocio",
+    "jalons": [
+      10499,
+      10504
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "tavares Cardoso",
+    "jalons": [
+      10707,
+      10722
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "MArtinho",
+    "jalons": [
+      10753,
+      10761
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Elle",
+    "jalons": [
+      11123,
+      11127
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "E elle",
+    "jalons": [
+      11522,
+      11528
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      11629,
+      11636
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      11854,
+      11858
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      11957,
+      11964
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      12171,
+      12176
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      12191,
+      12196
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Inolvidavel",
+    "jalons": [
+      12323,
+      12334
+    ]
+  },
+  "entite_61": {
+    "label": "LOC",
+    "text": "Baixa",
+    "jalons": [
+      12493,
+      12498
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Tejo",
+    "jalons": [
+      12633,
+      12637
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "ILus",
+    "jalons": [
+      12747,
+      12751
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      13153,
+      13157
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Luiz nio",
+    "jalons": [
+      13817,
+      13825
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      13891,
+      13897
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      14416,
+      14420
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "FIlis",
+    "jalons": [
+      15096,
+      15101
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      15198,
+      15202
+    ]
+  },
+  "entite_70": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      15698,
+      15701
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      15896,
+      15903
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      16030,
+      16034
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "Devia-lhes",
+    "jalons": [
+      16220,
+      16230
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Dispensariam",
+    "jalons": [
+      16983,
+      16995
+    ]
+  },
+  "entite_75": {
+    "label": "ORG",
+    "text": "OI",
+    "jalons": [
+      17144,
+      17146
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      17600,
+      17604
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Leis",
+    "jalons": [
+      17779,
+      17783
+    ]
+  },
+  "entite_78": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      18362,
+      18366
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Iria",
+    "jalons": [
+      18593,
+      18597
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Imaginava",
+    "jalons": [
+      19373,
+      19382
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      21045,
+      21049
+    ]
+  },
+  "entite_82": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      21074,
+      21078
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Lis",
+    "jalons": [
+      21308,
+      21311
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Queira",
+    "jalons": [
+      21328,
+      21334
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "At6",
+    "jalons": [
+      21602,
+      21605
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "J nio",
+    "jalons": [
+      21919,
+      21924
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Lembrava-so",
+    "jalons": [
+      23314,
+      23325
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Lis",
+    "jalons": [
+      23752,
+      23755
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "Entrada",
+    "jalons": [
+      23933,
+      23940
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Presentimento-",
+    "jalons": [
+      24117,
+      24131
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      24308,
+      24312
+    ]
+  },
+  "entite_92": {
+    "label": "MISC",
+    "text": "dEpois",
+    "jalons": [
+      25024,
+      25030
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Antonio hortela",
+    "jalons": [
+      25209,
+      25224
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Apressou",
+    "jalons": [
+      25806,
+      25814
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      25886,
+      25893
+    ]
+  },
+  "entite_96": {
+    "label": "MISC",
+    "text": "MIHII1",
+    "jalons": [
+      26400,
+      26406
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "quE",
+    "jalons": [
+      26461,
+      26464
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Eduardo",
+    "jalons": [
+      26484,
+      26491
+    ]
+  },
+  "entite_99": {
+    "label": "MISC",
+    "text": "dOr",
+    "jalons": [
+      26874,
+      26877
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "in-Ihes",
+    "jalons": [
+      27521,
+      27528
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      28530,
+      28534
+    ]
+  },
+  "entite_102": {
+    "label": "PER",
+    "text": "Come",
+    "jalons": [
+      28777,
+      28781
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Iages",
+    "jalons": [
+      29172,
+      29177
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      29687,
+      29691
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Luiz",
+    "jalons": [
+      30563,
+      30567
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "E",
+    "jalons": [
+      31344,
+      31345
+    ]
+  },
+  "entite_107": {
+    "label": "LOC",
+    "text": "hnL.",
+    "jalons": [
+      31377,
+      31381
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Y-",
+    "jalons": [
+      31382,
+      31384
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "T",
+    "jalons": [
+      31406,
+      31407
+    ]
+  },
+  "entite_110": {
+    "label": "ORG",
+    "text": "FEITICEIRA",
+    "jalons": [
+      31430,
+      31440
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "In",
+    "jalons": [
+      31489,
+      31491
+    ]
+  },
+  "entite_112": {
+    "label": "MISC",
+    "text": "miM I",
+    "jalons": [
+      31507,
+      31512
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "L HEI.LIT",
+    "jalons": [
+      31561,
+      31570
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Manoel da Clara",
+    "jalons": [
+      31611,
+      31626
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "D. Joao",
+    "jalons": [
+      31782,
+      31789
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      32271,
+      32277
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      33054,
+      33060
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      33305,
+      33311
+    ]
+  },
+  "entite_119": {
+    "label": "LOC",
+    "text": "Infias",
+    "jalons": [
+      33511,
+      33517
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      33594,
+      33600
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      33709,
+      33715
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "romaria de Senhora",
+    "jalons": [
+      33750,
+      33768
+    ]
+  },
+  "entite_123": {
+    "label": "LOC",
+    "text": "Verdes",
+    "jalons": [
+      33773,
+      33779
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      33915,
+      33921
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "louvOres",
+    "jalons": [
+      33933,
+      33941
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "elle",
+    "jalons": [
+      33947,
+      33951
+    ]
+  },
+  "entite_127": {
+    "label": "ORG",
+    "text": "pan",
+    "jalons": [
+      34297,
+      34300
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      34520,
+      34526
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      34530,
+      34535
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Trepadeira",
+    "jalons": [
+      34678,
+      34688
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      34780,
+      34785
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Labuta",
+    "jalons": [
+      35005,
+      35011
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      35310,
+      35316
+    ]
+  },
+  "entite_134": {
+    "label": "MISC",
+    "text": "FITICIIA",
+    "jalons": [
+      35350,
+      35358
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Annel",
+    "jalons": [
+      35791,
+      35796
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Ello",
+    "jalons": [
+      35959,
+      35963
+    ]
+  },
+  "entite_137": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      36188,
+      36194
+    ]
+  },
+  "entite_138": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      36456,
+      36462
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "LICEN1",
+    "jalons": [
+      36499,
+      36505
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      36523,
+      36528
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "MAria Tereza",
+    "jalons": [
+      36593,
+      36605
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Torezinha",
+    "jalons": [
+      36610,
+      36619
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      38144,
+      38150
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Seres ricos",
+    "jalons": [
+      38679,
+      38690
+    ]
+  },
+  "entite_145": {
+    "label": "LOC",
+    "text": "Chinas",
+    "jalons": [
+      38711,
+      38717
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Conde",
+    "jalons": [
+      38761,
+      38766
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "III",
+    "jalons": [
+      38960,
+      38963
+    ]
+  },
+  "entite_148": {
+    "label": "MISC",
+    "text": "Terazinha",
+    "jalons": [
+      39173,
+      39182
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Condessa",
+    "jalons": [
+      39335,
+      39343
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Tarezinha",
+    "jalons": [
+      39730,
+      39739
+    ]
+  },
+  "entite_151": {
+    "label": "ORG",
+    "text": "TICA",
+    "jalons": [
+      40190,
+      40194
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "Vida do Padre",
+    "jalons": [
+      40208,
+      40221
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "amaciaSse",
+    "jalons": [
+      40629,
+      40638
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "MIas",
+    "jalons": [
+      40714,
+      40718
+    ]
+  },
+  "entite_155": {
+    "label": "MISC",
+    "text": "MAl",
+    "jalons": [
+      40759,
+      40762
+    ]
+  },
+  "entite_156": {
+    "label": "MISC",
+    "text": "Clara veiu",
+    "jalons": [
+      40766,
+      40776
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "Louvado seja Deus",
+    "jalons": [
+      40882,
+      40899
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "F do Padre i",
+    "jalons": [
+      40969,
+      40981
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "Znarolhn",
+    "jalons": [
+      40992,
+      41000
+    ]
+  },
+  "entite_160": {
+    "label": "MISC",
+    "text": "L.  ",
+    "jalons": [
+      41166,
+      41170
+    ]
+  },
+  "entite_161": {
+    "label": "MISC",
+    "text": "Ter-",
+    "jalons": [
+      41403,
+      41407
+    ]
+  },
+  "entite_162": {
+    "label": "MISC",
+    "text": "Cr6do",
+    "jalons": [
+      41417,
+      41422
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Jesus1 Mal",
+    "jalons": [
+      41438,
+      41448
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      41524,
+      41526
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      41535,
+      41544
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Senhora Zafa",
+    "jalons": [
+      41674,
+      41686
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Haveria",
+    "jalons": [
+      41801,
+      41808
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Ai en ei",
+    "jalons": [
+      41887,
+      41895
+    ]
+  },
+  "entite_169": {
+    "label": "MISC",
+    "text": "oi at",
+    "jalons": [
+      41945,
+      41950
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "ganhei",
+    "jalons": [
+      42026,
+      42032
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "elle",
+    "jalons": [
+      42034,
+      42038
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      42096,
+      42105
+    ]
+  },
+  "entite_173": {
+    "label": "ORG",
+    "text": "p'ra",
+    "jalons": [
+      42278,
+      42282
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      42332,
+      42336
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "ITIH1RA",
+    "jalons": [
+      42442,
+      42449
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Pois",
+    "jalons": [
+      42455,
+      42459
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Densg Ficou-me",
+    "jalons": [
+      42595,
+      42609
+    ]
+  },
+  "entite_178": {
+    "label": "MISC",
+    "text": "Coitadinlho To",
+    "jalons": [
+      42627,
+      42641
+    ]
+  },
+  "entite_179": {
+    "label": "MISC",
+    "text": "Ii",
+    "jalons": [
+      42700,
+      42702
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Nosso Senhor",
+    "jalons": [
+      42893,
+      42905
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Jo",
+    "jalons": [
+      42914,
+      42916
+    ]
+  },
+  "entite_182": {
+    "label": "MISC",
+    "text": "Coitadinlol Assim Dous",
+    "jalons": [
+      43259,
+      43281
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "At",
+    "jalons": [
+      43322,
+      43324
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Deus",
+    "jalons": [
+      43364,
+      43368
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      43450,
+      43454
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      43801,
+      43807
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      44013,
+      44017
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Terezinha",
+    "jalons": [
+      44185,
+      44194
+    ]
+  },
+  "entite_189": {
+    "label": "LOC",
+    "text": "Ello",
+    "jalons": [
+      44488,
+      44492
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      44644,
+      44648
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "MIas",
+    "jalons": [
+      44678,
+      44682
+    ]
+  },
+  "entite_192": {
+    "label": "MISC",
+    "text": "Toreza- nao6",
+    "jalons": [
+      44846,
+      44858
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "Mal da Clara do Rezadeira",
+    "jalons": [
+      45221,
+      45246
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Zafa",
+    "jalons": [
+      45413,
+      45417
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      45516,
+      45521
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Prospero Aquilo sempre f0ram",
+    "jalons": [
+      45525,
+      45553
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "At6",
+    "jalons": [
+      45566,
+      45569
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Jesus",
+    "jalons": [
+      45634,
+      45639
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "Deus",
+    "jalons": [
+      45772,
+      45776
+    ]
+  },
+  "entite_200": {
+    "label": "MISC",
+    "text": "O que foi entro",
+    "jalons": [
+      45812,
+      45827
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Aquelle grande diacho",
+    "jalons": [
+      45847,
+      45868
+    ]
+  },
+  "entite_202": {
+    "label": "MISC",
+    "text": "Entao",
+    "jalons": [
+      45885,
+      45890
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Bom",
+    "jalons": [
+      46019,
+      46022
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Posso",
+    "jalons": [
+      46100,
+      46105
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      46130,
+      46135
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Prosporo",
+    "jalons": [
+      46139,
+      46147
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "MAl",
+    "jalons": [
+      46163,
+      46166
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Terezinha",
+    "jalons": [
+      46348,
+      46357
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Desculpe",
+    "jalons": [
+      46378,
+      46386
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Fa",
+    "jalons": [
+      46397,
+      46399
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "E",
+    "jalons": [
+      46471,
+      46472
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "A Terexzinha",
+    "jalons": [
+      46790,
+      46802
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      47027,
+      47032
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "S. Joao",
+    "jalons": [
+      47231,
+      47238
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Muito obrigada",
+    "jalons": [
+      47337,
+      47351
+    ]
+  },
+  "entite_216": {
+    "label": "LOC",
+    "text": "Terezinha",
+    "jalons": [
+      47548,
+      47557
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Ima",
+    "jalons": [
+      47871,
+      47874
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Senhora do Castelo",
+    "jalons": [
+      48062,
+      48080
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "MAria do Prospere",
+    "jalons": [
+      48160,
+      48177
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      48367,
+      48373
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      48574,
+      48580
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      48649,
+      48654
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "A. boca",
+    "jalons": [
+      48784,
+      48791
+    ]
+  },
+  "entite_224": {
+    "label": "PER",
+    "text": "esva",
+    "jalons": [
+      48939,
+      48943
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "baliio",
+    "jalons": [
+      48966,
+      48972
+    ]
+  },
+  "entite_226": {
+    "label": "ORG",
+    "text": "FEITICEIRA",
+    "jalons": [
+      49120,
+      49130
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      49321,
+      49326
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Pros-",
+    "jalons": [
+      50343,
+      50348
+    ]
+  },
+  "entite_229": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      50573,
+      50579
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Terezinha",
+    "jalons": [
+      50727,
+      50736
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "Onotono",
+    "jalons": [
+      50788,
+      50795
+    ]
+  },
+  "entite_232": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      50862,
+      50867
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Alegre",
+    "jalons": [
+      51023,
+      51029
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Prospera",
+    "jalons": [
+      51165,
+      51173
+    ]
+  },
+  "entite_235": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      51199,
+      51205
+    ]
+  },
+  "entite_236": {
+    "label": "MISC",
+    "text": "lIgar",
+    "jalons": [
+      51409,
+      51414
+    ]
+  },
+  "entite_237": {
+    "label": "MISC",
+    "text": "Eh 1i",
+    "jalons": [
+      51734,
+      51739
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      51741,
+      51746
+    ]
+  },
+  "entite_239": {
+    "label": "PER",
+    "text": "Talhados",
+    "jalons": [
+      51853,
+      51861
+    ]
+  },
+  "entite_240": {
+    "label": "MISC",
+    "text": "A Zafa do Patde",
+    "jalons": [
+      51920,
+      51935
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "Menino",
+    "jalons": [
+      51985,
+      51991
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      52050,
+      52055
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      52189,
+      52194
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Torezinha",
+    "jalons": [
+      52274,
+      52283
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Podia",
+    "jalons": [
+      52639,
+      52644
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Ii",
+    "jalons": [
+      52696,
+      52698
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      52785,
+      52790
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      52824,
+      52830
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      52876,
+      52881
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Gertrudes Rolhas",
+    "jalons": [
+      53016,
+      53032
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "FEITICEIRA",
+    "jalons": [
+      53572,
+      53582
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Manoel da Clara",
+    "jalons": [
+      53605,
+      53620
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      54155,
+      54161
+    ]
+  },
+  "entite_254": {
+    "label": "MISC",
+    "text": "Goitoso",
+    "jalons": [
+      54242,
+      54249
+    ]
+  },
+  "entite_255": {
+    "label": "MISC",
+    "text": "Noite do Inferno",
+    "jalons": [
+      54344,
+      54360
+    ]
+  },
+  "entite_256": {
+    "label": "MISC",
+    "text": "Lado",
+    "jalons": [
+      54479,
+      54483
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Ello",
+    "jalons": [
+      54489,
+      54493
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Col Abrenuncio",
+    "jalons": [
+      54578,
+      54592
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      54615,
+      54621
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      54803,
+      54808
+    ]
+  },
+  "entite_261": {
+    "label": "PER",
+    "text": "Prspero",
+    "jalons": [
+      54812,
+      54819
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Carneiros,-",
+    "jalons": [
+      54894,
+      54905
+    ]
+  },
+  "entite_263": {
+    "label": "MISC",
+    "text": "MInitas",
+    "jalons": [
+      55206,
+      55213
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "S",
+    "jalons": [
+      55331,
+      55332
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Manoel ja nio",
+    "jalons": [
+      55464,
+      55477
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Comboio",
+    "jalons": [
+      55521,
+      55528
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "IImn",
+    "jalons": [
+      55682,
+      55686
+    ]
+  },
+  "entite_268": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      55804,
+      55810
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "Inferno",
+    "jalons": [
+      55976,
+      55983
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      56306,
+      56312
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Jesus",
+    "jalons": [
+      56712,
+      56717
+    ]
+  },
+  "entite_272": {
+    "label": "LOC",
+    "text": "Olharapos",
+    "jalons": [
+      56740,
+      56749
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Ate",
+    "jalons": [
+      57088,
+      57091
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Surrateiramente",
+    "jalons": [
+      57200,
+      57215
+    ]
+  },
+  "entite_275": {
+    "label": "ORG",
+    "text": "Diabo",
+    "jalons": [
+      57424,
+      57429
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "Manoel nio poude",
+    "jalons": [
+      57598,
+      57614
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "EXISTIR",
+    "jalons": [
+      58178,
+      58185
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Deus do ceo",
+    "jalons": [
+      58301,
+      58312
+    ]
+  },
+  "entite_279": {
+    "label": "MISC",
+    "text": "Intensa",
+    "jalons": [
+      58609,
+      58616
+    ]
+  },
+  "entite_280": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      58768,
+      58774
+    ]
+  },
+  "entite_281": {
+    "label": "ORG",
+    "text": "Diabo",
+    "jalons": [
+      58882,
+      58887
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      59000,
+      59005
+    ]
+  },
+  "entite_283": {
+    "label": "MISC",
+    "text": "In",
+    "jalons": [
+      59288,
+      59290
+    ]
+  },
+  "entite_284": {
+    "label": "MISC",
+    "text": "INTUI",
+    "jalons": [
+      59368,
+      59373
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      59529,
+      59538
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Z4fa",
+    "jalons": [
+      59577,
+      59581
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Padre",
+    "jalons": [
+      59585,
+      59590
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Marques",
+    "jalons": [
+      59705,
+      59712
+    ]
+  },
+  "entite_289": {
+    "label": "LOC",
+    "text": "Admiro-se:-",
+    "jalons": [
+      59874,
+      59885
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      59976,
+      59985
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      60258,
+      60267
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      60288,
+      60294
+    ]
+  },
+  "entite_293": {
+    "label": "MISC",
+    "text": "INTEIRA1",
+    "jalons": [
+      60483,
+      60491
+    ]
+  },
+  "entite_294": {
+    "label": "MISC",
+    "text": "Ai",
+    "jalons": [
+      60497,
+      60499
+    ]
+  },
+  "entite_295": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      60501,
+      60507
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "sEnhor",
+    "jalons": [
+      60541,
+      60547
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "ELle",
+    "jalons": [
+      60600,
+      60604
+    ]
+  },
+  "entite_298": {
+    "label": "MISC",
+    "text": "O Senhor",
+    "jalons": [
+      60840,
+      60848
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "S6",
+    "jalons": [
+      61042,
+      61044
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Corro",
+    "jalons": [
+      61177,
+      61182
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      61481,
+      61487
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Gertrudes Rolhas,-",
+    "jalons": [
+      61813,
+      61831
+    ]
+  },
+  "entite_303": {
+    "label": "PER",
+    "text": "cOmo",
+    "jalons": [
+      61840,
+      61844
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "cOisas",
+    "jalons": [
+      62322,
+      62328
+    ]
+  },
+  "entite_305": {
+    "label": "MISC",
+    "text": "FEITICEIRA1",
+    "jalons": [
+      62801,
+      62812
+    ]
+  },
+  "entite_306": {
+    "label": "MISC",
+    "text": "Maria.-",
+    "jalons": [
+      62947,
+      62954
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      62985,
+      62994
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      63155,
+      63161
+    ]
+  },
+  "entite_309": {
+    "label": "ORG",
+    "text": "Rodilha",
+    "jalons": [
+      63182,
+      63189
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      63439,
+      63440
+    ]
+  },
+  "entite_311": {
+    "label": "LOC",
+    "text": "IITICH1A",
+    "jalons": [
+      63914,
+      63922
+    ]
+  },
+  "entite_312": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      64007,
+      64013
+    ]
+  },
+  "entite_313": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      64364,
+      64366
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      64643,
+      64645
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Piscoa",
+    "jalons": [
+      64817,
+      64823
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "B6as",
+    "jalons": [
+      64846,
+      64850
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Levaram-o",
+    "jalons": [
+      65072,
+      65081
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Clara",
+    "jalons": [
+      65146,
+      65151
+    ]
+  },
+  "entite_319": {
+    "label": "MISC",
+    "text": "Rezadeira,-",
+    "jalons": [
+      65155,
+      65166
+    ]
+  },
+  "entite_320": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      65201,
+      65207
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "Ii",
+    "jalons": [
+      65587,
+      65589
+    ]
+  },
+  "entite_322": {
+    "label": "PER",
+    "text": "Maria do Prospero",
+    "jalons": [
+      65962,
+      65979
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "tia Clara",
+    "jalons": [
+      66035,
+      66044
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      66198,
+      66204
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Gertrudes Zarolhae",
+    "jalons": [
+      66377,
+      66395
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "O0 Moral",
+    "jalons": [
+      66521,
+      66529
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Fonte do Inferno",
+    "jalons": [
+      66617,
+      66633
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      66768,
+      66777
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Ponta do Ferido",
+    "jalons": [
+      66870,
+      66885
+    ]
+  },
+  "entite_330": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      66892,
+      66898
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Prospero",
+    "jalons": [
+      66970,
+      66978
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      67093,
+      67099
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Senhora Gertrudes",
+    "jalons": [
+      67125,
+      67142
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Querer",
+    "jalons": [
+      67173,
+      67179
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      67495,
+      67500
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Prospero",
+    "jalons": [
+      67504,
+      67512
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      67552,
+      67558
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      67896,
+      67901
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      68013,
+      68022
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      68116,
+      68121
+    ]
+  },
+  "entite_341": {
+    "label": "ORG",
+    "text": "rapariga--",
+    "jalons": [
+      68239,
+      68249
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "tao",
+    "jalons": [
+      68250,
+      68253
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      68335,
+      68339
+    ]
+  },
+  "entite_344": {
+    "label": "MISC",
+    "text": "Clara do Rezadeira",
+    "jalons": [
+      68343,
+      68361
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Terezinha",
+    "jalons": [
+      68614,
+      68623
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Gertrudes",
+    "jalons": [
+      68731,
+      68740
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "cadeira2",
+    "jalons": [
+      68979,
+      68987
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "Prospero velho",
+    "jalons": [
+      69196,
+      69210
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Gue",
+    "jalons": [
+      69278,
+      69281
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      69375,
+      69380
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      69399,
+      69408
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "vOzes",
+    "jalons": [
+      69438,
+      69443
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "HABITA",
+    "jalons": [
+      69572,
+      69578
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      69909,
+      69918
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Therezinha",
+    "jalons": [
+      69955,
+      69965
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "CoN",
+    "jalons": [
+      69990,
+      69993
+    ]
+  },
+  "entite_357": {
+    "label": "MISC",
+    "text": "O0 MAnoel",
+    "jalons": [
+      70154,
+      70163
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      70744,
+      70749
+    ]
+  },
+  "entite_359": {
+    "label": "MISC",
+    "text": "ITICRIRA",
+    "jalons": [
+      70764,
+      70772
+    ]
+  },
+  "entite_360": {
+    "label": "ORG",
+    "text": "Coitada-",
+    "jalons": [
+      70937,
+      70945
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Emquanto",
+    "jalons": [
+      70972,
+      70980
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Senhora do Castelo",
+    "jalons": [
+      71033,
+      71051
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      71056,
+      71062
+    ]
+  },
+  "entite_364": {
+    "label": "MISC",
+    "text": "Maria da Prospero",
+    "jalons": [
+      71424,
+      71441
+    ]
+  },
+  "entite_365": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      72202,
+      72211
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      72743,
+      72748
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      72872,
+      72877
+    ]
+  },
+  "entite_368": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      72946,
+      72952
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Clara do Reza-",
+    "jalons": [
+      73216,
+      73230
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Manoel cam",
+    "jalons": [
+      73404,
+      73414
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "Terezinha da Mesa",
+    "jalons": [
+      73417,
+      73434
+    ]
+  },
+  "entite_372": {
+    "label": "LOC",
+    "text": "Padre",
+    "jalons": [
+      73438,
+      73443
+    ]
+  },
+  "entite_373": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      73751,
+      73757
+    ]
+  },
+  "entite_374": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      73921,
+      73930
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      73944,
+      73950
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "MAria do Pr6s-",
+    "jalons": [
+      74013,
+      74027
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Gertrudes Rolhas",
+    "jalons": [
+      74123,
+      74139
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      74190,
+      74196
+    ]
+  },
+  "entite_379": {
+    "label": "LOC",
+    "text": "Granito",
+    "jalons": [
+      74300,
+      74307
+    ]
+  },
+  "entite_380": {
+    "label": "MISC",
+    "text": "lIaria",
+    "jalons": [
+      74311,
+      74317
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      74507,
+      74513
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      74960,
+      74966
+    ]
+  },
+  "entite_383": {
+    "label": "LOC",
+    "text": "Maloitas",
+    "jalons": [
+      75730,
+      75738
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "Emquanto",
+    "jalons": [
+      76009,
+      76017
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Terazinha",
+    "jalons": [
+      76115,
+      76124
+    ]
+  },
+  "entite_386": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      76129,
+      76135
+    ]
+  },
+  "entite_387": {
+    "label": "MISC",
+    "text": "Clara",
+    "jalons": [
+      76139,
+      76144
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      76280,
+      76285
+    ]
+  },
+  "entite_389": {
+    "label": "MISC",
+    "text": "A1 INICIA",
+    "jalons": [
+      76370,
+      76379
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "FL",
+    "jalons": [
+      77134,
+      77136
+    ]
+  },
+  "entite_391": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      77142,
+      77143
+    ]
+  },
+  "entite_392": {
+    "label": "LOC",
+    "text": "P",
+    "jalons": [
+      77230,
+      77231
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "R",
+    "jalons": [
+      77233,
+      77234
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "S",
+    "jalons": [
+      77240,
+      77241
+    ]
+  },
+  "entite_395": {
+    "label": "MISC",
+    "text": "CRIEI1",
+    "jalons": [
+      77256,
+      77262
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "DIario",
+    "jalons": [
+      77357,
+      77363
+    ]
+  },
+  "entite_397": {
+    "label": "MISC",
+    "text": "Il :",
+    "jalons": [
+      77373,
+      77377
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      77463,
+      77468
+    ]
+  },
+  "entite_399": {
+    "label": "MISC",
+    "text": "PedIU DIA TICA",
+    "jalons": [
+      77897,
+      77911
+    ]
+  },
+  "entite_400": {
+    "label": "MISC",
+    "text": "Fi",
+    "jalons": [
+      77912,
+      77914
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      77981,
+      77986
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      78328,
+      78333
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      78621,
+      78626
+    ]
+  },
+  "entite_404": {
+    "label": "MISC",
+    "text": "Diario",
+    "jalons": [
+      78759,
+      78765
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      78864,
+      78869
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      78963,
+      78968
+    ]
+  },
+  "entite_407": {
+    "label": "ORG",
+    "text": "A0 L3O II1",
+    "jalons": [
+      79045,
+      79055
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "MIss",
+    "jalons": [
+      79784,
+      79788
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      79994,
+      80000
+    ]
+  },
+  "entite_410": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      80120,
+      80126
+    ]
+  },
+  "entite_411": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      80128,
+      80131
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "ma multid",
+    "jalons": [
+      80422,
+      80431
+    ]
+  },
+  "entite_413": {
+    "label": "LOC",
+    "text": "cam-",
+    "jalons": [
+      80604,
+      80608
+    ]
+  },
+  "entite_414": {
+    "label": "ORG",
+    "text": "fa",
+    "jalons": [
+      80613,
+      80615
+    ]
+  },
+  "entite_415": {
+    "label": "MISC",
+    "text": "om arvore",
+    "jalons": [
+      80709,
+      80718
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "conhecossemos eomo",
+    "jalons": [
+      80728,
+      80746
+    ]
+  },
+  "entite_417": {
+    "label": "MISC",
+    "text": "v",
+    "jalons": [
+      80879,
+      80880
+    ]
+  },
+  "entite_418": {
+    "label": "MISC",
+    "text": "fatigante trahalho de nora",
+    "jalons": [
+      80978,
+      81004
+    ]
+  },
+  "entite_419": {
+    "label": "MISC",
+    "text": "aO I CIO",
+    "jalons": [
+      81188,
+      81196
+    ]
+  },
+  "entite_420": {
+    "label": "MISC",
+    "text": "Cr u mole",
+    "jalons": [
+      81459,
+      81468
+    ]
+  },
+  "entite_421": {
+    "label": "MISC",
+    "text": "Ralhavamos com os Homens",
+    "jalons": [
+      82007,
+      82031
+    ]
+  },
+  "entite_422": {
+    "label": "ORG",
+    "text": "DO3 CRIAN",
+    "jalons": [
+      82351,
+      82360
+    ]
+  },
+  "entite_423": {
+    "label": "MISC",
+    "text": "Meu Dons",
+    "jalons": [
+      83401,
+      83409
+    ]
+  },
+  "entite_424": {
+    "label": "MISC",
+    "text": "Chica",
+    "jalons": [
+      83432,
+      83437
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "DAR LI IAYA",
+    "jalons": [
+      83480,
+      83491
+    ]
+  },
+  "entite_426": {
+    "label": "LOC",
+    "text": "d6res",
+    "jalons": [
+      83654,
+      83659
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Emquanto",
+    "jalons": [
+      83742,
+      83750
+    ]
+  },
+  "entite_428": {
+    "label": "LOC",
+    "text": "Rosita",
+    "jalons": [
+      84133,
+      84139
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "MAricas",
+    "jalons": [
+      84143,
+      84150
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Anninhas",
+    "jalons": [
+      84156,
+      84164
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "A RIA",
+    "jalons": [
+      84672,
+      84677
+    ]
+  },
+  "entite_432": {
+    "label": "PER",
+    "text": "Imaginaram-",
+    "jalons": [
+      84678,
+      84689
+    ]
+  },
+  "entite_433": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      84740,
+      84746
+    ]
+  },
+  "entite_434": {
+    "label": "LOC",
+    "text": "Obrigatorias",
+    "jalons": [
+      85843,
+      85855
+    ]
+  },
+  "entite_435": {
+    "label": "ORG",
+    "text": "CIA",
+    "jalons": [
+      85874,
+      85877
+    ]
+  },
+  "entite_436": {
+    "label": "MISC",
+    "text": "vIDA DE IA",
+    "jalons": [
+      87084,
+      87094
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "maria Augusta ten-",
+    "jalons": [
+      87830,
+      87848
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "UMa",
+    "jalons": [
+      88130,
+      88133
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "MAria",
+    "jalons": [
+      88458,
+      88463
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Augusta",
+    "jalons": [
+      88464,
+      88471
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Maria Augusta",
+    "jalons": [
+      89043,
+      89056
+    ]
+  },
+  "entite_442": {
+    "label": "PER",
+    "text": "Cacilda",
+    "jalons": [
+      89350,
+      89357
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "Io0 D cAYC1",
+    "jalons": [
+      89411,
+      89422
+    ]
+  },
+  "entite_444": {
+    "label": "PER",
+    "text": "maria Augusta",
+    "jalons": [
+      89447,
+      89460
+    ]
+  },
+  "entite_445": {
+    "label": "PER",
+    "text": "Desprender",
+    "jalons": [
+      89594,
+      89604
+    ]
+  },
+  "entite_446": {
+    "label": "PER",
+    "text": "Cacilda",
+    "jalons": [
+      89607,
+      89614
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "Tigre",
+    "jalons": [
+      89872,
+      89877
+    ]
+  },
+  "entite_448": {
+    "label": "MISC",
+    "text": "Cacilda",
+    "jalons": [
+      90075,
+      90082
+    ]
+  },
+  "entite_449": {
+    "label": "LOC",
+    "text": "Tigre",
+    "jalons": [
+      90219,
+      90224
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Ze",
+    "jalons": [
+      90522,
+      90524
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "Cacilda",
+    "jalons": [
+      90603,
+      90610
+    ]
+  },
+  "entite_452": {
+    "label": "MISC",
+    "text": "Eu nho sou menina",
+    "jalons": [
+      90857,
+      90874
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "Se a ami",
+    "jalons": [
+      90929,
+      90937
+    ]
+  },
+  "entite_454": {
+    "label": "PER",
+    "text": "No",
+    "jalons": [
+      90953,
+      90955
+    ]
+  },
+  "entite_455": {
+    "label": "LOC",
+    "text": "Cacilda",
+    "jalons": [
+      91007,
+      91014
+    ]
+  },
+  "entite_456": {
+    "label": "MISC",
+    "text": "MAs",
+    "jalons": [
+      91305,
+      91308
+    ]
+  },
+  "entite_457": {
+    "label": "MISC",
+    "text": "I1 I IA",
+    "jalons": [
+      91570,
+      91577
+    ]
+  },
+  "entite_458": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      91644,
+      91647
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "Cacilda",
+    "jalons": [
+      91787,
+      91794
+    ]
+  },
+  "entite_460": {
+    "label": "MISC",
+    "text": "D cIMA",
+    "jalons": [
+      92707,
+      92713
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "POis",
+    "jalons": [
+      93395,
+      93399
+    ]
+  },
+  "entite_462": {
+    "label": "MISC",
+    "text": "MEn",
+    "jalons": [
+      93616,
+      93619
+    ]
+  },
+  "entite_463": {
+    "label": "MISC",
+    "text": "Cinzas",
+    "jalons": [
+      93734,
+      93740
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Teresita do Loureiro",
+    "jalons": [
+      93755,
+      93775
+    ]
+  },
+  "entite_465": {
+    "label": "MISC",
+    "text": "It0 D1",
+    "jalons": [
+      93814,
+      93820
+    ]
+  },
+  "entite_466": {
+    "label": "MISC",
+    "text": "MAl",
+    "jalons": [
+      94049,
+      94052
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "Parece-mo",
+    "jalons": [
+      94143,
+      94152
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      94404,
+      94410
+    ]
+  },
+  "entite_469": {
+    "label": "ORG",
+    "text": "CIA",
+    "jalons": [
+      94991,
+      94994
+    ]
+  },
+  "entite_470": {
+    "label": "MISC",
+    "text": "En",
+    "jalons": [
+      95078,
+      95080
+    ]
+  },
+  "entite_471": {
+    "label": "MISC",
+    "text": "Cacilda",
+    "jalons": [
+      95380,
+      95387
+    ]
+  },
+  "entite_472": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      95767,
+      95773
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      96094,
+      96095
+    ]
+  },
+  "entite_474": {
+    "label": "ORG",
+    "text": "DO n CINCO",
+    "jalons": [
+      96180,
+      96190
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Tonito",
+    "jalons": [
+      96510,
+      96516
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "So",
+    "jalons": [
+      96603,
+      96605
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Serra",
+    "jalons": [
+      96881,
+      96886
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "eStrella",
+    "jalons": [
+      96890,
+      96898
+    ]
+  },
+  "entite_479": {
+    "label": "ORG",
+    "text": "DO  ",
+    "jalons": [
+      97383,
+      97387
+    ]
+  },
+  "entite_480": {
+    "label": "ORG",
+    "text": "cCIAI",
+    "jalons": [
+      97387,
+      97392
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "Peniche",
+    "jalons": [
+      97529,
+      97536
+    ]
+  },
+  "entite_482": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      97727,
+      97733
+    ]
+  },
+  "entite_483": {
+    "label": "MISC",
+    "text": "At4",
+    "jalons": [
+      98356,
+      98359
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "DIArIO DIA CnICA",
+    "jalons": [
+      98610,
+      98626
+    ]
+  },
+  "entite_485": {
+    "label": "PER",
+    "text": "Qne",
+    "jalons": [
+      98825,
+      98828
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Eva",
+    "jalons": [
+      99119,
+      99122
+    ]
+  },
+  "entite_487": {
+    "label": "MISC",
+    "text": "hOje",
+    "jalons": [
+      99571,
+      99575
+    ]
+  },
+  "entite_488": {
+    "label": "MISC",
+    "text": "nCIA L CRIAN",
+    "jalons": [
+      99745,
+      99757
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      99768,
+      99774
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Africa",
+    "jalons": [
+      99955,
+      99961
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Narinas",
+    "jalons": [
+      100044,
+      100051
+    ]
+  },
+  "entite_492": {
+    "label": "ORG",
+    "text": "S6d",
+    "jalons": [
+      100096,
+      100099
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "LishOs",
+    "jalons": [
+      100279,
+      100285
+    ]
+  },
+  "entite_494": {
+    "label": "PER",
+    "text": "Pap",
+    "jalons": [
+      100858,
+      100861
+    ]
+  },
+  "entite_495": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      101058,
+      101060
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Barba Azul",
+    "jalons": [
+      101143,
+      101153
+    ]
+  },
+  "entite_497": {
+    "label": "PER",
+    "text": "Avan",
+    "jalons": [
+      101770,
+      101774
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Miguelsinho",
+    "jalons": [
+      102095,
+      102106
+    ]
+  },
+  "entite_499": {
+    "label": "ORG",
+    "text": "L PRINC",
+    "jalons": [
+      102118,
+      102125
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Abracava",
+    "jalons": [
+      102477,
+      102485
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Atraz delle",
+    "jalons": [
+      102972,
+      102983
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "F6ra",
+    "jalons": [
+      103157,
+      103161
+    ]
+  },
+  "entite_503": {
+    "label": "MISC",
+    "text": "DIARIO L",
+    "jalons": [
+      103310,
+      103318
+    ]
+  },
+  "entite_504": {
+    "label": "PER",
+    "text": "poude",
+    "jalons": [
+      103853,
+      103858
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "poaio",
+    "jalons": [
+      104022,
+      104027
+    ]
+  },
+  "entite_506": {
+    "label": "PER",
+    "text": "nio",
+    "jalons": [
+      104105,
+      104108
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "us",
+    "jalons": [
+      104132,
+      104134
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "deserto de cara branca",
+    "jalons": [
+      104194,
+      104216
+    ]
+  },
+  "entite_509": {
+    "label": "ORG",
+    "text": "nes",
+    "jalons": [
+      104416,
+      104419
+    ]
+  },
+  "entite_510": {
+    "label": "MISC",
+    "text": "L IR",
+    "jalons": [
+      104461,
+      104465
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Mos",
+    "jalons": [
+      104682,
+      104685
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "Havana",
+    "jalons": [
+      105177,
+      105183
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Ielro Cem",
+    "jalons": [
+      105237,
+      105246
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Espanha",
+    "jalons": [
+      105354,
+      105361
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Colombo",
+    "jalons": [
+      105408,
+      105415
+    ]
+  },
+  "entite_516": {
+    "label": "MISC",
+    "text": "CIA1NA",
+    "jalons": [
+      105566,
+      105572
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Madrid",
+    "jalons": [
+      105741,
+      105747
+    ]
+  },
+  "entite_518": {
+    "label": "MISC",
+    "text": "inteiro2",
+    "jalons": [
+      105960,
+      105968
+    ]
+  },
+  "entite_519": {
+    "label": "MISC",
+    "text": "Apreendi",
+    "jalons": [
+      105970,
+      105978
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Inglaterra",
+    "jalons": [
+      106268,
+      106278
+    ]
+  },
+  "entite_521": {
+    "label": "MISC",
+    "text": "Ame-",
+    "jalons": [
+      106482,
+      106486
+    ]
+  },
+  "entite_522": {
+    "label": "MISC",
+    "text": "Estudos-uNidos",
+    "jalons": [
+      106530,
+      106544
+    ]
+  },
+  "entite_523": {
+    "label": "MISC",
+    "text": "Oh",
+    "jalons": [
+      106548,
+      106550
+    ]
+  },
+  "entite_524": {
+    "label": "MISC",
+    "text": "America",
+    "jalons": [
+      106560,
+      106567
+    ]
+  },
+  "entite_525": {
+    "label": "MISC",
+    "text": "Do0 lE C",
+    "jalons": [
+      106675,
+      106683
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Amirricana",
+    "jalons": [
+      106759,
+      106769
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Lurripa",
+    "jalons": [
+      106787,
+      106794
+    ]
+  },
+  "entite_528": {
+    "label": "LOC",
+    "text": "Portuguesa",
+    "jalons": [
+      106819,
+      106829
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "iGual",
+    "jalons": [
+      106849,
+      106854
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "America",
+    "jalons": [
+      106898,
+      106905
+    ]
+  },
+  "entite_531": {
+    "label": "PER",
+    "text": "DIArIO",
+    "jalons": [
+      107835,
+      107841
+    ]
+  },
+  "entite_532": {
+    "label": "MISC",
+    "text": "CHIY1",
+    "jalons": [
+      107844,
+      107849
+    ]
+  },
+  "entite_533": {
+    "label": "MISC",
+    "text": "Padre Z6",
+    "jalons": [
+      107884,
+      107892
+    ]
+  },
+  "entite_534": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      108160,
+      108163
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Inaar-nos",
+    "jalons": [
+      108265,
+      108274
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "MEnina",
+    "jalons": [
+      108927,
+      108933
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Nao",
+    "jalons": [
+      108952,
+      108955
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "LA CINCO",
+    "jalons": [
+      108986,
+      108994
+    ]
+  },
+  "entite_539": {
+    "label": "LOC",
+    "text": "Nao",
+    "jalons": [
+      109249,
+      109252
+    ]
+  },
+  "entite_540": {
+    "label": "MISC",
+    "text": "Oh",
+    "jalons": [
+      109257,
+      109259
+    ]
+  },
+  "entite_541": {
+    "label": "LOC",
+    "text": "Ohl",
+    "jalons": [
+      109286,
+      109289
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Aquellas",
+    "jalons": [
+      109303,
+      109311
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "America",
+    "jalons": [
+      109327,
+      109334
+    ]
+  },
+  "entite_544": {
+    "label": "MISC",
+    "text": "O)hI",
+    "jalons": [
+      109393,
+      109397
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Padre Jos",
+    "jalons": [
+      109764,
+      109773
+    ]
+  },
+  "entite_546": {
+    "label": "MISC",
+    "text": "Oh",
+    "jalons": [
+      109856,
+      109858
+    ]
+  },
+  "entite_547": {
+    "label": "MISC",
+    "text": "En",
+    "jalons": [
+      110031,
+      110033
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      110340,
+      110346
+    ]
+  },
+  "entite_549": {
+    "label": "ORG",
+    "text": "Miguelsinho",
+    "jalons": [
+      110572,
+      110583
+    ]
+  },
+  "entite_550": {
+    "label": "MISC",
+    "text": "Ci",
+    "jalons": [
+      110825,
+      110827
+    ]
+  },
+  "entite_551": {
+    "label": "MISC",
+    "text": "DA cI",
+    "jalons": [
+      110976,
+      110981
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Sueumbi",
+    "jalons": [
+      110986,
+      110993
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      110995,
+      110996
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "Cacilda",
+    "jalons": [
+      111062,
+      111069
+    ]
+  },
+  "entite_555": {
+    "label": "ORG",
+    "text": "Iuvcjara",
+    "jalons": [
+      111934,
+      111942
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Devaneando",
+    "jalons": [
+      112111,
+      112121
+    ]
+  },
+  "entite_557": {
+    "label": "ORG",
+    "text": "Miguelsinho",
+    "jalons": [
+      112125,
+      112136
+    ]
+  },
+  "entite_558": {
+    "label": "MISC",
+    "text": "IO",
+    "jalons": [
+      112189,
+      112191
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "Sahir",
+    "jalons": [
+      112353,
+      112358
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "rAio",
+    "jalons": [
+      113307,
+      113311
+    ]
+  },
+  "entite_561": {
+    "label": "MISC",
+    "text": "ERA",
+    "jalons": [
+      113325,
+      113328
+    ]
+  },
+  "entite_562": {
+    "label": "PER",
+    "text": "Homem",
+    "jalons": [
+      113331,
+      113336
+    ]
+  },
+  "entite_563": {
+    "label": "MISC",
+    "text": "DA L1II",
+    "jalons": [
+      114450,
+      114457
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Maria Augusta",
+    "jalons": [
+      114520,
+      114533
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "Ata ella1 Tolos",
+    "jalons": [
+      114923,
+      114938
+    ]
+  },
+  "entite_566": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      115309,
+      115315
+    ]
+  },
+  "entite_567": {
+    "label": "MISC",
+    "text": "So",
+    "jalons": [
+      115551,
+      115553
+    ]
+  },
+  "entite_568": {
+    "label": "LOC",
+    "text": "II0",
+    "jalons": [
+      115612,
+      115615
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "VISTA",
+    "jalons": [
+      115618,
+      115623
+    ]
+  },
+  "entite_570": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      115793,
+      115799
+    ]
+  },
+  "entite_571": {
+    "label": "LOC",
+    "text": "eNtroncamento",
+    "jalons": [
+      115902,
+      115915
+    ]
+  },
+  "entite_572": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      116237,
+      116243
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Baixa",
+    "jalons": [
+      116360,
+      116365
+    ]
+  },
+  "entite_574": {
+    "label": "ORG",
+    "text": "ING YA",
+    "jalons": [
+      116782,
+      116788
+    ]
+  },
+  "entite_575": {
+    "label": "MISC",
+    "text": "DIO L3",
+    "jalons": [
+      117940,
+      117946
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "A. cl",
+    "jalons": [
+      118084,
+      118089
+    ]
+  },
+  "entite_577": {
+    "label": "PER",
+    "text": "nio",
+    "jalons": [
+      118352,
+      118355
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "Maria Augusta",
+    "jalons": [
+      118519,
+      118532
+    ]
+  },
+  "entite_579": {
+    "label": "MISC",
+    "text": "AO DOM",
+    "jalons": [
+      119007,
+      119013
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      119972,
+      119976
+    ]
+  },
+  "entite_581": {
+    "label": "PER",
+    "text": "Nao",
+    "jalons": [
+      120697,
+      120700
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      121590,
+      121592
+    ]
+  },
+  "entite_583": {
+    "label": "MISC",
+    "text": "MOrria",
+    "jalons": [
+      121801,
+      121807
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Padre Z4",
+    "jalons": [
+      121973,
+      121981
+    ]
+  },
+  "entite_585": {
+    "label": "ORG",
+    "text": "Tinlma",
+    "jalons": [
+      122139,
+      122145
+    ]
+  },
+  "entite_586": {
+    "label": "MISC",
+    "text": "Carta",
+    "jalons": [
+      122504,
+      122509
+    ]
+  },
+  "entite_587": {
+    "label": "MISC",
+    "text": "D1'A",
+    "jalons": [
+      123557,
+      123561
+    ]
+  },
+  "entite_588": {
+    "label": "LOC",
+    "text": "MAud",
+    "jalons": [
+      123606,
+      123610
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "MAud",
+    "jalons": [
+      123777,
+      123781
+    ]
+  },
+  "entite_590": {
+    "label": "MISC",
+    "text": "Pobre Maud1",
+    "jalons": [
+      124044,
+      124055
+    ]
+  },
+  "entite_591": {
+    "label": "MISC",
+    "text": "IIAIII0O ALMA",
+    "jalons": [
+      124703,
+      124716
+    ]
+  },
+  "entite_592": {
+    "label": "MISC",
+    "text": "Men pobre",
+    "jalons": [
+      125194,
+      125203
+    ]
+  },
+  "entite_593": {
+    "label": "ORG",
+    "text": "DIO",
+    "jalons": [
+      125840,
+      125843
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      126160,
+      126167
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Mau tio",
+    "jalons": [
+      126205,
+      126212
+    ]
+  },
+  "entite_596": {
+    "label": "MISC",
+    "text": "Cartas",
+    "jalons": [
+      126519,
+      126525
+    ]
+  },
+  "entite_597": {
+    "label": "MISC",
+    "text": "NiO0",
+    "jalons": [
+      127002,
+      127006
+    ]
+  },
+  "entite_598": {
+    "label": "MISC",
+    "text": "espere9",
+    "jalons": [
+      127132,
+      127139
+    ]
+  },
+  "entite_599": {
+    "label": "ORG",
+    "text": "P",
+    "jalons": [
+      127178,
+      127179
+    ]
+  },
+  "entite_600": {
+    "label": "ORG",
+    "text": "P",
+    "jalons": [
+      127809,
+      127810
+    ]
+  },
+  "entite_601": {
+    "label": "MISC",
+    "text": "A",
+    "jalons": [
+      127901,
+      127902
+    ]
+  },
+  "entite_602": {
+    "label": "MISC",
+    "text": "estreme9",
+    "jalons": [
+      127973,
+      127981
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "FElicidade",
+    "jalons": [
+      127983,
+      127993
+    ]
+  },
+  "entite_604": {
+    "label": "MISC",
+    "text": "RAIO D1MA CRIaN",
+    "jalons": [
+      128151,
+      128166
+    ]
+  },
+  "entite_605": {
+    "label": "MISC",
+    "text": "NAo",
+    "jalons": [
+      128969,
+      128972
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "DIAhI I1",
+    "jalons": [
+      129135,
+      129143
+    ]
+  },
+  "entite_607": {
+    "label": "MISC",
+    "text": "c0res",
+    "jalons": [
+      129497,
+      129502
+    ]
+  },
+  "entite_608": {
+    "label": "MISC",
+    "text": "b6can m pelaco",
+    "jalons": [
+      129875,
+      129889
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "pcsuren c",
+    "jalons": [
+      129926,
+      129935
+    ]
+  },
+  "entite_610": {
+    "label": "MISC",
+    "text": "c",
+    "jalons": [
+      129953,
+      129954
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "ceremonia",
+    "jalons": [
+      130064,
+      130073
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "almego",
+    "jalons": [
+      130131,
+      130137
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "nho carnivoro",
+    "jalons": [
+      130225,
+      130238
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "jardinsito",
+    "jalons": [
+      130297,
+      130307
+    ]
+  },
+  "entite_615": {
+    "label": "PER",
+    "text": "DE3A NIcA",
+    "jalons": [
+      130364,
+      130373
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "ma",
+    "jalons": [
+      130987,
+      130989
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "nio",
+    "jalons": [
+      131220,
+      131223
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "contrafazer",
+    "jalons": [
+      131326,
+      131337
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Meza",
+    "jalons": [
+      131345,
+      131349
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "A. MAriquinhas",
+    "jalons": [
+      131909,
+      131923
+    ]
+  },
+  "entite_621": {
+    "label": "MISC",
+    "text": "Respondi-",
+    "jalons": [
+      132032,
+      132041
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Conversamos",
+    "jalons": [
+      132155,
+      132166
+    ]
+  },
+  "entite_623": {
+    "label": "MISC",
+    "text": "Mariquinhas",
+    "jalons": [
+      132563,
+      132574
+    ]
+  },
+  "entite_624": {
+    "label": "PER",
+    "text": "CnICA",
+    "jalons": [
+      132705,
+      132710
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "H6je",
+    "jalons": [
+      132927,
+      132931
+    ]
+  },
+  "entite_626": {
+    "label": "MISC",
+    "text": "MIagrinha",
+    "jalons": [
+      133126,
+      133135
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "J",
+    "jalons": [
+      133409,
+      133410
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      133582,
+      133586
+    ]
+  },
+  "entite_629": {
+    "label": "MISC",
+    "text": "naG L CHIALA",
+    "jalons": [
+      133880,
+      133892
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Padre Z",
+    "jalons": [
+      134058,
+      134065
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "Anjo",
+    "jalons": [
+      134180,
+      134184
+    ]
+  },
+  "entite_632": {
+    "label": "LOC",
+    "text": "Santas",
+    "jalons": [
+      134250,
+      134256
+    ]
+  },
+  "entite_633": {
+    "label": "MISC",
+    "text": "DIo0",
+    "jalons": [
+      135099,
+      135103
+    ]
+  },
+  "entite_634": {
+    "label": "MISC",
+    "text": "cIA",
+    "jalons": [
+      135108,
+      135111
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      135119,
+      135130
+    ]
+  },
+  "entite_636": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      135783,
+      135794
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Inglaterra",
+    "jalons": [
+      136207,
+      136217
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Estados-Unidos",
+    "jalons": [
+      136225,
+      136239
+    ]
+  },
+  "entite_639": {
+    "label": "MISC",
+    "text": "DA LIA",
+    "jalons": [
+      136264,
+      136270
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      136370,
+      136381
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      136720,
+      136731
+    ]
+  },
+  "entite_642": {
+    "label": "MISC",
+    "text": "mos9",
+    "jalons": [
+      137058,
+      137062
+    ]
+  },
+  "entite_643": {
+    "label": "MISC",
+    "text": "Mariquinhas",
+    "jalons": [
+      137091,
+      137102
+    ]
+  },
+  "entite_644": {
+    "label": "MISC",
+    "text": "DIA0 DUA CIl",
+    "jalons": [
+      137396,
+      137408
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      137411,
+      137420
+    ]
+  },
+  "entite_646": {
+    "label": "PER",
+    "text": "Conversar",
+    "jalons": [
+      137801,
+      137810
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      138431,
+      138442
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "II0",
+    "jalons": [
+      138548,
+      138551
+    ]
+  },
+  "entite_649": {
+    "label": "ORG",
+    "text": "LACA",
+    "jalons": [
+      138554,
+      138558
+    ]
+  },
+  "entite_650": {
+    "label": "ORG",
+    "text": "como6es ...",
+    "jalons": [
+      138953,
+      138964
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Aquella atmosfera",
+    "jalons": [
+      139176,
+      139193
+    ]
+  },
+  "entite_652": {
+    "label": "ORG",
+    "text": "CIA",
+    "jalons": [
+      139733,
+      139736
+    ]
+  },
+  "entite_653": {
+    "label": "MISC",
+    "text": "cRIADA",
+    "jalons": [
+      140947,
+      140953
+    ]
+  },
+  "entite_654": {
+    "label": "MISC",
+    "text": "f6sse",
+    "jalons": [
+      141002,
+      141007
+    ]
+  },
+  "entite_655": {
+    "label": "MISC",
+    "text": "f6ra at",
+    "jalons": [
+      141265,
+      141272
+    ]
+  },
+  "entite_656": {
+    "label": "PER",
+    "text": "A. Mariquinhas",
+    "jalons": [
+      141335,
+      141349
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      141376,
+      141381
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      141836,
+      141841
+    ]
+  },
+  "entite_659": {
+    "label": "MISC",
+    "text": "l6rpa",
+    "jalons": [
+      141932,
+      141937
+    ]
+  },
+  "entite_660": {
+    "label": "MISC",
+    "text": "I1O",
+    "jalons": [
+      141997,
+      142000
+    ]
+  },
+  "entite_661": {
+    "label": "MISC",
+    "text": "Elle",
+    "jalons": [
+      142015,
+      142019
+    ]
+  },
+  "entite_662": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      142273,
+      142284
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      142587,
+      142592
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Mariquinhas an pe delle",
+    "jalons": [
+      142693,
+      142716
+    ]
+  },
+  "entite_665": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      142801,
+      142806
+    ]
+  },
+  "entite_666": {
+    "label": "MISC",
+    "text": "pe da Mariquinhas",
+    "jalons": [
+      142970,
+      142987
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "IA0",
+    "jalons": [
+      143057,
+      143060
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      143074,
+      143079
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Saltava",
+    "jalons": [
+      143279,
+      143286
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "MInha-",
+    "jalons": [
+      143315,
+      143321
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      143516,
+      143527
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      143532,
+      143537
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      143895,
+      143902
+    ]
+  },
+  "entite_674": {
+    "label": "ORG",
+    "text": "AO DA CIA1CA",
+    "jalons": [
+      144271,
+      144283
+    ]
+  },
+  "entite_675": {
+    "label": "PER",
+    "text": "Maria Augusta",
+    "jalons": [
+      144414,
+      144427
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      145356,
+      145363
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "L5id",
+    "jalons": [
+      145770,
+      145774
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      146128,
+      146135
+    ]
+  },
+  "entite_679": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      146416,
+      146427
+    ]
+  },
+  "entite_680": {
+    "label": "MISC",
+    "text": "U NCIa",
+    "jalons": [
+      146552,
+      146558
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      146833,
+      146844
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      146849,
+      146854
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      147079,
+      147080
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      147172,
+      147183
+    ]
+  },
+  "entite_685": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      147226,
+      147229
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Alma",
+    "jalons": [
+      147610,
+      147614
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "d6res",
+    "jalons": [
+      147650,
+      147655
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "DIO D1",
+    "jalons": [
+      147713,
+      147719
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "MIariqui-",
+    "jalons": [
+      147758,
+      147767
+    ]
+  },
+  "entite_690": {
+    "label": "MISC",
+    "text": "ouro6no",
+    "jalons": [
+      147823,
+      147830
+    ]
+  },
+  "entite_691": {
+    "label": "MISC",
+    "text": "uNs",
+    "jalons": [
+      148149,
+      148152
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Debaixo do caramanch",
+    "jalons": [
+      148469,
+      148489
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      148560,
+      148571
+    ]
+  },
+  "entite_694": {
+    "label": "MISC",
+    "text": "YCs",
+    "jalons": [
+      149350,
+      149353
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      149764,
+      149769
+    ]
+  },
+  "entite_696": {
+    "label": "MISC",
+    "text": "D DE1 CIACA",
+    "jalons": [
+      150022,
+      150033
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Julio Diniz",
+    "jalons": [
+      150041,
+      150052
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      150187,
+      150192
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      150655,
+      150660
+    ]
+  },
+  "entite_700": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      150664,
+      150675
+    ]
+  },
+  "entite_701": {
+    "label": "MISC",
+    "text": "In",
+    "jalons": [
+      150713,
+      150715
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      150876,
+      150887
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "U Raquel",
+    "jalons": [
+      151166,
+      151174
+    ]
+  },
+  "entite_704": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      151282,
+      151285
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      151778,
+      151783
+    ]
+  },
+  "entite_706": {
+    "label": "MISC",
+    "text": "Salon",
+    "jalons": [
+      151918,
+      151923
+    ]
+  },
+  "entite_707": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      152168,
+      152169
+    ]
+  },
+  "entite_708": {
+    "label": "MISC",
+    "text": "DARIA",
+    "jalons": [
+      152268,
+      152273
+    ]
+  },
+  "entite_709": {
+    "label": "MISC",
+    "text": "CIACA",
+    "jalons": [
+      152277,
+      152282
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      152614,
+      152619
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      152621,
+      152627
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      152688,
+      152699
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      152826,
+      152835
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Raquel ten",
+    "jalons": [
+      152996,
+      153006
+    ]
+  },
+  "entite_715": {
+    "label": "ORG",
+    "text": "O0",
+    "jalons": [
+      153017,
+      153019
+    ]
+  },
+  "entite_716": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      153385,
+      153396
+    ]
+  },
+  "entite_717": {
+    "label": "MISC",
+    "text": "DIO D",
+    "jalons": [
+      153471,
+      153476
+    ]
+  },
+  "entite_718": {
+    "label": "ORG",
+    "text": "TIMIDA",
+    "jalons": [
+      153477,
+      153483
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      153996,
+      154007
+    ]
+  },
+  "entite_720": {
+    "label": "ORG",
+    "text": "EUlalia",
+    "jalons": [
+      154395,
+      154402
+    ]
+  },
+  "entite_721": {
+    "label": "ORG",
+    "text": "Mariquinhas- sabe'-",
+    "jalons": [
+      154513,
+      154532
+    ]
+  },
+  "entite_722": {
+    "label": "ORG",
+    "text": "DE1 C1A",
+    "jalons": [
+      154549,
+      154556
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Disso-mo",
+    "jalons": [
+      154650,
+      154658
+    ]
+  },
+  "entite_724": {
+    "label": "MISC",
+    "text": "At",
+    "jalons": [
+      154680,
+      154682
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Empalideci",
+    "jalons": [
+      154713,
+      154723
+    ]
+  },
+  "entite_726": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      154775,
+      154782
+    ]
+  },
+  "entite_727": {
+    "label": "MISC",
+    "text": "MIarinuinlas",
+    "jalons": [
+      155037,
+      155049
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "In",
+    "jalons": [
+      155313,
+      155315
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      155450,
+      155457
+    ]
+  },
+  "entite_730": {
+    "label": "MISC",
+    "text": "DIA0 D CIACA",
+    "jalons": [
+      155710,
+      155722
+    ]
+  },
+  "entite_731": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      155822,
+      155829
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "DrO DU",
+    "jalons": [
+      156783,
+      156789
+    ]
+  },
+  "entite_733": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      156922,
+      156933
+    ]
+  },
+  "entite_734": {
+    "label": "PER",
+    "text": "Olhei",
+    "jalons": [
+      156945,
+      156950
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "Chorei",
+    "jalons": [
+      157500,
+      157506
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      157652,
+      157663
+    ]
+  },
+  "entite_737": {
+    "label": "MISC",
+    "text": "Ai",
+    "jalons": [
+      157757,
+      157759
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "DoNo",
+    "jalons": [
+      157959,
+      157963
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "MIss",
+    "jalons": [
+      158069,
+      158073
+    ]
+  },
+  "entite_740": {
+    "label": "ORG",
+    "text": "RIO LA IA",
+    "jalons": [
+      159048,
+      159057
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      159274,
+      159285
+    ]
+  },
+  "entite_742": {
+    "label": "PER",
+    "text": "Mo Das",
+    "jalons": [
+      159328,
+      159334
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "CRINCA",
+    "jalons": [
+      160207,
+      160213
+    ]
+  },
+  "entite_744": {
+    "label": "PER",
+    "text": "Criaturas",
+    "jalons": [
+      160342,
+      160351
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      160631,
+      160635
+    ]
+  },
+  "entite_746": {
+    "label": "MISC",
+    "text": "MIari-",
+    "jalons": [
+      160778,
+      160784
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "Condi",
+    "jalons": [
+      161233,
+      161238
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      161261,
+      161266
+    ]
+  },
+  "entite_749": {
+    "label": "MISC",
+    "text": "L1 CIA",
+    "jalons": [
+      161360,
+      161366
+    ]
+  },
+  "entite_750": {
+    "label": "MISC",
+    "text": "mio du Mariquinhas",
+    "jalons": [
+      161902,
+      161920
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "tao angustiadamento",
+    "jalons": [
+      161969,
+      161988
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "nio aguda",
+    "jalons": [
+      162029,
+      162038
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "se9",
+    "jalons": [
+      162132,
+      162135
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "nio",
+    "jalons": [
+      162337,
+      162340
+    ]
+  },
+  "entite_755": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      162611,
+      162622
+    ]
+  },
+  "entite_756": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      162744,
+      162749
+    ]
+  },
+  "entite_757": {
+    "label": "MISC",
+    "text": "MAs",
+    "jalons": [
+      163396,
+      163399
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      163571,
+      163576
+    ]
+  },
+  "entite_759": {
+    "label": "MISC",
+    "text": "MAl",
+    "jalons": [
+      163682,
+      163685
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      163971,
+      163976
+    ]
+  },
+  "entite_761": {
+    "label": "MISC",
+    "text": "Mariquinhas",
+    "jalons": [
+      164104,
+      164115
+    ]
+  },
+  "entite_762": {
+    "label": "PER",
+    "text": "Eserevias",
+    "jalons": [
+      164132,
+      164141
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      164375,
+      164380
+    ]
+  },
+  "entite_764": {
+    "label": "ORG",
+    "text": "Chico-",
+    "jalons": [
+      164603,
+      164609
+    ]
+  },
+  "entite_765": {
+    "label": "ORG",
+    "text": "CHIA",
+    "jalons": [
+      164745,
+      164749
+    ]
+  },
+  "entite_766": {
+    "label": "MISC",
+    "text": "MEti-a",
+    "jalons": [
+      164785,
+      164791
+    ]
+  },
+  "entite_767": {
+    "label": "LOC",
+    "text": "Eulalia",
+    "jalons": [
+      164916,
+      164923
+    ]
+  },
+  "entite_768": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      165067,
+      165072
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "S.' D. Emilia",
+    "jalons": [
+      165093,
+      165106
+    ]
+  },
+  "entite_770": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      165271,
+      165282
+    ]
+  },
+  "entite_771": {
+    "label": "MISC",
+    "text": "Elle",
+    "jalons": [
+      165526,
+      165530
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      165561,
+      165568
+    ]
+  },
+  "entite_773": {
+    "label": "MISC",
+    "text": "Chica",
+    "jalons": [
+      165679,
+      165684
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      165868,
+      165875
+    ]
+  },
+  "entite_775": {
+    "label": "MISC",
+    "text": "A TI1",
+    "jalons": [
+      165928,
+      165933
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      165976,
+      165981
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Desconcertada",
+    "jalons": [
+      166185,
+      166198
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      166372,
+      166377
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      166392,
+      166398
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "Obrigado",
+    "jalons": [
+      166402,
+      166410
+    ]
+  },
+  "entite_781": {
+    "label": "MISC",
+    "text": "Senhora ID",
+    "jalons": [
+      166573,
+      166583
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Emilia",
+    "jalons": [
+      166585,
+      166591
+    ]
+  },
+  "entite_783": {
+    "label": "ORG",
+    "text": "Real",
+    "jalons": [
+      166696,
+      166700
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Chico.n",
+    "jalons": [
+      166773,
+      166780
+    ]
+  },
+  "entite_785": {
+    "label": "PER",
+    "text": "Relia",
+    "jalons": [
+      166952,
+      166957
+    ]
+  },
+  "entite_786": {
+    "label": "MISC",
+    "text": "III1",
+    "jalons": [
+      167018,
+      167022
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "Vai-to",
+    "jalons": [
+      167205,
+      167211
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      167286,
+      167291
+    ]
+  },
+  "entite_789": {
+    "label": "LOC",
+    "text": "Importa-me",
+    "jalons": [
+      167331,
+      167341
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Ol",
+    "jalons": [
+      167853,
+      167855
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "MEnina",
+    "jalons": [
+      167871,
+      167877
+    ]
+  },
+  "entite_792": {
+    "label": "PER",
+    "text": "Ia",
+    "jalons": [
+      167930,
+      167932
+    ]
+  },
+  "entite_793": {
+    "label": "MISC",
+    "text": "Io ALI",
+    "jalons": [
+      168080,
+      168086
+    ]
+  },
+  "entite_794": {
+    "label": "MISC",
+    "text": "ChIA",
+    "jalons": [
+      168087,
+      168091
+    ]
+  },
+  "entite_795": {
+    "label": "MISC",
+    "text": "I061",
+    "jalons": [
+      168092,
+      168096
+    ]
+  },
+  "entite_796": {
+    "label": "MISC",
+    "text": "ERgui-me",
+    "jalons": [
+      168643,
+      168651
+    ]
+  },
+  "entite_797": {
+    "label": "ORG",
+    "text": "carta'.-",
+    "jalons": [
+      168755,
+      168763
+    ]
+  },
+  "entite_798": {
+    "label": "PER",
+    "text": "Prefiro",
+    "jalons": [
+      168843,
+      168850
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "Eulalia",
+    "jalons": [
+      169493,
+      169500
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "Si",
+    "jalons": [
+      169640,
+      169642
+    ]
+  },
+  "entite_801": {
+    "label": "MISC",
+    "text": "DE1",
+    "jalons": [
+      170348,
+      170351
+    ]
+  },
+  "entite_802": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      170358,
+      170367
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Entaio",
+    "jalons": [
+      170411,
+      170417
+    ]
+  },
+  "entite_804": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      170661,
+      170672
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "En",
+    "jalons": [
+      170804,
+      170806
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "Ningu",
+    "jalons": [
+      171370,
+      171375
+    ]
+  },
+  "entite_807": {
+    "label": "ORG",
+    "text": "FIO Y",
+    "jalons": [
+      171417,
+      171422
+    ]
+  },
+  "entite_808": {
+    "label": "ORG",
+    "text": "CHIC",
+    "jalons": [
+      171423,
+      171427
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      172720,
+      172729
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      172740,
+      172745
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "Mina",
+    "jalons": [
+      173062,
+      173066
+    ]
+  },
+  "entite_812": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      173075,
+      173080
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "En",
+    "jalons": [
+      173110,
+      173112
+    ]
+  },
+  "entite_814": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      173161,
+      173170
+    ]
+  },
+  "entite_815": {
+    "label": "MISC",
+    "text": "Ia6r",
+    "jalons": [
+      173291,
+      173295
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "ERa",
+    "jalons": [
+      173386,
+      173389
+    ]
+  },
+  "entite_817": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      173500,
+      173509
+    ]
+  },
+  "entite_818": {
+    "label": "MISC",
+    "text": "A CARTA",
+    "jalons": [
+      173685,
+      173692
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "F",
+    "jalons": [
+      173843,
+      173844
+    ]
+  },
+  "entite_820": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      174032,
+      174037
+    ]
+  },
+  "entite_821": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      174173,
+      174176
+    ]
+  },
+  "entite_822": {
+    "label": "LOC",
+    "text": "Incte",
+    "jalons": [
+      174300,
+      174305
+    ]
+  },
+  "entite_823": {
+    "label": "LOC",
+    "text": "Cuidas",
+    "jalons": [
+      174416,
+      174422
+    ]
+  },
+  "entite_824": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      174456,
+      174462
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      174476,
+      174487
+    ]
+  },
+  "entite_826": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      175088,
+      175093
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "CoNversa",
+    "jalons": [
+      175349,
+      175357
+    ]
+  },
+  "entite_828": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      175363,
+      175368
+    ]
+  },
+  "entite_829": {
+    "label": "LOC",
+    "text": "em Portugal",
+    "jalons": [
+      175473,
+      175484
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      175623,
+      175630
+    ]
+  },
+  "entite_831": {
+    "label": "MISC",
+    "text": "DIzIA D",
+    "jalons": [
+      175774,
+      175781
+    ]
+  },
+  "entite_832": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      175865,
+      175868
+    ]
+  },
+  "entite_833": {
+    "label": "PER",
+    "text": "Tica",
+    "jalons": [
+      175894,
+      175898
+    ]
+  },
+  "entite_834": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      176114,
+      176120
+    ]
+  },
+  "entite_835": {
+    "label": "MISC",
+    "text": "Ha rapazes loucos",
+    "jalons": [
+      176122,
+      176139
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      176194,
+      176199
+    ]
+  },
+  "entite_837": {
+    "label": "PER",
+    "text": "Raquelsinls",
+    "jalons": [
+      176396,
+      176407
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      176537,
+      176548
+    ]
+  },
+  "entite_839": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      176673,
+      176678
+    ]
+  },
+  "entite_840": {
+    "label": "MISC",
+    "text": "IA CAIXA",
+    "jalons": [
+      176728,
+      176736
+    ]
+  },
+  "entite_841": {
+    "label": "PER",
+    "text": "Chico nio",
+    "jalons": [
+      176752,
+      176761
+    ]
+  },
+  "entite_842": {
+    "label": "MISC",
+    "text": "MAriquinhas1",
+    "jalons": [
+      176778,
+      176790
+    ]
+  },
+  "entite_843": {
+    "label": "PER",
+    "text": "dessas?l-",
+    "jalons": [
+      176926,
+      176935
+    ]
+  },
+  "entite_844": {
+    "label": "PER",
+    "text": "tres irmaos",
+    "jalons": [
+      176982,
+      176993
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "cadeira2I",
+    "jalons": [
+      177022,
+      177031
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Ninguem",
+    "jalons": [
+      177040,
+      177047
+    ]
+  },
+  "entite_847": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      177186,
+      177197
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Ate",
+    "jalons": [
+      177330,
+      177333
+    ]
+  },
+  "entite_849": {
+    "label": "PER",
+    "text": "n Raquel",
+    "jalons": [
+      177376,
+      177384
+    ]
+  },
+  "entite_850": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      177428,
+      177439
+    ]
+  },
+  "entite_851": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      177715,
+      177720
+    ]
+  },
+  "entite_852": {
+    "label": "PER",
+    "text": "Pobre",
+    "jalons": [
+      177781,
+      177786
+    ]
+  },
+  "entite_853": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      177812,
+      177818
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "Mon-",
+    "jalons": [
+      177962,
+      177966
+    ]
+  },
+  "entite_855": {
+    "label": "ORG",
+    "text": "C5rei",
+    "jalons": [
+      178257,
+      178262
+    ]
+  },
+  "entite_856": {
+    "label": "PER",
+    "text": "Raquel",
+    "jalons": [
+      178605,
+      178611
+    ]
+  },
+  "entite_857": {
+    "label": "MISC",
+    "text": "IO",
+    "jalons": [
+      178879,
+      178881
+    ]
+  },
+  "entite_858": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      179084,
+      179089
+    ]
+  },
+  "entite_859": {
+    "label": "MISC",
+    "text": "Ha",
+    "jalons": [
+      179352,
+      179354
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      179410,
+      179415
+    ]
+  },
+  "entite_861": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      179453,
+      179464
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "Mariquinhas",
+    "jalons": [
+      179681,
+      179692
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      179729,
+      179736
+    ]
+  },
+  "entite_864": {
+    "label": "ORG",
+    "text": "D1A CONSCI",
+    "jalons": [
+      179979,
+      179989
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "O0 Miguel",
+    "jalons": [
+      180453,
+      180462
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      180553,
+      180558
+    ]
+  },
+  "entite_867": {
+    "label": "PER",
+    "text": "At6",
+    "jalons": [
+      180679,
+      180682
+    ]
+  },
+  "entite_868": {
+    "label": "PER",
+    "text": "Padre Z4",
+    "jalons": [
+      180685,
+      180693
+    ]
+  },
+  "entite_869": {
+    "label": "MISC",
+    "text": "Larousse ode procnravamos",
+    "jalons": [
+      180872,
+      180897
+    ]
+  },
+  "entite_870": {
+    "label": "PER",
+    "text": "Maria Augusta",
+    "jalons": [
+      180948,
+      180961
+    ]
+  },
+  "entite_871": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      180978,
+      180982
+    ]
+  },
+  "entite_872": {
+    "label": "PER",
+    "text": "E73",
+    "jalons": [
+      181109,
+      181112
+    ]
+  },
+  "entite_873": {
+    "label": "MISC",
+    "text": "Padre Z6",
+    "jalons": [
+      181357,
+      181365
+    ]
+  },
+  "entite_874": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      181434,
+      181439
+    ]
+  },
+  "entite_875": {
+    "label": "PER",
+    "text": "MAria Angusta",
+    "jalons": [
+      181764,
+      181777
+    ]
+  },
+  "entite_876": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      181977,
+      181980
+    ]
+  },
+  "entite_877": {
+    "label": "PER",
+    "text": "Chico",
+    "jalons": [
+      182010,
+      182015
+    ]
+  },
+  "entite_878": {
+    "label": "LOC",
+    "text": "Lisboa",
+    "jalons": [
+      182040,
+      182046
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "AO n CHIAQ",
+    "jalons": [
+      182181,
+      182191
+    ]
+  },
+  "entite_880": {
+    "label": "MISC",
+    "text": "do6na1",
+    "jalons": [
+      182416,
+      182422
+    ]
+  },
+  "entite_881": {
+    "label": "MISC",
+    "text": "CRIaDA",
+    "jalons": [
+      183261,
+      183267
+    ]
+  },
+  "entite_882": {
+    "label": "MISC",
+    "text": "MAriquinhas",
+    "jalons": [
+      183280,
+      183291
+    ]
+  },
+  "entite_883": {
+    "label": "PER",
+    "text": "D. Emilia",
+    "jalons": [
+      183304,
+      183313
+    ]
+  },
+  "entite_884": {
+    "label": "MISC",
+    "text": "sEnte",
+    "jalons": [
+      183437,
+      183442
+    ]
+  },
+  "entite_885": {
+    "label": "MISC",
+    "text": "Ce",
+    "jalons": [
+      183633,
+      183635
+    ]
+  },
+  "entite_886": {
+    "label": "MISC",
+    "text": "F",
+    "jalons": [
+      183654,
+      183655
+    ]
+  },
+  "entite_887": {
+    "label": "LOC",
+    "text": "LO",
+    "jalons": [
+      183659,
+      183661
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "L--",
+    "jalons": [
+      183694,
+      183697
+    ]
+  },
+  "entite_889": {
+    "label": "MISC",
+    "text": "M",
+    "jalons": [
+      183740,
+      183741
+    ]
+  },
+  "entite_890": {
+    "label": "MISC",
+    "text": "L",
+    "jalons": [
+      183838,
+      183839
+    ]
+  },
+  "entite_891": {
+    "label": "MISC",
+    "text": "SACRIFICADA",
+    "jalons": [
+      183865,
+      183876
+    ]
+  },
+  "entite_892": {
+    "label": "ORG",
+    "text": "MIanocla",
+    "jalons": [
+      183882,
+      183890
+    ]
+  },
+  "entite_893": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      183915,
+      183916
+    ]
+  },
+  "entite_894": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      184034,
+      184036
+    ]
+  },
+  "entite_895": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      184710,
+      184716
+    ]
+  },
+  "entite_896": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      185707,
+      185722
+    ]
+  },
+  "entite_897": {
+    "label": "MISC",
+    "text": "MIaoola",
+    "jalons": [
+      186070,
+      186077
+    ]
+  },
+  "entite_898": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      186938,
+      186945
+    ]
+  },
+  "entite_899": {
+    "label": "MISC",
+    "text": "I Il",
+    "jalons": [
+      187058,
+      187062
+    ]
+  },
+  "entite_900": {
+    "label": "MISC",
+    "text": "I83",
+    "jalons": [
+      187912,
+      187915
+    ]
+  },
+  "entite_901": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      188197,
+      188203
+    ]
+  },
+  "entite_902": {
+    "label": "PER",
+    "text": "Lho",
+    "jalons": [
+      188844,
+      188847
+    ]
+  },
+  "entite_903": {
+    "label": "PER",
+    "text": "D. Joao",
+    "jalons": [
+      188899,
+      188906
+    ]
+  },
+  "entite_904": {
+    "label": "MISC",
+    "text": "Incr",
+    "jalons": [
+      189284,
+      189288
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      189476,
+      189480
+    ]
+  },
+  "entite_906": {
+    "label": "LOC",
+    "text": "aINDA",
+    "jalons": [
+      190279,
+      190284
+    ]
+  },
+  "entite_907": {
+    "label": "LOC",
+    "text": "Confiando da Ama-Rita",
+    "jalons": [
+      190422,
+      190443
+    ]
+  },
+  "entite_908": {
+    "label": "MISC",
+    "text": "ACINICID",
+    "jalons": [
+      191499,
+      191507
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "MInnoela",
+    "jalons": [
+      191702,
+      191710
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Ama-Imita",
+    "jalons": [
+      191777,
+      191786
+    ]
+  },
+  "entite_911": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      191792,
+      191798
+    ]
+  },
+  "entite_912": {
+    "label": "PER",
+    "text": "Ma-",
+    "jalons": [
+      192017,
+      192020
+    ]
+  },
+  "entite_913": {
+    "label": "PER",
+    "text": "noola",
+    "jalons": [
+      192021,
+      192026
+    ]
+  },
+  "entite_914": {
+    "label": "PER",
+    "text": "so delle",
+    "jalons": [
+      192156,
+      192164
+    ]
+  },
+  "entite_915": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      192166,
+      192169
+    ]
+  },
+  "entite_916": {
+    "label": "LOC",
+    "text": "Levaram-na",
+    "jalons": [
+      192359,
+      192369
+    ]
+  },
+  "entite_917": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      192538,
+      192544
+    ]
+  },
+  "entite_918": {
+    "label": "MISC",
+    "text": "Ama-Rita",
+    "jalons": [
+      193243,
+      193251
+    ]
+  },
+  "entite_919": {
+    "label": "MISC",
+    "text": "bOas",
+    "jalons": [
+      193368,
+      193372
+    ]
+  },
+  "entite_920": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      193627,
+      193636
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "ACRIPICDA",
+    "jalons": [
+      193788,
+      193797
+    ]
+  },
+  "entite_922": {
+    "label": "PER",
+    "text": "Sonhava",
+    "jalons": [
+      193999,
+      194006
+    ]
+  },
+  "entite_923": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      194158,
+      194164
+    ]
+  },
+  "entite_924": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      194486,
+      194492
+    ]
+  },
+  "entite_925": {
+    "label": "PER",
+    "text": "Cavalinho",
+    "jalons": [
+      195120,
+      195129
+    ]
+  },
+  "entite_926": {
+    "label": "LOC",
+    "text": "Coimbra",
+    "jalons": [
+      195429,
+      195436
+    ]
+  },
+  "entite_927": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      195835,
+      195841
+    ]
+  },
+  "entite_928": {
+    "label": "MISC",
+    "text": "AEIFICADA",
+    "jalons": [
+      196053,
+      196062
+    ]
+  },
+  "entite_929": {
+    "label": "MISC",
+    "text": "MAis-lo",
+    "jalons": [
+      196315,
+      196322
+    ]
+  },
+  "entite_930": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      196447,
+      196451
+    ]
+  },
+  "entite_931": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      196730,
+      196736
+    ]
+  },
+  "entite_932": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      197022,
+      197028
+    ]
+  },
+  "entite_933": {
+    "label": "PER",
+    "text": "Ades Ama-Fita",
+    "jalons": [
+      197388,
+      197401
+    ]
+  },
+  "entite_934": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      197484,
+      197488
+    ]
+  },
+  "entite_935": {
+    "label": "MISC",
+    "text": "At",
+    "jalons": [
+      197531,
+      197533
+    ]
+  },
+  "entite_936": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      198300,
+      198315
+    ]
+  },
+  "entite_937": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      198439,
+      198445
+    ]
+  },
+  "entite_938": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      198862,
+      198868
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "JEsus",
+    "jalons": [
+      199882,
+      199887
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "Senhora",
+    "jalons": [
+      199902,
+      199909
+    ]
+  },
+  "entite_941": {
+    "label": "MISC",
+    "text": "Natal",
+    "jalons": [
+      199946,
+      199951
+    ]
+  },
+  "entite_942": {
+    "label": "PER",
+    "text": "Gertrudes",
+    "jalons": [
+      200044,
+      200053
+    ]
+  },
+  "entite_943": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      200061,
+      200067
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "ILha",
+    "jalons": [
+      200091,
+      200095
+    ]
+  },
+  "entite_945": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      200655,
+      200670
+    ]
+  },
+  "entite_946": {
+    "label": "PER",
+    "text": "santo Deus",
+    "jalons": [
+      201106,
+      201116
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Socegasse",
+    "jalons": [
+      201138,
+      201147
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "Soror Gertrudes- MIanoala",
+    "jalons": [
+      201390,
+      201415
+    ]
+  },
+  "entite_949": {
+    "label": "LOC",
+    "text": "Cacos",
+    "jalons": [
+      201607,
+      201612
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Sentia-so cahir",
+    "jalons": [
+      201728,
+      201743
+    ]
+  },
+  "entite_951": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      202205,
+      202211
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "A. tia",
+    "jalons": [
+      202385,
+      202391
+    ]
+  },
+  "entite_953": {
+    "label": "MISC",
+    "text": "mORtE.-",
+    "jalons": [
+      202469,
+      202476
+    ]
+  },
+  "entite_954": {
+    "label": "PER",
+    "text": "infermidade horrivel",
+    "jalons": [
+      202773,
+      202793
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      202802,
+      202808
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "d6res",
+    "jalons": [
+      203115,
+      203120
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "MIianoela",
+    "jalons": [
+      203408,
+      203417
+    ]
+  },
+  "entite_958": {
+    "label": "MISC",
+    "text": "i7",
+    "jalons": [
+      203493,
+      203495
+    ]
+  },
+  "entite_959": {
+    "label": "MISC",
+    "text": "ava",
+    "jalons": [
+      203496,
+      203499
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "ella",
+    "jalons": [
+      203519,
+      203523
+    ]
+  },
+  "entite_961": {
+    "label": "PER",
+    "text": "tao querida",
+    "jalons": [
+      203551,
+      203562
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      203572,
+      203587
+    ]
+  },
+  "entite_963": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      203794,
+      203808
+    ]
+  },
+  "entite_964": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      203938,
+      203953
+    ]
+  },
+  "entite_965": {
+    "label": "PER",
+    "text": "Janela",
+    "jalons": [
+      204258,
+      204264
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "ceremonia",
+    "jalons": [
+      204379,
+      204388
+    ]
+  },
+  "entite_967": {
+    "label": "PER",
+    "text": "Deixava-",
+    "jalons": [
+      204613,
+      204621
+    ]
+  },
+  "entite_968": {
+    "label": "PER",
+    "text": "Menino Jesus do Milagre",
+    "jalons": [
+      204631,
+      204654
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Paraizo",
+    "jalons": [
+      204743,
+      204750
+    ]
+  },
+  "entite_970": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      204908,
+      204922
+    ]
+  },
+  "entite_971": {
+    "label": "PER",
+    "text": "ella j",
+    "jalons": [
+      205165,
+      205171
+    ]
+  },
+  "entite_972": {
+    "label": "PER",
+    "text": "ne cova",
+    "jalons": [
+      205188,
+      205195
+    ]
+  },
+  "entite_973": {
+    "label": "PER",
+    "text": "lados tao",
+    "jalons": [
+      205272,
+      205281
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "nio",
+    "jalons": [
+      205412,
+      205415
+    ]
+  },
+  "entite_975": {
+    "label": "PER",
+    "text": "j",
+    "jalons": [
+      205636,
+      205637
+    ]
+  },
+  "entite_976": {
+    "label": "LOC",
+    "text": "terra",
+    "jalons": [
+      205724,
+      205729
+    ]
+  },
+  "entite_977": {
+    "label": "PER",
+    "text": "Choravam",
+    "jalons": [
+      205845,
+      205853
+    ]
+  },
+  "entite_978": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      205945,
+      205951
+    ]
+  },
+  "entite_979": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      206596,
+      206600
+    ]
+  },
+  "entite_980": {
+    "label": "MISC",
+    "text": "Padre-Superior",
+    "jalons": [
+      206624,
+      206638
+    ]
+  },
+  "entite_981": {
+    "label": "MISC",
+    "text": "Livro da fundas",
+    "jalons": [
+      206705,
+      206720
+    ]
+  },
+  "entite_982": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      206810,
+      206816
+    ]
+  },
+  "entite_983": {
+    "label": "MISC",
+    "text": "MAl",
+    "jalons": [
+      207142,
+      207145
+    ]
+  },
+  "entite_984": {
+    "label": "PER",
+    "text": "Janela",
+    "jalons": [
+      207370,
+      207376
+    ]
+  },
+  "entite_985": {
+    "label": "LOC",
+    "text": "Cambaleando",
+    "jalons": [
+      207432,
+      207443
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      209038,
+      209044
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "Soror Angelica veiu tor",
+    "jalons": [
+      209555,
+      209578
+    ]
+  },
+  "entite_988": {
+    "label": "PER",
+    "text": "Manoel cahiu",
+    "jalons": [
+      209728,
+      209740
+    ]
+  },
+  "entite_989": {
+    "label": "MISC",
+    "text": "ACRIICD",
+    "jalons": [
+      210632,
+      210639
+    ]
+  },
+  "entite_990": {
+    "label": "PER",
+    "text": "Debaixo",
+    "jalons": [
+      210898,
+      210905
+    ]
+  },
+  "entite_991": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      211850,
+      211865
+    ]
+  },
+  "entite_992": {
+    "label": "MISC",
+    "text": "MIanoala",
+    "jalons": [
+      211913,
+      211921
+    ]
+  },
+  "entite_993": {
+    "label": "PER",
+    "text": "Li",
+    "jalons": [
+      212130,
+      212132
+    ]
+  },
+  "entite_994": {
+    "label": "PER",
+    "text": "J",
+    "jalons": [
+      212332,
+      212333
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "Estremoz",
+    "jalons": [
+      212496,
+      212504
+    ]
+  },
+  "entite_996": {
+    "label": "PER",
+    "text": "Soror Gertrudes",
+    "jalons": [
+      212843,
+      212858
+    ]
+  },
+  "entite_997": {
+    "label": "MISC",
+    "text": "Livro da",
+    "jalons": [
+      213413,
+      213421
+    ]
+  },
+  "entite_998": {
+    "label": "PER",
+    "text": "Christo",
+    "jalons": [
+      213498,
+      213505
+    ]
+  },
+  "entite_999": {
+    "label": "PER",
+    "text": "Claudea",
+    "jalons": [
+      214089,
+      214096
+    ]
+  },
+  "entite_1000": {
+    "label": "PER",
+    "text": "Dantes",
+    "jalons": [
+      214253,
+      214259
+    ]
+  },
+  "entite_1001": {
+    "label": "PER",
+    "text": "Aquela",
+    "jalons": [
+      214428,
+      214434
+    ]
+  },
+  "entite_1002": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      214724,
+      214738
+    ]
+  },
+  "entite_1003": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      214988,
+      214994
+    ]
+  },
+  "entite_1004": {
+    "label": "PER",
+    "text": "Soror Ger-",
+    "jalons": [
+      215050,
+      215060
+    ]
+  },
+  "entite_1005": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      215112,
+      215126
+    ]
+  },
+  "entite_1006": {
+    "label": "PER",
+    "text": "Angelica",
+    "jalons": [
+      215240,
+      215248
+    ]
+  },
+  "entite_1007": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      215477,
+      215491
+    ]
+  },
+  "entite_1008": {
+    "label": "LOC",
+    "text": "Superior",
+    "jalons": [
+      216082,
+      216090
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      216298,
+      216312
+    ]
+  },
+  "entite_1010": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      216421,
+      216427
+    ]
+  },
+  "entite_1011": {
+    "label": "ORG",
+    "text": "Santas",
+    "jalons": [
+      216841,
+      216847
+    ]
+  },
+  "entite_1012": {
+    "label": "PER",
+    "text": "Terezas",
+    "jalons": [
+      216848,
+      216855
+    ]
+  },
+  "entite_1013": {
+    "label": "PER",
+    "text": "Naquelle",
+    "jalons": [
+      217016,
+      217024
+    ]
+  },
+  "entite_1014": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      217889,
+      217895
+    ]
+  },
+  "entite_1015": {
+    "label": "PER",
+    "text": "Esposo",
+    "jalons": [
+      217900,
+      217906
+    ]
+  },
+  "entite_1016": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      217913,
+      217917
+    ]
+  },
+  "entite_1017": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      218327,
+      218333
+    ]
+  },
+  "entite_1018": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      218584,
+      218590
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "cIICDI",
+    "jalons": [
+      218625,
+      218631
+    ]
+  },
+  "entite_1020": {
+    "label": "MISC",
+    "text": "c6rte",
+    "jalons": [
+      219595,
+      219600
+    ]
+  },
+  "entite_1021": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      219804,
+      219810
+    ]
+  },
+  "entite_1022": {
+    "label": "PER",
+    "text": "Espo-",
+    "jalons": [
+      219898,
+      219903
+    ]
+  },
+  "entite_1023": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      220069,
+      220075
+    ]
+  },
+  "entite_1024": {
+    "label": "MISC",
+    "text": "Deus imenso",
+    "jalons": [
+      220094,
+      220105
+    ]
+  },
+  "entite_1025": {
+    "label": "MISC",
+    "text": "O Christo",
+    "jalons": [
+      220409,
+      220418
+    ]
+  },
+  "entite_1026": {
+    "label": "MISC",
+    "text": "Deus cristo-",
+    "jalons": [
+      220660,
+      220672
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "Presa",
+    "jalons": [
+      220735,
+      220740
+    ]
+  },
+  "entite_1028": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      220808,
+      220814
+    ]
+  },
+  "entite_1029": {
+    "label": "MISC",
+    "text": "Ama-Rita",
+    "jalons": [
+      220964,
+      220972
+    ]
+  },
+  "entite_1030": {
+    "label": "MISC",
+    "text": "S6",
+    "jalons": [
+      221110,
+      221112
+    ]
+  },
+  "entite_1031": {
+    "label": "MISC",
+    "text": "Lisa",
+    "jalons": [
+      221306,
+      221310
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "Viera",
+    "jalons": [
+      221432,
+      221437
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      221581,
+      221587
+    ]
+  },
+  "entite_1034": {
+    "label": "PER",
+    "text": "Brazil",
+    "jalons": [
+      221939,
+      221945
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "Ama-Rita  Sentia",
+    "jalons": [
+      222971,
+      222987
+    ]
+  },
+  "entite_1036": {
+    "label": "MISC",
+    "text": "Encostada is",
+    "jalons": [
+      223268,
+      223280
+    ]
+  },
+  "entite_1037": {
+    "label": "PER",
+    "text": "qne j",
+    "jalons": [
+      224037,
+      224042
+    ]
+  },
+  "entite_1038": {
+    "label": "PER",
+    "text": "ma",
+    "jalons": [
+      224206,
+      224208
+    ]
+  },
+  "entite_1039": {
+    "label": "PER",
+    "text": "raio",
+    "jalons": [
+      224228,
+      224232
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "porta ampla",
+    "jalons": [
+      224267,
+      224278
+    ]
+  },
+  "entite_1041": {
+    "label": "LOC",
+    "text": "rea-",
+    "jalons": [
+      224305,
+      224309
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "tao",
+    "jalons": [
+      224378,
+      224381
+    ]
+  },
+  "entite_1043": {
+    "label": "PER",
+    "text": "tao",
+    "jalons": [
+      224405,
+      224408
+    ]
+  },
+  "entite_1044": {
+    "label": "MISC",
+    "text": "alv troco",
+    "jalons": [
+      224443,
+      224452
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "ella vinha",
+    "jalons": [
+      224485,
+      224495
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "filba",
+    "jalons": [
+      224633,
+      224638
+    ]
+  },
+  "entite_1047": {
+    "label": "PER",
+    "text": "sen",
+    "jalons": [
+      224891,
+      224894
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "nes braces",
+    "jalons": [
+      224935,
+      224945
+    ]
+  },
+  "entite_1049": {
+    "label": "PER",
+    "text": "J nio",
+    "jalons": [
+      224947,
+      224952
+    ]
+  },
+  "entite_1050": {
+    "label": "MISC",
+    "text": "Candeia",
+    "jalons": [
+      225190,
+      225197
+    ]
+  },
+  "entite_1051": {
+    "label": "LOC",
+    "text": "Espanha",
+    "jalons": [
+      225212,
+      225219
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Senhora",
+    "jalons": [
+      225760,
+      225767
+    ]
+  },
+  "entite_1053": {
+    "label": "PER",
+    "text": "MIanoola",
+    "jalons": [
+      225897,
+      225905
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "Virgem",
+    "jalons": [
+      226083,
+      226089
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "Jesus",
+    "jalons": [
+      226195,
+      226200
+    ]
+  },
+  "entite_1056": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      226429,
+      226433
+    ]
+  },
+  "entite_1057": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      227007,
+      227013
+    ]
+  },
+  "entite_1058": {
+    "label": "PER",
+    "text": "MIanoola",
+    "jalons": [
+      227995,
+      228003
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      228339,
+      228353
+    ]
+  },
+  "entite_1060": {
+    "label": "MISC",
+    "text": "Deus.-",
+    "jalons": [
+      228444,
+      228450
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "Sofrer",
+    "jalons": [
+      228663,
+      228669
+    ]
+  },
+  "entite_1062": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      228670,
+      228676
+    ]
+  },
+  "entite_1063": {
+    "label": "MISC",
+    "text": "Nio  ella",
+    "jalons": [
+      228734,
+      228743
+    ]
+  },
+  "entite_1064": {
+    "label": "MISC",
+    "text": "s6",
+    "jalons": [
+      228784,
+      228786
+    ]
+  },
+  "entite_1065": {
+    "label": "PER",
+    "text": "nio sabe",
+    "jalons": [
+      228871,
+      228879
+    ]
+  },
+  "entite_1066": {
+    "label": "PER",
+    "text": "Madre",
+    "jalons": [
+      228881,
+      228886
+    ]
+  },
+  "entite_1067": {
+    "label": "PER",
+    "text": "Angelica",
+    "jalons": [
+      228887,
+      228895
+    ]
+  },
+  "entite_1068": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      229065,
+      229071
+    ]
+  },
+  "entite_1069": {
+    "label": "MISC",
+    "text": "Revoltar-se",
+    "jalons": [
+      229278,
+      229289
+    ]
+  },
+  "entite_1070": {
+    "label": "PER",
+    "text": "Soror Manoel",
+    "jalons": [
+      229291,
+      229303
+    ]
+  },
+  "entite_1071": {
+    "label": "LOC",
+    "text": "Santo Deus",
+    "jalons": [
+      229345,
+      229355
+    ]
+  },
+  "entite_1072": {
+    "label": "LOC",
+    "text": "Sim",
+    "jalons": [
+      229693,
+      229696
+    ]
+  },
+  "entite_1073": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      230020,
+      230034
+    ]
+  },
+  "entite_1074": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      230112,
+      230126
+    ]
+  },
+  "entite_1075": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      230183,
+      230189
+    ]
+  },
+  "entite_1076": {
+    "label": "PER",
+    "text": "ISoror Manoel",
+    "jalons": [
+      230312,
+      230325
+    ]
+  },
+  "entite_1077": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      230610,
+      230616
+    ]
+  },
+  "entite_1078": {
+    "label": "MISC",
+    "text": "ISoror Janela",
+    "jalons": [
+      230904,
+      230917
+    ]
+  },
+  "entite_1079": {
+    "label": "MISC",
+    "text": "Deus Nosso Senhor",
+    "jalons": [
+      231092,
+      231109
+    ]
+  },
+  "entite_1080": {
+    "label": "PER",
+    "text": "Soror Manoel",
+    "jalons": [
+      231167,
+      231179
+    ]
+  },
+  "entite_1081": {
+    "label": "LOC",
+    "text": "Soror",
+    "jalons": [
+      231282,
+      231287
+    ]
+  },
+  "entite_1082": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      231291,
+      231297
+    ]
+  },
+  "entite_1083": {
+    "label": "LOC",
+    "text": "Alemtejo",
+    "jalons": [
+      231325,
+      231333
+    ]
+  },
+  "entite_1084": {
+    "label": "MISC",
+    "text": "S6",
+    "jalons": [
+      231893,
+      231895
+    ]
+  },
+  "entite_1085": {
+    "label": "MISC",
+    "text": "iSoror",
+    "jalons": [
+      231964,
+      231970
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "Angelica",
+    "jalons": [
+      231971,
+      231979
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "Soror",
+    "jalons": [
+      232094,
+      232099
+    ]
+  },
+  "entite_1088": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      232100,
+      232106
+    ]
+  },
+  "entite_1089": {
+    "label": "LOC",
+    "text": "Amhos",
+    "jalons": [
+      232225,
+      232230
+    ]
+  },
+  "entite_1090": {
+    "label": "LOC",
+    "text": "CIO2d1",
+    "jalons": [
+      232521,
+      232527
+    ]
+  },
+  "entite_1091": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      232903,
+      232909
+    ]
+  },
+  "entite_1092": {
+    "label": "MISC",
+    "text": "Ao0",
+    "jalons": [
+      233270,
+      233273
+    ]
+  },
+  "entite_1093": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      233911,
+      233915
+    ]
+  },
+  "entite_1094": {
+    "label": "MISC",
+    "text": "entao2",
+    "jalons": [
+      234982,
+      234988
+    ]
+  },
+  "entite_1095": {
+    "label": "MISC",
+    "text": "Oh",
+    "jalons": [
+      234996,
+      234998
+    ]
+  },
+  "entite_1096": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      235139,
+      235142
+    ]
+  },
+  "entite_1097": {
+    "label": "MISC",
+    "text": "O",
+    "jalons": [
+      235243,
+      235244
+    ]
+  },
+  "entite_1098": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      235505,
+      235509
+    ]
+  },
+  "entite_1099": {
+    "label": "MISC",
+    "text": "Que desespero",
+    "jalons": [
+      235664,
+      235677
+    ]
+  },
+  "entite_1100": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      235707,
+      235721
+    ]
+  },
+  "entite_1101": {
+    "label": "MISC",
+    "text": "Depois... elle",
+    "jalons": [
+      235729,
+      235743
+    ]
+  },
+  "entite_1102": {
+    "label": "ORG",
+    "text": "Oh1",
+    "jalons": [
+      235758,
+      235761
+    ]
+  },
+  "entite_1103": {
+    "label": "LOC",
+    "text": "Sim",
+    "jalons": [
+      235788,
+      235791
+    ]
+  },
+  "entite_1104": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      235860,
+      235866
+    ]
+  },
+  "entite_1105": {
+    "label": "PER",
+    "text": "Freira",
+    "jalons": [
+      235956,
+      235962
+    ]
+  },
+  "entite_1106": {
+    "label": "MISC",
+    "text": "Resignada",
+    "jalons": [
+      235964,
+      235973
+    ]
+  },
+  "entite_1107": {
+    "label": "PER",
+    "text": "Quo",
+    "jalons": [
+      236000,
+      236003
+    ]
+  },
+  "entite_1108": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      236088,
+      236092
+    ]
+  },
+  "entite_1109": {
+    "label": "PER",
+    "text": "Entro",
+    "jalons": [
+      236209,
+      236214
+    ]
+  },
+  "entite_1110": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      236266,
+      236280
+    ]
+  },
+  "entite_1111": {
+    "label": "MISC",
+    "text": "NIas",
+    "jalons": [
+      236369,
+      236373
+    ]
+  },
+  "entite_1112": {
+    "label": "MISC",
+    "text": "Porque elle",
+    "jalons": [
+      236442,
+      236453
+    ]
+  },
+  "entite_1113": {
+    "label": "LOC",
+    "text": "Sugeiton-se",
+    "jalons": [
+      236525,
+      236536
+    ]
+  },
+  "entite_1114": {
+    "label": "LOC",
+    "text": "MEus",
+    "jalons": [
+      236578,
+      236582
+    ]
+  },
+  "entite_1115": {
+    "label": "MISC",
+    "text": "NCIA1",
+    "jalons": [
+      237111,
+      237116
+    ]
+  },
+  "entite_1116": {
+    "label": "MISC",
+    "text": "Entao",
+    "jalons": [
+      237125,
+      237130
+    ]
+  },
+  "entite_1117": {
+    "label": "LOC",
+    "text": "Madre Superior",
+    "jalons": [
+      237141,
+      237155
+    ]
+  },
+  "entite_1118": {
+    "label": "PER",
+    "text": "Soror Manoel-",
+    "jalons": [
+      237242,
+      237255
+    ]
+  },
+  "entite_1119": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      237472,
+      237476
+    ]
+  },
+  "entite_1120": {
+    "label": "LOC",
+    "text": "Amarem-se",
+    "jalons": [
+      237647,
+      237656
+    ]
+  },
+  "entite_1121": {
+    "label": "PER",
+    "text": "Senhor",
+    "jalons": [
+      237761,
+      237767
+    ]
+  },
+  "entite_1122": {
+    "label": "LOC",
+    "text": "Madre Superior",
+    "jalons": [
+      237904,
+      237918
+    ]
+  },
+  "entite_1123": {
+    "label": "LOC",
+    "text": "Pois",
+    "jalons": [
+      238279,
+      238283
+    ]
+  },
+  "entite_1124": {
+    "label": "LOC",
+    "text": "Madre Superior",
+    "jalons": [
+      238290,
+      238304
+    ]
+  },
+  "entite_1125": {
+    "label": "MISC",
+    "text": "PACIFICA",
+    "jalons": [
+      238312,
+      238320
+    ]
+  },
+  "entite_1126": {
+    "label": "PER",
+    "text": "Lu",
+    "jalons": [
+      238326,
+      238328
+    ]
+  },
+  "entite_1127": {
+    "label": "PER",
+    "text": "Soror Claudea",
+    "jalons": [
+      238672,
+      238685
+    ]
+  },
+  "entite_1128": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      238702,
+      238708
+    ]
+  },
+  "entite_1129": {
+    "label": "PER",
+    "text": "Soror Manoel",
+    "jalons": [
+      238749,
+      238761
+    ]
+  },
+  "entite_1130": {
+    "label": "PER",
+    "text": "Ella nio",
+    "jalons": [
+      238817,
+      238825
+    ]
+  },
+  "entite_1131": {
+    "label": "MISC",
+    "text": "Caderno",
+    "jalons": [
+      239031,
+      239038
+    ]
+  },
+  "entite_1132": {
+    "label": "ORG",
+    "text": "Convente",
+    "jalons": [
+      239121,
+      239129
+    ]
+  },
+  "entite_1133": {
+    "label": "PER",
+    "text": "Bernardas",
+    "jalons": [
+      239134,
+      239143
+    ]
+  },
+  "entite_1134": {
+    "label": "LOC",
+    "text": "MAdre Candeia",
+    "jalons": [
+      239437,
+      239450
+    ]
+  },
+  "entite_1135": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      239561,
+      239565
+    ]
+  },
+  "entite_1136": {
+    "label": "PER",
+    "text": "Miadra Angelica",
+    "jalons": [
+      240518,
+      240533
+    ]
+  },
+  "entite_1137": {
+    "label": "PER",
+    "text": "Pobre",
+    "jalons": [
+      240769,
+      240774
+    ]
+  },
+  "entite_1138": {
+    "label": "LOC",
+    "text": "Portugal",
+    "jalons": [
+      240836,
+      240844
+    ]
+  },
+  "entite_1139": {
+    "label": "PER",
+    "text": "Cobi-",
+    "jalons": [
+      240902,
+      240907
+    ]
+  },
+  "entite_1140": {
+    "label": "PER",
+    "text": "Soror Claudea",
+    "jalons": [
+      240993,
+      241006
+    ]
+  },
+  "entite_1141": {
+    "label": "LOC",
+    "text": "Sim",
+    "jalons": [
+      241018,
+      241021
+    ]
+  },
+  "entite_1142": {
+    "label": "LOC",
+    "text": "Fugiram",
+    "jalons": [
+      241328,
+      241335
+    ]
+  },
+  "entite_1143": {
+    "label": "ORG",
+    "text": "Ordem",
+    "jalons": [
+      241597,
+      241602
+    ]
+  },
+  "entite_1144": {
+    "label": "LOC",
+    "text": "MIadra Cadea",
+    "jalons": [
+      241622,
+      241634
+    ]
+  },
+  "entite_1145": {
+    "label": "PER",
+    "text": "Soro MIanoola",
+    "jalons": [
+      241665,
+      241678
+    ]
+  },
+  "entite_1146": {
+    "label": "MISC",
+    "text": "Pobre MAdre Lan-",
+    "jalons": [
+      241690,
+      241706
+    ]
+  },
+  "entite_1147": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      241807,
+      241821
+    ]
+  },
+  "entite_1148": {
+    "label": "PER",
+    "text": "Trai",
+    "jalons": [
+      241857,
+      241861
+    ]
+  },
+  "entite_1149": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      242044,
+      242050
+    ]
+  },
+  "entite_1150": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      242270,
+      242276
+    ]
+  },
+  "entite_1151": {
+    "label": "PER",
+    "text": "MAdre Angelica",
+    "jalons": [
+      242448,
+      242462
+    ]
+  },
+  "entite_1152": {
+    "label": "LOC",
+    "text": "MAdre Adelino",
+    "jalons": [
+      243750,
+      243763
+    ]
+  },
+  "entite_1153": {
+    "label": "PER",
+    "text": "Mere CIdade",
+    "jalons": [
+      243833,
+      243844
+    ]
+  },
+  "entite_1154": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      244503,
+      244507
+    ]
+  },
+  "entite_1155": {
+    "label": "PER",
+    "text": "Soror",
+    "jalons": [
+      244525,
+      244530
+    ]
+  },
+  "entite_1156": {
+    "label": "PER",
+    "text": "Claudea",
+    "jalons": [
+      244531,
+      244538
+    ]
+  },
+  "entite_1157": {
+    "label": "MISC",
+    "text": "aSsim",
+    "jalons": [
+      244910,
+      244915
+    ]
+  },
+  "entite_1158": {
+    "label": "LOC",
+    "text": "Madre Audacia",
+    "jalons": [
+      245559,
+      245572
+    ]
+  },
+  "entite_1159": {
+    "label": "MISC",
+    "text": "Aberta",
+    "jalons": [
+      245769,
+      245775
+    ]
+  },
+  "entite_1160": {
+    "label": "LOC",
+    "text": "Adro Cardoso",
+    "jalons": [
+      246146,
+      246158
+    ]
+  },
+  "entite_1161": {
+    "label": "MISC",
+    "text": "Livro da fazenda",
+    "jalons": [
+      246369,
+      246385
+    ]
+  },
+  "entite_1162": {
+    "label": "MISC",
+    "text": "So ella as plantas",
+    "jalons": [
+      246519,
+      246537
+    ]
+  },
+  "entite_1163": {
+    "label": "MISC",
+    "text": "Senhor",
+    "jalons": [
+      246591,
+      246597
+    ]
+  },
+  "entite_1164": {
+    "label": "LOC",
+    "text": "Santo Deus",
+    "jalons": [
+      247028,
+      247038
+    ]
+  },
+  "entite_1165": {
+    "label": "MISC",
+    "text": "Todos us",
+    "jalons": [
+      247278,
+      247286
+    ]
+  },
+  "entite_1166": {
+    "label": "MISC",
+    "text": "MArgem sUperior",
+    "jalons": [
+      247543,
+      247558
+    ]
+  },
+  "entite_1167": {
+    "label": "PER",
+    "text": "MIadro Claudea",
+    "jalons": [
+      247716,
+      247730
+    ]
+  },
+  "entite_1168": {
+    "label": "MISC",
+    "text": "Aper-",
+    "jalons": [
+      247841,
+      247846
+    ]
+  },
+  "entite_1169": {
+    "label": "MISC",
+    "text": "S6",
+    "jalons": [
+      247899,
+      247901
+    ]
+  },
+  "entite_1170": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      247961,
+      247967
+    ]
+  },
+  "entite_1171": {
+    "label": "PER",
+    "text": "MIanoola",
+    "jalons": [
+      248224,
+      248232
+    ]
+  },
+  "entite_1172": {
+    "label": "PER",
+    "text": "AMIzade Angelica",
+    "jalons": [
+      248308,
+      248324
+    ]
+  },
+  "entite_1173": {
+    "label": "PER",
+    "text": "Tamhem Manoel",
+    "jalons": [
+      248652,
+      248665
+    ]
+  },
+  "entite_1174": {
+    "label": "ORG",
+    "text": "Ama-Rita",
+    "jalons": [
+      249171,
+      249179
+    ]
+  },
+  "entite_1175": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      249732,
+      249746
+    ]
+  },
+  "entite_1176": {
+    "label": "LOC",
+    "text": "Superior",
+    "jalons": [
+      249764,
+      249772
+    ]
+  },
+  "entite_1177": {
+    "label": "LOC",
+    "text": "Parecia",
+    "jalons": [
+      249846,
+      249853
+    ]
+  },
+  "entite_1178": {
+    "label": "MISC",
+    "text": "CARICIA1",
+    "jalons": [
+      250368,
+      250376
+    ]
+  },
+  "entite_1179": {
+    "label": "PER",
+    "text": "padre Angelica",
+    "jalons": [
+      250489,
+      250503
+    ]
+  },
+  "entite_1180": {
+    "label": "PER",
+    "text": "Soror Manoel",
+    "jalons": [
+      250758,
+      250770
+    ]
+  },
+  "entite_1181": {
+    "label": "PER",
+    "text": "Mulre Angelica",
+    "jalons": [
+      250819,
+      250833
+    ]
+  },
+  "entite_1182": {
+    "label": "PER",
+    "text": "MAnoel explanon",
+    "jalons": [
+      250919,
+      250934
+    ]
+  },
+  "entite_1183": {
+    "label": "PER",
+    "text": "Soror Manoel",
+    "jalons": [
+      251044,
+      251056
+    ]
+  },
+  "entite_1184": {
+    "label": "PER",
+    "text": "Dons",
+    "jalons": [
+      251158,
+      251162
+    ]
+  },
+  "entite_1185": {
+    "label": "PER",
+    "text": "Dons",
+    "jalons": [
+      251167,
+      251171
+    ]
+  },
+  "entite_1186": {
+    "label": "LOC",
+    "text": "Deus1",
+    "jalons": [
+      251206,
+      251211
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "MAdre Augeliaal",
+    "jalons": [
+      251279,
+      251294
+    ]
+  },
+  "entite_1188": {
+    "label": "MISC",
+    "text": "Entao",
+    "jalons": [
+      251295,
+      251300
+    ]
+  },
+  "entite_1189": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      251354,
+      251357
+    ]
+  },
+  "entite_1190": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      251364,
+      251378
+    ]
+  },
+  "entite_1191": {
+    "label": "MISC",
+    "text": "Deus, meu Deus",
+    "jalons": [
+      251531,
+      251545
+    ]
+  },
+  "entite_1192": {
+    "label": "MISC",
+    "text": "Soror MAnoel",
+    "jalons": [
+      251793,
+      251805
+    ]
+  },
+  "entite_1193": {
+    "label": "PER",
+    "text": "Amea",
+    "jalons": [
+      251810,
+      251814
+    ]
+  },
+  "entite_1194": {
+    "label": "MISC",
+    "text": "Oh",
+    "jalons": [
+      251945,
+      251947
+    ]
+  },
+  "entite_1195": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      252047,
+      252050
+    ]
+  },
+  "entite_1196": {
+    "label": "LOC",
+    "text": "MAdre Superior",
+    "jalons": [
+      252091,
+      252105
+    ]
+  },
+  "entite_1197": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      252161,
+      252165
+    ]
+  },
+  "entite_1198": {
+    "label": "MISC",
+    "text": "MIas",
+    "jalons": [
+      252181,
+      252185
+    ]
+  },
+  "entite_1199": {
+    "label": "PER",
+    "text": "Sorot",
+    "jalons": [
+      252299,
+      252304
+    ]
+  },
+  "entite_1200": {
+    "label": "PER",
+    "text": "Angelica",
+    "jalons": [
+      252305,
+      252313
+    ]
+  },
+  "entite_1201": {
+    "label": "MISC",
+    "text": "Diria uma mentira",
+    "jalons": [
+      252430,
+      252447
+    ]
+  },
+  "entite_1202": {
+    "label": "LOC",
+    "text": "Madre",
+    "jalons": [
+      252504,
+      252509
+    ]
+  },
+  "entite_1203": {
+    "label": "LOC",
+    "text": "DELICADA",
+    "jalons": [
+      252510,
+      252518
+    ]
+  },
+  "entite_1204": {
+    "label": "PER",
+    "text": "Angelica",
+    "jalons": [
+      252522,
+      252530
+    ]
+  },
+  "entite_1205": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      252850,
+      252852
+    ]
+  },
+  "entite_1206": {
+    "label": "PER",
+    "text": "Mere Angelica",
+    "jalons": [
+      252949,
+      252962
+    ]
+  },
+  "entite_1207": {
+    "label": "PER",
+    "text": "A. culpa",
+    "jalons": [
+      252989,
+      252997
+    ]
+  },
+  "entite_1208": {
+    "label": "LOC",
+    "text": "Mar Superior",
+    "jalons": [
+      253227,
+      253239
+    ]
+  },
+  "entite_1209": {
+    "label": "MISC",
+    "text": "MIa",
+    "jalons": [
+      253368,
+      253371
+    ]
+  },
+  "entite_1210": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      253427,
+      253433
+    ]
+  },
+  "entite_1211": {
+    "label": "MISC",
+    "text": "EXC1ICAnA",
+    "jalons": [
+      253678,
+      253687
+    ]
+  },
+  "entite_1212": {
+    "label": "LOC",
+    "text": "sUperior",
+    "jalons": [
+      253817,
+      253825
+    ]
+  },
+  "entite_1213": {
+    "label": "LOC",
+    "text": "MAdre Superior",
+    "jalons": [
+      253889,
+      253903
+    ]
+  },
+  "entite_1214": {
+    "label": "PER",
+    "text": "Ha",
+    "jalons": [
+      253905,
+      253907
+    ]
+  },
+  "entite_1215": {
+    "label": "PER",
+    "text": "Soror Angelica",
+    "jalons": [
+      254313,
+      254327
+    ]
+  },
+  "entite_1216": {
+    "label": "PER",
+    "text": "MAndar Gertrudes",
+    "jalons": [
+      254585,
+      254601
+    ]
+  },
+  "entite_1217": {
+    "label": "MISC",
+    "text": "Soror MAnoel",
+    "jalons": [
+      254957,
+      254969
+    ]
+  },
+  "entite_1218": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      255459,
+      255465
+    ]
+  },
+  "entite_1219": {
+    "label": "ORG",
+    "text": "MIs",
+    "jalons": [
+      255683,
+      255686
+    ]
+  },
+  "entite_1220": {
+    "label": "PER",
+    "text": "Nao",
+    "jalons": [
+      255782,
+      255785
+    ]
+  },
+  "entite_1221": {
+    "label": "MISC",
+    "text": "Afilhado2",
+    "jalons": [
+      255839,
+      255848
+    ]
+  },
+  "entite_1222": {
+    "label": "MISC",
+    "text": "Cederia",
+    "jalons": [
+      256016,
+      256023
+    ]
+  },
+  "entite_1223": {
+    "label": "MISC",
+    "text": "Ha",
+    "jalons": [
+      256025,
+      256027
+    ]
+  },
+  "entite_1224": {
+    "label": "LOC",
+    "text": "Clristina",
+    "jalons": [
+      256182,
+      256191
+    ]
+  },
+  "entite_1225": {
+    "label": "ORG",
+    "text": "Ama-Rita",
+    "jalons": [
+      256212,
+      256220
+    ]
+  },
+  "entite_1226": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      256299,
+      256305
+    ]
+  },
+  "entite_1227": {
+    "label": "LOC",
+    "text": "MAdre Superior",
+    "jalons": [
+      256569,
+      256583
+    ]
+  },
+  "entite_1228": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      256735,
+      256741
+    ]
+  },
+  "entite_1229": {
+    "label": "MISC",
+    "text": "Ama-ditas",
+    "jalons": [
+      256781,
+      256790
+    ]
+  },
+  "entite_1230": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      257502,
+      257511
+    ]
+  },
+  "entite_1231": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      257798,
+      257807
+    ]
+  },
+  "entite_1232": {
+    "label": "MISC",
+    "text": "Roi",
+    "jalons": [
+      258013,
+      258016
+    ]
+  },
+  "entite_1233": {
+    "label": "LOC",
+    "text": "Mlanoelaa",
+    "jalons": [
+      258043,
+      258052
+    ]
+  },
+  "entite_1234": {
+    "label": "PER",
+    "text": "Ama-Rtita",
+    "jalons": [
+      258237,
+      258246
+    ]
+  },
+  "entite_1235": {
+    "label": "PER",
+    "text": "Ando",
+    "jalons": [
+      258277,
+      258281
+    ]
+  },
+  "entite_1236": {
+    "label": "PER",
+    "text": "Christina nio",
+    "jalons": [
+      258405,
+      258418
+    ]
+  },
+  "entite_1237": {
+    "label": "ORG",
+    "text": "Ama-Rita",
+    "jalons": [
+      258974,
+      258982
+    ]
+  },
+  "entite_1238": {
+    "label": "LOC",
+    "text": "Ate",
+    "jalons": [
+      259316,
+      259319
+    ]
+  },
+  "entite_1239": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      259331,
+      259340
+    ]
+  },
+  "entite_1240": {
+    "label": "MISC",
+    "text": "I8",
+    "jalons": [
+      259479,
+      259481
+    ]
+  },
+  "entite_1241": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      259556,
+      259562
+    ]
+  },
+  "entite_1242": {
+    "label": "LOC",
+    "text": "MAdre Superior",
+    "jalons": [
+      259603,
+      259617
+    ]
+  },
+  "entite_1243": {
+    "label": "LOC",
+    "text": "Christina-",
+    "jalons": [
+      259694,
+      259704
+    ]
+  },
+  "entite_1244": {
+    "label": "PER",
+    "text": "Christina nio aesti",
+    "jalons": [
+      259967,
+      259986
+    ]
+  },
+  "entite_1245": {
+    "label": "MISC",
+    "text": "Continuar",
+    "jalons": [
+      260248,
+      260257
+    ]
+  },
+  "entite_1246": {
+    "label": "PER",
+    "text": "Christina sahe tio",
+    "jalons": [
+      260280,
+      260298
+    ]
+  },
+  "entite_1247": {
+    "label": "ORG",
+    "text": "Conselhos",
+    "jalons": [
+      260411,
+      260420
+    ]
+  },
+  "entite_1248": {
+    "label": "PER",
+    "text": "Minha senhora",
+    "jalons": [
+      260531,
+      260544
+    ]
+  },
+  "entite_1249": {
+    "label": "MISC",
+    "text": "Entao",
+    "jalons": [
+      260552,
+      260557
+    ]
+  },
+  "entite_1250": {
+    "label": "MISC",
+    "text": "MInha",
+    "jalons": [
+      260726,
+      260731
+    ]
+  },
+  "entite_1251": {
+    "label": "MISC",
+    "text": "f6sse",
+    "jalons": [
+      260797,
+      260802
+    ]
+  },
+  "entite_1252": {
+    "label": "PER",
+    "text": "Aquella",
+    "jalons": [
+      260878,
+      260885
+    ]
+  },
+  "entite_1253": {
+    "label": "LOC",
+    "text": "Christina",
+    "jalons": [
+      260940,
+      260949
+    ]
+  },
+  "entite_1254": {
+    "label": "LOC",
+    "text": "Ah",
+    "jalons": [
+      261036,
+      261038
+    ]
+  },
+  "entite_1255": {
+    "label": "MISC",
+    "text": "Est",
+    "jalons": [
+      261297,
+      261300
+    ]
+  },
+  "entite_1256": {
+    "label": "PER",
+    "text": "Tambem",
+    "jalons": [
+      261480,
+      261486
+    ]
+  },
+  "entite_1257": {
+    "label": "PER",
+    "text": "MIas Christina",
+    "jalons": [
+      261929,
+      261943
+    ]
+  },
+  "entite_1258": {
+    "label": "LOC",
+    "text": "Sahir",
+    "jalons": [
+      262096,
+      262101
+    ]
+  },
+  "entite_1259": {
+    "label": "LOC",
+    "text": "Christia",
+    "jalons": [
+      262519,
+      262527
+    ]
+  },
+  "entite_1260": {
+    "label": "MISC",
+    "text": "ODeia",
+    "jalons": [
+      262905,
+      262910
+    ]
+  },
+  "entite_1261": {
+    "label": "LOC",
+    "text": "ci.- E",
+    "jalons": [
+      263072,
+      263078
+    ]
+  },
+  "entite_1262": {
+    "label": "LOC",
+    "text": "Custa-me",
+    "jalons": [
+      263204,
+      263212
+    ]
+  },
+  "entite_1263": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      263449,
+      263452
+    ]
+  },
+  "entite_1264": {
+    "label": "LOC",
+    "text": "MIas",
+    "jalons": [
+      263525,
+      263529
+    ]
+  },
+  "entite_1265": {
+    "label": "PER",
+    "text": "Di",
+    "jalons": [
+      263628,
+      263630
+    ]
+  },
+  "entite_1266": {
+    "label": "MISC",
+    "text": "Santo Deus",
+    "jalons": [
+      264743,
+      264753
+    ]
+  },
+  "entite_1267": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      264841,
+      264855
+    ]
+  },
+  "entite_1268": {
+    "label": "ORG",
+    "text": "Ama-Rita",
+    "jalons": [
+      264872,
+      264880
+    ]
+  },
+  "entite_1269": {
+    "label": "PER",
+    "text": "Soror Manuel",
+    "jalons": [
+      265030,
+      265042
+    ]
+  },
+  "entite_1270": {
+    "label": "LOC",
+    "text": "Ai",
+    "jalons": [
+      265106,
+      265108
+    ]
+  },
+  "entite_1271": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      265110,
+      265124
+    ]
+  },
+  "entite_1272": {
+    "label": "MISC",
+    "text": "Deus...",
+    "jalons": [
+      265241,
+      265248
+    ]
+  },
+  "entite_1273": {
+    "label": "PER",
+    "text": "Ella",
+    "jalons": [
+      265454,
+      265458
+    ]
+  },
+  "entite_1274": {
+    "label": "PER",
+    "text": "Soror Maoela",
+    "jalons": [
+      265630,
+      265642
+    ]
+  },
+  "entite_1275": {
+    "label": "MISC",
+    "text": "Salva-",
+    "jalons": [
+      265678,
+      265684
+    ]
+  },
+  "entite_1276": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      265900,
+      265906
+    ]
+  },
+  "entite_1277": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      266007,
+      266011
+    ]
+  },
+  "entite_1278": {
+    "label": "PER",
+    "text": "IeIt",
+    "jalons": [
+      266222,
+      266226
+    ]
+  },
+  "entite_1279": {
+    "label": "LOC",
+    "text": "Soror Mnnoelal",
+    "jalons": [
+      266230,
+      266244
+    ]
+  },
+  "entite_1280": {
+    "label": "LOC",
+    "text": "Perdo",
+    "jalons": [
+      266264,
+      266269
+    ]
+  },
+  "entite_1281": {
+    "label": "PER",
+    "text": "Meu Deus",
+    "jalons": [
+      266279,
+      266287
+    ]
+  },
+  "entite_1282": {
+    "label": "PER",
+    "text": "Marido Angelica",
+    "jalons": [
+      266596,
+      266611
+    ]
+  },
+  "entite_1283": {
+    "label": "LOC",
+    "text": "Ymnos",
+    "jalons": [
+      266845,
+      266850
+    ]
+  },
+  "entite_1284": {
+    "label": "LOC",
+    "text": "Soror MAnoel",
+    "jalons": [
+      266852,
+      266864
+    ]
+  },
+  "entite_1285": {
+    "label": "LOC",
+    "text": "Ai",
+    "jalons": [
+      266953,
+      266955
+    ]
+  },
+  "entite_1286": {
+    "label": "LOC",
+    "text": "MAdre angelica",
+    "jalons": [
+      266957,
+      266971
+    ]
+  },
+  "entite_1287": {
+    "label": "LOC",
+    "text": "morro do saudades",
+    "jalons": [
+      266973,
+      266990
+    ]
+  },
+  "entite_1288": {
+    "label": "LOC",
+    "text": "minha filha",
+    "jalons": [
+      266996,
+      267007
+    ]
+  },
+  "entite_1289": {
+    "label": "MISC",
+    "text": "Tanto Deus",
+    "jalons": [
+      267052,
+      267062
+    ]
+  },
+  "entite_1290": {
+    "label": "PER",
+    "text": "Entao",
+    "jalons": [
+      267151,
+      267156
+    ]
+  },
+  "entite_1291": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      267159,
+      267168
+    ]
+  },
+  "entite_1292": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      267213,
+      267216
+    ]
+  },
+  "entite_1293": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      267228,
+      267234
+    ]
+  },
+  "entite_1294": {
+    "label": "LOC",
+    "text": "MAdre",
+    "jalons": [
+      267293,
+      267298
+    ]
+  },
+  "entite_1295": {
+    "label": "LOC",
+    "text": "Veja-a",
+    "jalons": [
+      267479,
+      267485
+    ]
+  },
+  "entite_1296": {
+    "label": "PER",
+    "text": "Fundo Angelica",
+    "jalons": [
+      267499,
+      267513
+    ]
+  },
+  "entite_1297": {
+    "label": "PER",
+    "text": "Veia-lhe",
+    "jalons": [
+      267594,
+      267602
+    ]
+  },
+  "entite_1298": {
+    "label": "PER",
+    "text": "Madre Angelical",
+    "jalons": [
+      267721,
+      267736
+    ]
+  },
+  "entite_1299": {
+    "label": "PER",
+    "text": "Socegue",
+    "jalons": [
+      267917,
+      267924
+    ]
+  },
+  "entite_1300": {
+    "label": "PER",
+    "text": "Sim",
+    "jalons": [
+      267980,
+      267983
+    ]
+  },
+  "entite_1301": {
+    "label": "MISC",
+    "text": "Eu nao devo",
+    "jalons": [
+      267996,
+      268007
+    ]
+  },
+  "entite_1302": {
+    "label": "PER",
+    "text": "Nao posso",
+    "jalons": [
+      268038,
+      268047
+    ]
+  },
+  "entite_1303": {
+    "label": "PER",
+    "text": "Madre Angelica",
+    "jalons": [
+      268336,
+      268350
+    ]
+  },
+  "entite_1304": {
+    "label": "MISC",
+    "text": "CIDA",
+    "jalons": [
+      268441,
+      268445
+    ]
+  },
+  "entite_1305": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      268446,
+      268448
+    ]
+  },
+  "entite_1306": {
+    "label": "PER",
+    "text": "MlIanoela",
+    "jalons": [
+      268464,
+      268473
+    ]
+  },
+  "entite_1307": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      268572,
+      268581
+    ]
+  },
+  "entite_1308": {
+    "label": "LOC",
+    "text": "Chistina",
+    "jalons": [
+      268767,
+      268775
+    ]
+  },
+  "entite_1309": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      268983,
+      268989
+    ]
+  },
+  "entite_1310": {
+    "label": "LOC",
+    "text": "Esquecia",
+    "jalons": [
+      269080,
+      269088
+    ]
+  },
+  "entite_1311": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      269501,
+      269510
+    ]
+  },
+  "entite_1312": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      269632,
+      269638
+    ]
+  },
+  "entite_1313": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      269810,
+      269819
+    ]
+  },
+  "entite_1314": {
+    "label": "PER",
+    "text": "Elle",
+    "jalons": [
+      269946,
+      269950
+    ]
+  },
+  "entite_1315": {
+    "label": "LOC",
+    "text": "Christinae",
+    "jalons": [
+      270236,
+      270246
+    ]
+  },
+  "entite_1316": {
+    "label": "LOC",
+    "text": "Ama-Rita",
+    "jalons": [
+      270477,
+      270485
+    ]
+  },
+  "entite_1317": {
+    "label": "MISC",
+    "text": "MInnoola",
+    "jalons": [
+      270641,
+      270649
+    ]
+  },
+  "entite_1318": {
+    "label": "PER",
+    "text": "della sa nio",
+    "jalons": [
+      270848,
+      270860
+    ]
+  },
+  "entite_1319": {
+    "label": "PER",
+    "text": "linda rapariga",
+    "jalons": [
+      270946,
+      270960
+    ]
+  },
+  "entite_1320": {
+    "label": "PER",
+    "text": "formosissimo",
+    "jalons": [
+      271107,
+      271119
+    ]
+  },
+  "entite_1321": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      271137,
+      271143
+    ]
+  },
+  "entite_1322": {
+    "label": "MISC",
+    "text": "sCIFIAD",
+    "jalons": [
+      271696,
+      271703
+    ]
+  },
+  "entite_1323": {
+    "label": "LOC",
+    "text": "MIianoela",
+    "jalons": [
+      271803,
+      271812
+    ]
+  },
+  "entite_1324": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      272805,
+      272809
+    ]
+  },
+  "entite_1325": {
+    "label": "PER",
+    "text": "Pagens",
+    "jalons": [
+      272983,
+      272989
+    ]
+  },
+  "entite_1326": {
+    "label": "MISC",
+    "text": "arTasaYam",
+    "jalons": [
+      273792,
+      273801
+    ]
+  },
+  "entite_1327": {
+    "label": "PER",
+    "text": "Mlaneoela",
+    "jalons": [
+      274318,
+      274327
+    ]
+  },
+  "entite_1328": {
+    "label": "PER",
+    "text": "Soror Claudon",
+    "jalons": [
+      274613,
+      274626
+    ]
+  },
+  "entite_1329": {
+    "label": "MISC",
+    "text": "MOrta Madre Caderno",
+    "jalons": [
+      275209,
+      275228
+    ]
+  },
+  "entite_1330": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      275271,
+      275277
+    ]
+  },
+  "entite_1331": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      275440,
+      275446
+    ]
+  },
+  "entite_1332": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      276002,
+      276008
+    ]
+  },
+  "entite_1333": {
+    "label": "PER",
+    "text": "Deus",
+    "jalons": [
+      276342,
+      276346
+    ]
+  },
+  "entite_1334": {
+    "label": "MISC",
+    "text": "J te mo",
+    "jalons": [
+      276508,
+      276515
+    ]
+  },
+  "entite_1335": {
+    "label": "ORG",
+    "text": "Gio-Vasco",
+    "jalons": [
+      276876,
+      276885
+    ]
+  },
+  "entite_1336": {
+    "label": "LOC",
+    "text": "Lisboa6a",
+    "jalons": [
+      277097,
+      277105
+    ]
+  },
+  "entite_1337": {
+    "label": "LOC",
+    "text": "Lihertada",
+    "jalons": [
+      277761,
+      277770
+    ]
+  },
+  "entite_1338": {
+    "label": "LOC",
+    "text": "Ama-Rita",
+    "jalons": [
+      277835,
+      277843
+    ]
+  },
+  "entite_1339": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      278195,
+      278204
+    ]
+  },
+  "entite_1340": {
+    "label": "PER",
+    "text": "Maoela",
+    "jalons": [
+      278303,
+      278309
+    ]
+  },
+  "entite_1341": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      278408,
+      278414
+    ]
+  },
+  "entite_1342": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      278741,
+      278750
+    ]
+  },
+  "entite_1343": {
+    "label": "ORG",
+    "text": "AS Outras",
+    "jalons": [
+      278974,
+      278983
+    ]
+  },
+  "entite_1344": {
+    "label": "MISC",
+    "text": "MIanocla sorria",
+    "jalons": [
+      279137,
+      279152
+    ]
+  },
+  "entite_1345": {
+    "label": "MISC",
+    "text": "HCIILADA",
+    "jalons": [
+      279308,
+      279316
+    ]
+  },
+  "entite_1346": {
+    "label": "MISC",
+    "text": "IdeiA3,-",
+    "jalons": [
+      279967,
+      279975
+    ]
+  },
+  "entite_1347": {
+    "label": "MISC",
+    "text": "COmO",
+    "jalons": [
+      279978,
+      279982
+    ]
+  },
+  "entite_1348": {
+    "label": "ORG",
+    "text": "Ama-",
+    "jalons": [
+      280120,
+      280124
+    ]
+  },
+  "entite_1349": {
+    "label": "PER",
+    "text": "Rita",
+    "jalons": [
+      280125,
+      280129
+    ]
+  },
+  "entite_1350": {
+    "label": "MISC",
+    "text": "MOrgado?",
+    "jalons": [
+      280197,
+      280205
+    ]
+  },
+  "entite_1351": {
+    "label": "LOC",
+    "text": "Sim",
+    "jalons": [
+      280250,
+      280253
+    ]
+  },
+  "entite_1352": {
+    "label": "PER",
+    "text": "Manoel-",
+    "jalons": [
+      280274,
+      280281
+    ]
+  },
+  "entite_1353": {
+    "label": "ORG",
+    "text": "Ama-Rita",
+    "jalons": [
+      280324,
+      280332
+    ]
+  },
+  "entite_1354": {
+    "label": "PER",
+    "text": "Quantas",
+    "jalons": [
+      280429,
+      280436
+    ]
+  },
+  "entite_1355": {
+    "label": "MISC",
+    "text": "MAnoel",
+    "jalons": [
+      280603,
+      280609
+    ]
+  },
+  "entite_1356": {
+    "label": "LOC",
+    "text": "Aa",
+    "jalons": [
+      280750,
+      280752
+    ]
+  },
+  "entite_1357": {
+    "label": "MISC",
+    "text": "s J",
+    "jalons": [
+      280757,
+      280760
+    ]
+  },
+  "entite_1358": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      280949,
+      280958
+    ]
+  },
+  "entite_1359": {
+    "label": "PER",
+    "text": "Qnom",
+    "jalons": [
+      281454,
+      281458
+    ]
+  },
+  "entite_1360": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      281480,
+      281489
+    ]
+  },
+  "entite_1361": {
+    "label": "PER",
+    "text": "Manoel",
+    "jalons": [
+      282108,
+      282114
+    ]
+  },
+  "entite_1362": {
+    "label": "LOC",
+    "text": "Sim",
+    "jalons": [
+      282287,
+      282290
+    ]
+  },
+  "entite_1363": {
+    "label": "LOC",
+    "text": "Christina",
+    "jalons": [
+      282292,
+      282301
+    ]
+  },
+  "entite_1364": {
+    "label": "PER",
+    "text": "Christina",
+    "jalons": [
+      283083,
+      283092
+    ]
+  },
+  "entite_1365": {
+    "label": "PER",
+    "text": "Ana",
+    "jalons": [
+      283877,
+      283880
+    ]
+  },
+  "entite_1366": {
+    "label": "PER",
+    "text": "MIamnoela",
+    "jalons": [
+      283946,
+      283955
+    ]
+  },
+  "entite_1367": {
+    "label": "PER",
+    "text": "Christinn",
+    "jalons": [
+      284185,
+      284194
+    ]
+  },
+  "entite_1368": {
+    "label": "ORG",
+    "text": "Nio",
+    "jalons": [
+      284385,
+      284388
+    ]
+  },
+  "entite_1369": {
+    "label": "MISC",
+    "text": "Encostado-so is almofadas",
+    "jalons": [
+      284420,
+      284445
+    ]
+  },
+  "entite_1370": {
+    "label": "MISC",
+    "text": "Ama-GRita",
+    "jalons": [
+      284452,
+      284461
+    ]
+  },
+  "entite_1371": {
+    "label": "PER",
+    "text": "Deixou",
+    "jalons": [
+      284636,
+      284642
+    ]
+  },
+  "entite_1372": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      284950,
+      284951
+    ]
+  },
+  "entite_1373": {
+    "label": "MISC",
+    "text": "L--",
+    "jalons": [
+      284985,
+      284988
+    ]
+  },
+  "entite_1374": {
+    "label": "MISC",
+    "text": "Lis-",
+    "jalons": [
+      284989,
+      284993
+    ]
+  },
+  "entite_1375": {
+    "label": "MISC",
+    "text": "I",
+    "jalons": [
+      284994,
+      284995
+    ]
+  },
+  "entite_1376": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      284999,
+      285001
+    ]
+  },
+  "entite_1377": {
+    "label": "LOC",
+    "text": "onIS",
+    "jalons": [
+      285005,
+      285009
+    ]
+  },
+  "entite_1378": {
+    "label": "MISC",
+    "text": "ALT01",
+    "jalons": [
+      285020,
+      285025
+    ]
+  },
+  "entite_1379": {
+    "label": "MISC",
+    "text": "AI3",
+    "jalons": [
+      285026,
+      285029
+    ]
+  },
+  "entite_1380": {
+    "label": "MISC",
+    "text": "IguAiS",
+    "jalons": [
+      285042,
+      285048
+    ]
+  },
+  "entite_1381": {
+    "label": "MISC",
+    "text": "Easgotado",
+    "jalons": [
+      285071,
+      285080
+    ]
+  },
+  "entite_1382": {
+    "label": "PER",
+    "text": "L1s",
+    "jalons": [
+      285154,
+      285157
+    ]
+  },
+  "entite_1383": {
+    "label": "MISC",
+    "text": "Tar0 INF: L comedia dan ALli",
+    "jalons": [
+      285250,
+      285278
+    ]
+  },
+  "entite_1384": {
+    "label": "MISC",
+    "text": "Cura",
+    "jalons": [
+      285301,
+      285305
+    ]
+  },
+  "entite_1385": {
+    "label": "LOC",
+    "text": "GEnTE",
+    "jalons": [
+      285308,
+      285313
+    ]
+  },
+  "entite_1386": {
+    "label": "PER",
+    "text": "Paulino de Oliveira",
+    "jalons": [
+      285365,
+      285384
+    ]
+  },
+  "entite_1387": {
+    "label": "LOC",
+    "text": "Olieeim",
+    "jalons": [
+      285395,
+      285402
+    ]
+  },
+  "entite_1388": {
+    "label": "PER",
+    "text": "S8A IIMAEYI",
+    "jalons": [
+      285405,
+      285416
+    ]
+  },
+  "entite_1389": {
+    "label": "MISC",
+    "text": "Contos de ri",
+    "jalons": [
+      285627,
+      285639
+    ]
+  },
+  "entite_1390": {
+    "label": "MISC",
+    "text": "nsIA Fr",
+    "jalons": [
+      285726,
+      285733
+    ]
+  },
+  "entite_1391": {
+    "label": "MISC",
+    "text": "u0",
+    "jalons": [
+      285854,
+      285856
+    ]
+  },
+  "entite_1392": {
+    "label": "MISC",
+    "text": "HIstorias",
+    "jalons": [
+      285857,
+      285866
+    ]
+  },
+  "entite_1393": {
+    "label": "LOC",
+    "text": "Cula",
+    "jalons": [
+      285907,
+      285911
+    ]
+  },
+  "entite_1394": {
+    "label": "PER",
+    "text": "Ixsrarcio",
+    "jalons": [
+      285949,
+      285958
+    ]
+  },
+  "entite_1395": {
+    "label": "PER",
+    "text": "Netas",
+    "jalons": [
+      285970,
+      285975
+    ]
+  },
+  "entite_1396": {
+    "label": "MISC",
+    "text": "Folheto",
+    "jalons": [
+      285989,
+      285996
+    ]
+  },
+  "entite_1397": {
+    "label": "PER",
+    "text": "Franca Amado",
+    "jalons": [
+      286057,
+      286069
+    ]
+  },
+  "entite_1398": {
+    "label": "PER",
+    "text": "Carlos Malhetro Dias",
+    "jalons": [
+      286070,
+      286090
+    ]
+  },
+  "entite_1399": {
+    "label": "PER",
+    "text": "A Vencida",
+    "jalons": [
+      286092,
+      286101
+    ]
+  },
+  "entite_1400": {
+    "label": "PER",
+    "text": "Manuel",
+    "jalons": [
+      286121,
+      286127
+    ]
+  },
+  "entite_1401": {
+    "label": "PER",
+    "text": "HArmonias",
+    "jalons": [
+      286139,
+      286148
+    ]
+  },
+  "entite_1402": {
+    "label": "MISC",
+    "text": "O dos",
+    "jalons": [
+      286245,
+      286250
+    ]
+  },
+  "entite_1403": {
+    "label": "ORG",
+    "text": "Benigua Ver",
+    "jalons": [
+      286276,
+      286287
+    ]
+  },
+  "entite_1404": {
+    "label": "PER",
+    "text": "Joaio Chagas",
+    "jalons": [
+      286297,
+      286309
+    ]
+  },
+  "entite_1405": {
+    "label": "MISC",
+    "text": "IIens",
+    "jalons": [
+      286311,
+      286316
+    ]
+  },
+  "entite_1406": {
+    "label": "MISC",
+    "text": "Gomes Len",
+    "jalons": [
+      286361,
+      286370
+    ]
+  },
+  "entite_1407": {
+    "label": "LOC",
+    "text": "Cadeira de Coimbra",
+    "jalons": [
+      286386,
+      286404
+    ]
+  },
+  "entite_1408": {
+    "label": "LOC",
+    "text": "Sagrado",
+    "jalons": [
+      286434,
+      286441
+    ]
+  },
+  "entite_1409": {
+    "label": "LOC",
+    "text": "Falar",
+    "jalons": [
+      286463,
+      286468
+    ]
+  },
+  "entite_1410": {
+    "label": "MISC",
+    "text": "Saudades do Rei",
+    "jalons": [
+      286491,
+      286506
+    ]
+  },
+  "entite_1411": {
+    "label": "LOC",
+    "text": "Sorrisos",
+    "jalons": [
+      286526,
+      286534
+    ]
+  },
+  "entite_1412": {
+    "label": "LOC",
+    "text": "Constan",
+    "jalons": [
+      286560,
+      286567
+    ]
+  },
+  "entite_1413": {
+    "label": "MISC",
+    "text": "H",
+    "jalons": [
+      286657,
+      286658
+    ]
+  },
+  "entite_1414": {
+    "label": "PER",
+    "text": "Brnnswick",
+    "jalons": [
+      286660,
+      286669
+    ]
+  },
+  "entite_1415": {
+    "label": "LOC",
+    "text": "Peninsula",
+    "jalons": [
+      286683,
+      286692
+    ]
+  },
+  "entite_1416": {
+    "label": "PER",
+    "text": "Lima VIda",
+    "jalons": [
+      286708,
+      286717
+    ]
+  },
+  "entite_1417": {
+    "label": "PER",
+    "text": "Fsplendores do acerdocio",
+    "jalons": [
+      286719,
+      286743
+    ]
+  },
+  "entite_1418": {
+    "label": "LOC",
+    "text": "U0",
+    "jalons": [
+      286760,
+      286762
+    ]
+  },
+  "entite_1419": {
+    "label": "MISC",
+    "text": "E500",
+    "jalons": [
+      286792,
+      286796
+    ]
+  },
+  "entite_1420": {
+    "label": "MISC",
+    "text": "A0",
+    "jalons": [
+      286797,
+      286799
+    ]
+  },
+  "entite_1421": {
+    "label": "PER",
+    "text": "PPte",
+    "jalons": [
+      286803,
+      286807
+    ]
+  },
+  "entite_1422": {
+    "label": "PER",
+    "text": "Henrique",
+    "jalons": [
+      286842,
+      286850
+    ]
+  },
+  "entite_1423": {
+    "label": "PER",
+    "text": "Campos",
+    "jalons": [
+      286893,
+      286899
+    ]
+  },
+  "entite_1424": {
+    "label": "ORG",
+    "text": "Ois ds Pobres",
+    "jalons": [
+      286907,
+      286920
+    ]
+  },
+  "entite_1425": {
+    "label": "LOC",
+    "text": "Ccin dos Cardenes",
+    "jalons": [
+      286933,
+      286950
+    ]
+  },
+  "entite_1426": {
+    "label": "PER",
+    "text": "LiA",
+    "jalons": [
+      286992,
+      286995
+    ]
+  },
+  "entite_1427": {
+    "label": "MISC",
+    "text": "Pinsi",
+    "jalons": [
+      287049,
+      287054
+    ]
+  },
+  "entite_1428": {
+    "label": "MISC",
+    "text": "Antonio",
+    "jalons": [
+      287063,
+      287070
+    ]
+  },
+  "entite_1429": {
+    "label": "PER",
+    "text": "lEitor amn macio 1 vo",
+    "jalons": [
+      287078,
+      287099
+    ]
+  },
+  "entite_1430": {
+    "label": "PER",
+    "text": "Candido Gnarrairo",
+    "jalons": [
+      287103,
+      287120
+    ]
+  },
+  "entite_1431": {
+    "label": "PER",
+    "text": "Ros",
+    "jalons": [
+      287124,
+      287127
+    ]
+  },
+  "entite_1432": {
+    "label": "PER",
+    "text": "Pedro Rodrigues",
+    "jalons": [
+      287138,
+      287153
+    ]
+  },
+  "entite_1433": {
+    "label": "PER",
+    "text": "AIfredo Franca",
+    "jalons": [
+      287182,
+      287196
+    ]
+  },
+  "entite_1434": {
+    "label": "PER",
+    "text": "Affonso Lopes Vieira",
+    "jalons": [
+      287223,
+      287243
+    ]
+  },
+  "entite_1435": {
+    "label": "LOC",
+    "text": "Saudade",
+    "jalons": [
+      287308,
+      287315
+    ]
+  },
+  "entite_1436": {
+    "label": "MISC",
+    "text": "I00",
+    "jalons": [
+      287371,
+      287374
+    ]
+  },
+  "entite_1437": {
+    "label": "LOC",
+    "text": "Luiz de Nagahaes",
+    "jalons": [
+      287454,
+      287470
+    ]
+  },
+  "entite_1438": {
+    "label": "PER",
+    "text": "D. Sebasti",
+    "jalons": [
+      287472,
+      287482
+    ]
+  }
+}
