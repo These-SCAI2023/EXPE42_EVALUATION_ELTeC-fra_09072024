@@ -1,16 +1,4 @@
 {
-  "camembert-4.41.1_Kraken": {
-    "EN-occ": 397,
-    "EN-type": 233
-  },
-  "camembert-4.41.1_Tesseract-PNG": {
-    "EN-occ": 658,
-    "EN-type": 268
-  },
-  "camembert-4.41.1_Ref": {
-    "EN-occ": 77,
-    "EN-type": 31
-  },
   "camembert-4.41.1_kraken4.3.13.dev25": {
     "EN-occ": 720,
     "EN-type": 615
@@ -23,113 +11,9 @@
     "EN-occ": 111,
     "EN-type": 69
   },
-  "en-1.8.2_Kraken": {
-    "EN-occ": 213,
-    "EN-type": 106
-  },
-  "en-1.8.2_Tesseract-PNG": {
-    "EN-occ": 382,
-    "EN-type": 147
-  },
-  "en-1.8.2_Ref": {
-    "EN-occ": 310,
-    "EN-type": 102
-  },
-  "flair-0.13.1_Kraken": {
-    "EN-occ": 254,
-    "EN-type": 135
-  },
-  "flair-0.13.1_Tesseract-PNG": {
-    "EN-occ": 424,
-    "EN-type": 156
-  },
-  "flair-0.13.1_Ref": {
-    "EN-occ": 371,
-    "EN-type": 107
-  },
-  "flair-0.13.1_kraken4.3.13.dev25": {
-    "EN-occ": 637,
-    "EN-type": 519
-  },
-  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
-    "EN-occ": 243,
-    "EN-type": 229
-  },
-  "flair-0.13.1_tesseract0.3.10": {
-    "EN-occ": 366,
-    "EN-type": 124
-  },
-  "spacy-lg-3.7.5_Kraken": {
-    "EN-occ": 423,
-    "EN-type": 203
-  },
-  "spacy-lg-3.7.5_Tesseract-PNG": {
-    "EN-occ": 383,
-    "EN-type": 176
-  },
-  "spacy-lg-3.7.5_Ref": {
-    "EN-occ": 221,
-    "EN-type": 93
-  },
-  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
-    "EN-occ": 1908,
-    "EN-type": 1510
-  },
-  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
-    "EN-occ": 1761,
-    "EN-type": 1493
-  },
-  "spacy-lg-3.7.5_tesseract0.3.10": {
-    "EN-occ": 417,
-    "EN-type": 208
-  },
-  "spacy-md-3.7.5_Kraken": {
-    "EN-occ": 423,
-    "EN-type": 203
-  },
-  "spacy-md-3.7.5_Tesseract-PNG": {
-    "EN-occ": 383,
-    "EN-type": 176
-  },
-  "spacy-md-3.7.5_Ref": {
-    "EN-occ": 221,
-    "EN-type": 93
-  },
-  "spacy-md-3.7.5_kraken4.3.13.dev25": {
-    "EN-occ": 1908,
-    "EN-type": 1510
-  },
-  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
-    "EN-occ": 1761,
-    "EN-type": 1493
-  },
-  "spacy-md-3.7.5_tesseract0.3.10": {
-    "EN-occ": 417,
-    "EN-type": 208
-  },
-  "spacy-sm-3.7.5_Kraken": {
-    "EN-occ": 423,
-    "EN-type": 203
-  },
-  "spacy-sm-3.7.5_Tesseract-PNG": {
-    "EN-occ": 383,
-    "EN-type": 176
-  },
-  "spacy-sm-3.7.5_Ref": {
-    "EN-occ": 221,
-    "EN-type": 93
-  },
-  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
-    "EN-occ": 1908,
-    "EN-type": 1510
-  },
-  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
-    "EN-occ": 1761,
-    "EN-type": 1493
-  },
-  "spacy-sm-3.7.5_tesseract0.3.10": {
-    "EN-occ": 417,
-    "EN-type": 208
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 77,
+    "EN-type": 31
   },
   "stanza-fr-1.8.2_kraken4.3.13.dev25": {
     "EN-occ": 705,
@@ -146,5 +30,69 @@
   "stanza-fr-1.8.2_Ref": {
     "EN-occ": 98,
     "EN-type": 43
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 1908,
+    "EN-type": 1510
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1761,
+    "EN-type": 1493
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 417,
+    "EN-type": 208
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 221,
+    "EN-type": 93
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 1908,
+    "EN-type": 1510
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1761,
+    "EN-type": 1493
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 417,
+    "EN-type": 208
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 221,
+    "EN-type": 93
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 1908,
+    "EN-type": 1510
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1761,
+    "EN-type": 1493
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 417,
+    "EN-type": 208
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 221,
+    "EN-type": 93
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 637,
+    "EN-type": 519
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 243,
+    "EN-type": 229
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 366,
+    "EN-type": 124
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 371,
+    "EN-type": 107
   }
 }

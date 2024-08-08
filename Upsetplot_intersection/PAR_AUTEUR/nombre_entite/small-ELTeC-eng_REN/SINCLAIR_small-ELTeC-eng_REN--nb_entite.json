@@ -23,18 +23,6 @@
     "EN-occ": 398,
     "EN-type": 156
   },
-  "flair-0.13.1_Kraken": {
-    "EN-occ": 168,
-    "EN-type": 115
-  },
-  "flair-0.13.1_Tesseract-PNG": {
-    "EN-occ": 165,
-    "EN-type": 95
-  },
-  "flair-0.13.1_Ref": {
-    "EN-occ": 434,
-    "EN-type": 165
-  },
   "spacy-lg-3.7.5_Kraken": {
     "EN-occ": 328,
     "EN-type": 134
@@ -70,5 +58,17 @@
   "spacy-sm-3.7.5_Ref": {
     "EN-occ": 1039,
     "EN-type": 157
+  },
+  "flair-0.13.1_Kraken": {
+    "EN-occ": 168,
+    "EN-type": 115
+  },
+  "flair-0.13.1_Tesseract-PNG": {
+    "EN-occ": 165,
+    "EN-type": 95
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 434,
+    "EN-type": 165
   }
 }

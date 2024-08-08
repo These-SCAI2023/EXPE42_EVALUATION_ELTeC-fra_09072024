@@ -1,0 +1,2938 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      6,
+      13
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "département de l'Oise",
+    "jalons": [
+      18,
+      39
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      42,
+      51
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "M",
+    "jalons": [
+      55,
+      56
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "M.\n\n",
+    "jalons": [
+      89,
+      93
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Alexandre Sorel",
+    "jalons": [
+      93,
+      108
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Source gallica.bnf.fr",
+    "jalons": [
+      113,
+      134
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "Bibliothèques de la Ville de Compiègne\n\f\n11 Gallica\n\n \n\n",
+    "jalons": [
+      137,
+      193
+    ]
+  },
+  "entite_8": {
+    "label": "LOC",
+    "text": "Oise",
+    "jalons": [
+      198,
+      202
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      205,
+      214
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      218,
+      223
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "M.\n\n| Sorel",
+    "jalons": [
+      251,
+      262
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Alexandre",
+    "jalons": [
+      264,
+      273
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Alexandre Sorel",
+    "jalons": [
+      319,
+      334
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      387,
+      394
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "Source gallica.bnf.fr",
+    "jalons": [
+      882,
+      903
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France » ou « Source",
+    "jalons": [
+      906,
+      952
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "BnF »",
+    "jalons": [
+      970,
+      975
+    ]
+  },
+  "entite_18": {
+    "label": "ORG",
+    "text": "ACCÉDER",
+    "jalons": [
+      1488,
+      1495
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "TARIFS",
+    "jalons": [
+      1500,
+      1506
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "BnF",
+    "jalons": [
+      1575,
+      1578
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Source",
+    "jalons": [
+      2119,
+      2125
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Bibliothèque",
+    "jalons": [
+      2143,
+      2155
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "BnF",
+    "jalons": [
+      2350,
+      2353
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "L341",
+    "jalons": [
+      2403,
+      2407
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Gallica",
+    "jalons": [
+      2521,
+      2528
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      3032,
+      3039
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "utilisation.commerciale@ bnf.fr",
+    "jalons": [
+      3071,
+      3102
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "ANS\n\n",
+    "jalons": [
+      3108,
+      3113
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      3144,
+      3145
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "SMART\n\n",
+    "jalons": [
+      3159,
+      3166
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "AVocat",
+    "jalons": [
+      3217,
+      3223
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Cour impériale de ‘Paris",
+    "jalons": [
+      3229,
+      3253
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Loue",
+    "jalons": [
+      3258,
+      3262
+    ]
+  },
+  "entite_34": {
+    "label": "ORG",
+    "text": "EEE",
+    "jalons": [
+      3275,
+      3278
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "| VICTOR PINEAU",
+    "jalons": [
+      3372,
+      3387
+    ]
+  },
+  "entite_36": {
+    "label": "ORG",
+    "text": "LIBRAIRE",
+    "jalons": [
+      3389,
+      3397
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "eo\n\n1865\n\n",
+    "jalons": [
+      3426,
+      3436
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      3455,
+      3456
+    ]
+  },
+  "entite_39": {
+    "label": "MISC",
+    "text": "Ste D 4 jt",
+    "jalons": [
+      3466,
+      3476
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "IL A UN",
+    "jalons": [
+      3482,
+      3489
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Et pme 2 A une CE",
+    "jalons": [
+      3496,
+      3513
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "A D CR Que mes me nat",
+    "jalons": [
+      3517,
+      3538
+    ]
+  },
+  "entite_43": {
+    "label": "ORG",
+    "text": "TT",
+    "jalons": [
+      3545,
+      3547
+    ]
+  },
+  "entite_44": {
+    "label": "ORG",
+    "text": "DE",
+    "jalons": [
+      3562,
+      3564
+    ]
+  },
+  "entite_45": {
+    "label": "ORG",
+    "text": "IMPRIMERIE",
+    "jalons": [
+      3567,
+      3577
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "SAM\n\f\npa\n\no on enér\n\n",
+    "jalons": [
+      3641,
+      3662
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "DÉPARTEMENT DE L'OISE",
+    "jalons": [
+      3667,
+      3688
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "REVOLUTION\n\nCOMPIÈGNE",
+    "jalons": [
+      3706,
+      3727
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "MARAT\n\n",
+    "jalons": [
+      3731,
+      3738
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Fragment historique",
+    "jalons": [
+      3739,
+      3758
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3805,
+      3810
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "Amis de la Constitution",
+    "jalons": [
+      3865,
+      3888
+    ]
+  },
+  "entite_53": {
+    "label": "ORG",
+    "text": "Société des Jacobins",
+    "jalons": [
+      3920,
+      3940
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      4049,
+      4058
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Beauvais",
+    "jalons": [
+      4345,
+      4353
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "département de l'Oise",
+    "jalons": [
+      4394,
+      4415
+    ]
+  },
+  "entite_57": {
+    "label": "LOC",
+    "text": "Moniteur",
+    "jalons": [
+      4481,
+      4489
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      4505,
+      4514
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      4592,
+      4601
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "Amis de la Constitution",
+    "jalons": [
+      4704,
+      4727
+    ]
+  },
+  "entite_61": {
+    "label": "ORG",
+    "text": "Amis de la\n« Constitution",
+    "jalons": [
+      4870,
+      4895
+    ]
+  },
+  "entite_62": {
+    "label": "ORG",
+    "text": "Contribution",
+    "jalons": [
+      5145,
+      5157
+    ]
+  },
+  "entite_63": {
+    "label": "ORG",
+    "text": "Société des Amis de la Constitution de Compiègne",
+    "jalons": [
+      5322,
+      5370
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "département de l'Oise",
+    "jalons": [
+      5562,
+      5583
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      5800,
+      5809
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "t. VII",
+    "jalons": [
+      5841,
+      5847
+    ]
+  },
+  "entite_67": {
+    "label": "ORG",
+    "text": "Id",
+    "jalons": [
+      5861,
+      5863
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "t. VIII",
+    "jalons": [
+      5866,
+      5873
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "|\n\f\n",
+    "jalons": [
+      5883,
+      5887
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Tribale",
+    "jalons": [
+      5932,
+      5939
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "M. Stanislas Leféron",
+    "jalons": [
+      6068,
+      6088
+    ]
+  },
+  "entite_72": {
+    "label": "ORG",
+    "text": "Société des Amis de la Constitution",
+    "jalons": [
+      6166,
+      6201
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      6282,
+      6285
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      6405,
+      6408
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "St",
+    "jalons": [
+      6501,
+      6503
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Jacques",
+    "jalons": [
+      6504,
+      6511
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "Mirabeau",
+    "jalons": [
+      6560,
+      6568
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Constitution de Noyon",
+    "jalons": [
+      6808,
+      6829
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      6882,
+      6891
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "Pré-",
+    "jalons": [
+      6917,
+      6921
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Messieurs de Noyon",
+    "jalons": [
+      6962,
+      6980
+    ]
+  },
+  "entite_82": {
+    "label": "ORG",
+    "text": "Constitution",
+    "jalons": [
+      7758,
+      7770
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Venait",
+    "jalons": [
+      8012,
+      8018
+    ]
+  },
+  "entite_84": {
+    "label": "ORG",
+    "text": "SALUS",
+    "jalons": [
+      8271,
+      8276
+    ]
+  },
+  "entite_85": {
+    "label": "ORG",
+    "text": "SUPREMA",
+    "jalons": [
+      8284,
+      8291
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Constitution",
+    "jalons": [
+      8366,
+      8378
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Jda-\ncoins de",
+    "jalons": [
+      8757,
+      8770
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      8771,
+      8776
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "Beauvais",
+    "jalons": [
+      8791,
+      8799
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "M. Massieu",
+    "jalons": [
+      8855,
+      8865
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "département de l'Oise",
+    "jalons": [
+      8877,
+      8898
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "président Renard",
+    "jalons": [
+      9002,
+      9018
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "M. Massieu",
+    "jalons": [
+      9076,
+      9086
+    ]
+  },
+  "entite_94": {
+    "label": "MISC",
+    "text": "Constitution de Noyon",
+    "jalons": [
+      9159,
+      9180
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      9230,
+      9239
+    ]
+  },
+  "entite_96": {
+    "label": "MISC",
+    "text": "Jacobins",
+    "jalons": [
+      9281,
+      9289
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      9293,
+      9298
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Massieu",
+    "jalons": [
+      9449,
+      9456
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Beauvais",
+    "jalons": [
+      9524,
+      9532
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "Jean-Jacques-Rousseau",
+    "jalons": [
+      9697,
+      9718
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Massieu",
+    "jalons": [
+      9981,
+      9988
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Rainville",
+    "jalons": [
+      10046,
+      10055
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Noyon",
+    "jalons": [
+      10071,
+      10076
+    ]
+  },
+  "entite_104": {
+    "label": "LOC",
+    "text": "Gibert",
+    "jalons": [
+      10078,
+      10084
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      10086,
+      10087
+    ]
+  },
+  "entite_106": {
+    "label": "MISC",
+    "text": "Celui-ci",
+    "jalons": [
+      10243,
+      10251
+    ]
+  },
+  "entite_107": {
+    "label": "MISC",
+    "text": "Massieu",
+    "jalons": [
+      10303,
+      10310
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "Jean-Baptiste",
+    "jalons": [
+      10312,
+      10325
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "Serge",
+    "jalons": [
+      10341,
+      10346
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Senlis",
+    "jalons": [
+      10392,
+      10398
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "États-Généraux",
+    "jalons": [
+      10411,
+      10425
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "département de l'Oise",
+    "jalons": [
+      10488,
+      10509
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      10535,
+      10545
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Louis XVI",
+    "jalons": [
+      10566,
+      10575
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Jai",
+    "jalons": [
+      10595,
+      10598
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "» Massieu",
+    "jalons": [
+      10942,
+      10951
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "Givet",
+    "jalons": [
+      11017,
+      11022
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Bruxelles",
+    "jalons": [
+      11036,
+      11045
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "À =\n\n",
+    "jalons": [
+      11094,
+      11099
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "district de Compiègne",
+    "jalons": [
+      11407,
+      11428
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      11501,
+      11502
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Noyon",
+    "jalons": [
+      11624,
+      11629
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "M. Massieu",
+    "jalons": [
+      11772,
+      11782
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      11902,
+      11911
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Noyon",
+    "jalons": [
+      12019,
+      12024
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "M. Massieu",
+    "jalons": [
+      12246,
+      12256
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      12299,
+      12300
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "M. Massieu",
+    "jalons": [
+      12340,
+      12350
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "M. Libert",
+    "jalons": [
+      12354,
+      12363
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      12436,
+      12445
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Louis-Joseph-Stanislas Leféron",
+    "jalons": [
+      12700,
+      12730
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "M. Leféron",
+    "jalons": [
+      12911,
+      12921
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Bertrand",
+    "jalons": [
+      12962,
+      12970
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "M. Chabanon",
+    "jalons": [
+      12987,
+      12998
+    ]
+  },
+  "entite_135": {
+    "label": "ORG",
+    "text": "l’Académie",
+    "jalons": [
+      13021,
+      13031
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Française",
+    "jalons": [
+      13032,
+      13041
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "St",
+    "jalons": [
+      13119,
+      13121
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Corps Administratifs",
+    "jalons": [
+      13205,
+      13225
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Militaires",
+    "jalons": [
+      13229,
+      13239
+    ]
+  },
+  "entite_140": {
+    "label": "LOC",
+    "text": "Conseil général de Compiègne",
+    "jalons": [
+      13572,
+      13600
+    ]
+  },
+  "entite_141": {
+    "label": "ORG",
+    "text": "Conseil général assemblé",
+    "jalons": [
+      13675,
+      13699
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      13716,
+      13717
+    ]
+  },
+  "entite_143": {
+    "label": "ORG",
+    "text": "Assemblée nationale",
+    "jalons": [
+      13765,
+      13784
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      13947,
+      13948
+    ]
+  },
+  "entite_145": {
+    "label": "ORG",
+    "text": "Constitution",
+    "jalons": [
+      14042,
+      14054
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      14287,
+      14292
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Le roi",
+    "jalons": [
+      14294,
+      14300
+    ]
+  },
+  "entite_148": {
+    "label": "ORG",
+    "text": "Constitution",
+    "jalons": [
+      14318,
+      14330
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Com-",
+    "jalons": [
+      14376,
+      14380
+    ]
+  },
+  "entite_150": {
+    "label": "MISC",
+    "text": "As-",
+    "jalons": [
+      14450,
+      14453
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Louis XVI",
+    "jalons": [
+      14636,
+      14645
+    ]
+  },
+  "entite_152": {
+    "label": "ORG",
+    "text": "Amis de la Constitution de Compiègne",
+    "jalons": [
+      14854,
+      14890
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "MM. Thibaut",
+    "jalons": [
+      15215,
+      15226
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Berger",
+    "jalons": [
+      15228,
+      15234
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Saiget",
+    "jalons": [
+      15236,
+      15242
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Chauffour",
+    "jalons": [
+      15244,
+      15253
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "Wattelet",
+    "jalons": [
+      15255,
+      15263
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Mercier",
+    "jalons": [
+      15265,
+      15272
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Courtois",
+    "jalons": [
+      15274,
+      15282
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Lambin",
+    "jalons": [
+      15284,
+      15290
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Veron",
+    "jalons": [
+      15292,
+      15297
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Rey",
+    "jalons": [
+      15299,
+      15302
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Beaugrand",
+    "jalons": [
+      15304,
+      15313
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Chambon",
+    "jalons": [
+      15315,
+      15322
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Monies",
+    "jalons": [
+      15326,
+      15332
+    ]
+  },
+  "entite_166": {
+    "label": "ORG",
+    "text": "Conseil général",
+    "jalons": [
+      15395,
+      15410
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "MM. d’Auger",
+    "jalons": [
+      15418,
+      15429
+    ]
+  },
+  "entite_168": {
+    "label": "ORG",
+    "text": "Thi-",
+    "jalons": [
+      15431,
+      15435
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Étienne Poulain",
+    "jalons": [
+      15444,
+      15459
+    ]
+  },
+  "entite_170": {
+    "label": "ORG",
+    "text": "Société des Amis",
+    "jalons": [
+      15488,
+      15504
+    ]
+  },
+  "entite_171": {
+    "label": "ORG",
+    "text": "Constitution",
+    "jalons": [
+      15511,
+      15523
+    ]
+  },
+  "entite_172": {
+    "label": "LOC",
+    "text": "rue d’Enfer",
+    "jalons": [
+      15571,
+      15582
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Leséron",
+    "jalons": [
+      15614,
+      15621
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "M. le\ncommandant",
+    "jalons": [
+      15784,
+      15800
+    ]
+  },
+  "entite_175": {
+    "label": "MISC",
+    "text": "ma-\n\n",
+    "jalons": [
+      15859,
+      15864
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "rue d’Enfer\n\n",
+    "jalons": [
+      15998,
+      16011
+    ]
+  },
+  "entite_177": {
+    "label": "LOC",
+    "text": "Leséron",
+    "jalons": [
+      16064,
+      16071
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Nonobstant",
+    "jalons": [
+      16144,
+      16154
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Arrêle",
+    "jalons": [
+      16749,
+      16755
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "IV",
+    "jalons": [
+      16803,
+      16805
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Li-",
+    "jalons": [
+      16813,
+      16816
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      16828,
+      16829
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "sûL",
+    "jalons": [
+      17132,
+      17135
+    ]
+  },
+  "entite_184": {
+    "label": "ORG",
+    "text": "Amis de la République",
+    "jalons": [
+      17309,
+      17330
+    ]
+  },
+  "entite_185": {
+    "label": "ORG",
+    "text": "Amis de la\nConstitution fat",
+    "jalons": [
+      17393,
+      17420
+    ]
+  },
+  "entite_186": {
+    "label": "ORG",
+    "text": "Amis de la République",
+    "jalons": [
+      17453,
+      17474
+    ]
+  },
+  "entite_187": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      17865,
+      17870
+    ]
+  },
+  "entite_188": {
+    "label": "LOC",
+    "text": "Tuileries",
+    "jalons": [
+      17920,
+      17929
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Décart",
+    "jalons": [
+      18222,
+      18228
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      18423,
+      18424
+    ]
+  },
+  "entite_191": {
+    "label": "ORG",
+    "text": "Sainte- Marie",
+    "jalons": [
+      18475,
+      18488
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "abbaye de Saint-Corneille",
+    "jalons": [
+      18524,
+      18549
+    ]
+  },
+  "entite_193": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      18606,
+      18615
+    ]
+  },
+  "entite_194": {
+    "label": "ORG",
+    "text": "Amis de la République",
+    "jalons": [
+      18640,
+      18661
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      18849,
+      18850
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      18918,
+      18923
+    ]
+  },
+  "entite_197": {
+    "label": "LOC",
+    "text": "Jacobins",
+    "jalons": [
+      18934,
+      18942
+    ]
+  },
+  "entite_198": {
+    "label": "MISC",
+    "text": "la Révolution",
+    "jalons": [
+      18986,
+      18999
+    ]
+  },
+  "entite_199": {
+    "label": "LOC",
+    "text": "la France",
+    "jalons": [
+      19021,
+      19030
+    ]
+  },
+  "entite_200": {
+    "label": "LOC",
+    "text": "La royauté »",
+    "jalons": [
+      19048,
+      19060
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      19116,
+      19125
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Marseillais",
+    "jalons": [
+      19341,
+      19352
+    ]
+  },
+  "entite_203": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      19405,
+      19406
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Savoie",
+    "jalons": [
+      19589,
+      19595
+    ]
+  },
+  "entite_205": {
+    "label": "LOC",
+    "text": "Sarde",
+    "jalons": [
+      19621,
+      19626
+    ]
+  },
+  "entite_206": {
+    "label": "LOC",
+    "text": "»\n\n",
+    "jalons": [
+      19628,
+      19631
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "in-",
+    "jalons": [
+      19694,
+      19697
+    ]
+  },
+  "entite_208": {
+    "label": "ORG",
+    "text": "»",
+    "jalons": [
+      19720,
+      19721
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      19833,
+      19834
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      20097,
+      20098
+    ]
+  },
+  "entite_211": {
+    "label": "MISC",
+    "text": "Que « le président",
+    "jalons": [
+      20122,
+      20140
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "« Que les membres de la société\n",
+    "jalons": [
+      20250,
+      20282
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Marseillais",
+    "jalons": [
+      20389,
+      20400
+    ]
+  },
+  "entite_214": {
+    "label": "MISC",
+    "text": "Qu'on\n_",
+    "jalons": [
+      20415,
+      20422
+    ]
+  },
+  "entite_215": {
+    "label": "ORG",
+    "text": "Montagnard",
+    "jalons": [
+      20469,
+      20479
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Lambert",
+    "jalons": [
+      20922,
+      20929
+    ]
+  },
+  "entite_217": {
+    "label": "LOC",
+    "text": "Ballyhier",
+    "jalons": [
+      20933,
+      20942
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      20970,
+      20979
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "p.279",
+    "jalons": [
+      21012,
+      21017
+    ]
+  },
+  "entite_220": {
+    "label": "LOC",
+    "text": "République",
+    "jalons": [
+      21422,
+      21432
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      21530,
+      21531
+    ]
+  },
+  "entite_222": {
+    "label": "MISC",
+    "text": "« On",
+    "jalons": [
+      22089,
+      22093
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "Cambrai",
+    "jalons": [
+      22127,
+      22134
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "du Nord",
+    "jalons": [
+      22208,
+      22215
+    ]
+  },
+  "entite_225": {
+    "label": "LOC",
+    "text": "Valenciennes",
+    "jalons": [
+      22237,
+      22249
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Quesnoy",
+    "jalons": [
+      22258,
+      22265
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Marseillais",
+    "jalons": [
+      22492,
+      22503
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "an I!",
+    "jalons": [
+      22656,
+      22661
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      22744,
+      22753
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      22968,
+      22977
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      23447,
+      23448
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      23640,
+      23641
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "CG",
+    "jalons": [
+      24643,
+      24645
+    ]
+  },
+  "entite_234": {
+    "label": "MISC",
+    "text": "Dragons",
+    "jalons": [
+      24707,
+      24714
+    ]
+  },
+  "entite_235": {
+    "label": "MISC",
+    "text": "Un citoyen",
+    "jalons": [
+      24812,
+      24822
+    ]
+  },
+  "entite_236": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      24976,
+      24981
+    ]
+  },
+  "entite_237": {
+    "label": "ORG",
+    "text": "Amis de la République de Compiègne",
+    "jalons": [
+      25001,
+      25035
+    ]
+  },
+  "entite_238": {
+    "label": "ORG",
+    "text": "Publiciste de la République française",
+    "jalons": [
+      25058,
+      25095
+    ]
+  },
+  "entite_239": {
+    "label": "MISC",
+    "text": "Ami du peuple",
+    "jalons": [
+      25120,
+      25133
+    ]
+  },
+  "entite_240": {
+    "label": "ORG",
+    "text": "UF",
+    "jalons": [
+      25159,
+      25161
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "»",
+    "jalons": [
+      25203,
+      25204
+    ]
+  },
+  "entite_242": {
+    "label": "LOC",
+    "text": "République",
+    "jalons": [
+      25310,
+      25320
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "République",
+    "jalons": [
+      25522,
+      25532
+    ]
+  },
+  "entite_244": {
+    "label": "MISC",
+    "text": "Moniteur",
+    "jalons": [
+      25566,
+      25574
+    ]
+  },
+  "entite_245": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      25594,
+      25604
+    ]
+  },
+  "entite_246": {
+    "label": "PER",
+    "text": "Vitgenkoff",
+    "jalons": [
+      25641,
+      25651
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "Albite",
+    "jalons": [
+      25800,
+      25806
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      25863,
+      25873
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Ce e\nNW",
+    "jalons": [
+      25904,
+      25911
+    ]
+  },
+  "entite_250": {
+    "label": "MISC",
+    "text": "Fee - Let PAT = Te",
+    "jalons": [
+      25938,
+      25956
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "|",
+    "jalons": [
+      26084,
+      26085
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      26229,
+      26238
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Ourscamp",
+    "jalons": [
+      26274,
+      26282
+    ]
+  },
+  "entite_254": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      26339,
+      26344
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Vitgenkoff",
+    "jalons": [
+      26478,
+      26488
+    ]
+  },
+  "entite_256": {
+    "label": "LOC",
+    "text": "Tuileries",
+    "jalons": [
+      26524,
+      26533
+    ]
+  },
+  "entite_257": {
+    "label": "ORG",
+    "text": "Assemblée",
+    "jalons": [
+      26607,
+      26616
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Marseillois",
+    "jalons": [
+      27083,
+      27094
+    ]
+  },
+  "entite_259": {
+    "label": "ORG",
+    "text": "Assemblée législative",
+    "jalons": [
+      27129,
+      27150
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Jaco-",
+    "jalons": [
+      27531,
+      27536
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      27622,
+      27631
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Ro-",
+    "jalons": [
+      28359,
+      28362
+    ]
+  },
+  "entite_263": {
+    "label": "LOC",
+    "text": "Montagne",
+    "jalons": [
+      28392,
+      28400
+    ]
+  },
+  "entite_264": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      28489,
+      28494
+    ]
+  },
+  "entite_265": {
+    "label": "ORG",
+    "text": "SR eRe",
+    "jalons": [
+      28556,
+      28562
+    ]
+  },
+  "entite_266": {
+    "label": "ORG",
+    "text": "E ER SRE",
+    "jalons": [
+      28568,
+      28576
+    ]
+  },
+  "entite_267": {
+    "label": "LOC",
+    "text": "B",
+    "jalons": [
+      28577,
+      28578
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      28676,
+      28681
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "|\n\n",
+    "jalons": [
+      28960,
+      28963
+    ]
+  },
+  "entite_270": {
+    "label": "ORG",
+    "text": "Compiénoise",
+    "jalons": [
+      29142,
+      29153
+    ]
+  },
+  "entite_271": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      29290,
+      29299
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      29459,
+      29460
+    ]
+  },
+  "entite_273": {
+    "label": "MISC",
+    "text": "M",
+    "jalons": [
+      29467,
+      29468
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      29603,
+      29612
+    ]
+  },
+  "entite_275": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      29671,
+      29676
+    ]
+  },
+  "entite_276": {
+    "label": "PER",
+    "text": "Mathieu",
+    "jalons": [
+      29893,
+      29900
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      29915,
+      29925
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      29958,
+      29963
+    ]
+  },
+  "entite_279": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      29995,
+      30004
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      30097,
+      30102
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Patriote Marat",
+    "jalons": [
+      30392,
+      30406
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Charlotte Corday",
+    "jalons": [
+      30467,
+      30483
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      30724,
+      30729
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      30740,
+      30749
+    ]
+  },
+  "entite_285": {
+    "label": "MISC",
+    "text": "buste de l'Am",
+    "jalons": [
+      30822,
+      30835
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Brutus",
+    "jalons": [
+      30919,
+      30925
+    ]
+  },
+  "entite_287": {
+    "label": "LOC",
+    "text": "Lepeletier-Saint-Fargeau",
+    "jalons": [
+      30932,
+      30956
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      31033,
+      31038
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "La Liberté »",
+    "jalons": [
+      31066,
+      31078
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "|\n\n",
+    "jalons": [
+      31148,
+      31151
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Venette",
+    "jalons": [
+      31345,
+      31352
+    ]
+  },
+  "entite_292": {
+    "label": "PER",
+    "text": "« Le Roy",
+    "jalons": [
+      31360,
+      31368
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      31583,
+      31588
+    ]
+  },
+  "entite_294": {
+    "label": "MISC",
+    "text": "W",
+    "jalons": [
+      31650,
+      31651
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Venette",
+    "jalons": [
+      31763,
+      31770
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      31923,
+      31932
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Marat-sur-Oise",
+    "jalons": [
+      31945,
+      31959
+    ]
+  },
+  "entite_298": {
+    "label": "LOC",
+    "text": "La ville",
+    "jalons": [
+      32053,
+      32061
+    ]
+  },
+  "entite_299": {
+    "label": "LOC",
+    "text": "Marat-sur-Oise",
+    "jalons": [
+      32153,
+      32167
+    ]
+  },
+  "entite_300": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      32208,
+      32218
+    ]
+  },
+  "entite_301": {
+    "label": "MISC",
+    "text": "Convention",
+    "jalons": [
+      32311,
+      32321
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      32777,
+      32782
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      32875,
+      32884
+    ]
+  },
+  "entite_304": {
+    "label": "LOC",
+    "text": "République",
+    "jalons": [
+      33124,
+      33134
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      33401,
+      33406
+    ]
+  },
+  "entite_306": {
+    "label": "PER",
+    "text": "Le Pelletier",
+    "jalons": [
+      33410,
+      33422
+    ]
+  },
+  "entite_307": {
+    "label": "MISC",
+    "text": "Ré-",
+    "jalons": [
+      33457,
+      33460
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Capet",
+    "jalons": [
+      33684,
+      33689
+    ]
+  },
+  "entite_309": {
+    "label": "ORG",
+    "text": "Groupe de citoyennes",
+    "jalons": [
+      33907,
+      33927
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Rousseau",
+    "jalons": [
+      34051,
+      34059
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "MARAT",
+    "jalons": [
+      34304,
+      34309
+    ]
+  },
+  "entite_312": {
+    "label": "PER",
+    "text": "Pelletier Saint-Fargeau",
+    "jalons": [
+      34723,
+      34746
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "Z",
+    "jalons": [
+      34800,
+      34801
+    ]
+  },
+  "entite_314": {
+    "label": "LOC",
+    "text": "rue de la Fédération",
+    "jalons": [
+      34976,
+      34996
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Saint-Jacques",
+    "jalons": [
+      35052,
+      35065
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      35092,
+      35097
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Pel-",
+    "jalons": [
+      35104,
+      35108
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Succès",
+    "jalons": [
+      35326,
+      35332
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "Aujourd’hui rue d'Orléans",
+    "jalons": [
+      35544,
+      35569
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Hôtel de Ville",
+    "jalons": [
+      35585,
+      35599
+    ]
+  },
+  "entite_321": {
+    "label": "LOC",
+    "text": "’ superstition",
+    "jalons": [
+      35698,
+      35712
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "République !",
+    "jalons": [
+      35786,
+      35798
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "temple de la Raison",
+    "jalons": [
+      35892,
+      35911
+    ]
+  },
+  "entite_324": {
+    "label": "MISC",
+    "text": "Ré-",
+    "jalons": [
+      36147,
+      36150
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Raison",
+    "jalons": [
+      36195,
+      36201
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Liberté",
+    "jalons": [
+      36209,
+      36216
+    ]
+  },
+  "entite_327": {
+    "label": "LOC",
+    "text": "Égalité",
+    "jalons": [
+      36225,
+      36232
+    ]
+  },
+  "entite_328": {
+    "label": "LOC",
+    "text": "Levèque",
+    "jalons": [
+      36249,
+      36256
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Pa-",
+    "jalons": [
+      36450,
+      36453
+    ]
+  },
+  "entite_330": {
+    "label": "LOC",
+    "text": "Îles",
+    "jalons": [
+      36637,
+      36641
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Liberté",
+    "jalons": [
+      36966,
+      36973
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Pelletier",
+    "jalons": [
+      36993,
+      37002
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      37009,
+      37014
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Pelletier",
+    "jalons": [
+      37131,
+      37140
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "Marat",
+    "jalons": [
+      37147,
+      37152
+    ]
+  },
+  "entite_336": {
+    "label": "ORG",
+    "text": "Liberté peinte",
+    "jalons": [
+      37338,
+      37352
+    ]
+  },
+  "entite_337": {
+    "label": "MISC",
+    "text": "Le citoyen",
+    "jalons": [
+      37393,
+      37403
+    ]
+  },
+  "entite_338": {
+    "label": "LOC",
+    "text": "temple de la Raison",
+    "jalons": [
+      37636,
+      37655
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "République française",
+    "jalons": [
+      38065,
+      38085
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "in-\n\n1",
+    "jalons": [
+      38104,
+      38110
+    ]
+  },
+  "entite_341": {
+    "label": "LOC",
+    "text": "Eglise Saint-Antoine",
+    "jalons": [
+      38112,
+      38132
+    ]
+  },
+  "entite_342": {
+    "label": "ORG",
+    "text": "EL\n\n",
+    "jalons": [
+      38136,
+      38140
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Partie",
+    "jalons": [
+      38281,
+      38287
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Louis XVI",
+    "jalons": [
+      38454,
+      38463
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      38566,
+      38575
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Pron-",
+    "jalons": [
+      38664,
+      38669
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "SIRE",
+    "jalons": [
+      38698,
+      38702
+    ]
+  },
+  "entite_348": {
+    "label": "MISC",
+    "text": "ZLouie",
+    "jalons": [
+      38797,
+      38803
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "le- Bienfaisant",
+    "jalons": [
+      38804,
+      38819
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      38866,
+      38875
+    ]
+  },
+  "entite_351": {
+    "label": "LOC",
+    "text": "Sire",
+    "jalons": [
+      39061,
+      39065
+    ]
+  },
+  "entite_352": {
+    "label": "MISC",
+    "text": "Sire",
+    "jalons": [
+      39264,
+      39268
+    ]
+  },
+  "entite_353": {
+    "label": "LOC",
+    "text": "Daignez",
+    "jalons": [
+      39494,
+      39501
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Sire",
+    "jalons": [
+      39503,
+      39507
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Roy",
+    "jalons": [
+      39567,
+      39570
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Sire",
+    "jalons": [
+      39643,
+      39647
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      39665,
+      39674
+    ]
+  },
+  "entite_358": {
+    "label": "MISC",
+    "text": "Votre\nMajesté",
+    "jalons": [
+      39775,
+      39788
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Vostre Majesté",
+    "jalons": [
+      40037,
+      40051
+    ]
+  },
+  "entite_360": {
+    "label": "MISC",
+    "text": "»\n\nDoit",
+    "jalons": [
+      40083,
+      40090
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Compiègne",
+    "jalons": [
+      40157,
+      40166
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Chéteau de Compiègne",
+    "jalons": [
+      40303,
+      40323
+    ]
+  },
+  "entite_363": {
+    "label": "MISC",
+    "text": "À",
+    "jalons": [
+      40858,
+      40859
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Illustre Bossuet",
+    "jalons": [
+      40884,
+      40900
+    ]
+  },
+  "entite_365": {
+    "label": "MISC",
+    "text": "»\n\nFIN",
+    "jalons": [
+      40967,
+      40973
+    ]
+  },
+  "entite_366": {
+    "label": "MISC",
+    "text": "SO L RE\n\n“se\n\nmn D\n\n \n\nus A",
+    "jalons": [
+      41001,
+      41028
+    ]
+  }
+}

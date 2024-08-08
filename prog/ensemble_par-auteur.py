@@ -7,6 +7,7 @@ def lire_json (chemin):
     return data
 def model_ocr(chemin):
     ocr_mod=chemin.split("/")[4]
+    # ocr_mod = chemin.split("/")[5]
     ocr_mod = ocr_mod.split("_")[-1]
     # liste_moteur.append(ocr_mod)
     # moteur = set(liste_moteur)
@@ -32,9 +33,10 @@ def stocker(chemin, contenu):
 # corpa=corpusa[3]
 
 path_corpora = f"../ELTeC-*/*"
-dico_resultat={}
-dico_REN={}
+
+
 for gen_path in glob.glob(path_corpora):
+    dico_REN = {}
     # print("_____________",gen_path)
     corp = gen_path.split("/")[1]
     print(corp)
@@ -45,6 +47,7 @@ for gen_path in glob.glob(path_corpora):
 
     # dico_resultat={}
     for path_ocr in glob.glob(paths_ocr):
+        print("auteur OCR",auteur)
         # print(path_ocr)
         version_REN_ocr=model_REN(path_ocr)
         # dico_REN[version_REN_ocr]={}
@@ -71,6 +74,7 @@ for gen_path in glob.glob(path_corpora):
 
     for path_ref in glob.glob(paths_ref):
         # print(path_ref)
+        print("auteur REF", auteur)
         version_REN_ref = model_REN(path_ref)
         liste_ner_ocr = []
         liste_ner_ref = []
@@ -90,7 +94,7 @@ for gen_path in glob.glob(path_corpora):
                 dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
 
     for kle, value in dico_REN.items():
-        # print(kle)
+        print(kle)
         stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json" ,value)
 # # print(dico_resultat)
     liste_res_nb = {}

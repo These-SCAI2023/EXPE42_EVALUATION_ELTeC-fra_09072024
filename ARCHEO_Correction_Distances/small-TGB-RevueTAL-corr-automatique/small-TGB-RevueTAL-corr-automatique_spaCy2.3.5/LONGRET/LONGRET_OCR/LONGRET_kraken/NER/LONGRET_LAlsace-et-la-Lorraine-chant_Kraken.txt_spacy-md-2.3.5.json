@@ -1,0 +1,1234 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "ILEleae",
+    "jalons": [
+      0,
+      7
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "LAlsace",
+    "jalons": [
+      8,
+      15
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "Lorraine",
+    "jalons": [
+      22,
+      30
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "de Lille",
+    "jalons": [
+      60,
+      68
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Louis longret",
+    "jalons": [
+      74,
+      87
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "I I",
+    "jalons": [
+      88,
+      91
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "I I",
+    "jalons": [
+      107,
+      110
+    ]
+  },
+  "entite_7": {
+    "label": "ORG",
+    "text": "WOd11lLd",
+    "jalons": [
+      111,
+      119
+    ]
+  },
+  "entite_8": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      168,
+      175
+    ]
+  },
+  "entite_9": {
+    "label": "ORG",
+    "text": "Bibliotheque nationale de France",
+    "jalons": [
+      679,
+      711
+    ]
+  },
+  "entite_10": {
+    "label": "LOC",
+    "text": "a Source",
+    "jalons": [
+      716,
+      724
+    ]
+  },
+  "entite_11": {
+    "label": "LOC",
+    "text": "BnF",
+    "jalons": [
+      739,
+      742
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "CL0QUERIC",
+    "jalons": [
+      1235,
+      1244
+    ]
+  },
+  "entite_13": {
+    "label": "ORG",
+    "text": "POURACCEDER",
+    "jalons": [
+      1245,
+      1256
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "AUXTARFS ET A",
+    "jalons": [
+      1257,
+      1270
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      1302,
+      1309
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "BnF",
+    "jalons": [
+      1334,
+      1337
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "L.2112",
+    "jalons": [
+      1358,
+      1364
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "3l",
+    "jalons": [
+      1424,
+      1426
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Source",
+    "jalons": [
+      1872,
+      1878
+    ]
+  },
+  "entite_20": {
+    "label": "ORG",
+    "text": "Bibliotheque municipale de",
+    "jalons": [
+      1896,
+      1922
+    ]
+  },
+  "entite_21": {
+    "label": "LOC",
+    "text": "Lutilisateur",
+    "jalons": [
+      1950,
+      1962
+    ]
+  },
+  "entite_22": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      2056,
+      2063
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "BnF",
+    "jalons": [
+      2103,
+      2106
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "L341",
+    "jalons": [
+      2156,
+      2160
+    ]
+  },
+  "entite_25": {
+    "label": "MISC",
+    "text": "lLes",
+    "jalons": [
+      2217,
+      2221
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      2273,
+      2280
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Lutilisateur",
+    "jalons": [
+      2469,
+      2481
+    ]
+  },
+  "entite_28": {
+    "label": "ORG",
+    "text": "Gallica",
+    "jalons": [
+      2779,
+      2786
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "rr,,,,,--,--,-",
+    "jalons": [
+      2864,
+      2878
+    ]
+  },
+  "entite_30": {
+    "label": "LOC",
+    "text": "W",
+    "jalons": [
+      2904,
+      2905
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "W",
+    "jalons": [
+      2906,
+      2907
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "E1 A I0P",
+    "jalons": [
+      2910,
+      2918
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "T",
+    "jalons": [
+      2929,
+      2930
+    ]
+  },
+  "entite_34": {
+    "label": "ORG",
+    "text": "AG",
+    "jalons": [
+      2932,
+      2934
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      2941,
+      2942
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Patois de Lille",
+    "jalons": [
+      2990,
+      3005
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "LOUIS LONGRET",
+    "jalons": [
+      3010,
+      3023
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Couplet",
+    "jalons": [
+      3028,
+      3035
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      3091,
+      3092
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "In",
+    "jalons": [
+      3198,
+      3200
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Refrain",
+    "jalons": [
+      3233,
+      3240
+    ]
+  },
+  "entite_42": {
+    "label": "LOC",
+    "text": "Crieront ictoire",
+    "jalons": [
+      3279,
+      3295
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Couplet",
+    "jalons": [
+      3315,
+      3322
+    ]
+  },
+  "entite_44": {
+    "label": "ORG",
+    "text": "Air",
+    "jalons": [
+      3324,
+      3327
+    ]
+  },
+  "entite_45": {
+    "label": "PER",
+    "text": "W iGe",
+    "jalons": [
+      3387,
+      3392
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "V",
+    "jalons": [
+      3511,
+      3512
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Conplet",
+    "jalons": [
+      3549,
+      3556
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Dites m'in peu",
+    "jalons": [
+      3559,
+      3573
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "W",
+    "jalons": [
+      3599,
+      3600
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Prussie-",
+    "jalons": [
+      3661,
+      3669
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "A.\n\n",
+    "jalons": [
+      3743,
+      3747
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Er",
+    "jalons": [
+      3755,
+      3757
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Yt",
+    "jalons": [
+      3759,
+      3761
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "W",
+    "jalons": [
+      3771,
+      3772
+    ]
+  },
+  "entite_55": {
+    "label": "LOC",
+    "text": "Couplet",
+    "jalons": [
+      3775,
+      3782
+    ]
+  },
+  "entite_56": {
+    "label": "LOC",
+    "text": "Lorraine",
+    "jalons": [
+      3812,
+      3820
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "V",
+    "jalons": [
+      3862,
+      3863
+    ]
+  },
+  "entite_58": {
+    "label": "PER",
+    "text": "nonl chet impossible",
+    "jalons": [
+      3986,
+      4006
+    ]
+  },
+  "entite_59": {
+    "label": "PER",
+    "text": "Bonne Frnce",
+    "jalons": [
+      4008,
+      4019
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Couplet",
+    "jalons": [
+      4050,
+      4057
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Couplet",
+    "jalons": [
+      4315,
+      4322
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Lorraine",
+    "jalons": [
+      4338,
+      4346
+    ]
+  },
+  "entite_63": {
+    "label": "LOC",
+    "text": "Alsace",
+    "jalons": [
+      4351,
+      4357
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Pu",
+    "jalons": [
+      4359,
+      4361
+    ]
+  },
+  "entite_65": {
+    "label": "MISC",
+    "text": "Pritent l'bon Dieu",
+    "jalons": [
+      4389,
+      4407
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Qand",
+    "jalons": [
+      4461,
+      4465
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "In criant: merci, noble France",
+    "jalons": [
+      4537,
+      4567
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Helasl",
+    "jalons": [
+      4569,
+      4575
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "Refrain",
+    "jalons": [
+      4599,
+      4606
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "P",
+    "jalons": [
+      4608,
+      4609
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "W",
+    "jalons": [
+      4674,
+      4675
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "LIIle",
+    "jalons": [
+      4676,
+      4681
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "SI",
+    "jalons": [
+      4688,
+      4690
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Horemns",
+    "jalons": [
+      4691,
+      4698
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Bibliotheque nationale de France",
+    "jalons": [
+      4773,
+      4805
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      4825,
+      4826
+    ]
+  },
+  "entite_77": {
+    "label": "PER",
+    "text": "II",
+    "jalons": [
+      4840,
+      4842
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4850,
+      4851
+    ]
+  },
+  "entite_79": {
+    "label": "LOC",
+    "text": "L-",
+    "jalons": [
+      4867,
+      4869
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "K",
+    "jalons": [
+      4872,
+      4873
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "I:1",
+    "jalons": [
+      4874,
+      4877
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "I.",
+    "jalons": [
+      4879,
+      4881
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "aT",
+    "jalons": [
+      4890,
+      4892
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "I1",
+    "jalons": [
+      4893,
+      4895
+    ]
+  },
+  "entite_85": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4902,
+      4903
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "IIkw",
+    "jalons": [
+      4908,
+      4912
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4915,
+      4916
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "I1",
+    "jalons": [
+      4921,
+      4923
+    ]
+  },
+  "entite_89": {
+    "label": "LOC",
+    "text": "I5.I",
+    "jalons": [
+      4929,
+      4933
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "Me",
+    "jalons": [
+      4941,
+      4943
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4960,
+      4961
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "T",
+    "jalons": [
+      4963,
+      4964
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      4965,
+      4966
+    ]
+  },
+  "entite_94": {
+    "label": "LOC",
+    "text": "IMI",
+    "jalons": [
+      4967,
+      4970
+    ]
+  },
+  "entite_95": {
+    "label": "LOC",
+    "text": "I1",
+    "jalons": [
+      5011,
+      5013
+    ]
+  },
+  "entite_96": {
+    "label": "MISC",
+    "text": "Z",
+    "jalons": [
+      5020,
+      5021
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "E1",
+    "jalons": [
+      5029,
+      5031
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "IRt",
+    "jalons": [
+      5032,
+      5035
+    ]
+  },
+  "entite_99": {
+    "label": "LOC",
+    "text": "Az3",
+    "jalons": [
+      5046,
+      5049
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Ii",
+    "jalons": [
+      5065,
+      5067
+    ]
+  },
+  "entite_101": {
+    "label": "MISC",
+    "text": "w T f",
+    "jalons": [
+      5102,
+      5107
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "I3C.",
+    "jalons": [
+      5122,
+      5126
+    ]
+  },
+  "entite_103": {
+    "label": "ORG",
+    "text": "1I",
+    "jalons": [
+      5136,
+      5138
+    ]
+  },
+  "entite_104": {
+    "label": "ORG",
+    "text": "HMSI",
+    "jalons": [
+      5175,
+      5179
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "H",
+    "jalons": [
+      5222,
+      5223
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "GCU.-G.",
+    "jalons": [
+      5242,
+      5249
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "wAqio",
+    "jalons": [
+      5255,
+      5260
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "uaoe al ol Sl",
+    "jalons": [
+      5281,
+      5294
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "z ee",
+    "jalons": [
+      5325,
+      5329
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "slulh",
+    "jalons": [
+      5334,
+      5339
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "giiitElA:;.",
+    "jalons": [
+      5365,
+      5376
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Igo o",
+    "jalons": [
+      5386,
+      5391
+    ]
+  },
+  "entite_113": {
+    "label": "MISC",
+    "text": "talim''3",
+    "jalons": [
+      5477,
+      5485
+    ]
+  },
+  "entite_114": {
+    "label": "MISC",
+    "text": "Anaihl al  nu u",
+    "jalons": [
+      5543,
+      5558
+    ]
+  },
+  "entite_115": {
+    "label": "MISC",
+    "text": "Iu i",
+    "jalons": [
+      5564,
+      5568
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Ptnc atb vilt",
+    "jalons": [
+      5581,
+      5594
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "aIdo",
+    "jalons": [
+      5657,
+      5661
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "LeN",
+    "jalons": [
+      5728,
+      5731
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Li",
+    "jalons": [
+      5751,
+      5753
+    ]
+  },
+  "entite_120": {
+    "label": "MISC",
+    "text": "I1",
+    "jalons": [
+      5810,
+      5812
+    ]
+  },
+  "entite_121": {
+    "label": "LOC",
+    "text": "W",
+    "jalons": [
+      5868,
+      5869
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "I1",
+    "jalons": [
+      5876,
+      5878
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "oeI iit  ",
+    "jalons": [
+      6027,
+      6036
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "I",
+    "jalons": [
+      6079,
+      6080
+    ]
+  },
+  "entite_125": {
+    "label": "MISC",
+    "text": "svg",
+    "jalons": [
+      6081,
+      6084
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "sl Ihl",
+    "jalons": [
+      6086,
+      6092
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "aMdo isll",
+    "jalons": [
+      6140,
+      6149
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "C",
+    "jalons": [
+      6234,
+      6235
+    ]
+  },
+  "entite_129": {
+    "label": "MISC",
+    "text": "Biowura",
+    "jalons": [
+      6239,
+      6246
+    ]
+  },
+  "entite_130": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      6303,
+      6304
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Isino nio",
+    "jalons": [
+      6314,
+      6323
+    ]
+  },
+  "entite_132": {
+    "label": "PER",
+    "text": "Iti ol swd",
+    "jalons": [
+      6455,
+      6465
+    ]
+  },
+  "entite_133": {
+    "label": "MISC",
+    "text": "GL",
+    "jalons": [
+      6482,
+      6484
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Szxiaa",
+    "jalons": [
+      6495,
+      6501
+    ]
+  },
+  "entite_135": {
+    "label": "LOC",
+    "text": "Occoceceoocso",
+    "jalons": [
+      6571,
+      6584
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      6665,
+      6666
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "W",
+    "jalons": [
+      6682,
+      6683
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "toO",
+    "jalons": [
+      6692,
+      6695
+    ]
+  },
+  "entite_139": {
+    "label": "LOC",
+    "text": "Aun",
+    "jalons": [
+      6742,
+      6745
+    ]
+  },
+  "entite_140": {
+    "label": "ORG",
+    "text": "Z2",
+    "jalons": [
+      6784,
+      6786
+    ]
+  },
+  "entite_141": {
+    "label": "LOC",
+    "text": "I",
+    "jalons": [
+      6809,
+      6810
+    ]
+  },
+  "entite_142": {
+    "label": "MISC",
+    "text": "I",
+    "jalons": [
+      6909,
+      6910
+    ]
+  },
+  "entite_143": {
+    "label": "LOC",
+    "text": "N-",
+    "jalons": [
+      6950,
+      6952
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "T:.-",
+    "jalons": [
+      6975,
+      6979
+    ]
+  },
+  "entite_145": {
+    "label": "MISC",
+    "text": "H1",
+    "jalons": [
+      7019,
+      7021
+    ]
+  },
+  "entite_146": {
+    "label": "MISC",
+    "text": "fAM",
+    "jalons": [
+      7030,
+      7033
+    ]
+  },
+  "entite_147": {
+    "label": "MISC",
+    "text": "ie21",
+    "jalons": [
+      7076,
+      7080
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "f",
+    "jalons": [
+      7086,
+      7087
+    ]
+  },
+  "entite_149": {
+    "label": "ORG",
+    "text": "i3",
+    "jalons": [
+      7093,
+      7095
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "L1",
+    "jalons": [
+      7097,
+      7099
+    ]
+  },
+  "entite_151": {
+    "label": "MISC",
+    "text": "C2-:.-",
+    "jalons": [
+      7109,
+      7115
+    ]
+  },
+  "entite_152": {
+    "label": "MISC",
+    "text": "F9-",
+    "jalons": [
+      7129,
+      7132
+    ]
+  },
+  "entite_153": {
+    "label": "MISC",
+    "text": "LCKLx",
+    "jalons": [
+      7178,
+      7183
+    ]
+  }
+}

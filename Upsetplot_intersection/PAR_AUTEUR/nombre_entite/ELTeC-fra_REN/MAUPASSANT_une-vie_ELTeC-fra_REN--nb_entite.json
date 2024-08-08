@@ -31,6 +31,22 @@
     "EN-occ": 236,
     "EN-type": 128
   },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 2036,
+    "EN-type": 1709
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2688,
+    "EN-type": 2363
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 571,
+    "EN-type": 233
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 300,
+    "EN-type": 132
+  },
   "spacy-lg-3.7.5_kraken4.3.13.dev25": {
     "EN-occ": 3975,
     "EN-type": 2808
@@ -78,21 +94,5 @@
   "spacy-sm-3.7.5_Ref": {
     "EN-occ": 488,
     "EN-type": 216
-  },
-  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
-    "EN-occ": 2036,
-    "EN-type": 1709
-  },
-  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
-    "EN-occ": 2688,
-    "EN-type": 2363
-  },
-  "stanza-fr-1.8.2_tesseract0.3.10": {
-    "EN-occ": 571,
-    "EN-type": 233
-  },
-  "stanza-fr-1.8.2_Ref": {
-    "EN-occ": 300,
-    "EN-type": 132
   }
 }
