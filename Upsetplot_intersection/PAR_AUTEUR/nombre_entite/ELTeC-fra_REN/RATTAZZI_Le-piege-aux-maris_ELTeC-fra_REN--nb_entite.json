@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 3475,
+    "EN-type": 2347
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 5322,
+    "EN-type": 3558
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 579,
+    "EN-type": 377
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 304,
+    "EN-type": 154
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 656,
+    "EN-type": 567
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 384,
+    "EN-type": 355
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 309,
+    "EN-type": 203
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 274,
+    "EN-type": 165
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3559,
+    "EN-type": 2577
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 3965,
+    "EN-type": 3170
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 595,
+    "EN-type": 337
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 331,
+    "EN-type": 157
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3131,
+    "EN-type": 2283
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 3405,
+    "EN-type": 2719
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 576,
+    "EN-type": 367
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 336,
+    "EN-type": 165
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3049,
+    "EN-type": 2105
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 3566,
+    "EN-type": 2644
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 838,
+    "EN-type": 394
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 497,
+    "EN-type": 227
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 1896,
+    "EN-type": 1613
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2709,
+    "EN-type": 2335
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 629,
+    "EN-type": 292
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 349,
+    "EN-type": 148
+  }
+}

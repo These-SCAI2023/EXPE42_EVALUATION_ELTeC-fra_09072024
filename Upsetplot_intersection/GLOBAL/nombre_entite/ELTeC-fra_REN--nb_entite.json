@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 271668,
+    "EN-type": 185600
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 513868,
+    "EN-type": 364457
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 82731,
+    "EN-type": 43277
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 48859,
+    "EN-type": 15940
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 82355,
+    "EN-type": 64072
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 48824,
+    "EN-type": 43517
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 53342,
+    "EN-type": 25490
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 50630,
+    "EN-type": 21040
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 365388,
+    "EN-type": 251722
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 467717,
+    "EN-type": 367967
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 100257,
+    "EN-type": 48092
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 60938,
+    "EN-type": 17885
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 329861,
+    "EN-type": 227382
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 388459,
+    "EN-type": 307487
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 99411,
+    "EN-type": 47927
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 61841,
+    "EN-type": 18448
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 342062,
+    "EN-type": 222033
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 391272,
+    "EN-type": 289466
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 158491,
+    "EN-type": 55039
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 84083,
+    "EN-type": 25337
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 175091,
+    "EN-type": 136243
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 265775,
+    "EN-type": 226264
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 89377,
+    "EN-type": 39600
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 55023,
+    "EN-type": 16431
+  }
+}

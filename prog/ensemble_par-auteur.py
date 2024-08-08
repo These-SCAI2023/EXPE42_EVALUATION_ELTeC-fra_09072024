@@ -28,81 +28,16 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 
-
 # corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
-# corpa=corpusa[]
-# path_corpora = f"../DATA_spaCy3.5.1_ENliste_globale/{corpa}/*"
-# dico_resultat={}
-#
-# for gen_path in glob.glob(path_corpora):
-#     print("_____________",gen_path)
-#     corp = corpus(gen_path)
-#     print(corp)
-#     auteur=gen_path.split("/")[-1]
-#     print(auteur)
-#     paths_ocr="%s/*OCR/*/NER/*liste.json" % gen_path
-#     paths_ref = "%s/*REF/NER/*liste.json" % gen_path
-#
-#     # dico_resultat={}
-#     for path_ocr in glob.glob(paths_ocr):
-#         print(path_ocr)
-#         liste_ner_ocr = []
-#         moteur_ocr = model_ocr(path_ocr)
-#         data_ocr=lire_json(path_ocr)
-#         # print(data_ocr)
-#         # data_ocr=set(data_ocr)
-#         for data in data_ocr:
-#             liste_ner_ocr.append(data+"_"+auteur)
-#         if moteur_ocr in dico_resultat:
-#             # set_tmp=dico_resultat[moteur_ocr]
-#             # # set_tmp += data_ocr
-#             # # dico_resultat[moteur_ocr] = set_tmp
-#             # set_tmp+=liste_ner_ocr
-#             dico_resultat[moteur_ocr]= liste_ner_ocr
-#     #
-#         else:
-#             # dico_resultat[moteur_ocr] = data_ocr
-#             dico_resultat[moteur_ocr] = liste_ner_ocr
-#
-#     for path_ref in glob.glob(paths_ref):
-#         # print(path_ref)
-#         liste_ner_ref = []
-#         data_ref=lire_json(path_ref)
-#         # dico_resultat["Ref"] = data_ref
-#         for data in data_ref:
-#             liste_ner_ref.append(data+"_"+auteur)
-#         if "Ref" in dico_resultat:
-#             # set_tmp_ref=dico_resultat["Ref"]
-#             # set_tmp_ref+=liste_ner_ref
-#             # print(set_tmp_ref)
-#             dico_resultat["Ref"]= liste_ner_ref
-#     #
-#         else:
-#             dico_resultat["Ref"] = liste_ner_ref
-# # print((json.dumps(dico_resultat, indent=2)))
-#     stocker("%s_moteurOCR.json" % gen_path, dico_resultat)
-#     # # print(dico_resultat)
-#     liste_res_nb = {}
-#     for cle, valeur in dico_resultat.items():
-#         set_valeur = len(set(valeur))
-#         liste_res_nb[cle] = {}
-#         liste_res_nb[cle]["EN-occ"] = len(valeur)
-#         liste_res_nb[cle]["EN-type"] = set_valeur
-#
-#     stocker("%s_moteurOCR--nb_entite.json"%gen_path,liste_res_nb)
+# corpa=corpusa[3]
 
-
-corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
-corpa=corpusa[3]
-# path_corpora = f"../DATA_spaCy3.5.1_ENliste_globale/{corpa}/*"
-# path_corpora = f"../DATA_ELTeC-fra_EVAL_Intersection/*"
-path_corpora = f"../ELTeC-fra_Complet_ENliste_Intersection/*"
+path_corpora = f"../ELTeC-*/*"
 dico_resultat={}
 dico_REN={}
 for gen_path in glob.glob(path_corpora):
     # print("_____________",gen_path)
-    corp = corpus(gen_path)
-    # print(corp)
+    corp = gen_path.split("/")[1]
+    print(corp)
     auteur=gen_path.split("/")[-1]
     # print(auteur)
     paths_ocr= f"{gen_path}/*OCR/*/NER/*liste.json"
@@ -155,7 +90,8 @@ for gen_path in glob.glob(path_corpora):
                 dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
 
     for kle, value in dico_REN.items():
-        stocker(f"../Upsetplot_intersection/{auteur}_{kle}.json" ,value)
+        # print(kle)
+        stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json" ,value)
 # # print(dico_resultat)
     liste_res_nb = {}
     for key, dico_resultat in dico_REN.items():
@@ -165,7 +101,7 @@ for gen_path in glob.glob(path_corpora):
             liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
             liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
 
-            stocker(f"../Upsetplot_intersection/{auteur}--nb_entite.json",liste_res_nb)
+            stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}--nb_entite.json",liste_res_nb)
 
 
 

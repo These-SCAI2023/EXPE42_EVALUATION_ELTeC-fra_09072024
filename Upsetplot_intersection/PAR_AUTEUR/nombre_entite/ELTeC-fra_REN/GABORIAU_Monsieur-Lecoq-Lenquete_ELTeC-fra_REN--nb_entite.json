@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 1542,
+    "EN-type": 1228
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 4054,
+    "EN-type": 3311
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 765,
+    "EN-type": 439
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 1430,
+    "EN-type": 317
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 797,
+    "EN-type": 685
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 400,
+    "EN-type": 377
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 510,
+    "EN-type": 301
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 1271,
+    "EN-type": 548
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3721,
+    "EN-type": 2868
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 4945,
+    "EN-type": 4214
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 1109,
+    "EN-type": 666
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 1747,
+    "EN-type": 372
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3423,
+    "EN-type": 2619
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 4229,
+    "EN-type": 3651
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 1210,
+    "EN-type": 687
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 1785,
+    "EN-type": 397
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3437,
+    "EN-type": 2407
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 3754,
+    "EN-type": 3090
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 2215,
+    "EN-type": 763
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 2603,
+    "EN-type": 580
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 1345,
+    "EN-type": 1057
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2410,
+    "EN-type": 2176
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 916,
+    "EN-type": 483
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 1663,
+    "EN-type": 330
+  }
+}

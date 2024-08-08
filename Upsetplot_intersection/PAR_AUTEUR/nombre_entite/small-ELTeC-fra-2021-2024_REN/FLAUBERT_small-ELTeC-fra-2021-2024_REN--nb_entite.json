@@ -1,0 +1,198 @@
+{
+  "camembert-4.41.1_Kraken": {
+    "EN-occ": 397,
+    "EN-type": 233
+  },
+  "camembert-4.41.1_Tesseract-PNG": {
+    "EN-occ": 658,
+    "EN-type": 268
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 1121,
+    "EN-type": 570
+  },
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 3840,
+    "EN-type": 2988
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 8638,
+    "EN-type": 6655
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 1210,
+    "EN-type": 710
+  },
+  "camembert-4.41.1_TesseractFra-PNG": {
+    "EN-occ": 1155,
+    "EN-type": 693
+  },
+  "camembert-4.41.1_kraken": {
+    "EN-occ": 1241,
+    "EN-type": 822
+  },
+  "en-1.8.2_Kraken": {
+    "EN-occ": 213,
+    "EN-type": 106
+  },
+  "en-1.8.2_Tesseract-PNG": {
+    "EN-occ": 382,
+    "EN-type": 147
+  },
+  "en-1.8.2_Ref": {
+    "EN-occ": 310,
+    "EN-type": 102
+  },
+  "flair-0.13.1_Kraken": {
+    "EN-occ": 254,
+    "EN-type": 135
+  },
+  "flair-0.13.1_Tesseract-PNG": {
+    "EN-occ": 424,
+    "EN-type": 156
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 1016,
+    "EN-type": 473
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 1888,
+    "EN-type": 1509
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1027,
+    "EN-type": 947
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 939,
+    "EN-type": 470
+  },
+  "flair-0.13.1_TesseractFra-PNG": {
+    "EN-occ": 928,
+    "EN-type": 468
+  },
+  "flair-0.13.1_kraken": {
+    "EN-occ": 919,
+    "EN-type": 493
+  },
+  "spacy-lg-3.7.5_Kraken": {
+    "EN-occ": 423,
+    "EN-type": 203
+  },
+  "spacy-lg-3.7.5_Tesseract-PNG": {
+    "EN-occ": 383,
+    "EN-type": 176
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 2149,
+    "EN-type": 744
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6824,
+    "EN-type": 4780
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7120,
+    "EN-type": 5695
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 3054,
+    "EN-type": 1112
+  },
+  "spacy-lg-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 1680,
+    "EN-type": 896
+  },
+  "spacy-lg-3.7.5_kraken": {
+    "EN-occ": 2189,
+    "EN-type": 1467
+  },
+  "spacy-md-3.7.5_Kraken": {
+    "EN-occ": 423,
+    "EN-type": 203
+  },
+  "spacy-md-3.7.5_Tesseract-PNG": {
+    "EN-occ": 383,
+    "EN-type": 176
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 2149,
+    "EN-type": 744
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6824,
+    "EN-type": 4780
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7120,
+    "EN-type": 5695
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 3054,
+    "EN-type": 1112
+  },
+  "spacy-md-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 1750,
+    "EN-type": 971
+  },
+  "spacy-md-3.7.5_kraken": {
+    "EN-occ": 2257,
+    "EN-type": 1505
+  },
+  "spacy-sm-3.7.5_Kraken": {
+    "EN-occ": 423,
+    "EN-type": 203
+  },
+  "spacy-sm-3.7.5_Tesseract-PNG": {
+    "EN-occ": 383,
+    "EN-type": 176
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 2149,
+    "EN-type": 744
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6824,
+    "EN-type": 4780
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 7120,
+    "EN-type": 5695
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 3054,
+    "EN-type": 1112
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 3106,
+    "EN-type": 1097
+  },
+  "spacy-sm-3.7.5_kraken": {
+    "EN-occ": 2479,
+    "EN-type": 1239
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 3666,
+    "EN-type": 2972
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 4713,
+    "EN-type": 4292
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 1268,
+    "EN-type": 690
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 1090,
+    "EN-type": 477
+  },
+  "stanza-fr-1.8.2_TesseractFra-PNG": {
+    "EN-occ": 1214,
+    "EN-type": 648
+  },
+  "stanza-fr-1.8.2_kraken": {
+    "EN-occ": 1483,
+    "EN-type": 860
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 422,
+    "EN-type": 366
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1349,
+    "EN-type": 1183
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 189,
+    "EN-type": 127
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 149,
+    "EN-type": 78
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 185,
+    "EN-type": 174
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 133,
+    "EN-type": 132
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 157,
+    "EN-type": 121
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 148,
+    "EN-type": 105
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 1067,
+    "EN-type": 860
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1711,
+    "EN-type": 1575
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 295,
+    "EN-type": 189
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 199,
+    "EN-type": 97
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 1003,
+    "EN-type": 843
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1412,
+    "EN-type": 1315
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 331,
+    "EN-type": 199
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 221,
+    "EN-type": 107
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 948,
+    "EN-type": 775
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1352,
+    "EN-type": 1257
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 512,
+    "EN-type": 254
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 248,
+    "EN-type": 139
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 427,
+    "EN-type": 358
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 710,
+    "EN-type": 689
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 462,
+    "EN-type": 165
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 194,
+    "EN-type": 101
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 11558,
+    "EN-type": 7199
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 21732,
+    "EN-type": 14640
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 4043,
+    "EN-type": 1692
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 1250,
+    "EN-type": 256
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 4084,
+    "EN-type": 2685
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2307,
+    "EN-type": 1926
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 2777,
+    "EN-type": 926
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 1483,
+    "EN-type": 478
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 16664,
+    "EN-type": 9096
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 20132,
+    "EN-type": 14185
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 4331,
+    "EN-type": 1686
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 1259,
+    "EN-type": 263
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 14742,
+    "EN-type": 8149
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 16210,
+    "EN-type": 11662
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 4149,
+    "EN-type": 1675
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 1309,
+    "EN-type": 275
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 16365,
+    "EN-type": 8094
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 16424,
+    "EN-type": 10735
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 6813,
+    "EN-type": 2040
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 1636,
+    "EN-type": 431
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 8405,
+    "EN-type": 5891
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 14657,
+    "EN-type": 11386
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 4679,
+    "EN-type": 1432
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 1354,
+    "EN-type": 267
+  }
+}
