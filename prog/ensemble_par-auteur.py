@@ -6,8 +6,8 @@ def lire_json (chemin):
         data = json.load(mon_fichier)
     return data
 def model_ocr(chemin):
-    ocr_mod=chemin.split("/")[4]
-    # ocr_mod = chemin.split("/")[5]
+    # ocr_mod=chemin.split("/")[4]
+    ocr_mod = chemin.split("/")[6]### Adapter selon ARCHEO ou CORRECTION
     ocr_mod = ocr_mod.split("_")[-1]
     # liste_moteur.append(ocr_mod)
     # moteur = set(liste_moteur)
@@ -29,16 +29,15 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 
-# corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
-# corpa=corpusa[3]
 
-path_corpora = f"../ELTeC-*/*"
+path_corpora = f"../ARCHEO_Distances/small-*/*/*"
+# path_corpora = f"../ELTeC-*/*"
 
 
 for gen_path in glob.glob(path_corpora):
     dico_REN = {}
     # print("_____________",gen_path)
-    corp = gen_path.split("/")[1]
+    corp = gen_path.split("/")[2]
     print(corp)
     auteur=gen_path.split("/")[-1]
     # print(auteur)
@@ -95,17 +94,19 @@ for gen_path in glob.glob(path_corpora):
 
     for kle, value in dico_REN.items():
         print(kle)
-        stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json" ,value)
+        # stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/{corp}_spaCy/{auteur}_{corp}_{kle}.json" ,value)
+        # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json", value)
 # # print(dico_resultat)
     liste_res_nb = {}
     for key, dico_resultat in dico_REN.items():
+        kk = key.split("-")[-1]
         for cle, valeur in dico_resultat.items():
             set_valeur = len(set(valeur))
             liste_res_nb[key+"_"+cle] = {}
             liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
             liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
-
-            stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}--nb_entite.json",liste_res_nb)
+            # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{key}--nb_entite.json", liste_res_nb)
+            stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{kk}--nb_entite.json",liste_res_nb)
 
 
 
