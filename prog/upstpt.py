@@ -1,5 +1,3 @@
-# from supervenn import supervenn
-# from matplotlib import pyplot as plt
 import glob
 import json
 # import numpy as np
@@ -8,13 +6,14 @@ import json
 from matplotlib import pyplot as plt
 from upsetplot import from_contents, UpSet
 import re
+from renommage import *
+import os
 
 
 def lire_json(chemin):
     with open(chemin) as mon_fichier:
         data = json.load(mon_fichier)
     return data
-
 
 def titre_auteur(chemin):
     nomfich = chemin.split("/")[-1]
@@ -30,157 +29,86 @@ def stocker(chemin, contenu):
     return chemin
 
 
-liste_ren = []
+
+
 # path_corpora = "../Upstplt-ELTeC/*fra_sp*.json"
-path_corpora = "../Upsetplot_intersection/small-ELTeC-fra_spaCy3.5.1"
-new_dic = {}
+path_corpora = "../Upsetplot_intersection/GLOBAL/small-*"
+
 # liste_version=[]
 
-for path in glob.glob(f"{path_corpora}/*.json"):
+for path in glob.glob(f"{path_corpora}"):
     # print(path)
-    path_output = path.split(".json")[0]
-    print(path_output)
-    modele_REN = (path.split("_")[-1]).split(".json")[0]
-    liste_ren.append(modele_REN)
-    print(liste_ren)
-    dico_entite = lire_json(path)
-    # print(dico_entite["Ref"])
-    for key, value in dico_entite.items():
-        print(key)
+    new_dic = {}
+    liste_ren = []
+    output = path.split("/")
+    rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] +"_PNG"])
+    print("------ Rep_out : ",rep_out)
+    # os.mkdir(rep_out)
 
-        if key == "Kraken-base.txt" or key == "kraken" or key == "Kraken":
-            new_key = re.sub("Kraken-base.txt|kraken|Kraken", "Kraken", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+    for subpath in glob.glob(f"{path}/*.json"):
+        path_output = "/".join([rep_out, subpath.split("/")[-1]])
+        print("PATH OUTPUT : ", path_output)
 
-        if key == "kraken-jspll-pretrain.txt" or key == "kraken-jspll-pretrain":
-            new_key = re.sub("kraken-jspll-pretrain.txt|kraken-jspll-pretrain", "Kraken--jspl-fr", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+        modele_REN = (subpath.split("_")[-1]).split(".json")[0]
+        liste_ren.append(modele_REN)
+        print(liste_ren)
+        dico_entite = lire_json(subpath)
+        # print(dico_entite["Ref"])
+        for key, value in dico_entite.items():
+            print("OLD kEY : ",key)
+            nouv_kee= nommage_upset(key)
+            new_dic[nouv_kee] = value
+# print("new_dic.keys()------>",new_dic.keys())
 
-        if key == "Kraken-jspll-pretrain":
-            new_key = re.sub("Kraken-jspll-pretrain", "Kraken--jspl-en", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+        liste_moteur = []
+        a = 2
 
-        if key == "kraken-jspll-ELTeC.txt" or key == "kraken-jspll-ELTeC":
-            new_key = re.sub("kraken-jspll-ELTeC.txt|kraken-jspll-ELTeC", "Kraken--jspl-ELTeCfr", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+        for cle, valeur in new_dic.items():
+            liste_moteur.append(cle)
 
-        if key == "Kraken-jspll-ELTeC":
-            new_key = re.sub("Kraken-jspll-ELTeC", "Kraken--jspl-ELTeCen", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+            print("LISTE MOTEUR",liste_moteur)
+        liste_moteur.remove("Ref.")
+        print("LISTE MOTEUR", liste_moteur)
 
-        if key == "Kraken-jspl-ELTeC":
-            new_key = re.sub("Kraken-jspl-ELTeC", "Kraken--jspl-ELTeCpt", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
+        if a>=len(liste_moteur):
+            print(len(liste_moteur))
+            print("liste_moteur trop petite")
+            continue
+        print("liste_moteur OK")
+        #
+        dico_entite = {k: set(v)for k, v in new_dic.items() if k == liste_moteur[a] or k == "Ref."}
 
-        if key == "TesseractFra-PNG.txt" or key == "TesseractFra-PNG" or key == "TesseractFra-png":
-            new_key = re.sub("TesseractFra-PNG.txt|TesseractFra-PNG|TesseractFra-png", "Tess. fr", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "tesseract" or key == "Tesseract-PNG":
-            new_key = re.sub("tesseract|Tesseract-PNG", "Tess.", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "TesseractPor-PNG":
-            new_key = re.sub("TesseractPor-PNG", "Tess. pt", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "TesseractFra-PNG-jspll-pretrain.txt" or key == "TesseractFra-PNG-jspll-pretrain":
-            new_key = re.sub("TesseractFra-PNG-jspll-pretrain.txt|TesseractFra-PNG-jspll-pretrain",
-                             "Tess. fr -- jspl-fr", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "tesseract-jspll-pretrain" or key == "Tesseract-PNG-jspll-pretrain":
-            new_key = re.sub("tesseract-jspll-pretrain|Tesseract-PNG-jspll-pretrain", "Tess. -- jspl-en", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "TesseractFra-PNG-jspll-ELTeC.txt" or key == "TesseractFra-PNG-jspll-ELTeC":
-            new_key = re.sub("TesseractFra-PNG-jspll-ELTeC.txt|TesseractFra-PNG-jspll-ELTeC",
-                             "Tess. fr -- jspl-ELTeCfr", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "Tesseract-PNG-jspll-ELTeC":
-            new_key = re.sub("Tesseract-PNG-jspll-ELTeC", "Tess. -- jspl-ELTeCen", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "TesseractPor-PNG-jspl-ELTeC":
-            new_key = re.sub("TesseractPor-PNG-jspl-ELTeC", "Tess. pt -- jspl-ELTeCpt", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "Ref":
-            new_key = re.sub("Ref", "Ref.", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "tesseract0.3.10":
-            new_key = re.sub("tesseract0.3.10", "Tess. fr 3.10", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "kraken4.3.13.dev25":
-            new_key = re.sub("kraken4.3.13.dev25", "Kraken 4.3.13", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-        if key == "lectaurep-kraken4.3.13.dev25":
-            new_key = re.sub("lectaurep-kraken4.3.13.dev25", "Kraken Lectp. 4.3.13", key)
-            print("key : ", new_key)
-            new_dic[new_key] = value
-
-# print(i, new_dic.keys())
-    liste_moteur = []
-    a = 5
-
-    for cle, valeur in new_dic.items():
-        liste_moteur.append(cle)
-
-    dico_entite = {k: set(v)for k, v in new_dic.items() if k == liste_moteur[a] or k == "Ref."}
-
-    test = from_contents(dico_entite)
-    upset = UpSet(
-        test,
-        orientation='horizontal',
-        sort_by='degree',
-        # subset_size='count',
-        # show_counts=True,
-        totals_plot_elements=3,
-        show_percentages=True
-    )
-    # upset.style_subsets(
-    #     present=["sm", "lg"],
-    #     absent=[
-    #         "flair",
-    #         "camenBert"
-    #     ],
-    #     edgecolor="yellow",
-    #     facecolor="blue",
-    # )
-
-    fig = plt.figure()
-    fig.legend(loc=7)
-    plt.subplots_adjust(left=0.112, right=0.975, top=0.782, bottom=0.101, wspace=0.2, hspace=0.2)
-    upset.plot(fig=fig)
-    for text in fig.findobj(plt.Text):
-        if "%" in text.get_text():
-            text.set_fontsize(8)
-    # plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
-    # fig.figsize = (10, 6)
-    # plt.yscale('log', base=10)
-    plt.axis([-1.0, 2.3, 0.0, 6000.0])
-    plt.xticks(fontsize=8)
-    plt.yticks(fontsize=8)
-    plt.savefig(f"{path_output}_{liste_moteur[a]}_upsetplot.png", dpi=300)
-    plt.show()
+        test = from_contents(dico_entite)
+        upset = UpSet(
+            test,
+            orientation='horizontal',
+            sort_by='degree',
+            # subset_size='count',
+            # show_counts=True,
+            totals_plot_elements=3,
+            show_percentages=True
+        )
+        # upset.style_subsets(
+        #     present=["sm", "lg"],
+        #     absent=[
+        #         "flair",
+        #         "camenBert"
+        #     ],
+        #     edgecolor="yellow",
+        #     facecolor="blue",
+        # )
+        fig = plt.figure()
+        fig.legend(loc=7)
+        plt.subplots_adjust(left=0.112, right=0.975, top=0.782, bottom=0.101, wspace=0.2, hspace=0.2)
+        upset.plot(fig=fig)
+        for text in fig.findobj(plt.Text):
+            if "%" in text.get_text():
+                text.set_fontsize(8)
+        # plt.suptitle("Représentation de \n l'intersection des lexiques", fontsize=20)
+        # fig.figsize = (10, 6)
+        # plt.yscale('log', base=10)
+        plt.axis([-1.0, 2.3, 0.0, 6000.0])
+        plt.xticks(fontsize=8)
+        plt.yticks(fontsize=8)
+        plt.savefig(f"{path_output}_{liste_moteur[a]}_upsetplot.png", dpi=300)
+        plt.show()
