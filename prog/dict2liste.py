@@ -81,7 +81,7 @@ def stocker(chemin, contenu):
 # Dict2list concaténation
 # path_corpora = "../DATA_ELTeC-fra/DAUDET/*/DAUDET_petit-chose_PP_multiNER_4tools-intersection2_annot.json"
 # path_corpora = "../DATA_test_09072024/ADAM_Mon-village/*"
-path_corpora = "../CORPUS_REN/*TAL*/*"
+path_corpora = "../CORPUS_REN/small-*fra-2021*/*"
 # modeles = ["camenBert_ner", "sm", "lg","flair"]
 dico_entite = {}
 

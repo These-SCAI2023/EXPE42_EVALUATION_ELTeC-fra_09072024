@@ -1,0 +1,602 @@
+{
+  "entite_0": {
+    "label": "PER",
+    "text": "hè2 chatjmerot",
+    "jalons": [
+      47,
+      61
+    ]
+  },
+  "entite_1": {
+    "label": "LOC",
+    "text": "AUTPÀTLAlS’-ltO^A'L-",
+    "jalons": [
+      79,
+      99
+    ]
+  },
+  "entite_2": {
+    "label": "LOC",
+    "text": "GALERIE DE BOIS-",
+    "jalons": [
+      101,
+      117
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "H",
+    "jalons": [
+      119,
+      120
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "DE-L’I-MPRIMERIE DE GUIRAUDET",
+    "jalons": [
+      165,
+      194
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "a. bignan",
+    "jalons": [
+      265,
+      274
+    ]
+  },
+  "entite_6": {
+    "label": "LOC",
+    "text": "PARIS",
+    "jalons": [
+      278,
+      283
+    ]
+  },
+  "entite_7": {
+    "label": "PER",
+    "text": "GHAUMEROT JEUNE",
+    "jalons": [
+      290,
+      305
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "LIBRAIRE",
+    "jalons": [
+      307,
+      315
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "PALAIS",
+    "jalons": [
+      320,
+      326
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "GALERIE DE BOIS",
+    "jalons": [
+      335,
+      350
+    ]
+  },
+  "entite_11": {
+    "label": "PER",
+    "text": "K°",
+    "jalons": [
+      353,
+      355
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "I Sg",
+    "jalons": [
+      357,
+      361
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "JTÉNÉREUX",
+    "jalons": [
+      402,
+      411
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Sparte",
+    "jalons": [
+      429,
+      435
+    ]
+  },
+  "entite_15": {
+    "label": "LOC",
+    "text": "Athènes-",
+    "jalons": [
+      441,
+      449
+    ]
+  },
+  "entite_16": {
+    "label": "MISC",
+    "text": "Captifs",
+    "jalons": [
+      509,
+      516
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Marchez",
+    "jalons": [
+      543,
+      550
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Grecs",
+    "jalons": [
+      563,
+      568
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Imitez 5",
+    "jalons": [
+      595,
+      603
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Codrus",
+    "jalons": [
+      652,
+      658
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Lioiydas",
+    "jalons": [
+      663,
+      671
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Liberté !",
+    "jalons": [
+      932,
+      941
+    ]
+  },
+  "entite_23": {
+    "label": "MISC",
+    "text": "Tour",
+    "jalons": [
+      1145,
+      1149
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "ÎLe",
+    "jalons": [
+      1178,
+      1181
+    ]
+  },
+  "entite_25": {
+    "label": "PER",
+    "text": "Malheur",
+    "jalons": [
+      1276,
+      1283
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Musulman !",
+    "jalons": [
+      1324,
+      1334
+    ]
+  },
+  "entite_27": {
+    "label": "LOC",
+    "text": "Tremble",
+    "jalons": [
+      1363,
+      1370
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "brasjrengeur sjrr",
+    "jalons": [
+      1379,
+      1396
+    ]
+  },
+  "entite_29": {
+    "label": "MISC",
+    "text": "téte_ ^\nBalance le glaive irrité",
+    "jalons": [
+      1409,
+      1441
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "_ ",
+    "jalons": [
+      1449,
+      1451
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Croyais",
+    "jalons": [
+      1462,
+      1469
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Ui",
+    "jalons": [
+      1484,
+      1486
+    ]
+  },
+  "entite_33": {
+    "label": "LOC",
+    "text": "Croyais",
+    "jalons": [
+      1606,
+      1613
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Athènes",
+    "jalons": [
+      1906,
+      1913
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "Périclés",
+    "jalons": [
+      1926,
+      1934
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Démosthènes",
+    "jalons": [
+      1948,
+      1959
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Miltiade",
+    "jalons": [
+      1963,
+      1971
+    ]
+  },
+  "entite_38": {
+    "label": "LOC",
+    "text": "Ianée",
+    "jalons": [
+      2218,
+      2223
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Agiter",
+    "jalons": [
+      2224,
+      2230
+    ]
+  },
+  "entite_40": {
+    "label": "LOC",
+    "text": "P",
+    "jalons": [
+      2264,
+      2265
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Armez",
+    "jalons": [
+      2315,
+      2320
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Dont Tyrtée",
+    "jalons": [
+      2564,
+      2575
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Libres",
+    "jalons": [
+      2697,
+      2703
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Othman",
+    "jalons": [
+      2796,
+      2802
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Bnfant",
+    "jalons": [
+      3010,
+      3016
+    ]
+  },
+  "entite_46": {
+    "label": "LOC",
+    "text": "Bosphore",
+    "jalons": [
+      3209,
+      3217
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Champs sacrés",
+    "jalons": [
+      3311,
+      3324
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "Thermopyles-",
+    "jalons": [
+      3405,
+      3417
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Platée",
+    "jalons": [
+      3424,
+      3430
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Marathon ",
+    "jalons": [
+      3437,
+      3446
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Xercès",
+    "jalons": [
+      3478,
+      3484
+    ]
+  },
+  "entite_52": {
+    "label": "LOC",
+    "text": "Byzance",
+    "jalons": [
+      3488,
+      3495
+    ]
+  },
+  "entite_53": {
+    "label": "LOC",
+    "text": "meurt’-",
+    "jalons": [
+      4047,
+      4054
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "Rougiraient",
+    "jalons": [
+      4097,
+      4108
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Jurez",
+    "jalons": [
+      4265,
+      4270
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Immoler",
+    "jalons": [
+      4313,
+      4320
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Ttoi",
+    "jalons": [
+      4375,
+      4379
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4402,
+      4406
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Fera",
+    "jalons": [
+      4451,
+      4455
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      4522,
+      4526
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "Foi contre l’impiété",
+    "jalons": [
+      4612,
+      4632
+    ]
+  },
+  "entite_62": {
+    "label": "LOC",
+    "text": "Grèce",
+    "jalons": [
+      4650,
+      4655
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Achille",
+    "jalons": [
+      4834,
+      4841
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Homère",
+    "jalons": [
+      4857,
+      4863
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Unissent",
+    "jalons": [
+      4864,
+      4872
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Croix",
+    "jalons": [
+      5177,
+      5182
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Renverse du Croissant",
+    "jalons": [
+      5208,
+      5229
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Hibr",
+    "jalons": [
+      5312,
+      5316
+    ]
+  },
+  "entite_69": {
+    "label": "MISC",
+    "text": "Que\n touche la pitié",
+    "jalons": [
+      5345,
+      5365
+    ]
+  },
+  "entite_70": {
+    "label": "LOC",
+    "text": "Grèce",
+    "jalons": [
+      5518,
+      5523
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Vengez",
+    "jalons": [
+      5539,
+      5545
+    ]
+  },
+  "entite_72": {
+    "label": "MISC",
+    "text": "Univers",
+    "jalons": [
+      5676,
+      5683
+    ]
+  },
+  "entite_73": {
+    "label": "MISC",
+    "text": "Frappez",
+    "jalons": [
+      5795,
+      5802
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "foudre^^dSeEûjrS^",
+    "jalons": [
+      5872,
+      5889
+    ]
+  }
+}

@@ -5,11 +5,18 @@ import os
 import re
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../CORPUS_ASSEMBLAGE/small-*/*/*OCR/*"
-# path_input="../CORPUS_ASSEMBLAGE/small-ELTeC-fra-2021-2024-corr-automatique_REN/*/*REF/*/*"
+path_input="../Archeo_correction_distance_spaCy-3.7.5/small-*"
+
+# path_input="../Archeo_spaCy-3.7.5/small-*/*/*REF/*/*"
 
 for path in glob.glob(path_input):
-    # print(path)
+    print(path)
+    rep_output=path.split("_")
+    print("rep_output",rep_output)
+    path_output= "../ARCHEO_Correction_Distances"+"/"+rep_output[-2].split("/")[-1]+"/"+path.split("/")[-1]
+    print("PATH OUTPUT",path_output)
+    shutil.copytree(path,path_output)
+
     # shutil.rmtree(path)
     # if "spacy-lg" in path or "spacy-sm" in path or "spacy-md" in path:
     #     print(path)
@@ -30,6 +37,7 @@ for path in glob.glob(path_input):
 
     # if "spacy" not in path:
     #     print(path)
+    #     os.remove(path)
 
     # if "_PP.txt" in path:
     #     print(path)
@@ -45,13 +53,9 @@ for path in glob.glob(path_input):
     #     os.rename(path, path_rename)
 
 ## Retirer les dossiers jamspell
-    if "-jspll-" in path or "-jspl-" in path:
-        print(path)
-        shutil.rmtree(path)
-
-
-
-
+    # if "-jspll-" in path or "-jspl-" in path:
+    #     print(path)
+    #     shutil.rmtree(path)
 
     # path_output=path.split("/")
     # rep_output=path_output[2].split("-")

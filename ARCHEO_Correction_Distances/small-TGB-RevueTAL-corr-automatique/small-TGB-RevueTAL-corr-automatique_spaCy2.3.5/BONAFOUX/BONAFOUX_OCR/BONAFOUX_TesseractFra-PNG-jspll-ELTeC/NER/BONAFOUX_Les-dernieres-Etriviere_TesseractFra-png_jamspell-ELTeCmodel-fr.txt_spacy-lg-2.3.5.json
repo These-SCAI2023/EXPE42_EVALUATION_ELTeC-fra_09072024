@@ -1,0 +1,994 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "Étrivières",
+    "jalons": [
+      30,
+      40
+    ]
+  },
+  "entite_1": {
+    "label": "MISC",
+    "text": "Bernard",
+    "jalons": [
+      80,
+      87
+    ]
+  },
+  "entite_2": {
+    "label": "PER",
+    "text": "Bonafoux",
+    "jalons": [
+      88,
+      96
+    ]
+  },
+  "entite_3": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France\n\f\n",
+    "jalons": [
+      125,
+      160
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "Bernard",
+    "jalons": [
+      185,
+      192
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "Étrivières",
+    "jalons": [
+      225,
+      235
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Bernard Bonafoux",
+    "jalons": [
+      275,
+      291
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      344,
+      351
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "BnF.",
+    "jalons": [
+      475,
+      479
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Bibliothèque nationale de France",
+    "jalons": [
+      863,
+      895
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Horace",
+    "jalons": [
+      903,
+      909
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "CLIQUER",
+    "jalons": [
+      1428,
+      1435
+    ]
+  },
+  "entite_12": {
+    "label": "MISC",
+    "text": "ACCÉDER AUX TARIFS ET À LA LICENCE\n\n \n\n",
+    "jalons": [
+      1445,
+      1484
+    ]
+  },
+  "entite_13": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      1503,
+      1510
+    ]
+  },
+  "entite_14": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      1535,
+      1538
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "L.2112",
+    "jalons": [
+      1560,
+      1566
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Source gallica.BnF.or",
+    "jalons": [
+      2079,
+      2100
+    ]
+  },
+  "entite_17": {
+    "label": "ORG",
+    "text": "Bibliothèque municipale de",
+    "jalons": [
+      2103,
+      2129
+    ]
+  },
+  "entite_18": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2263,
+      2270
+    ]
+  },
+  "entite_19": {
+    "label": "ORG",
+    "text": "BnF",
+    "jalons": [
+      2310,
+      2313
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "L341",
+    "jalons": [
+      2363,
+      2367
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2481,
+      2488
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Gallica",
+    "jalons": [
+      2991,
+      2998
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "humiliation.commerciale@",
+    "jalons": [
+      3030,
+      3054
+    ]
+  },
+  "entite_24": {
+    "label": "ORG",
+    "text": "BERNARD",
+    "jalons": [
+      3066,
+      3073
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "BONAFOUX",
+    "jalons": [
+      3074,
+      3082
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "CNOUVBLLES",
+    "jalons": [
+      3112,
+      3122
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "INPIÉTÉ",
+    "jalons": [
+      3140,
+      3147
+    ]
+  },
+  "entite_28": {
+    "label": "MISC",
+    "text": "Cent",
+    "jalons": [
+      3159,
+      3163
+    ]
+  },
+  "entite_29": {
+    "label": "ORG",
+    "text": "MARIUS VIDAL",
+    "jalons": [
+      3183,
+      3195
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "LIBRAIRE",
+    "jalons": [
+      3197,
+      3205
+    ]
+  },
+  "entite_31": {
+    "label": "LOC",
+    "text": "Brignoles",
+    "jalons": [
+      3233,
+      3242
+    ]
+  },
+  "entite_32": {
+    "label": "ORG",
+    "text": "ARGUS",
+    "jalons": [
+      3258,
+      3263
+    ]
+  },
+  "entite_33": {
+    "label": "ORG",
+    "text": "BSS",
+    "jalons": [
+      3265,
+      3268
+    ]
+  },
+  "entite_34": {
+    "label": "PER",
+    "text": "André Saexirr",
+    "jalons": [
+      3365,
+      3378
+    ]
+  },
+  "entite_35": {
+    "label": "LOC",
+    "text": "rue Vivienne",
+    "jalons": [
+      3380,
+      3392
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      3397,
+      3402
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Étrivières",
+    "jalons": [
+      3409,
+      3419
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Marius Vinar",
+    "jalons": [
+      3435,
+      3447
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Brignoles",
+    "jalons": [
+      3451,
+      3460
+    ]
+  },
+  "entite_40": {
+    "label": "MISC",
+    "text": "Les Joies et les Larmes",
+    "jalons": [
+      3487,
+      3510
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Cruche",
+    "jalons": [
+      3554,
+      3560
+    ]
+  },
+  "entite_42": {
+    "label": "MISC",
+    "text": "1Acte",
+    "jalons": [
+      3582,
+      3587
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "Les Dupes",
+    "jalons": [
+      3599,
+      3608
+    ]
+  },
+  "entite_44": {
+    "label": "ORG",
+    "text": "4Acte",
+    "jalons": [
+      3633,
+      3638
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Relour",
+    "jalons": [
+      3653,
+      3659
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "1Acte",
+    "jalons": [
+      3671,
+      3676
+    ]
+  },
+  "entite_47": {
+    "label": "ORG",
+    "text": "um mé Smet",
+    "jalons": [
+      3698,
+      3708
+    ]
+  },
+  "entite_48": {
+    "label": "MISC",
+    "text": "r RE na ann ee",
+    "jalons": [
+      3721,
+      3735
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "L']PIÉTÉ",
+    "jalons": [
+      3801,
+      3809
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "BERNARD",
+    "jalons": [
+      3816,
+      3823
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "BONAFOUX",
+    "jalons": [
+      3824,
+      3832
+    ]
+  },
+  "entite_52": {
+    "label": "ORG",
+    "text": "ÉTRIVIÈRES",
+    "jalons": [
+      3888,
+      3898
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "CERTAINS CRITIQUES\n\n \n\n",
+    "jalons": [
+      3905,
+      3928
+    ]
+  },
+  "entite_54": {
+    "label": "MISC",
+    "text": "ma Muse\n",
+    "jalons": [
+      4074,
+      4082
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "tOut cEla",
+    "jalons": [
+      4371,
+      4380
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Père",
+    "jalons": [
+      4611,
+      4615
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "IXnt Ozywprape",
+    "jalons": [
+      4832,
+      4846
+    ]
+  },
+  "entite_58": {
+    "label": "ORG",
+    "text": "DERNIÈRES ÉTRIVIÈRES",
+    "jalons": [
+      4870,
+      4890
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5826,
+      5830
+    ]
+  },
+  "entite_60": {
+    "label": "LOC",
+    "text": "Tendez",
+    "jalons": [
+      6079,
+      6085
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Pascal",
+    "jalons": [
+      6146,
+      6152
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Baron",
+    "jalons": [
+      6154,
+      6159
+    ]
+  },
+  "entite_63": {
+    "label": "PER",
+    "text": "Chateaubriand",
+    "jalons": [
+      6161,
+      6174
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Arouet",
+    "jalons": [
+      6518,
+      6524
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Gorgias",
+    "jalons": [
+      6560,
+      6567
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Sèvres",
+    "jalons": [
+      6812,
+      6818
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Voltaire",
+    "jalons": [
+      6873,
+      6881
+    ]
+  },
+  "entite_68": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      6966,
+      6970
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Arouet",
+    "jalons": [
+      6972,
+      6978
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      7059,
+      7063
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Vanini",
+    "jalons": [
+      7226,
+      7232
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Julien",
+    "jalons": [
+      7237,
+      7243
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "M. Tronchin",
+    "jalons": [
+      7334,
+      7345
+    ]
+  },
+  "entite_74": {
+    "label": "MISC",
+    "text": "Dictionnaire Historique",
+    "jalons": [
+      7456,
+      7479
+    ]
+  },
+  "entite_75": {
+    "label": "MISC",
+    "text": "Ausbourg",
+    "jalons": [
+      7481,
+      7489
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Crésus",
+    "jalons": [
+      7588,
+      7594
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "De L’orgueil",
+    "jalons": [
+      7697,
+      7709
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "L GORE AD",
+    "jalons": [
+      7729,
+      7738
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      7959,
+      7963
+    ]
+  },
+  "entite_80": {
+    "label": "MISC",
+    "text": "Jai",
+    "jalons": [
+      8145,
+      8148
+    ]
+  },
+  "entite_81": {
+    "label": "LOC",
+    "text": "Dicu",
+    "jalons": [
+      8166,
+      8170
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "F",
+    "jalons": [
+      8175,
+      8176
+    ]
+  },
+  "entite_83": {
+    "label": "LOC",
+    "text": "X. DereLier",
+    "jalons": [
+      8178,
+      8189
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      8213,
+      8217
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Roi",
+    "jalons": [
+      8573,
+      8576
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "TITI",
+    "jalons": [
+      10235,
+      10239
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Provoqua",
+    "jalons": [
+      10286,
+      10294
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Maître",
+    "jalons": [
+      10629,
+      10635
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "Dieu grand",
+    "jalons": [
+      10640,
+      10650
+    ]
+  },
+  "entite_90": {
+    "label": "MISC",
+    "text": "J'arrêtai cet impudent langage",
+    "jalons": [
+      10771,
+      10801
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Beaux",
+    "jalons": [
+      10983,
+      10988
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Rende",
+    "jalons": [
+      11333,
+      11338
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Créateur",
+    "jalons": [
+      12374,
+      12382
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Parlez",
+    "jalons": [
+      12565,
+      12571
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "asseZ",
+    "jalons": [
+      12587,
+      12592
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "FUNÉÈBRE",
+    "jalons": [
+      12792,
+      12800
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      12987,
+      12991
+    ]
+  },
+  "entite_98": {
+    "label": "MISC",
+    "text": "dIre",
+    "jalons": [
+      13253,
+      13257
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "De Profundis",
+    "jalons": [
+      13268,
+      13280
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Sacrement\n\n",
+    "jalons": [
+      13336,
+      13347
+    ]
+  },
+  "entite_101": {
+    "label": "ORG",
+    "text": "Académie",
+    "jalons": [
+      13988,
+      13996
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Atteindront",
+    "jalons": [
+      14745,
+      14756
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "Paters",
+    "jalons": [
+      15506,
+      15512
+    ]
+  },
+  "entite_104": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      15797,
+      15801
+    ]
+  },
+  "entite_105": {
+    "label": "MISC",
+    "text": "Certains Critiques",
+    "jalons": [
+      15887,
+      15905
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Vire",
+    "jalons": [
+      15917,
+      15921
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Riches",
+    "jalons": [
+      15934,
+      15940
+    ]
+  },
+  "entite_108": {
+    "label": "MISC",
+    "text": "Esprit er",
+    "jalons": [
+      15944,
+      15953
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "Les Hypocrites de l'Athéisme",
+    "jalons": [
+      15956,
+      15984
+    ]
+  },
+  "entite_110": {
+    "label": "MISC",
+    "text": "Convoi Funèbre",
+    "jalons": [
+      16007,
+      16021
+    ]
+  },
+  "entite_111": {
+    "label": "MISC",
+    "text": "Forte Tête",
+    "jalons": [
+      16054,
+      16064
+    ]
+  },
+  "entite_112": {
+    "label": "LOC",
+    "text": "Brignoles",
+    "jalons": [
+      16100,
+      16109
+    ]
+  },
+  "entite_113": {
+    "label": "LOC",
+    "text": "Typographie de A. VIENS",
+    "jalons": [
+      16113,
+      16136
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "ruc du Portail",
+    "jalons": [
+      16138,
+      16152
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "N",
+    "jalons": [
+      16159,
+      16160
+    ]
+  },
+  "entite_116": {
+    "label": "LOC",
+    "text": "A7",
+    "jalons": [
+      16175,
+      16177
+    ]
+  },
+  "entite_117": {
+    "label": "LOC",
+    "text": "ER",
+    "jalons": [
+      16209,
+      16211
+    ]
+  },
+  "entite_118": {
+    "label": "MISC",
+    "text": "LA NÔNE LIBRARE",
+    "jalons": [
+      16242,
+      16257
+    ]
+  },
+  "entite_119": {
+    "label": "MISC",
+    "text": "Livres",
+    "jalons": [
+      16294,
+      16300
+    ]
+  },
+  "entite_120": {
+    "label": "LOC",
+    "text": "Piété",
+    "jalons": [
+      16306,
+      16311
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Cartes Géographiques",
+    "jalons": [
+      16315,
+      16335
+    ]
+  },
+  "entite_122": {
+    "label": "MISC",
+    "text": "Gravures et Encadrements artistiques",
+    "jalons": [
+      16340,
+      16376
+    ]
+  },
+  "entite_123": {
+    "label": "MISC",
+    "text": "Objets de Religion",
+    "jalons": [
+      16379,
+      16397
+    ]
+  }
+}

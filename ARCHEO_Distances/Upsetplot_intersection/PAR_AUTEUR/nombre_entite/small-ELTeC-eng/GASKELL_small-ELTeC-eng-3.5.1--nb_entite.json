@@ -1,0 +1,38 @@
+{
+  "spacy-lg-3.5.1_Kraken": {
+    "EN-occ": 100,
+    "EN-type": 97
+  },
+  "spacy-lg-3.5.1_Tesseract-PNG": {
+    "EN-occ": 134,
+    "EN-type": 74
+  },
+  "spacy-lg-3.5.1_Ref": {
+    "EN-occ": 318,
+    "EN-type": 110
+  },
+  "spacy-md-3.5.1_Kraken": {
+    "EN-occ": 93,
+    "EN-type": 89
+  },
+  "spacy-md-3.5.1_Tesseract-PNG": {
+    "EN-occ": 144,
+    "EN-type": 79
+  },
+  "spacy-md-3.5.1_Ref": {
+    "EN-occ": 329,
+    "EN-type": 121
+  },
+  "spacy-sm-3.5.1_Kraken": {
+    "EN-occ": 55,
+    "EN-type": 54
+  },
+  "spacy-sm-3.5.1_Tesseract-PNG": {
+    "EN-occ": 145,
+    "EN-type": 79
+  },
+  "spacy-sm-3.5.1_Ref": {
+    "EN-occ": 327,
+    "EN-type": 121
+  }
+}
