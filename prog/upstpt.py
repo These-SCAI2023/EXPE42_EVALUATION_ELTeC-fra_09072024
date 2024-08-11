@@ -26,27 +26,53 @@ def stocker(chemin, contenu):
     w.close()
     # print(chemin)
     return chemin
-
+##___________________GLOBAL_________________________________
 # path_corpora = "../ARCHEO_Distances/Upsetplot_intersection/GLOBAL/small-*"
-path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
+# path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/small-*fra-2021*"
-# liste_version=[]
 # size=[2000, 4000, 6000, 10000,15000,20000,30000]
-size=[100000,200000,300000,400000,600000]
+# size=[100000,200000,300000,400000,600000]
+##___________________GLOBAL_________________________________
+##___________________PAR AUTEUR_________________________________
+# path_corpora = "../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*"
+path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
+# path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*fra-2021*"
+size=[100, 200, 300, 400, 600, 1000,1500,2000,3000]
+##___________________PAR AUTEUR_________________________________
+
+# liste_version=[]
+
 for path in glob.glob(f"{path_corpora}"):
     # print(path)
     new_dic = {}
     liste_ren = []
-    output = path.split("/")
-    rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] +"_PNG"])## Pour NER normale
-    # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
-    print("------ Rep_out : ",rep_out)
-    if os.path.exists(rep_out) == False:
-        os.mkdir(rep_out) ### Creéer le dossier
+    ##___________________GLOBAL_________________________________
+    # output = path.split("/")
+    # rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] +"_PNG"])## Pour NER normale
+    # # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
+    # print("------ Rep_out : ",rep_out)
+    # if os.path.exists(rep_out) == False:
+    #     os.mkdir(rep_out) ### Creéer le dossier
+    ##___________________GLOBAL_________________________________
 
     for subpath in glob.glob(f"{path}/*.json"):
-        path_output = "/".join([rep_out, subpath.split("/")[-1]])
+        print("subpath",subpath)
+        ##___________________PAR AUTEUR_________________________________
+        output = subpath.split("/")
+        auteur=subpath.split("/")[-1].split("_")
+        auteur="-".join(auteur[:2])
+        rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] + "_PNG"])  ## Pour NER normale
+        # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
+        print("------ Rep_out : ", rep_out)
+        if os.path.exists(rep_out) == False:
+            os.mkdir(rep_out) ### Creéer le dossier
+
+        if os.path.exists(rep_out+"/"+auteur) == False:
+            os.mkdir(rep_out+"/"+auteur) ### Creéer le dossier
+
+        path_output = "/".join([rep_out,auteur, subpath.split("/")[-1]])
         print("PATH OUTPUT : ", path_output)
+        ##___________________PAR AUTEUR_________________________________
 
         modele_REN = (subpath.split("_")[-1]).split(".json")[0]
         liste_ren.append(modele_REN)
@@ -111,6 +137,7 @@ for path in glob.glob(f"{path_corpora}"):
             )
             for x in size:
                 sortie=f"{path_output}_{liste_moteur[a]}_upsetplot-size-{x}.png"
+                print("SORTIE --------->>>>>>>",sortie)
                 if os.path.exists(sortie) == False:
                     fig = plt.figure()
                     fig.legend(loc=7)
