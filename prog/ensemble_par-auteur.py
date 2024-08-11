@@ -94,7 +94,7 @@ for gen_path in glob.glob(path_corpora):
 
     for kle, value in dico_REN.items():
         print(kle)
-        # stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/{corp}_spaCy/{auteur}_{corp}_{kle}.json" ,value)
+        stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/{corp}_spaCy/{auteur}_{corp}_{kle}.json" ,value)
         # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json", value)
 # # print(dico_resultat)
     liste_res_nb = {}
@@ -106,7 +106,7 @@ for gen_path in glob.glob(path_corpora):
             liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
             liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
             # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{key}--nb_entite.json", liste_res_nb)
-            stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{kk}--nb_entite.json",liste_res_nb)
+            stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}_spaCy/{auteur}_{corp}-{kk}--nb_entite.json",liste_res_nb)
 
 
 

@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 23591,
+    "EN-type": 16841
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 48880,
+    "EN-type": 36443
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 6642,
+    "EN-type": 3360
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 4560,
+    "EN-type": 1651
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 16715,
+    "EN-type": 13239
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 26140,
+    "EN-type": 22987
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 8144,
+    "EN-type": 3387
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 5173,
+    "EN-type": 1662
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 34234,
+    "EN-type": 22941
+  },
+  "spacy-lg-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 39753,
+    "EN-type": 30318
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 15523,
+    "EN-type": 5224
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 8396,
+    "EN-type": 2731
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 34234,
+    "EN-type": 22941
+  },
+  "spacy-md-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 39753,
+    "EN-type": 30318
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 15523,
+    "EN-type": 5224
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 8396,
+    "EN-type": 2731
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 34234,
+    "EN-type": 22941
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 39753,
+    "EN-type": 30318
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 15523,
+    "EN-type": 5224
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 8396,
+    "EN-type": 2731
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 8388,
+    "EN-type": 6484
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 5105,
+    "EN-type": 4659
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 5217,
+    "EN-type": 2527
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 4805,
+    "EN-type": 2077
+  }
+}

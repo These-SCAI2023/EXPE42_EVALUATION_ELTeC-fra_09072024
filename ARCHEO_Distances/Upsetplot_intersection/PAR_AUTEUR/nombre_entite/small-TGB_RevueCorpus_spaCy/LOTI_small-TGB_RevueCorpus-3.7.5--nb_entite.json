@@ -1,0 +1,38 @@
+{
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 5769,
+    "EN-type": 3983
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 3148,
+    "EN-type": 879
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 3648,
+    "EN-type": 716
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 7085,
+    "EN-type": 4836
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 2132,
+    "EN-type": 790
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 2040,
+    "EN-type": 579
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 6212,
+    "EN-type": 4395
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 2103,
+    "EN-type": 833
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 1966,
+    "EN-type": 612
+  }
+}

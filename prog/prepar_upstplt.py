@@ -6,8 +6,8 @@ def lire_json (chemin):
         data = json.load(mon_fichier)
     return data
 def model_ocr(chemin):
-    # ocr_mod=chemin.split("/")[4]
-    ocr_mod = chemin.split("/")[6]
+    # ocr_mod=chemin.split("/")[4]REN Normale
+    ocr_mod = chemin.split("/")[6]##5 Correction 6 archéo
     ocr_mod = ocr_mod.split("_")[-1]
     # liste_moteur.append(ocr_mod)
     # moteur = set(liste_moteur)
@@ -26,15 +26,15 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 
-path_corpora = f"../ARCHEO_Distances/small-*/*"
+path_corpora = f"../ARCHEO_Correction_Distances/small-*/*"
 # path_corpora = f"../CORRECTION_DISTANCES/small-*"
-# path_corpora = f"../ELTeC-*"
+# path_corpora = f"../small-*"
 
 
 for gen_path in glob.glob(path_corpora):
     dico_REN = {}
     print("_____________",gen_path)
-    path_output = gen_path.split("/")[2]
+    path_output = gen_path.split("/")[2]## 1 REN normale
     print("----------------------------------->>>",path_output)
     # print(auteur)
     paths_ocr= f"{gen_path}/*/*OCR/*/NER/*liste.json"
@@ -42,7 +42,7 @@ for gen_path in glob.glob(path_corpora):
 
     for path_ocr in glob.glob(paths_ocr):
         print(path_ocr)
-        auteur = path_ocr.split("/")[4]
+        auteur = path_ocr.split("/")[3] #4 archéo, 3 pour autres
         version_REN_ocr=model_REN(path_ocr)
         # dico_REN[version_REN_ocr]={}
         moteur_ocr=model_ocr(path_ocr)
@@ -73,7 +73,7 @@ for gen_path in glob.glob(path_corpora):
     # print(dico_REN)
     for path_ref in glob.glob(paths_ref):
         print(path_ref)
-        auteur = path_ref.split("/")[4]
+        auteur = path_ref.split("/")[4] #4 archéo
         print("****AUTEUR***:",auteur)
         version_REN_ref = model_REN(path_ref)
         liste_ner_ref = []
@@ -100,8 +100,9 @@ for gen_path in glob.glob(path_corpora):
 
     for kle, value in dico_REN.items():
         print(kle)
-        # stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/GLOBAL/{path_output}_spaCy/{path_output}_{kle}.json" ,value)
-
+        # stocker(f"../ARCHEO_Distances/Upsetplot_intersection/GLOBAL/{path_output}_spaCy/{path_output}_{kle}.json" ,value)
+        # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
+        # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
     liste_res_nb = {}
     for key, dico_resultat in dico_REN.items():
         kk=key.split("-")[-1]
@@ -112,6 +113,8 @@ for gen_path in glob.glob(path_corpora):
             liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
             print(liste_res_nb)
 
-        stocker(f"../ARCHEO_Distances/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{kk}--nb_entite.json",liste_res_nb)
+            stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{kk}--nb_entite.json",liste_res_nb)
+        # stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
+    # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
 
 
