@@ -1,0 +1,98 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 3252,
+    "EN-type": 2394
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 6413,
+    "EN-type": 4809
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 311,
+    "EN-type": 200
+  },
+  "camembert-4.41.1_TesseractFra-PNG": {
+    "EN-occ": 301,
+    "EN-type": 187
+  },
+  "camembert-4.41.1_kraken": {
+    "EN-occ": 516,
+    "EN-type": 348
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 267,
+    "EN-type": 121
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 762,
+    "EN-type": 663
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 540,
+    "EN-type": 501
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 218,
+    "EN-type": 135
+  },
+  "flair-0.13.1_TesseractFra-PNG": {
+    "EN-occ": 226,
+    "EN-type": 142
+  },
+  "flair-0.13.1_kraken": {
+    "EN-occ": 226,
+    "EN-type": 139
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 236,
+    "EN-type": 128
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 2036,
+    "EN-type": 1709
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2688,
+    "EN-type": 2363
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 571,
+    "EN-type": 233
+  },
+  "stanza-fr-1.8.2_TesseractFra-PNG": {
+    "EN-occ": 550,
+    "EN-type": 208
+  },
+  "stanza-fr-1.8.2_kraken": {
+    "EN-occ": 441,
+    "EN-type": 276
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 300,
+    "EN-type": 132
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 3975,
+    "EN-type": 2808
+  },
+  "spacy-sm-3.7.5_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 4053,
+    "EN-type": 2932
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 984,
+    "EN-type": 399
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 1041,
+    "EN-type": 389
+  },
+  "spacy-sm-3.7.5_kraken": {
+    "EN-occ": 1019,
+    "EN-type": 576
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 488,
+    "EN-type": 216
+  }
+}

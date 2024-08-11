@@ -1,0 +1,86 @@
+{
+  "spacy-sm-3.7.5_kraken4.3.13.dev25-jspll-pretrain": {
+    "EN-occ": 320,
+    "EN-type": 194
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 316,
+    "EN-type": 193
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10-jspll-pretrain": {
+    "EN-occ": 572,
+    "EN-type": 485
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10": {
+    "EN-occ": 611,
+    "EN-type": 544
+  },
+  "spacy-sm-3.7.5_kraken4.3.13.dev25-jspll-ELTeC": {
+    "EN-occ": 280,
+    "EN-type": 166
+  },
+  "spacy-sm-3.7.5_tesseract0.3.10-jspll-ELTeC": {
+    "EN-occ": 571,
+    "EN-type": 498
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 1043,
+    "EN-type": 762
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25-jspll-pretrain": {
+    "EN-occ": 242,
+    "EN-type": 162
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 253,
+    "EN-type": 176
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10-jspll-pretrain": {
+    "EN-occ": 574,
+    "EN-type": 485
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10": {
+    "EN-occ": 645,
+    "EN-type": 579
+  },
+  "spacy-lg-3.7.5_kraken4.3.13.dev25-jspll-ELTeC": {
+    "EN-occ": 225,
+    "EN-type": 153
+  },
+  "spacy-lg-3.7.5_tesseract0.3.10-jspll-ELTeC": {
+    "EN-occ": 569,
+    "EN-type": 505
+  },
+  "spacy-lg-3.7.5_Ref": {
+    "EN-occ": 970,
+    "EN-type": 813
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25-jspll-pretrain": {
+    "EN-occ": 250,
+    "EN-type": 170
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25": {
+    "EN-occ": 267,
+    "EN-type": 183
+  },
+  "spacy-md-3.7.5_tesseract0.3.10-jspll-pretrain": {
+    "EN-occ": 481,
+    "EN-type": 427
+  },
+  "spacy-md-3.7.5_tesseract0.3.10": {
+    "EN-occ": 567,
+    "EN-type": 509
+  },
+  "spacy-md-3.7.5_kraken4.3.13.dev25-jspll-ELTeC": {
+    "EN-occ": 277,
+    "EN-type": 179
+  },
+  "spacy-md-3.7.5_tesseract0.3.10-jspll-ELTeC": {
+    "EN-occ": 517,
+    "EN-type": 453
+  },
+  "spacy-md-3.7.5_Ref": {
+    "EN-occ": 918,
+    "EN-type": 705
+  }
+}

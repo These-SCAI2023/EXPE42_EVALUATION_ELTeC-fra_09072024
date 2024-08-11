@@ -1,0 +1,74 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 720,
+    "EN-type": 615
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2715,
+    "EN-type": 2260
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 111,
+    "EN-type": 69
+  },
+  "camembert-4.41.1_TesseractFra-PNG": {
+    "EN-occ": 87,
+    "EN-type": 46
+  },
+  "camembert-4.41.1_kraken": {
+    "EN-occ": 157,
+    "EN-type": 120
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 77,
+    "EN-type": 31
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 705,
+    "EN-type": 634
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1634,
+    "EN-type": 1526
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 232,
+    "EN-type": 119
+  },
+  "stanza-fr-1.8.2_TesseractFra-PNG": {
+    "EN-occ": 229,
+    "EN-type": 109
+  },
+  "stanza-fr-1.8.2_kraken": {
+    "EN-occ": 290,
+    "EN-type": 247
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 98,
+    "EN-type": 43
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 637,
+    "EN-type": 519
+  },
+  "flair-0.13.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 243,
+    "EN-type": 229
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 366,
+    "EN-type": 124
+  },
+  "flair-0.13.1_TesseractFra-PNG": {
+    "EN-occ": 334,
+    "EN-type": 109
+  },
+  "flair-0.13.1_kraken": {
+    "EN-occ": 239,
+    "EN-type": 120
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 371,
+    "EN-type": 107
+  }
+}

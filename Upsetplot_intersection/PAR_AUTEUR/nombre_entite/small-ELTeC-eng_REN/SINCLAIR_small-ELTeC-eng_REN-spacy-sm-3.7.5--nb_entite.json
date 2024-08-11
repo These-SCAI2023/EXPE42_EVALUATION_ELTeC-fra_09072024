@@ -1,0 +1,38 @@
+{
+  "camembert-4.41.1_Kraken": {
+    "EN-occ": 219,
+    "EN-type": 169
+  },
+  "camembert-4.41.1_Tesseract-PNG": {
+    "EN-occ": 198,
+    "EN-type": 137
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 516,
+    "EN-type": 207
+  },
+  "en-1.8.2_Kraken": {
+    "EN-occ": 127,
+    "EN-type": 94
+  },
+  "en-1.8.2_Tesseract-PNG": {
+    "EN-occ": 136,
+    "EN-type": 84
+  },
+  "en-1.8.2_Ref": {
+    "EN-occ": 398,
+    "EN-type": 156
+  },
+  "spacy-sm-3.7.5_Kraken": {
+    "EN-occ": 328,
+    "EN-type": 134
+  },
+  "spacy-sm-3.7.5_Tesseract-PNG": {
+    "EN-occ": 306,
+    "EN-type": 86
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 1039,
+    "EN-type": 157
+  }
+}

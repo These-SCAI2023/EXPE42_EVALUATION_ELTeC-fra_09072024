@@ -1,0 +1,34 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 720,
+    "EN-type": 615
+  },
+  "camembert-4.41.1_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 2715,
+    "EN-type": 2260
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 111,
+    "EN-type": 69
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 77,
+    "EN-type": 31
+  },
+  "stanza-fr-1.8.2_kraken4.3.13.dev25": {
+    "EN-occ": 705,
+    "EN-type": 634
+  },
+  "stanza-fr-1.8.2_lectaurep-kraken4.3.13.dev25": {
+    "EN-occ": 1634,
+    "EN-type": 1526
+  },
+  "stanza-fr-1.8.2_tesseract0.3.10": {
+    "EN-occ": 232,
+    "EN-type": 119
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 98,
+    "EN-type": 43
+  }
+}

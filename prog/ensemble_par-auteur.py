@@ -6,8 +6,8 @@ def lire_json (chemin):
         data = json.load(mon_fichier)
     return data
 def model_ocr(chemin):
-    # ocr_mod=chemin.split("/")[4]
-    ocr_mod = chemin.split("/")[6]### Adapter selon ARCHEO ou CORRECTION
+    ocr_mod=chemin.split("/")[4]
+    # ocr_mod = chemin.split("/")[5]### Adapter selon 6 ARCHEO ou 5 CORRECTION
     ocr_mod = ocr_mod.split("_")[-1]
     # liste_moteur.append(ocr_mod)
     # moteur = set(liste_moteur)
@@ -30,14 +30,16 @@ def stocker(chemin, contenu):
     return chemin
 
 
-path_corpora = f"../ARCHEO_Distances/small-*/*/*"
-# path_corpora = f"../ELTeC-*/*"
+# path_corpora = f"../ARCHEO_Correction_Distances/small-*/*/*"
+path_corpora = f"../small-*/*"
+# path_corpora = f"../CORRECTION_DISTANCES/small-*/*"
+
 
 
 for gen_path in glob.glob(path_corpora):
     dico_REN = {}
     # print("_____________",gen_path)
-    corp = gen_path.split("/")[2]
+    corp = gen_path.split("/")[1]## changer selon path_corpora
     print(corp)
     auteur=gen_path.split("/")[-1]
     # print(auteur)
@@ -94,8 +96,9 @@ for gen_path in glob.glob(path_corpora):
 
     for kle, value in dico_REN.items():
         print(kle)
-        stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/{corp}_spaCy/{auteur}_{corp}_{kle}.json" ,value)
-        # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json", value)
+        # stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/{corp}_spaCy/{auteur}_{corp}_{kle}.json" ,value)
+        stocker(f"../Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json", value)
+        # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/{corp}/{auteur}_{corp}_{kle}.json", value)
 # # print(dico_resultat)
     liste_res_nb = {}
     for key, dico_resultat in dico_REN.items():
@@ -105,8 +108,9 @@ for gen_path in glob.glob(path_corpora):
             liste_res_nb[key+"_"+cle] = {}
             liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
             liste_res_nb[key+"_"+cle]["EN-type"] = set_valeur
-            # stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{key}--nb_entite.json", liste_res_nb)
-            stocker(f"../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}_spaCy/{auteur}_{corp}-{kk}--nb_entite.json",liste_res_nb)
+            stocker(f"../Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}-{key}--nb_entite.json", liste_res_nb)
+            # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}/{auteur}_{corp}--nb_entite.json", liste_res_nb)
+            # stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/nombre_entite/{corp}_spaCy/{auteur}_{corp}-{kk}--nb_entite.json",liste_res_nb)
 
 
 

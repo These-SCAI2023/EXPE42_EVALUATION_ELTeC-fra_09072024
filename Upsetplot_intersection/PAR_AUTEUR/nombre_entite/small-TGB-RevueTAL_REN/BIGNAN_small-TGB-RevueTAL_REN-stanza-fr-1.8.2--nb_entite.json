@@ -1,0 +1,34 @@
+{
+  "camembert-4.41.1_TesseractFra-png": {
+    "EN-occ": 46,
+    "EN-type": 38
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 21,
+    "EN-type": 20
+  },
+  "flair-0.13.1_TesseractFra-png": {
+    "EN-occ": 10,
+    "EN-type": 9
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 7,
+    "EN-type": 7
+  },
+  "spacy-sm-3.7.5_TesseractFra-png": {
+    "EN-occ": 69,
+    "EN-type": 64
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 59,
+    "EN-type": 53
+  },
+  "stanza-fr-1.8.2_TesseractFra-png": {
+    "EN-occ": 47,
+    "EN-type": 41
+  },
+  "stanza-fr-1.8.2_Ref": {
+    "EN-occ": 21,
+    "EN-type": 19
+  }
+}

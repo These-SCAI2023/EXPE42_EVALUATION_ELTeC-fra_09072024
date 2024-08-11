@@ -1,0 +1,26 @@
+{
+  "camembert-4.41.1_kraken4.3.13.dev25": {
+    "EN-occ": 503,
+    "EN-type": 422
+  },
+  "camembert-4.41.1_tesseract0.3.10": {
+    "EN-occ": 276,
+    "EN-type": 172
+  },
+  "camembert-4.41.1_Ref": {
+    "EN-occ": 195,
+    "EN-type": 95
+  },
+  "flair-0.13.1_kraken4.3.13.dev25": {
+    "EN-occ": 568,
+    "EN-type": 485
+  },
+  "flair-0.13.1_tesseract0.3.10": {
+    "EN-occ": 262,
+    "EN-type": 152
+  },
+  "flair-0.13.1_Ref": {
+    "EN-occ": 273,
+    "EN-type": 142
+  }
+}

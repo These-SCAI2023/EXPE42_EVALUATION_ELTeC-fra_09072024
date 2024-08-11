@@ -1,0 +1,26 @@
+{
+  "bert-4.41.1_Kraken": {
+    "EN-occ": 70,
+    "EN-type": 55
+  },
+  "bert-4.41.1_TesseractPor-PNG": {
+    "EN-occ": 65,
+    "EN-type": 41
+  },
+  "bert-4.41.1_Ref": {
+    "EN-occ": 95,
+    "EN-type": 51
+  },
+  "spacy-sm-3.7.5_Kraken": {
+    "EN-occ": 710,
+    "EN-type": 511
+  },
+  "spacy-sm-3.7.5_TesseractPor-PNG": {
+    "EN-occ": 616,
+    "EN-type": 354
+  },
+  "spacy-sm-3.7.5_Ref": {
+    "EN-occ": 489,
+    "EN-type": 223
+  }
+}
