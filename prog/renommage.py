@@ -203,6 +203,11 @@ def nommage(version):
         version = re.sub("lectaurep-kraken4.3.13.dev25-jspll-ELTeC", "Kraken Lectp. 4.3.13 -- jspl-ELTeCfr", version)
         # print("version : ", version)
 
+    if version == "Ref":
+        version = re.sub("Ref", "Ref.", version)
+        print("key : ", version)
+        # new_dic[new_key] = value
+
     return version
 
 def nommage_upset(key):
