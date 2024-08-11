@@ -35,8 +35,8 @@ def stocker(chemin, contenu):
 ##___________________GLOBAL_________________________________
 ##___________________PAR AUTEUR_________________________________
 # path_corpora = "../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*"
-path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
-# path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*fra-2021*"
+# path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
+path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*TAL*"
 size=[100, 200, 300, 400, 600, 1000,1500,2000,3000]
 ##___________________PAR AUTEUR_________________________________
 
@@ -61,8 +61,8 @@ for path in glob.glob(f"{path_corpora}"):
         output = subpath.split("/")
         auteur=subpath.split("/")[-1].split("_")
         auteur="-".join(auteur[:2])
-        rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] + "_PNG"])  ## Pour NER normale
-        # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
+        # rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] + "_PNG"])  ## Pour NER normale
+        rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
         print("------ Rep_out : ", rep_out)
         if os.path.exists(rep_out) == False:
             os.mkdir(rep_out) ### Creéer le dossier
@@ -92,7 +92,7 @@ for path in glob.glob(f"{path_corpora}"):
         liste_moteur.remove("Ref.")
         print("LISTE MOTEUR", liste_moteur)
 
-        for a in range(4):
+        for a in range(6):
             # print(a)
             if a>=len(liste_moteur):
                 print(len(liste_moteur))
