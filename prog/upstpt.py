@@ -34,9 +34,9 @@ def stocker(chemin, contenu):
 # size=[100000,200000,300000,400000,600000]
 ##___________________GLOBAL_________________________________
 ##___________________PAR AUTEUR_________________________________
-# path_corpora = "../ARCHEO_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*"
+path_corpora = "../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*fra2024*"
 # path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
-path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*TAL*"
+# path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*2021-2024*"
 size=[100, 200, 300, 400, 600, 1000,1500,2000,3000]
 ##___________________PAR AUTEUR_________________________________
 
@@ -92,7 +92,7 @@ for path in glob.glob(f"{path_corpora}"):
         liste_moteur.remove("Ref.")
         print("LISTE MOTEUR", liste_moteur)
 
-        for a in range(6):
+        for a in range(10):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
             # print(a)
             if a>=len(liste_moteur):
                 print(len(liste_moteur))
