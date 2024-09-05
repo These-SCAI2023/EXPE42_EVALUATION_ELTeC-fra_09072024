@@ -5,17 +5,17 @@ import os
 import re
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../Archeo_correction_distance_spaCy-3.7.5/small-*"
+path_input="../small-ELTeC-fra_SEM-WiNER/*/*/*/*"
 
 # path_input="../Archeo_spaCy-3.7.5/small-*/*/*REF/*/*"
 
 for path in glob.glob(path_input):
     print(path)
-    rep_output=path.split("_")
-    print("rep_output",rep_output)
-    path_output= "../ARCHEO_Correction_Distances"+"/"+rep_output[-2].split("/")[-1]+"/"+path.split("/")[-1]
-    print("PATH OUTPUT",path_output)
-    shutil.copytree(path,path_output)
+    # rep_output=path.split("_")
+    # print("rep_output",rep_output)
+    # path_output= "../ARCHEO_Correction_Distances"+"/"+rep_output[-2].split("/")[-1]+"/"+path.split("/")[-1]
+    # print("PATH OUTPUT",path_output)
+    # shutil.copytree(path,path_output)
 
     # shutil.rmtree(path)
     # if "spacy-lg" in path or "spacy-sm" in path or "spacy-md" in path:
