@@ -1,0 +1,8570 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Antoine Volodine",
+    "jalons": [
+      10,
+      26
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      28,
+      36
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      48,
+      56
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Biographie",
+    "jalons": [
+      73,
+      83
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Jorian Murgrave",
+    "jalons": [
+      96,
+      111
+    ]
+  },
+  "entite_6": {
+    "label": "MISC",
+    "text": "Denoël",
+    "jalons": [
+      120,
+      126
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "Denoël",
+    "jalons": [
+      165,
+      171
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "Rituel du mépris",
+    "jalons": [
+      178,
+      194
+    ]
+  },
+  "entite_9": {
+    "label": "MISC",
+    "text": "Denoël",
+    "jalons": [
+      203,
+      209
+    ]
+  },
+  "entite_10": {
+    "label": "MISC",
+    "text": "Des enfers fabuleux",
+    "jalons": [
+      216,
+      235
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Denoël",
+    "jalons": [
+      244,
+      250
+    ]
+  },
+  "entite_12": {
+    "label": "PER",
+    "text": "Biographie",
+    "jalons": [
+      257,
+      267
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Jorian",
+    "jalons": [
+      280,
+      286
+    ]
+  },
+  "entite_14": {
+    "label": "MISC",
+    "text": "– Rituel du mépris",
+    "jalons": [
+      322,
+      340
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Denoël",
+    "jalons": [
+      389,
+      395
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Lisbonne",
+    "jalons": [
+      402,
+      410
+    ]
+  },
+  "entite_17": {
+    "label": "MISC",
+    "text": "Minuit",
+    "jalons": [
+      435,
+      441
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Alto",
+    "jalons": [
+      448,
+      452
+    ]
+  },
+  "entite_19": {
+    "label": "MISC",
+    "text": "Minuit",
+    "jalons": [
+      466,
+      472
+    ]
+  },
+  "entite_20": {
+    "label": "MISC",
+    "text": "Minuit",
+    "jalons": [
+      505,
+      511
+    ]
+  },
+  "entite_21": {
+    "label": "MISC",
+    "text": "Minuit",
+    "jalons": [
+      544,
+      550
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "1996\nNuit blanche en Balkhyrie",
+    "jalons": [
+      552,
+      582
+    ]
+  },
+  "entite_23": {
+    "label": "ORG",
+    "text": "Gallimard",
+    "jalons": [
+      591,
+      600
+    ]
+  },
+  "entite_24": {
+    "label": "MISC",
+    "text": "Vue sur l’ossuaire",
+    "jalons": [
+      607,
+      625
+    ]
+  },
+  "entite_25": {
+    "label": "ORG",
+    "text": "Gallimard",
+    "jalons": [
+      636,
+      645
+    ]
+  },
+  "entite_26": {
+    "label": "ORG",
+    "text": "Gallimard",
+    "jalons": [
+      696,
+      705
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Des anges mineurs",
+    "jalons": [
+      712,
+      729
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "Seuil",
+    "jalons": [
+      740,
+      745
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "P918",
+    "jalons": [
+      774,
+      778
+    ]
+  },
+  "entite_30": {
+    "label": "MISC",
+    "text": "Seuil",
+    "jalons": [
+      800,
+      805
+    ]
+  },
+  "entite_31": {
+    "label": "MISC",
+    "text": "P1129",
+    "jalons": [
+      834,
+      839
+    ]
+  },
+  "entite_32": {
+    "label": "LOC",
+    "text": "Bardo or not Bardo",
+    "jalons": [
+      846,
+      864
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Seuil",
+    "jalons": [
+      873,
+      878
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "P1397",
+    "jalons": [
+      907,
+      912
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "Nos animaux préférés, entrevoûtes",
+    "jalons": [
+      919,
+      952
+    ]
+  },
+  "entite_36": {
+    "label": "LOC",
+    "text": "Seuil",
+    "jalons": [
+      954,
+      959
+    ]
+  },
+  "entite_37": {
+    "label": "MISC",
+    "text": "Songes de Mevlido",
+    "jalons": [
+      966,
+      983
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Seuil",
+    "jalons": [
+      992,
+      997
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Macau",
+    "jalons": [
+      1004,
+      1009
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Olivier Aubert",
+    "jalons": [
+      1043,
+      1057
+    ]
+  },
+  "entite_41": {
+    "label": "LOC",
+    "text": "Seuil",
+    "jalons": [
+      1059,
+      1064
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "editionsduseuil",
+    "jalons": [
+      1112,
+      1127
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "fr",
+    "jalons": [
+      1129,
+      1131
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "fictionetcie",
+    "jalons": [
+      1137,
+      1149
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Nord",
+    "jalons": [
+      1195,
+      1199
+    ]
+  },
+  "entite_46": {
+    "label": "MISC",
+    "text": "Compo\nTable des matières",
+    "jalons": [
+      1200,
+      1224
+    ]
+  },
+  "entite_47": {
+    "label": "PER",
+    "text": "MATHIAS OLBANE",
+    "jalons": [
+      1225,
+      1239
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      1296,
+      1310
+    ]
+  },
+  "entite_49": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      1696,
+      1710
+    ]
+  },
+  "entite_50": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      3153,
+      3167
+    ]
+  },
+  "entite_51": {
+    "label": "LOC",
+    "text": "Buchenwald",
+    "jalons": [
+      3583,
+      3593
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      4832,
+      4846
+    ]
+  },
+  "entite_53": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      6004,
+      6018
+    ]
+  },
+  "entite_54": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      6550,
+      6564
+    ]
+  },
+  "entite_55": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      7072,
+      7086
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Accablé",
+    "jalons": [
+      8214,
+      8221
+    ]
+  },
+  "entite_57": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      8784,
+      8798
+    ]
+  },
+  "entite_58": {
+    "label": "MISC",
+    "text": "Un automne chez les Boyols",
+    "jalons": [
+      10199,
+      10225
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Disons",
+    "jalons": [
+      10438,
+      10444
+    ]
+  },
+  "entite_60": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      10637,
+      10651
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      11116,
+      11130
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Un automne chez les Boyols",
+    "jalons": [
+      11265,
+      11291
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "Splendeur de l’esquif",
+    "jalons": [
+      11312,
+      11333
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      11773,
+      11787
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      11952,
+      11966
+    ]
+  },
+  "entite_66": {
+    "label": "MISC",
+    "text": "Splendeur de l’esquif",
+    "jalons": [
+      12187,
+      12208
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      12625,
+      12639
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      12867,
+      12881
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      14969,
+      14983
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      15585,
+      15599
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      18577,
+      18591
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      18724,
+      18738
+    ]
+  },
+  "entite_73": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      18800,
+      18814
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      19165,
+      19179
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "Mathias Olbane",
+    "jalons": [
+      20404,
+      20418
+    ]
+  },
+  "entite_76": {
+    "label": "PER",
+    "text": "Makarov",
+    "jalons": [
+      20683,
+      20690
+    ]
+  },
+  "entite_77": {
+    "label": "MISC",
+    "text": "Les nuits",
+    "jalons": [
+      22230,
+      22239
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "DISCOURS AUX",
+    "jalons": [
+      25204,
+      25216
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "NOMADES\n\nET AUX",
+    "jalons": [
+      25217,
+      25232
+    ]
+  },
+  "entite_80": {
+    "label": "PER",
+    "text": "Maria Iguacel",
+    "jalons": [
+      27761,
+      27774
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      29114,
+      29123
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "Hong Kong",
+    "jalons": [
+      29215,
+      29224
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Dora Kwok",
+    "jalons": [
+      29243,
+      29252
+    ]
+  },
+  "entite_84": {
+    "label": "MISC",
+    "text": "Lonely Dragons",
+    "jalons": [
+      29258,
+      29272
+    ]
+  },
+  "entite_85": {
+    "label": "PER",
+    "text": "Maria Iguacel",
+    "jalons": [
+      29946,
+      29959
+    ]
+  },
+  "entite_86": {
+    "label": "PER",
+    "text": "Maria Iguacel",
+    "jalons": [
+      30107,
+      30120
+    ]
+  },
+  "entite_87": {
+    "label": "PER",
+    "text": "Maria Iguacel",
+    "jalons": [
+      30139,
+      30152
+    ]
+  },
+  "entite_88": {
+    "label": "PER",
+    "text": "Myriam Ossorgone",
+    "jalons": [
+      32518,
+      32534
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Maria Clementi",
+    "jalons": [
+      32536,
+      32550
+    ]
+  },
+  "entite_90": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      32552,
+      32565
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Irina Kobayashi",
+    "jalons": [
+      32567,
+      32582
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Jean Edelman",
+    "jalons": [
+      32584,
+      32596
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Maria Schrag",
+    "jalons": [
+      32598,
+      32610
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      35376,
+      35385
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      35477,
+      35486
+    ]
+  },
+  "entite_96": {
+    "label": "ORG",
+    "text": "XXIe",
+    "jalons": [
+      36942,
+      36946
+    ]
+  },
+  "entite_97": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      37147,
+      37156
+    ]
+  },
+  "entite_98": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      37872,
+      37881
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "Maria Iguacel",
+    "jalons": [
+      37902,
+      37915
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Nous ne vivons plus",
+    "jalons": [
+      40958,
+      40977
+    ]
+  },
+  "entite_101": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      41421,
+      41430
+    ]
+  },
+  "entite_102": {
+    "label": "MISC",
+    "text": "Moi aussi",
+    "jalons": [
+      41543,
+      41552
+    ]
+  },
+  "entite_103": {
+    "label": "LOC",
+    "text": "COMANCER",
+    "jalons": [
+      41603,
+      41611
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "la Vierge",
+    "jalons": [
+      45768,
+      45777
+    ]
+  },
+  "entite_105": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      48613,
+      48622
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Eliane Schust",
+    "jalons": [
+      48624,
+      48637
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      48639,
+      48654
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      48745,
+      48758
+    ]
+  },
+  "entite_109": {
+    "label": "PER",
+    "text": "la Vierge",
+    "jalons": [
+      49833,
+      49842
+    ]
+  },
+  "entite_110": {
+    "label": "PER",
+    "text": "la Vierge",
+    "jalons": [
+      50587,
+      50596
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      51162,
+      51175
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Lamarck",
+    "jalons": [
+      51431,
+      51438
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Soudain",
+    "jalons": [
+      52706,
+      52713
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "oé oé oé oé oé c’",
+    "jalons": [
+      52729,
+      52746
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Madame Mohndjee",
+    "jalons": [
+      54028,
+      54043
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      54045,
+      54058
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      57144,
+      57164
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      57279,
+      57284
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      57481,
+      57501
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      58064,
+      58069
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      58091,
+      58111
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      58324,
+      58344
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      58782,
+      58787
+    ]
+  },
+  "entite_124": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      58791,
+      58811
+    ]
+  },
+  "entite_125": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      59300,
+      59305
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      59328,
+      59348
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      59365,
+      59370
+    ]
+  },
+  "entite_128": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      59506,
+      59526
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      59563,
+      59568
+    ]
+  },
+  "entite_130": {
+    "label": "MISC",
+    "text": "Les vieux seaux",
+    "jalons": [
+      59570,
+      59585
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      59666,
+      59668
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      59686,
+      59688
+    ]
+  },
+  "entite_133": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      59753,
+      59773
+    ]
+  },
+  "entite_134": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      59807,
+      59812
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Philippe !",
+    "jalons": [
+      59862,
+      59872
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      59902,
+      59922
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      59979,
+      59984
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      60008,
+      60016
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      60144,
+      60164
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      60422,
+      60430
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      60460,
+      60465
+    ]
+  },
+  "entite_142": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      60641,
+      60661
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      60663,
+      60668
+    ]
+  },
+  "entite_144": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      60971,
+      60991
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      61206,
+      61211
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      61403,
+      61411
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      61504,
+      61524
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      61621,
+      61626
+    ]
+  },
+  "entite_149": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      61718,
+      61738
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      61778,
+      61786
+    ]
+  },
+  "entite_151": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      61794,
+      61799
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      62407,
+      62420
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "Madame Mohndjee",
+    "jalons": [
+      62830,
+      62845
+    ]
+  },
+  "entite_154": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      62847,
+      62860
+    ]
+  },
+  "entite_155": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      63046,
+      63059
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      63156,
+      63169
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "Un et qu’il avait ajouté un titre",
+    "jalons": [
+      63421,
+      63454
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Comancer",
+    "jalons": [
+      63456,
+      63464
+    ]
+  },
+  "entite_159": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      64420,
+      64435
+    ]
+  },
+  "entite_160": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      64497,
+      64512
+    ]
+  },
+  "entite_161": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      64687,
+      64700
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      64869,
+      64884
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      64889,
+      64902
+    ]
+  },
+  "entite_164": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      64907,
+      64916
+    ]
+  },
+  "entite_165": {
+    "label": "PER",
+    "text": "Eliane Schust",
+    "jalons": [
+      64922,
+      64935
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "Douze ans",
+    "jalons": [
+      65470,
+      65479
+    ]
+  },
+  "entite_167": {
+    "label": "PER",
+    "text": "nouritture empoisonée",
+    "jalons": [
+      65527,
+      65548
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "polisse",
+    "jalons": [
+      65681,
+      65688
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      65846,
+      65861
+    ]
+  },
+  "entite_170": {
+    "label": "PER",
+    "text": "Eliane Schust",
+    "jalons": [
+      66692,
+      66705
+    ]
+  },
+  "entite_171": {
+    "label": "PER",
+    "text": "Linda Woo",
+    "jalons": [
+      66777,
+      66786
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      66918,
+      66931
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Mourma Yogodane",
+    "jalons": [
+      67024,
+      67039
+    ]
+  },
+  "entite_174": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      67727,
+      67740
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      67895,
+      67908
+    ]
+  },
+  "entite_176": {
+    "label": "PER",
+    "text": "Jean Doïevode",
+    "jalons": [
+      68440,
+      68453
+    ]
+  },
+  "entite_177": {
+    "label": "MISC",
+    "text": "Et les enfants",
+    "jalons": [
+      68532,
+      68546
+    ]
+  },
+  "entite_178": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      69796,
+      69801
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      69805,
+      69825
+    ]
+  },
+  "entite_180": {
+    "label": "MISC",
+    "text": "mur de Berlin",
+    "jalons": [
+      70465,
+      70478
+    ]
+  },
+  "entite_181": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      71170,
+      71178
+    ]
+  },
+  "entite_182": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      71304,
+      71312
+    ]
+  },
+  "entite_183": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      71943,
+      71951
+    ]
+  },
+  "entite_184": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      71986,
+      71991
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      72023,
+      72043
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      72223,
+      72228
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      72238,
+      72246
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      72399,
+      72419
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      72503,
+      72508
+    ]
+  },
+  "entite_190": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      72537,
+      72545
+    ]
+  },
+  "entite_191": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      73311,
+      73319
+    ]
+  },
+  "entite_192": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      73330,
+      73350
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      73556,
+      73576
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      73696,
+      73701
+    ]
+  },
+  "entite_195": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      73835,
+      73855
+    ]
+  },
+  "entite_196": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      73878,
+      73883
+    ]
+  },
+  "entite_197": {
+    "label": "PER",
+    "text": "Philippe !",
+    "jalons": [
+      73904,
+      73914
+    ]
+  },
+  "entite_198": {
+    "label": "PER",
+    "text": "Philippe !",
+    "jalons": [
+      73966,
+      73976
+    ]
+  },
+  "entite_199": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      74034,
+      74054
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      76205,
+      76210
+    ]
+  },
+  "entite_201": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      76215,
+      76235
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      76316,
+      76336
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      76388,
+      76408
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      76468,
+      76473
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      76628,
+      76648
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      76663,
+      76671
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      76726,
+      76731
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      76897,
+      76917
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      76959,
+      76964
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      77121,
+      77141
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      77175,
+      77180
+    ]
+  },
+  "entite_212": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      77217,
+      77237
+    ]
+  },
+  "entite_213": {
+    "label": "PER",
+    "text": "grimace",
+    "jalons": [
+      77325,
+      77332
+    ]
+  },
+  "entite_214": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      77344,
+      77349
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Feraient",
+    "jalons": [
+      77351,
+      77359
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "Frau Mohndjee",
+    "jalons": [
+      81545,
+      81558
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      84233,
+      84238
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Bruno Khatchatourian",
+    "jalons": [
+      84242,
+      84262
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      84724,
+      84729
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      84805,
+      84810
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      84958,
+      84963
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Philippe",
+    "jalons": [
+      85158,
+      85166
+    ]
+  },
+  "entite_223": {
+    "label": "PER",
+    "text": "Greta",
+    "jalons": [
+      85435,
+      85440
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      85683,
+      85685
+    ]
+  },
+  "entite_225": {
+    "label": "ORG",
+    "text": "REMERCIEMENTS",
+    "jalons": [
+      85696,
+      85709
+    ]
+  },
+  "entite_226": {
+    "label": "LOC",
+    "text": "Marta",
+    "jalons": [
+      85715,
+      85720
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Boris Bielouguine",
+    "jalons": [
+      85724,
+      85741
+    ]
+  },
+  "entite_228": {
+    "label": "MISC",
+    "text": "Rendez",
+    "jalons": [
+      85959,
+      85965
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Boyols",
+    "jalons": [
+      85980,
+      85986
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Marta",
+    "jalons": [
+      86034,
+      86039
+    ]
+  },
+  "entite_231": {
+    "label": "PER",
+    "text": "Boris",
+    "jalons": [
+      86043,
+      86048
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Ravial",
+    "jalons": [
+      86310,
+      86316
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Edma Mawashee",
+    "jalons": [
+      86320,
+      86333
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Amazonie",
+    "jalons": [
+      86413,
+      86421
+    ]
+  },
+  "entite_235": {
+    "label": "PER",
+    "text": "Dolmar Dong",
+    "jalons": [
+      86435,
+      86446
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Buenos Aires",
+    "jalons": [
+      86552,
+      86564
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Miliya Forbane",
+    "jalons": [
+      86580,
+      86594
+    ]
+  },
+  "entite_238": {
+    "label": "MISC",
+    "text": "Mlatelpopec",
+    "jalons": [
+      86716,
+      86727
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Grad Litrif",
+    "jalons": [
+      86740,
+      86751
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Lioudmila",
+    "jalons": [
+      86767,
+      86776
+    ]
+  },
+  "entite_241": {
+    "label": "MISC",
+    "text": "Marbachvili",
+    "jalons": [
+      86822,
+      86833
+    ]
+  },
+  "entite_242": {
+    "label": "PER",
+    "text": "Vulcain Marbachvili",
+    "jalons": [
+      86901,
+      86920
+    ]
+  },
+  "entite_243": {
+    "label": "MISC",
+    "text": "Longtemps couché bonne heure",
+    "jalons": [
+      86950,
+      86978
+    ]
+  },
+  "entite_244": {
+    "label": "MISC",
+    "text": "Mon roman Soirée d’adieu",
+    "jalons": [
+      87202,
+      87226
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Oliouda Alayomian",
+    "jalons": [
+      87303,
+      87320
+    ]
+  },
+  "entite_246": {
+    "label": "ORG",
+    "text": "Dream Lee-Ouravienko",
+    "jalons": [
+      87322,
+      87342
+    ]
+  },
+  "entite_247": {
+    "label": "ORG",
+    "text": "Dream Lifchitz",
+    "jalons": [
+      87344,
+      87358
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Biela Kamaleya",
+    "jalons": [
+      87360,
+      87374
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Meehi Dadjanal",
+    "jalons": [
+      87376,
+      87390
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Lola Gavrakis",
+    "jalons": [
+      87392,
+      87405
+    ]
+  },
+  "entite_251": {
+    "label": "PER",
+    "text": "Tiryane Balafron",
+    "jalons": [
+      87407,
+      87423
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Idiyine Taramezian",
+    "jalons": [
+      87425,
+      87443
+    ]
+  },
+  "entite_253": {
+    "label": "PER",
+    "text": "Irina Gam",
+    "jalons": [
+      87445,
+      87454
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Irina Nirvanian",
+    "jalons": [
+      87456,
+      87471
+    ]
+  },
+  "entite_255": {
+    "label": "PER",
+    "text": "Kirioucha Galbar",
+    "jalons": [
+      87473,
+      87489
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Dodnaya Drandz",
+    "jalons": [
+      87491,
+      87505
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Meema Kronstadt",
+    "jalons": [
+      87507,
+      87522
+    ]
+  },
+  "entite_258": {
+    "label": "PER",
+    "text": "Solonia Karakassian",
+    "jalons": [
+      87524,
+      87543
+    ]
+  },
+  "entite_259": {
+    "label": "PER",
+    "text": "Grigoria Balsamian",
+    "jalons": [
+      87778,
+      87796
+    ]
+  },
+  "entite_260": {
+    "label": "PER",
+    "text": "Mica Schmitz",
+    "jalons": [
+      87853,
+      87865
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "lac Bleu",
+    "jalons": [
+      87900,
+      87908
+    ]
+  },
+  "entite_262": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      87971,
+      87977
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "Julius Ritchmann",
+    "jalons": [
+      88138,
+      88154
+    ]
+  },
+  "entite_264": {
+    "label": "PER",
+    "text": "Grigoria",
+    "jalons": [
+      88167,
+      88175
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Mica Schmitz",
+    "jalons": [
+      88224,
+      88236
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Bernardo Balsamian",
+    "jalons": [
+      88297,
+      88315
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Grigoria",
+    "jalons": [
+      88328,
+      88336
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Grigoria",
+    "jalons": [
+      88528,
+      88536
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Soleil",
+    "jalons": [
+      88609,
+      88615
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Grigoria Balsamian",
+    "jalons": [
+      88656,
+      88674
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Halfar Sharanogar",
+    "jalons": [
+      88676,
+      88693
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Bernardo Balsamian",
+    "jalons": [
+      88743,
+      88761
+    ]
+  },
+  "entite_273": {
+    "label": "PER",
+    "text": "Grigoria",
+    "jalons": [
+      88788,
+      88796
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Diamante Zarialiyane",
+    "jalons": [
+      88845,
+      88865
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Pondichéry",
+    "jalons": [
+      88950,
+      88960
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Vain poisson rouge",
+    "jalons": [
+      88991,
+      89009
+    ]
+  },
+  "entite_277": {
+    "label": "PER",
+    "text": "Diamante Zarialiyane",
+    "jalons": [
+      89071,
+      89091
+    ]
+  },
+  "entite_278": {
+    "label": "PER",
+    "text": "Myra Zarialiyane",
+    "jalons": [
+      89093,
+      89109
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Sheeva Drahane",
+    "jalons": [
+      89272,
+      89286
+    ]
+  },
+  "entite_280": {
+    "label": "MISC",
+    "text": "Demain les loutres",
+    "jalons": [
+      89555,
+      89573
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Myriam Wundersee",
+    "jalons": [
+      89708,
+      89724
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "l’Europe",
+    "jalons": [
+      89824,
+      89832
+    ]
+  },
+  "entite_283": {
+    "label": "MISC",
+    "text": "Croc-Blanc",
+    "jalons": [
+      89890,
+      89900
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Valpolicella",
+    "jalons": [
+      89925,
+      89937
+    ]
+  },
+  "entite_285": {
+    "label": "PER",
+    "text": "Myriam",
+    "jalons": [
+      90182,
+      90188
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Myriam Wundersee",
+    "jalons": [
+      90337,
+      90353
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "romana",
+    "jalons": [
+      90447,
+      90453
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Tatiana Vidal",
+    "jalons": [
+      90612,
+      90625
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Olaf",
+    "jalons": [
+      90638,
+      90642
+    ]
+  },
+  "entite_290": {
+    "label": "MISC",
+    "text": "Carmelita",
+    "jalons": [
+      90663,
+      90672
+    ]
+  },
+  "entite_291": {
+    "label": "MISC",
+    "text": "Carmelita",
+    "jalons": [
+      90929,
+      90938
+    ]
+  },
+  "entite_292": {
+    "label": "MISC",
+    "text": "Macbeth au paradis",
+    "jalons": [
+      90995,
+      91013
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Roger Chabert",
+    "jalons": [
+      91023,
+      91036
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Timothy Kerrygan",
+    "jalons": [
+      91117,
+      91133
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Franko Salieri",
+    "jalons": [
+      91137,
+      91151
+    ]
+  },
+  "entite_296": {
+    "label": "MISC",
+    "text": "Voix des crânes",
+    "jalons": [
+      91188,
+      91203
+    ]
+  },
+  "entite_297": {
+    "label": "MISC",
+    "text": "Mon roman",
+    "jalons": [
+      91205,
+      91214
+    ]
+  },
+  "entite_298": {
+    "label": "MISC",
+    "text": "Veille de pandémie",
+    "jalons": [
+      91215,
+      91233
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Madame Patricia Mourabenne",
+    "jalons": [
+      91286,
+      91312
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Patou",
+    "jalons": [
+      91319,
+      91324
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Inde",
+    "jalons": [
+      91547,
+      91551
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Julien Gardel",
+    "jalons": [
+      91594,
+      91607
+    ]
+  },
+  "entite_303": {
+    "label": "MISC",
+    "text": "Les vieilles passantes",
+    "jalons": [
+      91626,
+      91648
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      91685,
+      91693
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Madame Alchaïa",
+    "jalons": [
+      91697,
+      91711
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Casablanca",
+    "jalons": [
+      91716,
+      91726
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Inde",
+    "jalons": [
+      92043,
+      92047
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Bibliothèque centrale de São Paulo",
+    "jalons": [
+      92063,
+      92097
+    ]
+  },
+  "entite_309": {
+    "label": "MISC",
+    "text": "Naufrage sur le Curuguri",
+    "jalons": [
+      92141,
+      92165
+    ]
+  },
+  "entite_310": {
+    "label": "PER",
+    "text": "Venus Vieira",
+    "jalons": [
+      92620,
+      92632
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Venus Vieira",
+    "jalons": [
+      92953,
+      92965
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Jogjakarta",
+    "jalons": [
+      93377,
+      93387
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "Muslim Bang",
+    "jalons": [
+      93428,
+      93439
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Adieu nuages",
+    "jalons": [
+      93629,
+      93641
+    ]
+  },
+  "entite_315": {
+    "label": "LOC",
+    "text": "Prospekt Chaoumiana",
+    "jalons": [
+      93712,
+      93731
+    ]
+  },
+  "entite_316": {
+    "label": "LOC",
+    "text": "Leningrad",
+    "jalons": [
+      93751,
+      93760
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Maria Lobanova",
+    "jalons": [
+      93875,
+      93889
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Essénine",
+    "jalons": [
+      94039,
+      94047
+    ]
+  },
+  "entite_319": {
+    "label": "LOC",
+    "text": "hôtel Ladoga",
+    "jalons": [
+      94145,
+      94157
+    ]
+  },
+  "entite_320": {
+    "label": "MISC",
+    "text": "Enfer au paradis",
+    "jalons": [
+      94276,
+      94292
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Boppe",
+    "jalons": [
+      94359,
+      94364
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Louisiane",
+    "jalons": [
+      94430,
+      94439
+    ]
+  },
+  "entite_323": {
+    "label": "PER",
+    "text": "Gustav",
+    "jalons": [
+      94513,
+      94519
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "Rita Botticelli",
+    "jalons": [
+      94692,
+      94707
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Fumées",
+    "jalons": [
+      94897,
+      94903
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Pranda Toumararana",
+    "jalons": [
+      95162,
+      95180
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Labibi",
+    "jalons": [
+      95253,
+      95259
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Goodbye",
+    "jalons": [
+      95402,
+      95409
+    ]
+  },
+  "entite_329": {
+    "label": "ORG",
+    "text": "Romeo",
+    "jalons": [
+      95411,
+      95416
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Pranda Toumararana",
+    "jalons": [
+      95423,
+      95441
+    ]
+  },
+  "entite_331": {
+    "label": "MISC",
+    "text": "Case départ",
+    "jalons": [
+      95882,
+      95893
+    ]
+  },
+  "entite_332": {
+    "label": "MISC",
+    "text": "Un tunnel sans fin",
+    "jalons": [
+      95897,
+      95915
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Irigaël Bugbol",
+    "jalons": [
+      96280,
+      96294
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Dama Bugbol",
+    "jalons": [
+      96296,
+      96307
+    ]
+  },
+  "entite_335": {
+    "label": "PER",
+    "text": "Sachka Bugbol",
+    "jalons": [
+      96309,
+      96322
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Anderia Bugbol",
+    "jalons": [
+      96324,
+      96338
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Abimaël Bugbol",
+    "jalons": [
+      96351,
+      96365
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Natalia Bugbol",
+    "jalons": [
+      96456,
+      96470
+    ]
+  },
+  "entite_339": {
+    "label": "MISC",
+    "text": "Bidon Cinq",
+    "jalons": [
+      96525,
+      96535
+    ]
+  },
+  "entite_340": {
+    "label": "MISC",
+    "text": "Journal du Pandémonium",
+    "jalons": [
+      96555,
+      96577
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Natalia Bugbol",
+    "jalons": [
+      96682,
+      96696
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "Diodora",
+    "jalons": [
+      96819,
+      96826
+    ]
+  },
+  "entite_343": {
+    "label": "PER",
+    "text": "Banzer Malfinghal",
+    "jalons": [
+      96830,
+      96847
+    ]
+  },
+  "entite_344": {
+    "label": "LOC",
+    "text": "Ielgava",
+    "jalons": [
+      96918,
+      96925
+    ]
+  },
+  "entite_345": {
+    "label": "LOC",
+    "text": "Lettonie",
+    "jalons": [
+      96929,
+      96937
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Ielgava",
+    "jalons": [
+      97349,
+      97356
+    ]
+  },
+  "entite_347": {
+    "label": "MISC",
+    "text": "Le Hougane bleu",
+    "jalons": [
+      97410,
+      97425
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Diodora",
+    "jalons": [
+      97431,
+      97438
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Banzer",
+    "jalons": [
+      97442,
+      97448
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "Birgit",
+    "jalons": [
+      97617,
+      97623
+    ]
+  },
+  "entite_351": {
+    "label": "MISC",
+    "text": "Métamorphose de l’assassin",
+    "jalons": [
+      97682,
+      97708
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Roberto",
+    "jalons": [
+      97724,
+      97731
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Ramsès de ma",
+    "jalons": [
+      98099,
+      98111
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Birgit",
+    "jalons": [
+      98117,
+      98123
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Laïla Dromschel",
+    "jalons": [
+      98322,
+      98337
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Marion Terbenian",
+    "jalons": [
+      98341,
+      98357
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Djeena Murmaduk",
+    "jalons": [
+      98363,
+      98378
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Déluge",
+    "jalons": [
+      98738,
+      98744
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Madame Morgenplatt",
+    "jalons": [
+      98834,
+      98852
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Belgique",
+    "jalons": [
+      98887,
+      98895
+    ]
+  },
+  "entite_361": {
+    "label": "LOC",
+    "text": "Hong Kong",
+    "jalons": [
+      98898,
+      98907
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Belgique",
+    "jalons": [
+      99105,
+      99113
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "Asie du Sud-Est",
+    "jalons": [
+      99183,
+      99198
+    ]
+  },
+  "entite_364": {
+    "label": "LOC",
+    "text": "Petit Petia",
+    "jalons": [
+      99248,
+      99259
+    ]
+  },
+  "entite_365": {
+    "label": "ORG",
+    "text": "Services",
+    "jalons": [
+      99301,
+      99309
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Macha",
+    "jalons": [
+      99404,
+      99409
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Stefan",
+    "jalons": [
+      99413,
+      99419
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Petit Petia",
+    "jalons": [
+      99421,
+      99432
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Visages dans l’usine",
+    "jalons": [
+      99494,
+      99514
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Petit Petia",
+    "jalons": [
+      99539,
+      99550
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "Doublon",
+    "jalons": [
+      99647,
+      99654
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "Visages dans l’usine",
+    "jalons": [
+      99690,
+      99710
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Petit Petia",
+    "jalons": [
+      99769,
+      99780
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "Prague",
+    "jalons": [
+      99988,
+      99994
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "A.T.",
+    "jalons": [
+      99996,
+      100000
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Franz Kafka",
+    "jalons": [
+      100069,
+      100080
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Malcolm Okada",
+    "jalons": [
+      100411,
+      100424
+    ]
+  },
+  "entite_378": {
+    "label": "MISC",
+    "text": "Aux viandes réunies",
+    "jalons": [
+      100472,
+      100491
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "Essai sur la dualité",
+    "jalons": [
+      100528,
+      100548
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Horacio Hirsch",
+    "jalons": [
+      100647,
+      100661
+    ]
+  },
+  "entite_381": {
+    "label": "MISC",
+    "text": "Savetiers-Héroïques",
+    "jalons": [
+      100721,
+      100740
+    ]
+  },
+  "entite_382": {
+    "label": "MISC",
+    "text": "Morituri",
+    "jalons": [
+      100970,
+      100978
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Horacio Hirsch",
+    "jalons": [
+      100990,
+      101004
+    ]
+  },
+  "entite_384": {
+    "label": "MISC",
+    "text": "Savetiers- Héroïques",
+    "jalons": [
+      101095,
+      101115
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Madame Tarachenko",
+    "jalons": [
+      101315,
+      101332
+    ]
+  },
+  "entite_386": {
+    "label": "LOC",
+    "text": "Bichkek",
+    "jalons": [
+      101406,
+      101413
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Bichkek",
+    "jalons": [
+      101552,
+      101559
+    ]
+  },
+  "entite_388": {
+    "label": "MISC",
+    "text": "Chaos",
+    "jalons": [
+      101687,
+      101692
+    ]
+  },
+  "entite_389": {
+    "label": "LOC",
+    "text": "Kirghizie",
+    "jalons": [
+      101696,
+      101705
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Yleenia",
+    "jalons": [
+      101924,
+      101931
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Mimna Agaldibuk",
+    "jalons": [
+      101939,
+      101954
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Yleenia Yam",
+    "jalons": [
+      102388,
+      102399
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Mimna Agaldibuk",
+    "jalons": [
+      102415,
+      102430
+    ]
+  },
+  "entite_394": {
+    "label": "MISC",
+    "text": "Mes remerciements émus",
+    "jalons": [
+      102432,
+      102454
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Marta Goldanska",
+    "jalons": [
+      102472,
+      102487
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Titanic",
+    "jalons": [
+      102520,
+      102527
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Marta",
+    "jalons": [
+      102600,
+      102605
+    ]
+  },
+  "entite_398": {
+    "label": "PER",
+    "text": "Goldanska",
+    "jalons": [
+      102610,
+      102619
+    ]
+  },
+  "entite_399": {
+    "label": "LOC",
+    "text": "aéroport de Managua",
+    "jalons": [
+      102757,
+      102776
+    ]
+  },
+  "entite_400": {
+    "label": "LOC",
+    "text": "Managua-Tegucigalpa",
+    "jalons": [
+      102866,
+      102885
+    ]
+  },
+  "entite_401": {
+    "label": "PER",
+    "text": "Abel Daradanski",
+    "jalons": [
+      103136,
+      103151
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Donald Bocks",
+    "jalons": [
+      103153,
+      103165
+    ]
+  },
+  "entite_403": {
+    "label": "PER",
+    "text": "Roum Marchadian",
+    "jalons": [
+      103167,
+      103182
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Oleg Strelnikov",
+    "jalons": [
+      103184,
+      103199
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "Chico Rausch",
+    "jalons": [
+      103201,
+      103213
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Anabela Janvier",
+    "jalons": [
+      103215,
+      103230
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Ilda Lorca",
+    "jalons": [
+      103232,
+      103242
+    ]
+  },
+  "entite_408": {
+    "label": "PER",
+    "text": "Gamal Tretiakov",
+    "jalons": [
+      103244,
+      103259
+    ]
+  },
+  "entite_409": {
+    "label": "PER",
+    "text": "Simon Tatha",
+    "jalons": [
+      103261,
+      103272
+    ]
+  },
+  "entite_410": {
+    "label": "PER",
+    "text": "Jak Ferricali",
+    "jalons": [
+      103274,
+      103287
+    ]
+  },
+  "entite_411": {
+    "label": "MISC",
+    "text": "Urban Zawaliewski",
+    "jalons": [
+      103289,
+      103306
+    ]
+  },
+  "entite_412": {
+    "label": "PER",
+    "text": "Henri Loubier",
+    "jalons": [
+      103308,
+      103321
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Fernanda Saori",
+    "jalons": [
+      103323,
+      103337
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Mina Legallin",
+    "jalons": [
+      103339,
+      103352
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Maroussia Begueyan",
+    "jalons": [
+      103354,
+      103372
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "Wilfried Ribero",
+    "jalons": [
+      103374,
+      103389
+    ]
+  },
+  "entite_417": {
+    "label": "PER",
+    "text": "Norman Hedrad",
+    "jalons": [
+      103391,
+      103404
+    ]
+  },
+  "entite_418": {
+    "label": "PER",
+    "text": "Hubert Plissonnier",
+    "jalons": [
+      103406,
+      103424
+    ]
+  },
+  "entite_419": {
+    "label": "PER",
+    "text": "Laurent Houdin",
+    "jalons": [
+      103426,
+      103440
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Jean-Claude Cameron",
+    "jalons": [
+      103442,
+      103461
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Liza Pavarotti",
+    "jalons": [
+      103810,
+      103824
+    ]
+  },
+  "entite_422": {
+    "label": "LOC",
+    "text": "Valparaiso",
+    "jalons": [
+      103866,
+      103876
+    ]
+  },
+  "entite_423": {
+    "label": "MISC",
+    "text": "Rigoletto",
+    "jalons": [
+      104094,
+      104103
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Ram Aquilino",
+    "jalons": [
+      104168,
+      104180
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Liza Pavarotti",
+    "jalons": [
+      104184,
+      104198
+    ]
+  },
+  "entite_426": {
+    "label": "MISC",
+    "text": "L’école des bandits",
+    "jalons": [
+      104330,
+      104349
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Ram Aquilino",
+    "jalons": [
+      104371,
+      104383
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Liena Babenko",
+    "jalons": [
+      104491,
+      104504
+    ]
+  },
+  "entite_429": {
+    "label": "MISC",
+    "text": "Tchernobyl",
+    "jalons": [
+      104616,
+      104626
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Liena Babenko",
+    "jalons": [
+      104668,
+      104681
+    ]
+  },
+  "entite_431": {
+    "label": "PER",
+    "text": "Liena Babenko",
+    "jalons": [
+      104941,
+      104954
+    ]
+  },
+  "entite_432": {
+    "label": "MISC",
+    "text": "Le réveil de Djann",
+    "jalons": [
+      105270,
+      105288
+    ]
+  },
+  "entite_433": {
+    "label": "ORG",
+    "text": "Association des aveugles du Nord-Canada",
+    "jalons": [
+      105670,
+      105709
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Nounrane Lonsdale",
+    "jalons": [
+      105949,
+      105966
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Noun",
+    "jalons": [
+      105999,
+      106003
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Nounrane Lonsdale",
+    "jalons": [
+      106077,
+      106094
+    ]
+  },
+  "entite_437": {
+    "label": "ORG",
+    "text": "blizzard",
+    "jalons": [
+      106290,
+      106298
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "Maria Bachmann",
+    "jalons": [
+      106347,
+      106361
+    ]
+  },
+  "entite_439": {
+    "label": "MISC",
+    "text": "Orage sur Madeleine Polpot",
+    "jalons": [
+      106388,
+      106414
+    ]
+  },
+  "entite_440": {
+    "label": "PER",
+    "text": "Nounrane Lonsdale",
+    "jalons": [
+      106442,
+      106459
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Fredo Chang",
+    "jalons": [
+      106538,
+      106549
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Arabe",
+    "jalons": [
+      106602,
+      106607
+    ]
+  },
+  "entite_443": {
+    "label": "PER",
+    "text": "Abdul al-Hazred",
+    "jalons": [
+      106615,
+      106630
+    ]
+  },
+  "entite_444": {
+    "label": "MISC",
+    "text": "Necronomicon",
+    "jalons": [
+      106642,
+      106654
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Damas",
+    "jalons": [
+      106794,
+      106799
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Bruxelles",
+    "jalons": [
+      106881,
+      106890
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "rue de la Montagne-au-Chaudron",
+    "jalons": [
+      106897,
+      106927
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Fredo Chang",
+    "jalons": [
+      106957,
+      106968
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "Nouvelle vie",
+    "jalons": [
+      107127,
+      107139
+    ]
+  },
+  "entite_450": {
+    "label": "PER",
+    "text": "Emilia Togliatti",
+    "jalons": [
+      107181,
+      107197
+    ]
+  },
+  "entite_451": {
+    "label": "MISC",
+    "text": "Emilia",
+    "jalons": [
+      107430,
+      107436
+    ]
+  },
+  "entite_452": {
+    "label": "MISC",
+    "text": "Lueurs dans la soute",
+    "jalons": [
+      107868,
+      107888
+    ]
+  },
+  "entite_453": {
+    "label": "MISC",
+    "text": "cirque Zapata",
+    "jalons": [
+      107940,
+      107953
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Malone au paradis",
+    "jalons": [
+      108088,
+      108105
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "Mordechaï Malone",
+    "jalons": [
+      108208,
+      108224
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Huayna Picchu",
+    "jalons": [
+      108310,
+      108323
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Machu Picchu",
+    "jalons": [
+      108330,
+      108342
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "Mordechaï Malone",
+    "jalons": [
+      108464,
+      108480
+    ]
+  },
+  "entite_459": {
+    "label": "PER",
+    "text": "Rada Petigros",
+    "jalons": [
+      108527,
+      108540
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Miliya Santanden",
+    "jalons": [
+      108542,
+      108558
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Vicky Müller",
+    "jalons": [
+      108560,
+      108572
+    ]
+  },
+  "entite_462": {
+    "label": "PER",
+    "text": "Anastasia Loukovaïa",
+    "jalons": [
+      108574,
+      108593
+    ]
+  },
+  "entite_463": {
+    "label": "PER",
+    "text": "Raïa Ourdouk",
+    "jalons": [
+      108595,
+      108607
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "zoo de Singapour",
+    "jalons": [
+      108726,
+      108742
+    ]
+  },
+  "entite_465": {
+    "label": "PER",
+    "text": "Mario Bumaputrak",
+    "jalons": [
+      108878,
+      108894
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Mario Bumaputrak",
+    "jalons": [
+      109307,
+      109323
+    ]
+  },
+  "entite_467": {
+    "label": "PER",
+    "text": "Mario Bumaputrak",
+    "jalons": [
+      109431,
+      109447
+    ]
+  },
+  "entite_468": {
+    "label": "PER",
+    "text": "Omer Faraone",
+    "jalons": [
+      109735,
+      109747
+    ]
+  },
+  "entite_469": {
+    "label": "PER",
+    "text": "Madame Wassila Saarfadine",
+    "jalons": [
+      109775,
+      109800
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Boufarik",
+    "jalons": [
+      109851,
+      109859
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Coquilles",
+    "jalons": [
+      110127,
+      110136
+    ]
+  },
+  "entite_472": {
+    "label": "PER",
+    "text": "Irina",
+    "jalons": [
+      110275,
+      110280
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Viktor Darbakcheïev",
+    "jalons": [
+      110284,
+      110303
+    ]
+  },
+  "entite_474": {
+    "label": "MISC",
+    "text": "massacre de Vologda",
+    "jalons": [
+      110320,
+      110339
+    ]
+  },
+  "entite_475": {
+    "label": "MISC",
+    "text": "Dernière fusillade",
+    "jalons": [
+      110389,
+      110407
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Nadienka Kim",
+    "jalons": [
+      110689,
+      110701
+    ]
+  },
+  "entite_477": {
+    "label": "PER",
+    "text": "Kim Byung",
+    "jalons": [
+      110721,
+      110730
+    ]
+  },
+  "entite_478": {
+    "label": "MISC",
+    "text": "Une future veuve",
+    "jalons": [
+      111026,
+      111042
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Guerassim Prokofiev",
+    "jalons": [
+      111849,
+      111868
+    ]
+  },
+  "entite_480": {
+    "label": "PER",
+    "text": "Boutovski",
+    "jalons": [
+      111971,
+      111980
+    ]
+  },
+  "entite_481": {
+    "label": "PER",
+    "text": "Prokofiev Guerassim Ivanovitch",
+    "jalons": [
+      111983,
+      112013
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      112037,
+      112043
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "arrondissement de Zagorsk",
+    "jalons": [
+      112045,
+      112070
+    ]
+  },
+  "entite_484": {
+    "label": "MISC",
+    "text": "Golyguino",
+    "jalons": [
+      112083,
+      112092
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      112192,
+      112198
+    ]
+  },
+  "entite_486": {
+    "label": "PER",
+    "text": "Kalujskaïa Ulitsa",
+    "jalons": [
+      112200,
+      112217
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Arrêté",
+    "jalons": [
+      112251,
+      112257
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "Jugement",
+    "jalons": [
+      112276,
+      112284
+    ]
+  },
+  "entite_489": {
+    "label": "MISC",
+    "text": "OUNKVD",
+    "jalons": [
+      112312,
+      112318
+    ]
+  },
+  "entite_490": {
+    "label": "LOC",
+    "text": "Accusation",
+    "jalons": [
+      112344,
+      112354
+    ]
+  },
+  "entite_491": {
+    "label": "MISC",
+    "text": "Textes réglementaires pour les élections",
+    "jalons": [
+      112425,
+      112465
+    ]
+  },
+  "entite_492": {
+    "label": "ORG",
+    "text": "Soviet Suprême",
+    "jalons": [
+      112469,
+      112483
+    ]
+  },
+  "entite_493": {
+    "label": "ORG",
+    "text": "URSS",
+    "jalons": [
+      112489,
+      112493
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Fusillé",
+    "jalons": [
+      112592,
+      112599
+    ]
+  },
+  "entite_495": {
+    "label": "PER",
+    "text": "Enterré",
+    "jalons": [
+      112617,
+      112624
+    ]
+  },
+  "entite_496": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      112627,
+      112634
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      112646,
+      112652
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "DE BOGDAN TARASSIEV",
+    "jalons": [
+      112692,
+      112711
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      112787,
+      112803
+    ]
+  },
+  "entite_500": {
+    "label": "MISC",
+    "text": "– si",
+    "jalons": [
+      112821,
+      112825
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      112903,
+      112916
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      113452,
+      113461
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Woolf",
+    "jalons": [
+      113468,
+      113473
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Walef",
+    "jalons": [
+      113475,
+      113480
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Woluf",
+    "jalons": [
+      113482,
+      113487
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "Wlaff et Folf toutes les ombres vivantes",
+    "jalons": [
+      113489,
+      113529
+    ]
+  },
+  "entite_507": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      113602,
+      113607
+    ]
+  },
+  "entite_508": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      113841,
+      113850
+    ]
+  },
+  "entite_509": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      113954,
+      113970
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      114027,
+      114040
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Tibet",
+    "jalons": [
+      114385,
+      114390
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      114529,
+      114538
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "Détectives",
+    "jalons": [
+      115162,
+      115172
+    ]
+  },
+  "entite_514": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      115986,
+      115995
+    ]
+  },
+  "entite_515": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      116311,
+      116327
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      116850,
+      116863
+    ]
+  },
+  "entite_517": {
+    "label": "PER",
+    "text": "Balbaïan",
+    "jalons": [
+      116937,
+      116945
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Balbaïan",
+    "jalons": [
+      117023,
+      117031
+    ]
+  },
+  "entite_519": {
+    "label": "PER",
+    "text": "Balbaïan",
+    "jalons": [
+      117122,
+      117130
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Balbaïan",
+    "jalons": [
+      117463,
+      117471
+    ]
+  },
+  "entite_521": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      117629,
+      117638
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Dépité",
+    "jalons": [
+      117654,
+      117660
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      117662,
+      117671
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      118095,
+      118108
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      118179,
+      118195
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      118218,
+      118231
+    ]
+  },
+  "entite_527": {
+    "label": "MISC",
+    "text": "Rencontre",
+    "jalons": [
+      118234,
+      118243
+    ]
+  },
+  "entite_528": {
+    "label": "MISC",
+    "text": "Un berger des âmes",
+    "jalons": [
+      118261,
+      118279
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "Mayayo",
+    "jalons": [
+      118282,
+      118288
+    ]
+  },
+  "entite_530": {
+    "label": "PER",
+    "text": "Robert Mayayo",
+    "jalons": [
+      118297,
+      118310
+    ]
+  },
+  "entite_531": {
+    "label": "MISC",
+    "text": "Les servantes du",
+    "jalons": [
+      118313,
+      118329
+    ]
+  },
+  "entite_532": {
+    "label": "ORG",
+    "text": "Tamdjir",
+    "jalons": [
+      118330,
+      118337
+    ]
+  },
+  "entite_533": {
+    "label": "MISC",
+    "text": "Tous les venins du monde",
+    "jalons": [
+      118340,
+      118364
+    ]
+  },
+  "entite_534": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      118428,
+      118441
+    ]
+  },
+  "entite_535": {
+    "label": "MISC",
+    "text": "Black Thumb",
+    "jalons": [
+      118608,
+      118619
+    ]
+  },
+  "entite_536": {
+    "label": "MISC",
+    "text": "Les servantes du",
+    "jalons": [
+      118707,
+      118723
+    ]
+  },
+  "entite_537": {
+    "label": "ORG",
+    "text": "Tamdjir",
+    "jalons": [
+      118724,
+      118731
+    ]
+  },
+  "entite_538": {
+    "label": "MISC",
+    "text": "Black Thumb",
+    "jalons": [
+      118799,
+      118810
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      118812,
+      118828
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Tarassiev-Balbaïan",
+    "jalons": [
+      119540,
+      119558
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      120005,
+      120021
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      120884,
+      120900
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "Will Pilgrimm",
+    "jalons": [
+      121134,
+      121147
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      121243,
+      121252
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      121569,
+      121578
+    ]
+  },
+  "entite_546": {
+    "label": "PER",
+    "text": "Jean Balbaïan",
+    "jalons": [
+      121755,
+      121768
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      121809,
+      121825
+    ]
+  },
+  "entite_548": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      121934,
+      121952
+    ]
+  },
+  "entite_549": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      122040,
+      122052
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "Franck Markovic",
+    "jalons": [
+      122076,
+      122091
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      122093,
+      122111
+    ]
+  },
+  "entite_552": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      122427,
+      122445
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      122698,
+      122707
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      123632,
+      123650
+    ]
+  },
+  "entite_555": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      123859,
+      123877
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      124235,
+      124253
+    ]
+  },
+  "entite_557": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      124553,
+      124558
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      124792,
+      124810
+    ]
+  },
+  "entite_559": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      124971,
+      124976
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      125049,
+      125054
+    ]
+  },
+  "entite_561": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      125190,
+      125195
+    ]
+  },
+  "entite_562": {
+    "label": "MISC",
+    "text": "–",
+    "jalons": [
+      125377,
+      125378
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      125431,
+      125436
+    ]
+  },
+  "entite_564": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      125487,
+      125505
+    ]
+  },
+  "entite_565": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      125565,
+      125583
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "XXIe",
+    "jalons": [
+      125712,
+      125716
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Tablant",
+    "jalons": [
+      125725,
+      125732
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Franck Markovic",
+    "jalons": [
+      125794,
+      125809
+    ]
+  },
+  "entite_569": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      125936,
+      125948
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      126181,
+      126199
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      126358,
+      126367
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      126472,
+      126481
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      127306,
+      127322
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      127351,
+      127369
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      127459,
+      127468
+    ]
+  },
+  "entite_576": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      127480,
+      127492
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "Retour au meurtrissoir",
+    "jalons": [
+      127517,
+      127539
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "Franck Markovic",
+    "jalons": [
+      127580,
+      127595
+    ]
+  },
+  "entite_579": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      127606,
+      127615
+    ]
+  },
+  "entite_580": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      127753,
+      127765
+    ]
+  },
+  "entite_581": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      127783,
+      127801
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      127968,
+      127977
+    ]
+  },
+  "entite_583": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      128012,
+      128024
+    ]
+  },
+  "entite_584": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      128072,
+      128081
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "Markovic",
+    "jalons": [
+      128090,
+      128098
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      128142,
+      128151
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      128241,
+      128250
+    ]
+  },
+  "entite_588": {
+    "label": "MISC",
+    "text": "Retour au meurtrissoir en deux petits romans : Mise à sac et",
+    "jalons": [
+      128423,
+      128483
+    ]
+  },
+  "entite_589": {
+    "label": "ORG",
+    "text": "Alliance fatale",
+    "jalons": [
+      128484,
+      128499
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Tanaz Bielgorian",
+    "jalons": [
+      128700,
+      128716
+    ]
+  },
+  "entite_591": {
+    "label": "LOC",
+    "text": "Prichvine",
+    "jalons": [
+      128718,
+      128727
+    ]
+  },
+  "entite_592": {
+    "label": "LOC",
+    "text": "Tim",
+    "jalons": [
+      128729,
+      128732
+    ]
+  },
+  "entite_593": {
+    "label": "MISC",
+    "text": "Golovienko",
+    "jalons": [
+      128734,
+      128744
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Ishtvan Cranach",
+    "jalons": [
+      128746,
+      128761
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Walef",
+    "jalons": [
+      128861,
+      128866
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Wlaff",
+    "jalons": [
+      128868,
+      128873
+    ]
+  },
+  "entite_597": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      128877,
+      128882
+    ]
+  },
+  "entite_598": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      128960,
+      128978
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "Golovienko",
+    "jalons": [
+      128995,
+      129005
+    ]
+  },
+  "entite_600": {
+    "label": "MISC",
+    "text": "Mise à sac",
+    "jalons": [
+      129033,
+      129043
+    ]
+  },
+  "entite_601": {
+    "label": "PER",
+    "text": "Tim",
+    "jalons": [
+      129050,
+      129053
+    ]
+  },
+  "entite_602": {
+    "label": "ORG",
+    "text": "Alliance fatale",
+    "jalons": [
+      129108,
+      129123
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      129204,
+      129209
+    ]
+  },
+  "entite_604": {
+    "label": "MISC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      129216,
+      129234
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      129236,
+      129241
+    ]
+  },
+  "entite_606": {
+    "label": "MISC",
+    "text": "Mise à sac",
+    "jalons": [
+      129287,
+      129297
+    ]
+  },
+  "entite_607": {
+    "label": "ORG",
+    "text": "Alliance fatale",
+    "jalons": [
+      129331,
+      129346
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      129355,
+      129360
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Millie Flanders",
+    "jalons": [
+      129397,
+      129412
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      129485,
+      129490
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      129827,
+      129843
+    ]
+  },
+  "entite_612": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      129929,
+      129938
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      130022,
+      130040
+    ]
+  },
+  "entite_614": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      130091,
+      130103
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Mise à sac et",
+    "jalons": [
+      130126,
+      130139
+    ]
+  },
+  "entite_616": {
+    "label": "ORG",
+    "text": "Alliance fatale",
+    "jalons": [
+      130140,
+      130155
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      130180,
+      130189
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "Rue des mendiantes",
+    "jalons": [
+      130346,
+      130364
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      130695,
+      130711
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      131083,
+      131092
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      131235,
+      131244
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      131445,
+      131454
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      131841,
+      131850
+    ]
+  },
+  "entite_624": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      131988,
+      131997
+    ]
+  },
+  "entite_625": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      132287,
+      132299
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      132572,
+      132577
+    ]
+  },
+  "entite_627": {
+    "label": "MISC",
+    "text": "Cires",
+    "jalons": [
+      132863,
+      132868
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "La Femelle",
+    "jalons": [
+      132870,
+      132880
+    ]
+  },
+  "entite_629": {
+    "label": "LOC",
+    "text": "Hydropathe",
+    "jalons": [
+      132886,
+      132896
+    ]
+  },
+  "entite_630": {
+    "label": "LOC",
+    "text": "Babel",
+    "jalons": [
+      132898,
+      132903
+    ]
+  },
+  "entite_631": {
+    "label": "MISC",
+    "text": "Singes d’encre",
+    "jalons": [
+      132914,
+      132928
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      133190,
+      133199
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      133565,
+      133574
+    ]
+  },
+  "entite_634": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      133903,
+      133908
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Woolf",
+    "jalons": [
+      133992,
+      133997
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "Wolfo",
+    "jalons": [
+      133999,
+      134004
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Wulf",
+    "jalons": [
+      134006,
+      134010
+    ]
+  },
+  "entite_638": {
+    "label": "LOC",
+    "text": "Walef",
+    "jalons": [
+      134012,
+      134017
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "Woluf",
+    "jalons": [
+      134019,
+      134024
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Wollof",
+    "jalons": [
+      134026,
+      134032
+    ]
+  },
+  "entite_641": {
+    "label": "LOC",
+    "text": "Wulw",
+    "jalons": [
+      134034,
+      134038
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Hollph",
+    "jalons": [
+      134040,
+      134046
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Hulluff",
+    "jalons": [
+      134048,
+      134055
+    ]
+  },
+  "entite_644": {
+    "label": "LOC",
+    "text": "Wulluff",
+    "jalons": [
+      134057,
+      134064
+    ]
+  },
+  "entite_645": {
+    "label": "LOC",
+    "text": "Wloffo",
+    "jalons": [
+      134066,
+      134072
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Wlaff",
+    "jalons": [
+      134074,
+      134079
+    ]
+  },
+  "entite_647": {
+    "label": "MISC",
+    "text": "Walfo",
+    "jalons": [
+      134081,
+      134086
+    ]
+  },
+  "entite_648": {
+    "label": "MISC",
+    "text": "Wolwö",
+    "jalons": [
+      134088,
+      134093
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Folf",
+    "jalons": [
+      134095,
+      134099
+    ]
+  },
+  "entite_650": {
+    "label": "ORG",
+    "text": "Flöff",
+    "jalons": [
+      134101,
+      134106
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Wulwö",
+    "jalons": [
+      134108,
+      134113
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "Wulwo",
+    "jalons": [
+      134115,
+      134120
+    ]
+  },
+  "entite_653": {
+    "label": "PER",
+    "text": "Wolup",
+    "jalons": [
+      134125,
+      134130
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Elmer Blotno",
+    "jalons": [
+      134248,
+      134260
+    ]
+  },
+  "entite_655": {
+    "label": "ORG",
+    "text": "L’Avenir",
+    "jalons": [
+      134283,
+      134291
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Blotno",
+    "jalons": [
+      134391,
+      134397
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      134433,
+      134442
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      134549,
+      134565
+    ]
+  },
+  "entite_659": {
+    "label": "ORG",
+    "text": "Blotno",
+    "jalons": [
+      134657,
+      134663
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      134713,
+      134722
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Blotno",
+    "jalons": [
+      134759,
+      134765
+    ]
+  },
+  "entite_662": {
+    "label": "MISC",
+    "text": "Mise à sac",
+    "jalons": [
+      134888,
+      134898
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      134933,
+      134942
+    ]
+  },
+  "entite_664": {
+    "label": "ORG",
+    "text": "L’Avenir",
+    "jalons": [
+      135095,
+      135103
+    ]
+  },
+  "entite_665": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      135364,
+      135373
+    ]
+  },
+  "entite_666": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      135383,
+      135395
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      135412,
+      135417
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "Blotno",
+    "jalons": [
+      135434,
+      135440
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      135468,
+      135473
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      135608,
+      135617
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      135651,
+      135656
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      135693,
+      135698
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      135794,
+      135810
+    ]
+  },
+  "entite_674": {
+    "label": "MISC",
+    "text": "– et en particulier dans une immense métropole",
+    "jalons": [
+      136158,
+      136204
+    ]
+  },
+  "entite_675": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      136679,
+      136688
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      137051,
+      137056
+    ]
+  },
+  "entite_677": {
+    "label": "ORG",
+    "text": "L’Avenir",
+    "jalons": [
+      137475,
+      137483
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Elmer Blotno",
+    "jalons": [
+      137485,
+      137497
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      137547,
+      137556
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      137586,
+      137591
+    ]
+  },
+  "entite_681": {
+    "label": "MISC",
+    "text": "R.R.",
+    "jalons": [
+      137599,
+      137603
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      137684,
+      137693
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "Rencontre",
+    "jalons": [
+      137762,
+      137771
+    ]
+  },
+  "entite_684": {
+    "label": "ORG",
+    "text": "Lambda Press",
+    "jalons": [
+      137913,
+      137925
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      137936,
+      137945
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      137954,
+      137959
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      138043,
+      138059
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "Wlaff",
+    "jalons": [
+      138459,
+      138464
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      138466,
+      138471
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Wulwo",
+    "jalons": [
+      138475,
+      138480
+    ]
+  },
+  "entite_691": {
+    "label": "MISC",
+    "text": "Opus 24",
+    "jalons": [
+      138808,
+      138815
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Jacob Wulwo",
+    "jalons": [
+      138839,
+      138850
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      138892,
+      138901
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "Jacob Wulwo",
+    "jalons": [
+      138969,
+      138980
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Jacob Wulwo",
+    "jalons": [
+      139520,
+      139531
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      139685,
+      139701
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      140296,
+      140305
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Roman Nachtigall",
+    "jalons": [
+      140387,
+      140403
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      140551,
+      140560
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      140805,
+      140814
+    ]
+  },
+  "entite_701": {
+    "label": "ORG",
+    "text": "Opus 25",
+    "jalons": [
+      141004,
+      141011
+    ]
+  },
+  "entite_702": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      141093,
+      141109
+    ]
+  },
+  "entite_703": {
+    "label": "PER",
+    "text": "Igor Mundrian",
+    "jalons": [
+      141111,
+      141124
+    ]
+  },
+  "entite_704": {
+    "label": "ORG",
+    "text": "UM5",
+    "jalons": [
+      141198,
+      141201
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      141324,
+      141333
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      141417,
+      141426
+    ]
+  },
+  "entite_707": {
+    "label": "PER",
+    "text": "Mundrian",
+    "jalons": [
+      141496,
+      141504
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      141703,
+      141719
+    ]
+  },
+  "entite_709": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      141800,
+      141809
+    ]
+  },
+  "entite_710": {
+    "label": "PER",
+    "text": "Mundrian",
+    "jalons": [
+      141848,
+      141856
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      141878,
+      141887
+    ]
+  },
+  "entite_712": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      141995,
+      142011
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "Einstein",
+    "jalons": [
+      142199,
+      142207
+    ]
+  },
+  "entite_714": {
+    "label": "PER",
+    "text": "Einstein",
+    "jalons": [
+      142299,
+      142307
+    ]
+  },
+  "entite_715": {
+    "label": "PER",
+    "text": "Mundrian",
+    "jalons": [
+      142594,
+      142602
+    ]
+  },
+  "entite_716": {
+    "label": "MISC",
+    "text": "Disons",
+    "jalons": [
+      142724,
+      142730
+    ]
+  },
+  "entite_717": {
+    "label": "ORG",
+    "text": "UM5",
+    "jalons": [
+      142881,
+      142884
+    ]
+  },
+  "entite_718": {
+    "label": "ORG",
+    "text": "UM5",
+    "jalons": [
+      142902,
+      142905
+    ]
+  },
+  "entite_719": {
+    "label": "MISC",
+    "text": "Le Quart d’Heure de Winnie",
+    "jalons": [
+      142945,
+      142971
+    ]
+  },
+  "entite_720": {
+    "label": "ORG",
+    "text": "SOS-Dermatose",
+    "jalons": [
+      143041,
+      143054
+    ]
+  },
+  "entite_721": {
+    "label": "MISC",
+    "text": "Génétic-Assistance",
+    "jalons": [
+      143058,
+      143076
+    ]
+  },
+  "entite_722": {
+    "label": "MISC",
+    "text": "Life-Boat",
+    "jalons": [
+      143202,
+      143211
+    ]
+  },
+  "entite_723": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      143414,
+      143423
+    ]
+  },
+  "entite_724": {
+    "label": "MISC",
+    "text": "Life-Boat",
+    "jalons": [
+      143515,
+      143524
+    ]
+  },
+  "entite_725": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      143652,
+      143668
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "City Hall",
+    "jalons": [
+      143694,
+      143703
+    ]
+  },
+  "entite_727": {
+    "label": "MISC",
+    "text": "Life-Boat",
+    "jalons": [
+      143787,
+      143796
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "Les bijoux",
+    "jalons": [
+      143908,
+      143918
+    ]
+  },
+  "entite_729": {
+    "label": "PER",
+    "text": "Tarassiev clopine",
+    "jalons": [
+      144222,
+      144239
+    ]
+  },
+  "entite_730": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      144356,
+      144365
+    ]
+  },
+  "entite_731": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      145307,
+      145316
+    ]
+  },
+  "entite_732": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      145670,
+      145686
+    ]
+  },
+  "entite_733": {
+    "label": "MISC",
+    "text": "coupe de champagne",
+    "jalons": [
+      145911,
+      145929
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "Colt",
+    "jalons": [
+      146106,
+      146110
+    ]
+  },
+  "entite_735": {
+    "label": "PER",
+    "text": "Ando Baltcharol",
+    "jalons": [
+      146156,
+      146171
+    ]
+  },
+  "entite_736": {
+    "label": "ORG",
+    "text": "Développement industriel",
+    "jalons": [
+      146185,
+      146209
+    ]
+  },
+  "entite_737": {
+    "label": "LOC",
+    "text": "État",
+    "jalons": [
+      146235,
+      146239
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Dadzor Adamiyaz",
+    "jalons": [
+      146241,
+      146256
+    ]
+  },
+  "entite_739": {
+    "label": "ORG",
+    "text": "Solidarité",
+    "jalons": [
+      146258,
+      146268
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "Werner Wens",
+    "jalons": [
+      146273,
+      146284
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "Réfugiés",
+    "jalons": [
+      146286,
+      146294
+    ]
+  },
+  "entite_742": {
+    "label": "MISC",
+    "text": "Administration",
+    "jalons": [
+      146298,
+      146312
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "Opus 25",
+    "jalons": [
+      146485,
+      146492
+    ]
+  },
+  "entite_744": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      146496,
+      146512
+    ]
+  },
+  "entite_745": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      146608,
+      146624
+    ]
+  },
+  "entite_746": {
+    "label": "LOC",
+    "text": "Opus 25",
+    "jalons": [
+      146795,
+      146802
+    ]
+  },
+  "entite_747": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      146806,
+      146815
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "Tarassiev",
+    "jalons": [
+      147041,
+      147050
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "Balbaïan",
+    "jalons": [
+      147290,
+      147298
+    ]
+  },
+  "entite_750": {
+    "label": "PER",
+    "text": "Bogdan Tarassiev",
+    "jalons": [
+      147355,
+      147371
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Wolff",
+    "jalons": [
+      147779,
+      147784
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "LA THÉORIE DE",
+    "jalons": [
+      147788,
+      147801
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      147989,
+      148012
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Maria",
+    "jalons": [
+      148028,
+      148033
+    ]
+  },
+  "entite_755": {
+    "label": "PER",
+    "text": "Mariya",
+    "jalons": [
+      148037,
+      148043
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Courir dans le noir",
+    "jalons": [
+      149348,
+      149367
+    ]
+  },
+  "entite_757": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      150253,
+      150276
+    ]
+  },
+  "entite_758": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      150995,
+      151018
+    ]
+  },
+  "entite_759": {
+    "label": "LOC",
+    "text": "pôle Nord",
+    "jalons": [
+      151644,
+      151653
+    ]
+  },
+  "entite_760": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      151655,
+      151678
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      152340,
+      152363
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      153345,
+      153347
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Consciente",
+    "jalons": [
+      156177,
+      156187
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      157869,
+      157892
+    ]
+  },
+  "entite_765": {
+    "label": "PER",
+    "text": "Ingrid Schmitz",
+    "jalons": [
+      159735,
+      159749
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Maria Schrag",
+    "jalons": [
+      159751,
+      159763
+    ]
+  },
+  "entite_767": {
+    "label": "PER",
+    "text": "Liliane Oregone",
+    "jalons": [
+      159767,
+      159782
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "Borborygmes",
+    "jalons": [
+      160988,
+      160999
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      163076,
+      163099
+    ]
+  },
+  "entite_770": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      164738,
+      164761
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      165191,
+      165214
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Yasar Tarchalski",
+    "jalons": [
+      165329,
+      165345
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Yasar",
+    "jalons": [
+      166158,
+      166163
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Yasar",
+    "jalons": [
+      166480,
+      166485
+    ]
+  },
+  "entite_775": {
+    "label": "PER",
+    "text": "Yasar Tarchalski",
+    "jalons": [
+      166723,
+      166739
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Tarchalski",
+    "jalons": [
+      167000,
+      167010
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Yasar Tarchalski",
+    "jalons": [
+      167786,
+      167802
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Tarchalski",
+    "jalons": [
+      168038,
+      168048
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "Yasar Tarchalski",
+    "jalons": [
+      168242,
+      168258
+    ]
+  },
+  "entite_780": {
+    "label": "PER",
+    "text": "Ilitch",
+    "jalons": [
+      168327,
+      168333
+    ]
+  },
+  "entite_781": {
+    "label": "PER",
+    "text": "Ilitch",
+    "jalons": [
+      168475,
+      168481
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Yasar",
+    "jalons": [
+      168539,
+      168544
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "Ilitch",
+    "jalons": [
+      168598,
+      168604
+    ]
+  },
+  "entite_784": {
+    "label": "MISC",
+    "text": "En sueur il se tourna et se retourna sur le lit de béton",
+    "jalons": [
+      168736,
+      168792
+    ]
+  },
+  "entite_785": {
+    "label": "MISC",
+    "text": "Plus bas",
+    "jalons": [
+      168892,
+      168900
+    ]
+  },
+  "entite_786": {
+    "label": "PER",
+    "text": "Ilitch",
+    "jalons": [
+      168942,
+      168948
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "Tarchalski",
+    "jalons": [
+      168959,
+      168969
+    ]
+  },
+  "entite_788": {
+    "label": "PER",
+    "text": "Ilitch",
+    "jalons": [
+      169584,
+      169590
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      169738,
+      169761
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Accroupie",
+    "jalons": [
+      170088,
+      170097
+    ]
+  },
+  "entite_791": {
+    "label": "PER",
+    "text": "Eux-mêmes",
+    "jalons": [
+      170859,
+      170868
+    ]
+  },
+  "entite_792": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      173808,
+      173831
+    ]
+  },
+  "entite_793": {
+    "label": "MISC",
+    "text": "Le Septième Sceau",
+    "jalons": [
+      174482,
+      174499
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Ingmar Bergman",
+    "jalons": [
+      174502,
+      174516
+    ]
+  },
+  "entite_795": {
+    "label": "MISC",
+    "text": "Damnation",
+    "jalons": [
+      174689,
+      174698
+    ]
+  },
+  "entite_796": {
+    "label": "PER",
+    "text": "Béla Tarr",
+    "jalons": [
+      174702,
+      174711
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "Eraserhead",
+    "jalons": [
+      174784,
+      174794
+    ]
+  },
+  "entite_798": {
+    "label": "PER",
+    "text": "David Lynch",
+    "jalons": [
+      174798,
+      174809
+    ]
+  },
+  "entite_799": {
+    "label": "MISC",
+    "text": "Nosferatu",
+    "jalons": [
+      174868,
+      174877
+    ]
+  },
+  "entite_800": {
+    "label": "MISC",
+    "text": "Nosferatu le vampire",
+    "jalons": [
+      174898,
+      174918
+    ]
+  },
+  "entite_801": {
+    "label": "PER",
+    "text": "Friedrich Murnau",
+    "jalons": [
+      174922,
+      174938
+    ]
+  },
+  "entite_802": {
+    "label": "MISC",
+    "text": "La Honte",
+    "jalons": [
+      175019,
+      175027
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Ingmar Bergman",
+    "jalons": [
+      175030,
+      175044
+    ]
+  },
+  "entite_804": {
+    "label": "MISC",
+    "text": "Les Cendres du temps",
+    "jalons": [
+      175126,
+      175146
+    ]
+  },
+  "entite_805": {
+    "label": "PER",
+    "text": "Wong Kar-waï",
+    "jalons": [
+      175150,
+      175162
+    ]
+  },
+  "entite_806": {
+    "label": "MISC",
+    "text": "Stalker",
+    "jalons": [
+      175243,
+      175250
+    ]
+  },
+  "entite_807": {
+    "label": "PER",
+    "text": "Andreï Tarkovski",
+    "jalons": [
+      175253,
+      175269
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "Le vieil homme cancéreux qui chante",
+    "jalons": [
+      175273,
+      175308
+    ]
+  },
+  "entite_809": {
+    "label": "MISC",
+    "text": "Vivre d’",
+    "jalons": [
+      175334,
+      175342
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Akira Kurosawa",
+    "jalons": [
+      175342,
+      175356
+    ]
+  },
+  "entite_811": {
+    "label": "MISC",
+    "text": "Les nains aveugles avec leurs énormes lunettes de moto",
+    "jalons": [
+      175360,
+      175414
+    ]
+  },
+  "entite_812": {
+    "label": "MISC",
+    "text": "Les nains",
+    "jalons": [
+      175452,
+      175461
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "Werner Herzog",
+    "jalons": [
+      175491,
+      175504
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "Il était une fois dans l’Ouest",
+    "jalons": [
+      175556,
+      175586
+    ]
+  },
+  "entite_815": {
+    "label": "PER",
+    "text": "Sergio Leone",
+    "jalons": [
+      175590,
+      175602
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "L’Enfance",
+    "jalons": [
+      175655,
+      175664
+    ]
+  },
+  "entite_817": {
+    "label": "MISC",
+    "text": "Ivan",
+    "jalons": [
+      175667,
+      175671
+    ]
+  },
+  "entite_818": {
+    "label": "PER",
+    "text": "Andreï Tarkovski",
+    "jalons": [
+      175674,
+      175690
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "Le Miroir",
+    "jalons": [
+      175741,
+      175750
+    ]
+  },
+  "entite_820": {
+    "label": "PER",
+    "text": "Andreï Tarkovski",
+    "jalons": [
+      175753,
+      175769
+    ]
+  },
+  "entite_821": {
+    "label": "LOC",
+    "text": "Parler",
+    "jalons": [
+      177929,
+      177935
+    ]
+  },
+  "entite_822": {
+    "label": "MISC",
+    "text": "Mes orifices",
+    "jalons": [
+      178926,
+      178938
+    ]
+  },
+  "entite_823": {
+    "label": "LOC",
+    "text": "Sourde",
+    "jalons": [
+      181234,
+      181240
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Docilement",
+    "jalons": [
+      182493,
+      182503
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Pauvrement",
+    "jalons": [
+      183208,
+      183218
+    ]
+  },
+  "entite_826": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      183245,
+      183268
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "moirures",
+    "jalons": [
+      183697,
+      183705
+    ]
+  },
+  "entite_828": {
+    "label": "MISC",
+    "text": "Mes mains",
+    "jalons": [
+      184054,
+      184063
+    ]
+  },
+  "entite_829": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      185798,
+      185821
+    ]
+  },
+  "entite_830": {
+    "label": "PER",
+    "text": "Maria Trois-Cent-Treize",
+    "jalons": [
+      189298,
+      189321
+    ]
+  },
+  "entite_831": {
+    "label": "ORG",
+    "text": "DEMAIN AURA",
+    "jalons": [
+      191037,
+      191048
+    ]
+  },
+  "entite_832": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      191070,
+      191086
+    ]
+  },
+  "entite_833": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      191374,
+      191382
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      191394,
+      191400
+    ]
+  },
+  "entite_835": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      192391,
+      192397
+    ]
+  },
+  "entite_836": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      192815,
+      192824
+    ]
+  },
+  "entite_837": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      194247,
+      194256
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      195006,
+      195014
+    ]
+  },
+  "entite_839": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      196547,
+      196553
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "Galia",
+    "jalons": [
+      197009,
+      197014
+    ]
+  },
+  "entite_841": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      198384,
+      198390
+    ]
+  },
+  "entite_842": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      198931,
+      198937
+    ]
+  },
+  "entite_843": {
+    "label": "MISC",
+    "text": "Pas grand bruit",
+    "jalons": [
+      199223,
+      199238
+    ]
+  },
+  "entite_844": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      199393,
+      199399
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      199513,
+      199519
+    ]
+  },
+  "entite_846": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      199678,
+      199680
+    ]
+  },
+  "entite_847": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      199753,
+      199769
+    ]
+  },
+  "entite_848": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      199946,
+      199954
+    ]
+  },
+  "entite_849": {
+    "label": "LOC",
+    "text": "Allemands",
+    "jalons": [
+      199972,
+      199981
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      200006,
+      200012
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Oural",
+    "jalons": [
+      200070,
+      200075
+    ]
+  },
+  "entite_852": {
+    "label": "PER",
+    "text": "Koulgoulinko",
+    "jalons": [
+      200077,
+      200089
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "Baïkaziorovo",
+    "jalons": [
+      200091,
+      200103
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "Askariovo",
+    "jalons": [
+      200105,
+      200114
+    ]
+  },
+  "entite_855": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      200428,
+      200444
+    ]
+  },
+  "entite_856": {
+    "label": "LOC",
+    "text": "Autriche",
+    "jalons": [
+      200994,
+      201002
+    ]
+  },
+  "entite_857": {
+    "label": "LOC",
+    "text": "Allemagne",
+    "jalons": [
+      201009,
+      201018
+    ]
+  },
+  "entite_858": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      201023,
+      201028
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "Anglais",
+    "jalons": [
+      201034,
+      201041
+    ]
+  },
+  "entite_860": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      201669,
+      201685
+    ]
+  },
+  "entite_861": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      201786,
+      201788
+    ]
+  },
+  "entite_862": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      201834,
+      201840
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      201852,
+      201859
+    ]
+  },
+  "entite_864": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      201863,
+      201871
+    ]
+  },
+  "entite_865": {
+    "label": "LOC",
+    "text": "rue Tchernogradskaïa",
+    "jalons": [
+      201873,
+      201893
+    ]
+  },
+  "entite_866": {
+    "label": "PER",
+    "text": "ça sonnaillait",
+    "jalons": [
+      201980,
+      201994
+    ]
+  },
+  "entite_867": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      202070,
+      202072
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      202380,
+      202389
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      204718,
+      204726
+    ]
+  },
+  "entite_870": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      204728,
+      204735
+    ]
+  },
+  "entite_871": {
+    "label": "MISC",
+    "text": "Drojjino",
+    "jalons": [
+      204749,
+      204757
+    ]
+  },
+  "entite_872": {
+    "label": "MISC",
+    "text": "Nikita",
+    "jalons": [
+      205875,
+      205881
+    ]
+  },
+  "entite_873": {
+    "label": "PER",
+    "text": "Galia",
+    "jalons": [
+      206842,
+      206847
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      208209,
+      208211
+    ]
+  },
+  "entite_875": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      208357,
+      208359
+    ]
+  },
+  "entite_876": {
+    "label": "MISC",
+    "text": "Insupportable",
+    "jalons": [
+      208366,
+      208379
+    ]
+  },
+  "entite_877": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      209261,
+      209277
+    ]
+  },
+  "entite_878": {
+    "label": "LOC",
+    "text": "Iemerovo",
+    "jalons": [
+      209913,
+      209921
+    ]
+  },
+  "entite_879": {
+    "label": "MISC",
+    "text": "Drojjino",
+    "jalons": [
+      209935,
+      209943
+    ]
+  },
+  "entite_880": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      209945,
+      209952
+    ]
+  },
+  "entite_881": {
+    "label": "LOC",
+    "text": "Bobrovo",
+    "jalons": [
+      209954,
+      209961
+    ]
+  },
+  "entite_882": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      210126,
+      210130
+    ]
+  },
+  "entite_883": {
+    "label": "MISC",
+    "text": "Drojjino",
+    "jalons": [
+      210440,
+      210448
+    ]
+  },
+  "entite_884": {
+    "label": "LOC",
+    "text": "rue Tchernogradskaïa",
+    "jalons": [
+      210723,
+      210743
+    ]
+  },
+  "entite_885": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      210933,
+      210937
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "polygone de Boutovo",
+    "jalons": [
+      211158,
+      211177
+    ]
+  },
+  "entite_887": {
+    "label": "MISC",
+    "text": "Drojjino",
+    "jalons": [
+      211750,
+      211758
+    ]
+  },
+  "entite_888": {
+    "label": "MISC",
+    "text": "Histoire d’un dimanche qui était un lundi",
+    "jalons": [
+      212159,
+      212200
+    ]
+  },
+  "entite_889": {
+    "label": "PER",
+    "text": "Daaz Doguiwlo",
+    "jalons": [
+      212768,
+      212781
+    ]
+  },
+  "entite_890": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      212862,
+      212870
+    ]
+  },
+  "entite_891": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      212871,
+      212881
+    ]
+  },
+  "entite_892": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      212944,
+      212953
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      213154,
+      213161
+    ]
+  },
+  "entite_894": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      213553,
+      213557
+    ]
+  },
+  "entite_895": {
+    "label": "PER",
+    "text": "Iejov",
+    "jalons": [
+      213719,
+      213724
+    ]
+  },
+  "entite_896": {
+    "label": "LOC",
+    "text": "polygone de Boutovo",
+    "jalons": [
+      213763,
+      213782
+    ]
+  },
+  "entite_897": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      213866,
+      213874
+    ]
+  },
+  "entite_898": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      213875,
+      213885
+    ]
+  },
+  "entite_899": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      214043,
+      214059
+    ]
+  },
+  "entite_900": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      214151,
+      214159
+    ]
+  },
+  "entite_901": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      214160,
+      214170
+    ]
+  },
+  "entite_902": {
+    "label": "LOC",
+    "text": "Altaï",
+    "jalons": [
+      214720,
+      214725
+    ]
+  },
+  "entite_903": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      214871,
+      214875
+    ]
+  },
+  "entite_904": {
+    "label": "PER",
+    "text": "Daaz Doguiwlo",
+    "jalons": [
+      215023,
+      215036
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      215040,
+      215056
+    ]
+  },
+  "entite_906": {
+    "label": "PER",
+    "text": "Abrachine",
+    "jalons": [
+      215147,
+      215156
+    ]
+  },
+  "entite_907": {
+    "label": "PER",
+    "text": "Stepan Fiodorovitch",
+    "jalons": [
+      215158,
+      215177
+    ]
+  },
+  "entite_908": {
+    "label": "LOC",
+    "text": "Obiltsevo",
+    "jalons": [
+      215204,
+      215213
+    ]
+  },
+  "entite_909": {
+    "label": "LOC",
+    "text": "district Detchinski",
+    "jalons": [
+      215215,
+      215234
+    ]
+  },
+  "entite_910": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      215246,
+      215252
+    ]
+  },
+  "entite_911": {
+    "label": "LOC",
+    "text": "Russe",
+    "jalons": [
+      215257,
+      215262
+    ]
+  },
+  "entite_912": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      215352,
+      215358
+    ]
+  },
+  "entite_913": {
+    "label": "ORG",
+    "text": "Cinquième avenue Donskoï",
+    "jalons": [
+      215360,
+      215384
+    ]
+  },
+  "entite_914": {
+    "label": "ORG",
+    "text": "OUNKVD",
+    "jalons": [
+      215472,
+      215478
+    ]
+  },
+  "entite_915": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      215482,
+      215488
+    ]
+  },
+  "entite_916": {
+    "label": "MISC",
+    "text": "Boutovo !",
+    "jalons": [
+      215586,
+      215595
+    ]
+  },
+  "entite_917": {
+    "label": "PER",
+    "text": "Alexeïev",
+    "jalons": [
+      215598,
+      215606
+    ]
+  },
+  "entite_918": {
+    "label": "PER",
+    "text": "Artiom Mikhaïlovitch",
+    "jalons": [
+      215608,
+      215628
+    ]
+  },
+  "entite_919": {
+    "label": "LOC",
+    "text": "Dermanovka",
+    "jalons": [
+      215656,
+      215666
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "district Bazarski",
+    "jalons": [
+      215668,
+      215685
+    ]
+  },
+  "entite_921": {
+    "label": "LOC",
+    "text": "Kiev",
+    "jalons": [
+      215697,
+      215701
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Russe",
+    "jalons": [
+      215703,
+      215708
+    ]
+  },
+  "entite_923": {
+    "label": "LOC",
+    "text": "Kotliakovo",
+    "jalons": [
+      215812,
+      215822
+    ]
+  },
+  "entite_924": {
+    "label": "LOC",
+    "text": "district Lenininski",
+    "jalons": [
+      215824,
+      215843
+    ]
+  },
+  "entite_925": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      215855,
+      215861
+    ]
+  },
+  "entite_926": {
+    "label": "ORG",
+    "text": "OUNKVD",
+    "jalons": [
+      215925,
+      215931
+    ]
+  },
+  "entite_927": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      215935,
+      215941
+    ]
+  },
+  "entite_928": {
+    "label": "MISC",
+    "text": "Boutovo !",
+    "jalons": [
+      216131,
+      216140
+    ]
+  },
+  "entite_929": {
+    "label": "PER",
+    "text": "Bachkatov",
+    "jalons": [
+      216143,
+      216152
+    ]
+  },
+  "entite_930": {
+    "label": "PER",
+    "text": "Vassili Vassilievitch",
+    "jalons": [
+      216153,
+      216174
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Degtianskoïe",
+    "jalons": [
+      216204,
+      216216
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "district Kozlovski",
+    "jalons": [
+      216218,
+      216236
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Tambov",
+    "jalons": [
+      216250,
+      216256
+    ]
+  },
+  "entite_934": {
+    "label": "MISC",
+    "text": "Russe !\n…",
+    "jalons": [
+      216261,
+      216270
+    ]
+  },
+  "entite_935": {
+    "label": "ORG",
+    "text": "Oudarnik",
+    "jalons": [
+      216327,
+      216335
+    ]
+  },
+  "entite_936": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      216373,
+      216379
+    ]
+  },
+  "entite_937": {
+    "label": "LOC",
+    "text": "cité Vladimirski",
+    "jalons": [
+      216381,
+      216397
+    ]
+  },
+  "entite_938": {
+    "label": "MISC",
+    "text": "OUNKVD",
+    "jalons": [
+      216484,
+      216490
+    ]
+  },
+  "entite_939": {
+    "label": "PER",
+    "text": "Enterré",
+    "jalons": [
+      216663,
+      216670
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      216673,
+      216680
+    ]
+  },
+  "entite_941": {
+    "label": "PER",
+    "text": "Gaïdar Afanassi",
+    "jalons": [
+      216685,
+      216700
+    ]
+  },
+  "entite_942": {
+    "label": "LOC",
+    "text": "Grinki",
+    "jalons": [
+      216747,
+      216753
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "district Semionovski",
+    "jalons": [
+      216755,
+      216775
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Kharkov",
+    "jalons": [
+      216787,
+      216794
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Ukrainien",
+    "jalons": [
+      216796,
+      216805
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      216929,
+      216935
+    ]
+  },
+  "entite_947": {
+    "label": "LOC",
+    "text": "Lefortovski",
+    "jalons": [
+      216945,
+      216956
+    ]
+  },
+  "entite_948": {
+    "label": "LOC",
+    "text": "Metrostroï",
+    "jalons": [
+      216991,
+      217001
+    ]
+  },
+  "entite_949": {
+    "label": "MISC",
+    "text": "Arrestation",
+    "jalons": [
+      217024,
+      217035
+    ]
+  },
+  "entite_950": {
+    "label": "MISC",
+    "text": "OUNKVD",
+    "jalons": [
+      217109,
+      217115
+    ]
+  },
+  "entite_951": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      217266,
+      217273
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "Outchour Tenderekov",
+    "jalons": [
+      217293,
+      217312
+    ]
+  },
+  "entite_953": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      217628,
+      217630
+    ]
+  },
+  "entite_954": {
+    "label": "MISC",
+    "text": "Daaz",
+    "jalons": [
+      217661,
+      217665
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Daaz Doguiwlo",
+    "jalons": [
+      217718,
+      217731
+    ]
+  },
+  "entite_956": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      217770,
+      217779
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      218168,
+      218177
+    ]
+  },
+  "entite_958": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      218315,
+      218323
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      218324,
+      218334
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      218991,
+      219000
+    ]
+  },
+  "entite_961": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      219443,
+      219452
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      219771,
+      219780
+    ]
+  },
+  "entite_963": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      220976,
+      220985
+    ]
+  },
+  "entite_964": {
+    "label": "PER",
+    "text": "Abrachine",
+    "jalons": [
+      221044,
+      221053
+    ]
+  },
+  "entite_965": {
+    "label": "PER",
+    "text": "Stépane Fiodorovitch",
+    "jalons": [
+      221055,
+      221075
+    ]
+  },
+  "entite_966": {
+    "label": "PER",
+    "text": "Abrachine",
+    "jalons": [
+      221802,
+      221811
+    ]
+  },
+  "entite_967": {
+    "label": "PER",
+    "text": "Abrachine",
+    "jalons": [
+      222034,
+      222043
+    ]
+  },
+  "entite_968": {
+    "label": "MISC",
+    "text": "Nous sommes ensemble",
+    "jalons": [
+      222070,
+      222090
+    ]
+  },
+  "entite_969": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      222274,
+      222283
+    ]
+  },
+  "entite_970": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      222627,
+      222636
+    ]
+  },
+  "entite_971": {
+    "label": "MISC",
+    "text": "Histoire d’un dimanche qui était un lundi",
+    "jalons": [
+      222764,
+      222805
+    ]
+  },
+  "entite_972": {
+    "label": "MISC",
+    "text": "Le dimanche n’existait pas ce jour-là",
+    "jalons": [
+      222807,
+      222844
+    ]
+  },
+  "entite_973": {
+    "label": "MISC",
+    "text": "Un lundi de sang",
+    "jalons": [
+      222846,
+      222862
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      222869,
+      222878
+    ]
+  },
+  "entite_975": {
+    "label": "MISC",
+    "text": "Demain",
+    "jalons": [
+      222898,
+      222904
+    ]
+  },
+  "entite_976": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      223174,
+      223183
+    ]
+  },
+  "entite_977": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      223695,
+      223704
+    ]
+  },
+  "entite_978": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      223848,
+      223852
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      224241,
+      224250
+    ]
+  },
+  "entite_980": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      224513,
+      224522
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      226087,
+      226096
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "semi-illettré",
+    "jalons": [
+      226412,
+      226425
+    ]
+  },
+  "entite_983": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      226613,
+      226621
+    ]
+  },
+  "entite_984": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      226622,
+      226632
+    ]
+  },
+  "entite_985": {
+    "label": "MISC",
+    "text": "Outchour",
+    "jalons": [
+      226726,
+      226734
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "Tenderekov",
+    "jalons": [
+      226735,
+      226745
+    ]
+  },
+  "entite_987": {
+    "label": "PER",
+    "text": "Daaz Doguiwlo",
+    "jalons": [
+      226789,
+      226802
+    ]
+  },
+  "entite_988": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      226882,
+      226891
+    ]
+  },
+  "entite_989": {
+    "label": "PER",
+    "text": "Daaz Doguiwlo",
+    "jalons": [
+      227085,
+      227098
+    ]
+  },
+  "entite_990": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      227167,
+      227176
+    ]
+  },
+  "entite_991": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      227348,
+      227357
+    ]
+  },
+  "entite_992": {
+    "label": "LOC",
+    "text": "Dedionok",
+    "jalons": [
+      227645,
+      227653
+    ]
+  },
+  "entite_993": {
+    "label": "PER",
+    "text": "Dedionok Mikhaïl Ermolaïevitch",
+    "jalons": [
+      227669,
+      227699
+    ]
+  },
+  "entite_994": {
+    "label": "LOC",
+    "text": "Biélorusse",
+    "jalons": [
+      227704,
+      227714
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "Troïanovo",
+    "jalons": [
+      227744,
+      227753
+    ]
+  },
+  "entite_996": {
+    "label": "LOC",
+    "text": "Kroupki",
+    "jalons": [
+      227767,
+      227774
+    ]
+  },
+  "entite_997": {
+    "label": "LOC",
+    "text": "Biélorussie",
+    "jalons": [
+      227776,
+      227787
+    ]
+  },
+  "entite_998": {
+    "label": "MISC",
+    "text": "Analphabète",
+    "jalons": [
+      227792,
+      227803
+    ]
+  },
+  "entite_999": {
+    "label": "MISC",
+    "text": "Stankolit !",
+    "jalons": [
+      227842,
+      227853
+    ]
+  },
+  "entite_1000": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      227867,
+      227873
+    ]
+  },
+  "entite_1001": {
+    "label": "LOC",
+    "text": "rue Skladotchnaïa",
+    "jalons": [
+      227879,
+      227896
+    ]
+  },
+  "entite_1002": {
+    "label": "MISC",
+    "text": "OUNKVD",
+    "jalons": [
+      227993,
+      227999
+    ]
+  },
+  "entite_1003": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      228016,
+      228022
+    ]
+  },
+  "entite_1004": {
+    "label": "ORG",
+    "text": "Stankolit",
+    "jalons": [
+      228097,
+      228106
+    ]
+  },
+  "entite_1005": {
+    "label": "ORG",
+    "text": "URSS",
+    "jalons": [
+      228164,
+      228168
+    ]
+  },
+  "entite_1006": {
+    "label": "ORG",
+    "text": "Parti",
+    "jalons": [
+      228199,
+      228204
+    ]
+  },
+  "entite_1007": {
+    "label": "PER",
+    "text": "Dimitrov",
+    "jalons": [
+      228405,
+      228413
+    ]
+  },
+  "entite_1008": {
+    "label": "PER",
+    "text": "Nikolaï Petrovitch",
+    "jalons": [
+      228428,
+      228446
+    ]
+  },
+  "entite_1009": {
+    "label": "LOC",
+    "text": "Tergokeni",
+    "jalons": [
+      228464,
+      228473
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Bacau",
+    "jalons": [
+      228475,
+      228480
+    ]
+  },
+  "entite_1011": {
+    "label": "LOC",
+    "text": "Roumanie",
+    "jalons": [
+      228482,
+      228490
+    ]
+  },
+  "entite_1012": {
+    "label": "MISC",
+    "text": "Juif !",
+    "jalons": [
+      228495,
+      228501
+    ]
+  },
+  "entite_1013": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      228605,
+      228611
+    ]
+  },
+  "entite_1014": {
+    "label": "MISC",
+    "text": "Première rue",
+    "jalons": [
+      228620,
+      228632
+    ]
+  },
+  "entite_1015": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      228728,
+      228732
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      228856,
+      228863
+    ]
+  },
+  "entite_1017": {
+    "label": "PER",
+    "text": "Kouzmitchev",
+    "jalons": [
+      229646,
+      229657
+    ]
+  },
+  "entite_1018": {
+    "label": "PER",
+    "text": "Stepan Andreïevitch",
+    "jalons": [
+      229659,
+      229678
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "Polianka",
+    "jalons": [
+      229723,
+      229731
+    ]
+  },
+  "entite_1020": {
+    "label": "LOC",
+    "text": "district de Tchern",
+    "jalons": [
+      229733,
+      229751
+    ]
+  },
+  "entite_1021": {
+    "label": "LOC",
+    "text": "Toula",
+    "jalons": [
+      229765,
+      229770
+    ]
+  },
+  "entite_1022": {
+    "label": "LOC",
+    "text": "Russe",
+    "jalons": [
+      229775,
+      229780
+    ]
+  },
+  "entite_1023": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      229872,
+      229878
+    ]
+  },
+  "entite_1024": {
+    "label": "LOC",
+    "text": "Oussievitcha",
+    "jalons": [
+      229887,
+      229899
+    ]
+  },
+  "entite_1025": {
+    "label": "ORG",
+    "text": "OUNKVD",
+    "jalons": [
+      229987,
+      229993
+    ]
+  },
+  "entite_1026": {
+    "label": "LOC",
+    "text": "Moscou",
+    "jalons": [
+      230006,
+      230012
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "Accusation",
+    "jalons": [
+      230017,
+      230027
+    ]
+  },
+  "entite_1028": {
+    "label": "LOC",
+    "text": "polygone de Boutovo",
+    "jalons": [
+      230211,
+      230230
+    ]
+  },
+  "entite_1029": {
+    "label": "PER",
+    "text": "Enterré",
+    "jalons": [
+      230235,
+      230242
+    ]
+  },
+  "entite_1030": {
+    "label": "LOC",
+    "text": "Boutovo",
+    "jalons": [
+      230245,
+      230252
+    ]
+  },
+  "entite_1031": {
+    "label": "LOC",
+    "text": "polygone de Boutovo",
+    "jalons": [
+      230493,
+      230512
+    ]
+  },
+  "entite_1032": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      230568,
+      230572
+    ]
+  },
+  "entite_1033": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      231019,
+      231028
+    ]
+  },
+  "entite_1034": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      231300,
+      231309
+    ]
+  },
+  "entite_1035": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      231599,
+      231608
+    ]
+  },
+  "entite_1036": {
+    "label": "ORG",
+    "text": "URSS",
+    "jalons": [
+      231862,
+      231866
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      232374,
+      232383
+    ]
+  },
+  "entite_1038": {
+    "label": "MISC",
+    "text": "glasnost",
+    "jalons": [
+      232669,
+      232677
+    ]
+  },
+  "entite_1039": {
+    "label": "ORG",
+    "text": "Soviétique",
+    "jalons": [
+      233209,
+      233219
+    ]
+  },
+  "entite_1040": {
+    "label": "ORG",
+    "text": "NKVD",
+    "jalons": [
+      233459,
+      233463
+    ]
+  },
+  "entite_1041": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      233572,
+      233581
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "Kouzmine",
+    "jalons": [
+      233901,
+      233909
+    ]
+  },
+  "entite_1043": {
+    "label": "PER",
+    "text": "Ivanov",
+    "jalons": [
+      233936,
+      233942
+    ]
+  },
+  "entite_1044": {
+    "label": "PER",
+    "text": "Leksakov",
+    "jalons": [
+      233944,
+      233952
+    ]
+  },
+  "entite_1045": {
+    "label": "PER",
+    "text": "Lebedev",
+    "jalons": [
+      233954,
+      233961
+    ]
+  },
+  "entite_1046": {
+    "label": "MISC",
+    "text": "Matveïev",
+    "jalons": [
+      233963,
+      233971
+    ]
+  },
+  "entite_1047": {
+    "label": "MISC",
+    "text": "Podzorov",
+    "jalons": [
+      233973,
+      233981
+    ]
+  },
+  "entite_1048": {
+    "label": "ORG",
+    "text": "Prokopenko",
+    "jalons": [
+      233986,
+      233996
+    ]
+  },
+  "entite_1049": {
+    "label": "ORG",
+    "text": "Sviritchev",
+    "jalons": [
+      233998,
+      234008
+    ]
+  },
+  "entite_1050": {
+    "label": "PER",
+    "text": "Skorynine !",
+    "jalons": [
+      234010,
+      234021
+    ]
+  },
+  "entite_1051": {
+    "label": "PER",
+    "text": "Oulianov",
+    "jalons": [
+      234024,
+      234032
+    ]
+  },
+  "entite_1052": {
+    "label": "PER",
+    "text": "Fiodorov",
+    "jalons": [
+      234037,
+      234045
+    ]
+  },
+  "entite_1053": {
+    "label": "PER",
+    "text": "Iejov",
+    "jalons": [
+      234847,
+      234852
+    ]
+  },
+  "entite_1054": {
+    "label": "PER",
+    "text": "Iejov",
+    "jalons": [
+      234899,
+      234904
+    ]
+  },
+  "entite_1055": {
+    "label": "LOC",
+    "text": "Demain",
+    "jalons": [
+      235204,
+      235210
+    ]
+  },
+  "entite_1056": {
+    "label": "PER",
+    "text": "Kouriline",
+    "jalons": [
+      235309,
+      235318
+    ]
+  },
+  "entite_1057": {
+    "label": "PER",
+    "text": "Galia",
+    "jalons": [
+      235961,
+      235966
+    ]
+  },
+  "entite_1058": {
+    "label": "PER",
+    "text": "Galia",
+    "jalons": [
+      236208,
+      236213
+    ]
+  },
+  "entite_1059": {
+    "label": "PER",
+    "text": "Nikita Kouriline",
+    "jalons": [
+      236724,
+      236740
+    ]
+  },
+  "entite_1060": {
+    "label": "LOC",
+    "text": "terre de Boutovo",
+    "jalons": [
+      236861,
+      236877
+    ]
+  },
+  "entite_1061": {
+    "label": "PER",
+    "text": "Soloviev",
+    "jalons": [
+      236967,
+      236975
+    ]
+  },
+  "entite_1062": {
+    "label": "LOC",
+    "text": "Pimenov",
+    "jalons": [
+      237074,
+      237081
+    ]
+  },
+  "entite_1063": {
+    "label": "PER",
+    "text": "Skamper",
+    "jalons": [
+      237172,
+      237179
+    ]
+  },
+  "entite_1064": {
+    "label": "LOC",
+    "text": "Autriche",
+    "jalons": [
+      237243,
+      237251
+    ]
+  },
+  "entite_1065": {
+    "label": "LOC",
+    "text": "Streltsov",
+    "jalons": [
+      237253,
+      237262
+    ]
+  },
+  "entite_1066": {
+    "label": "LOC",
+    "text": "Stoukoline",
+    "jalons": [
+      237379,
+      237389
+    ]
+  },
+  "entite_1067": {
+    "label": "LOC",
+    "text": "Oulchine",
+    "jalons": [
+      237494,
+      237502
+    ]
+  },
+  "entite_1068": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      237640,
+      237649
+    ]
+  },
+  "entite_1069": {
+    "label": "LOC",
+    "text": "Kouriline",
+    "jalons": [
+      237705,
+      237714
+    ]
+  },
+  "entite_1070": {
+    "label": "ORG",
+    "text": "URSS",
+    "jalons": [
+      239371,
+      239375
+    ]
+  }
+}

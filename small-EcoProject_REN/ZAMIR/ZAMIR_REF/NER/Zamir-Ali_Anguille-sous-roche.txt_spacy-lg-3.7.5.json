@@ -1,0 +1,10154 @@
+{
+  "entite_0": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "PER",
+    "text": "Ali Zamir",
+    "jalons": [
+      10,
+      19
+    ]
+  },
+  "entite_2": {
+    "label": "MISC",
+    "text": "METADATA>Anguille",
+    "jalons": [
+      21,
+      38
+    ]
+  },
+  "entite_3": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      51,
+      59
+    ]
+  },
+  "entite_4": {
+    "label": "PER",
+    "text": "Ali Zamir\nANGUILLE SOUS ROCHE\n\n",
+    "jalons": [
+      61,
+      92
+    ]
+  },
+  "entite_5": {
+    "label": "MISC",
+    "text": "VORACE",
+    "jalons": [
+      118,
+      124
+    ]
+  },
+  "entite_6": {
+    "label": "ORG",
+    "text": "CROTALE VIENT\nUN",
+    "jalons": [
+      144,
+      160
+    ]
+  },
+  "entite_7": {
+    "label": "MISC",
+    "text": "IMPLACABLE",
+    "jalons": [
+      171,
+      181
+    ]
+  },
+  "entite_8": {
+    "label": "MISC",
+    "text": "TRANQUILLE",
+    "jalons": [
+      182,
+      192
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "FRACAS",
+    "jalons": [
+      222,
+      228
+    ]
+  },
+  "entite_10": {
+    "label": "ORG",
+    "text": "SUIVE",
+    "jalons": [
+      243,
+      248
+    ]
+  },
+  "entite_11": {
+    "label": "MISC",
+    "text": "Grand Trip’",
+    "jalons": [
+      466,
+      477
+    ]
+  },
+  "entite_12": {
+    "label": "ORG",
+    "text": "www",
+    "jalons": [
+      479,
+      482
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "legrandtrip",
+    "jalons": [
+      484,
+      495
+    ]
+  },
+  "entite_14": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      512,
+      524
+    ]
+  },
+  "entite_15": {
+    "label": "MISC",
+    "text": "Oh, la terre",
+    "jalons": [
+      555,
+      567
+    ]
+  },
+  "entite_16": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      910,
+      922
+    ]
+  },
+  "entite_17": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      1001,
+      1009
+    ]
+  },
+  "entite_18": {
+    "label": "PER",
+    "text": "abonnit",
+    "jalons": [
+      1086,
+      1093
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Connaît-Tout ",
+    "jalons": [
+      1221,
+      1234
+    ]
+  },
+  "entite_20": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      4129,
+      4138
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Achille",
+    "jalons": [
+      4286,
+      4293
+    ]
+  },
+  "entite_22": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      5068,
+      5072
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      5116,
+      5123
+    ]
+  },
+  "entite_24": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      5155,
+      5164
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      5842,
+      5851
+    ]
+  },
+  "entite_26": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      5855,
+      5862
+    ]
+  },
+  "entite_27": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      6138,
+      6142
+    ]
+  },
+  "entite_28": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      6835,
+      6843
+    ]
+  },
+  "entite_29": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      7421,
+      7433
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Mussa Mudu",
+    "jalons": [
+      7680,
+      7690
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Mussa Mudu",
+    "jalons": [
+      7716,
+      7726
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      8431,
+      8439
+    ]
+  },
+  "entite_33": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      8459,
+      8466
+    ]
+  },
+  "entite_34": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      8615,
+      8622
+    ]
+  },
+  "entite_35": {
+    "label": "MISC",
+    "text": "V",
+    "jalons": [
+      8668,
+      8669
+    ]
+  },
+  "entite_36": {
+    "label": "MISC",
+    "text": "coup de",
+    "jalons": [
+      10288,
+      10295
+    ]
+  },
+  "entite_37": {
+    "label": "PER",
+    "text": "Connaît-Tout vienne",
+    "jalons": [
+      12014,
+      12033
+    ]
+  },
+  "entite_38": {
+    "label": "MISC",
+    "text": "Connaît-Tout en train de rire aussi lorsque son camarade",
+    "jalons": [
+      12500,
+      12556
+    ]
+  },
+  "entite_39": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      12970,
+      12982
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      13556,
+      13568
+    ]
+  },
+  "entite_41": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      15780,
+      15788
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "nigaude",
+    "jalons": [
+      15892,
+      15899
+    ]
+  },
+  "entite_43": {
+    "label": "MISC",
+    "text": "prix Nobel",
+    "jalons": [
+      16302,
+      16312
+    ]
+  },
+  "entite_44": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      16709,
+      16721
+    ]
+  },
+  "entite_45": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      16865,
+      16872
+    ]
+  },
+  "entite_46": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      16965,
+      16972
+    ]
+  },
+  "entite_47": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      17525,
+      17537
+    ]
+  },
+  "entite_48": {
+    "label": "PER",
+    "text": "Jupiter",
+    "jalons": [
+      17812,
+      17819
+    ]
+  },
+  "entite_49": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      19294,
+      19306
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "mtsongolo",
+    "jalons": [
+      19373,
+      19382
+    ]
+  },
+  "entite_51": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      19498,
+      19510
+    ]
+  },
+  "entite_52": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      19710,
+      19717
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Crotale en me prenant pour témoin",
+    "jalons": [
+      19844,
+      19877
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      20017,
+      20024
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      20605,
+      20612
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      21430,
+      21442
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      21464,
+      21471
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      21523,
+      21530
+    ]
+  },
+  "entite_59": {
+    "label": "MISC",
+    "text": "Crotale pour te sauver la vie",
+    "jalons": [
+      21564,
+      21593
+    ]
+  },
+  "entite_60": {
+    "label": "MISC",
+    "text": "Crotale tu",
+    "jalons": [
+      21848,
+      21858
+    ]
+  },
+  "entite_61": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      22390,
+      22398
+    ]
+  },
+  "entite_62": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      22914,
+      22921
+    ]
+  },
+  "entite_63": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      22989,
+      23001
+    ]
+  },
+  "entite_64": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      23145,
+      23152
+    ]
+  },
+  "entite_65": {
+    "label": "LOC",
+    "text": "océan Indien",
+    "jalons": [
+      23677,
+      23689
+    ]
+  },
+  "entite_66": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      23738,
+      23745
+    ]
+  },
+  "entite_67": {
+    "label": "MISC",
+    "text": "Connaît-Tout notre moraliste",
+    "jalons": [
+      24082,
+      24110
+    ]
+  },
+  "entite_68": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      24181,
+      24188
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      24408,
+      24420
+    ]
+  },
+  "entite_70": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      24455,
+      24462
+    ]
+  },
+  "entite_71": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      25155,
+      25162
+    ]
+  },
+  "entite_72": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      25242,
+      25254
+    ]
+  },
+  "entite_73": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      25329,
+      25337
+    ]
+  },
+  "entite_74": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      25634,
+      25642
+    ]
+  },
+  "entite_75": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      25819,
+      25831
+    ]
+  },
+  "entite_76": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      25879,
+      25886
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      26066,
+      26073
+    ]
+  },
+  "entite_78": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      26552,
+      26559
+    ]
+  },
+  "entite_79": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      26680,
+      26687
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      27264,
+      27271
+    ]
+  },
+  "entite_81": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      27493,
+      27500
+    ]
+  },
+  "entite_82": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      27574,
+      27586
+    ]
+  },
+  "entite_83": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      27797,
+      27804
+    ]
+  },
+  "entite_84": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      28093,
+      28100
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      28228,
+      28235
+    ]
+  },
+  "entite_86": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      28548,
+      28560
+    ]
+  },
+  "entite_87": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      28572,
+      28579
+    ]
+  },
+  "entite_88": {
+    "label": "MISC",
+    "text": "Connaît-Tout le disait tout le temps",
+    "jalons": [
+      28669,
+      28705
+    ]
+  },
+  "entite_89": {
+    "label": "MISC",
+    "text": "Homme",
+    "jalons": [
+      29740,
+      29745
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      29791,
+      29800
+    ]
+  },
+  "entite_91": {
+    "label": "PER",
+    "text": "Nelson Mandela",
+    "jalons": [
+      29839,
+      29853
+    ]
+  },
+  "entite_92": {
+    "label": "PER",
+    "text": "Connaît-Tout mémorisait",
+    "jalons": [
+      30290,
+      30313
+    ]
+  },
+  "entite_93": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      30721,
+      30728
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      30752,
+      30764
+    ]
+  },
+  "entite_95": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      31425,
+      31437
+    ]
+  },
+  "entite_96": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      31475,
+      31484
+    ]
+  },
+  "entite_97": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      31499,
+      31506
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      31774,
+      31779
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "Satan",
+    "jalons": [
+      32185,
+      32190
+    ]
+  },
+  "entite_100": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      32329,
+      32341
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      32862,
+      32870
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      32956,
+      32965
+    ]
+  },
+  "entite_103": {
+    "label": "MISC",
+    "text": "Pharmacie Patrick",
+    "jalons": [
+      32967,
+      32984
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      33252,
+      33264
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      33518,
+      33526
+    ]
+  },
+  "entite_106": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      33628,
+      33633
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      34059,
+      34071
+    ]
+  },
+  "entite_108": {
+    "label": "LOC",
+    "text": "Petit Robert",
+    "jalons": [
+      34373,
+      34385
+    ]
+  },
+  "entite_109": {
+    "label": "MISC",
+    "text": "Connaît-Tout avait trébuché sur la moitié d’une revue",
+    "jalons": [
+      34688,
+      34741
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      34771,
+      34778
+    ]
+  },
+  "entite_111": {
+    "label": "LOC",
+    "text": "scorpion",
+    "jalons": [
+      35055,
+      35063
+    ]
+  },
+  "entite_112": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      35562,
+      35574
+    ]
+  },
+  "entite_113": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      36003,
+      36011
+    ]
+  },
+  "entite_114": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      36386,
+      36391
+    ]
+  },
+  "entite_115": {
+    "label": "LOC",
+    "text": "Panthéon parisien",
+    "jalons": [
+      36456,
+      36473
+    ]
+  },
+  "entite_116": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      36984,
+      36996
+    ]
+  },
+  "entite_117": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      37124,
+      37136
+    ]
+  },
+  "entite_118": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      37191,
+      37198
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      37300,
+      37308
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      37627,
+      37635
+    ]
+  },
+  "entite_121": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      37755,
+      37767
+    ]
+  },
+  "entite_122": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      38973,
+      38982
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      39162,
+      39170
+    ]
+  },
+  "entite_124": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      39207,
+      39219
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Bacari",
+    "jalons": [
+      40114,
+      40120
+    ]
+  },
+  "entite_126": {
+    "label": "ORG",
+    "text": "soviétiques",
+    "jalons": [
+      40179,
+      40190
+    ]
+  },
+  "entite_127": {
+    "label": "MISC",
+    "text": "Laïka",
+    "jalons": [
+      40307,
+      40312
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      40419,
+      40431
+    ]
+  },
+  "entite_129": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      42857,
+      42865
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Tranquille",
+    "jalons": [
+      43445,
+      43455
+    ]
+  },
+  "entite_131": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      45090,
+      45100
+    ]
+  },
+  "entite_132": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      45370,
+      45380
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      46019,
+      46029
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "Mjihariens",
+    "jalons": [
+      47247,
+      47257
+    ]
+  },
+  "entite_135": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      47425,
+      47432
+    ]
+  },
+  "entite_136": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      47471,
+      47480
+    ]
+  },
+  "entite_137": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      47532,
+      47544
+    ]
+  },
+  "entite_138": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      47588,
+      47600
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      48014,
+      48026
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Tranquille",
+    "jalons": [
+      48218,
+      48228
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      48292,
+      48304
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      48368,
+      48373
+    ]
+  },
+  "entite_143": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      48592,
+      48602
+    ]
+  },
+  "entite_144": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      48737,
+      48744
+    ]
+  },
+  "entite_145": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      48931,
+      48943
+    ]
+  },
+  "entite_146": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      49020,
+      49027
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      49544,
+      49556
+    ]
+  },
+  "entite_148": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      49841,
+      49845
+    ]
+  },
+  "entite_149": {
+    "label": "MISC",
+    "text": "Oreille et Mouche",
+    "jalons": [
+      49847,
+      49864
+    ]
+  },
+  "entite_150": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      49988,
+      49996
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "A",
+    "jalons": [
+      50011,
+      50012
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Mpouzini",
+    "jalons": [
+      50587,
+      50595
+    ]
+  },
+  "entite_153": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      50799,
+      50803
+    ]
+  },
+  "entite_154": {
+    "label": "MISC",
+    "text": "Oreille et Mouche",
+    "jalons": [
+      50805,
+      50822
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      50967,
+      50971
+    ]
+  },
+  "entite_156": {
+    "label": "PER",
+    "text": "Oreille",
+    "jalons": [
+      50983,
+      50990
+    ]
+  },
+  "entite_157": {
+    "label": "MISC",
+    "text": "pique-nique Main était venue pleurer lamentablement",
+    "jalons": [
+      51136,
+      51187
+    ]
+  },
+  "entite_158": {
+    "label": "PER",
+    "text": "Oreille",
+    "jalons": [
+      51212,
+      51219
+    ]
+  },
+  "entite_159": {
+    "label": "MISC",
+    "text": "Oreille",
+    "jalons": [
+      51303,
+      51310
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Mouche",
+    "jalons": [
+      51440,
+      51446
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "Oreille",
+    "jalons": [
+      51509,
+      51516
+    ]
+  },
+  "entite_162": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      51518,
+      51524
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      51771,
+      51777
+    ]
+  },
+  "entite_164": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      52044,
+      52048
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      52302,
+      52306
+    ]
+  },
+  "entite_166": {
+    "label": "MISC",
+    "text": "Oreille pour l’informer",
+    "jalons": [
+      52435,
+      52458
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      52465,
+      52469
+    ]
+  },
+  "entite_168": {
+    "label": "MISC",
+    "text": "Oreille les voyait",
+    "jalons": [
+      52715,
+      52733
+    ]
+  },
+  "entite_169": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      52749,
+      52755
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      52774,
+      52778
+    ]
+  },
+  "entite_171": {
+    "label": "MISC",
+    "text": "Oreille",
+    "jalons": [
+      52849,
+      52856
+    ]
+  },
+  "entite_172": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      52960,
+      52966
+    ]
+  },
+  "entite_173": {
+    "label": "PER",
+    "text": "Oreille",
+    "jalons": [
+      53102,
+      53109
+    ]
+  },
+  "entite_174": {
+    "label": "MISC",
+    "text": "Mouche",
+    "jalons": [
+      53117,
+      53123
+    ]
+  },
+  "entite_175": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      53189,
+      53193
+    ]
+  },
+  "entite_176": {
+    "label": "MISC",
+    "text": "Oreille",
+    "jalons": [
+      53279,
+      53286
+    ]
+  },
+  "entite_177": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      53488,
+      53494
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      53525,
+      53529
+    ]
+  },
+  "entite_179": {
+    "label": "PER",
+    "text": "Oreille",
+    "jalons": [
+      53541,
+      53548
+    ]
+  },
+  "entite_180": {
+    "label": "LOC",
+    "text": "Mouche",
+    "jalons": [
+      53604,
+      53610
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      53715,
+      53719
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      54088,
+      54092
+    ]
+  },
+  "entite_183": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      54311,
+      54323
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "Connaît-Tout naïvement",
+    "jalons": [
+      54921,
+      54943
+    ]
+  },
+  "entite_185": {
+    "label": "PER",
+    "text": "Mouche",
+    "jalons": [
+      54983,
+      54989
+    ]
+  },
+  "entite_186": {
+    "label": "LOC",
+    "text": "Oreille",
+    "jalons": [
+      55012,
+      55019
+    ]
+  },
+  "entite_187": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      55094,
+      55106
+    ]
+  },
+  "entite_188": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      55676,
+      55688
+    ]
+  },
+  "entite_189": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      56602,
+      56614
+    ]
+  },
+  "entite_190": {
+    "label": "MISC",
+    "text": "Connaît-Tout nous laissait dormir",
+    "jalons": [
+      56940,
+      56973
+    ]
+  },
+  "entite_191": {
+    "label": "LOC",
+    "text": "galéjades",
+    "jalons": [
+      57167,
+      57176
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Morphée",
+    "jalons": [
+      57575,
+      57582
+    ]
+  },
+  "entite_193": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      58569,
+      58577
+    ]
+  },
+  "entite_194": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      59223,
+      59230
+    ]
+  },
+  "entite_195": {
+    "label": "MISC",
+    "text": "Anguille tu perds du temps",
+    "jalons": [
+      59594,
+      59620
+    ]
+  },
+  "entite_196": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      61117,
+      61129
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Connaît-Tout venait m’amadouer par des poupées en bois",
+    "jalons": [
+      61527,
+      61581
+    ]
+  },
+  "entite_198": {
+    "label": "LOC",
+    "text": "Morphée",
+    "jalons": [
+      62308,
+      62315
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      62725,
+      62735
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      62812,
+      62824
+    ]
+  },
+  "entite_201": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      62983,
+      62988
+    ]
+  },
+  "entite_202": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      63651,
+      63661
+    ]
+  },
+  "entite_203": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      63922,
+      63934
+    ]
+  },
+  "entite_204": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      64037,
+      64044
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "avalerai",
+    "jalons": [
+      64241,
+      64249
+    ]
+  },
+  "entite_206": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      64300,
+      64310
+    ]
+  },
+  "entite_207": {
+    "label": "MISC",
+    "text": "Tranquille sans savoir que je ne comprenais pas ce qu’elle disait",
+    "jalons": [
+      65032,
+      65097
+    ]
+  },
+  "entite_208": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      65171,
+      65181
+    ]
+  },
+  "entite_209": {
+    "label": "MISC",
+    "text": "Tranquille « ne t’inquiète pas tante",
+    "jalons": [
+      65768,
+      65804
+    ]
+  },
+  "entite_210": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      65805,
+      65815
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "avalerai",
+    "jalons": [
+      66125,
+      66133
+    ]
+  },
+  "entite_212": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      66180,
+      66190
+    ]
+  },
+  "entite_213": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      66585,
+      66595
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "vanilliers",
+    "jalons": [
+      66855,
+      66865
+    ]
+  },
+  "entite_215": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      67075,
+      67085
+    ]
+  },
+  "entite_216": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      67195,
+      67205
+    ]
+  },
+  "entite_217": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      68678,
+      68688
+    ]
+  },
+  "entite_218": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      68739,
+      68744
+    ]
+  },
+  "entite_219": {
+    "label": "LOC",
+    "text": "île d’Anjouan",
+    "jalons": [
+      69084,
+      69097
+    ]
+  },
+  "entite_220": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      69239,
+      69249
+    ]
+  },
+  "entite_221": {
+    "label": "MISC",
+    "text": "Gros-Jean",
+    "jalons": [
+      69588,
+      69597
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "patachon",
+    "jalons": [
+      70652,
+      70660
+    ]
+  },
+  "entite_223": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      71251,
+      71263
+    ]
+  },
+  "entite_224": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      71335,
+      71342
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Tranquille",
+    "jalons": [
+      71399,
+      71409
+    ]
+  },
+  "entite_226": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      71565,
+      71575
+    ]
+  },
+  "entite_227": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      71850,
+      71860
+    ]
+  },
+  "entite_228": {
+    "label": "LOC",
+    "text": "potron-minet",
+    "jalons": [
+      71913,
+      71925
+    ]
+  },
+  "entite_229": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      72049,
+      72059
+    ]
+  },
+  "entite_230": {
+    "label": "PER",
+    "text": "Blanc",
+    "jalons": [
+      72826,
+      72831
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "l’Europe",
+    "jalons": [
+      72963,
+      72971
+    ]
+  },
+  "entite_232": {
+    "label": "MISC",
+    "text": "Blancs",
+    "jalons": [
+      73034,
+      73040
+    ]
+  },
+  "entite_233": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      73128,
+      73136
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "île de Anjouan",
+    "jalons": [
+      73200,
+      73214
+    ]
+  },
+  "entite_235": {
+    "label": "MISC",
+    "text": "Ouani",
+    "jalons": [
+      73276,
+      73281
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      73322,
+      73331
+    ]
+  },
+  "entite_237": {
+    "label": "LOC",
+    "text": "Européen",
+    "jalons": [
+      73337,
+      73345
+    ]
+  },
+  "entite_238": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      73423,
+      73431
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "Blanc",
+    "jalons": [
+      73803,
+      73808
+    ]
+  },
+  "entite_240": {
+    "label": "LOC",
+    "text": "Blanc",
+    "jalons": [
+      74068,
+      74073
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      74276,
+      74282
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "Voyez",
+    "jalons": [
+      74618,
+      74623
+    ]
+  },
+  "entite_243": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      74712,
+      74719
+    ]
+  },
+  "entite_244": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      74833,
+      74843
+    ]
+  },
+  "entite_245": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      75315,
+      75325
+    ]
+  },
+  "entite_246": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      75873,
+      75883
+    ]
+  },
+  "entite_247": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      75933,
+      75941
+    ]
+  },
+  "entite_248": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      76259,
+      76269
+    ]
+  },
+  "entite_249": {
+    "label": "MISC",
+    "text": "Tranquille mes parents",
+    "jalons": [
+      76772,
+      76794
+    ]
+  },
+  "entite_250": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      76835,
+      76845
+    ]
+  },
+  "entite_251": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      77363,
+      77370
+    ]
+  },
+  "entite_252": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      77418,
+      77428
+    ]
+  },
+  "entite_253": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      77557,
+      77567
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      79045,
+      79057
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      79182,
+      79191
+    ]
+  },
+  "entite_256": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      79604,
+      79612
+    ]
+  },
+  "entite_257": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      79616,
+      79623
+    ]
+  },
+  "entite_258": {
+    "label": "MISC",
+    "text": "Cendrillon",
+    "jalons": [
+      80124,
+      80134
+    ]
+  },
+  "entite_259": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      80136,
+      80148
+    ]
+  },
+  "entite_260": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      80198,
+      80205
+    ]
+  },
+  "entite_261": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      80384,
+      80392
+    ]
+  },
+  "entite_262": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      80770,
+      80778
+    ]
+  },
+  "entite_263": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      80953,
+      80965
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "Mutsamudu",
+    "jalons": [
+      82948,
+      82957
+    ]
+  },
+  "entite_265": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      82961,
+      82968
+    ]
+  },
+  "entite_266": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      83061,
+      83070
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Mussa Mudu",
+    "jalons": [
+      83145,
+      83155
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Mussa Noir",
+    "jalons": [
+      83183,
+      83193
+    ]
+  },
+  "entite_269": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      83788,
+      83795
+    ]
+  },
+  "entite_270": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      83809,
+      83818
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Mussa Mudu",
+    "jalons": [
+      83863,
+      83873
+    ]
+  },
+  "entite_272": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      83914,
+      83921
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "notre cher",
+    "jalons": [
+      84931,
+      84941
+    ]
+  },
+  "entite_274": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      86647,
+      86659
+    ]
+  },
+  "entite_275": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      86661,
+      86668
+    ]
+  },
+  "entite_276": {
+    "label": "MISC",
+    "text": "Jocrisse",
+    "jalons": [
+      87074,
+      87082
+    ]
+  },
+  "entite_277": {
+    "label": "MISC",
+    "text": "Connaît-Tout guetter",
+    "jalons": [
+      87557,
+      87577
+    ]
+  },
+  "entite_278": {
+    "label": "MISC",
+    "text": "Dieu merci",
+    "jalons": [
+      87683,
+      87693
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      88319,
+      88331
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Achille",
+    "jalons": [
+      88598,
+      88605
+    ]
+  },
+  "entite_281": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      89307,
+      89313
+    ]
+  },
+  "entite_282": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      89334,
+      89340
+    ]
+  },
+  "entite_283": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      90619,
+      90628
+    ]
+  },
+  "entite_284": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      90799,
+      90808
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      90941,
+      90950
+    ]
+  },
+  "entite_286": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      91402,
+      91411
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      91514,
+      91526
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Abdallah",
+    "jalons": [
+      91542,
+      91550
+    ]
+  },
+  "entite_289": {
+    "label": "MISC",
+    "text": "Almaceli",
+    "jalons": [
+      91555,
+      91563
+    ]
+  },
+  "entite_290": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      91690,
+      91696
+    ]
+  },
+  "entite_291": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      91699,
+      91708
+    ]
+  },
+  "entite_292": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      92074,
+      92083
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      92781,
+      92789
+    ]
+  },
+  "entite_294": {
+    "label": "LOC",
+    "text": "Indiens",
+    "jalons": [
+      95428,
+      95435
+    ]
+  },
+  "entite_295": {
+    "label": "LOC",
+    "text": "Indiens",
+    "jalons": [
+      95441,
+      95448
+    ]
+  },
+  "entite_296": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      95482,
+      95491
+    ]
+  },
+  "entite_297": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      95666,
+      95672
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Adonis",
+    "jalons": [
+      95693,
+      95699
+    ]
+  },
+  "entite_299": {
+    "label": "MISC",
+    "text": "mordrais",
+    "jalons": [
+      95852,
+      95860
+    ]
+  },
+  "entite_300": {
+    "label": "LOC",
+    "text": "Turc",
+    "jalons": [
+      96603,
+      96607
+    ]
+  },
+  "entite_301": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      97090,
+      97096
+    ]
+  },
+  "entite_302": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      97249,
+      97261
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      97375,
+      97381
+    ]
+  },
+  "entite_304": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      97690,
+      97695
+    ]
+  },
+  "entite_305": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      97806,
+      97812
+    ]
+  },
+  "entite_306": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      97841,
+      97847
+    ]
+  },
+  "entite_307": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      98112,
+      98118
+    ]
+  },
+  "entite_308": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      98789,
+      98795
+    ]
+  },
+  "entite_309": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      99061,
+      99069
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      99089,
+      99095
+    ]
+  },
+  "entite_311": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      99356,
+      99363
+    ]
+  },
+  "entite_312": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      99415,
+      99422
+    ]
+  },
+  "entite_313": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      99491,
+      99498
+    ]
+  },
+  "entite_314": {
+    "label": "MISC",
+    "text": "Connaît-Tout était fatigué",
+    "jalons": [
+      99530,
+      99556
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Connaît-Tout débarque sur la grève",
+    "jalons": [
+      99662,
+      99696
+    ]
+  },
+  "entite_316": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      101608,
+      101615
+    ]
+  },
+  "entite_317": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      101637,
+      101644
+    ]
+  },
+  "entite_318": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      101729,
+      101735
+    ]
+  },
+  "entite_319": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      101772,
+      101779
+    ]
+  },
+  "entite_320": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      101890,
+      101896
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      101953,
+      101961
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      102261,
+      102268
+    ]
+  },
+  "entite_323": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      102296,
+      102302
+    ]
+  },
+  "entite_324": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      102725,
+      102737
+    ]
+  },
+  "entite_325": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      102762,
+      102768
+    ]
+  },
+  "entite_326": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      102784,
+      102790
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      102955,
+      102961
+    ]
+  },
+  "entite_328": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      103323,
+      103335
+    ]
+  },
+  "entite_329": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      103337,
+      103343
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      104875,
+      104887
+    ]
+  },
+  "entite_331": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      104891,
+      104897
+    ]
+  },
+  "entite_332": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      105122,
+      105128
+    ]
+  },
+  "entite_333": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      105437,
+      105443
+    ]
+  },
+  "entite_334": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      105577,
+      105583
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      105742,
+      105748
+    ]
+  },
+  "entite_336": {
+    "label": "MISC",
+    "text": "Connaît-Tout d’un regard",
+    "jalons": [
+      105782,
+      105806
+    ]
+  },
+  "entite_337": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      105817,
+      105829
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "fiston",
+    "jalons": [
+      106065,
+      106071
+    ]
+  },
+  "entite_339": {
+    "label": "LOC",
+    "text": "Pérou",
+    "jalons": [
+      106599,
+      106604
+    ]
+  },
+  "entite_340": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      107106,
+      107112
+    ]
+  },
+  "entite_341": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      107188,
+      107200
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      107506,
+      107518
+    ]
+  },
+  "entite_343": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      107520,
+      107526
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      107973,
+      107979
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      108062,
+      108068
+    ]
+  },
+  "entite_346": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      108109,
+      108115
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      109777,
+      109783
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      110849,
+      110855
+    ]
+  },
+  "entite_349": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      111013,
+      111020
+    ]
+  },
+  "entite_350": {
+    "label": "LOC",
+    "text": "Chitsangani",
+    "jalons": [
+      111086,
+      111097
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Habomo",
+    "jalons": [
+      111100,
+      111106
+    ]
+  },
+  "entite_352": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      111108,
+      111115
+    ]
+  },
+  "entite_353": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      111719,
+      111731
+    ]
+  },
+  "entite_354": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      111752,
+      111758
+    ]
+  },
+  "entite_355": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      111930,
+      111936
+    ]
+  },
+  "entite_356": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      111940,
+      111946
+    ]
+  },
+  "entite_357": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      112244,
+      112250
+    ]
+  },
+  "entite_358": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      112273,
+      112279
+    ]
+  },
+  "entite_359": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      112740,
+      112747
+    ]
+  },
+  "entite_360": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      112768,
+      112775
+    ]
+  },
+  "entite_361": {
+    "label": "PER",
+    "text": "baguenauder",
+    "jalons": [
+      112995,
+      113006
+    ]
+  },
+  "entite_362": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      113027,
+      113034
+    ]
+  },
+  "entite_363": {
+    "label": "LOC",
+    "text": "place Mroni",
+    "jalons": [
+      113125,
+      113136
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Connaît-Tout la grondait les poings",
+    "jalons": [
+      113195,
+      113230
+    ]
+  },
+  "entite_365": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      113368,
+      113380
+    ]
+  },
+  "entite_366": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      113514,
+      113521
+    ]
+  },
+  "entite_367": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      113583,
+      113592
+    ]
+  },
+  "entite_368": {
+    "label": "MISC",
+    "text": "notre Nawal",
+    "jalons": [
+      113786,
+      113797
+    ]
+  },
+  "entite_369": {
+    "label": "PER",
+    "text": "Rokia Traoré",
+    "jalons": [
+      113801,
+      113813
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Céline Dion",
+    "jalons": [
+      113820,
+      113831
+    ]
+  },
+  "entite_371": {
+    "label": "MISC",
+    "text": "Connaît-Tout parler",
+    "jalons": [
+      113850,
+      113869
+    ]
+  },
+  "entite_372": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      113910,
+      113917
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Céline Dion",
+    "jalons": [
+      113936,
+      113947
+    ]
+  },
+  "entite_374": {
+    "label": "MISC",
+    "text": "bof",
+    "jalons": [
+      114200,
+      114203
+    ]
+  },
+  "entite_375": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      114336,
+      114342
+    ]
+  },
+  "entite_376": {
+    "label": "MISC",
+    "text": "Dési",
+    "jalons": [
+      115050,
+      115054
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Désa",
+    "jalons": [
+      115056,
+      115060
+    ]
+  },
+  "entite_378": {
+    "label": "ORG",
+    "text": "Désir",
+    "jalons": [
+      115115,
+      115120
+    ]
+  },
+  "entite_379": {
+    "label": "MISC",
+    "text": "Dé-si-rée",
+    "jalons": [
+      115139,
+      115148
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      115171,
+      115178
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      115347,
+      115354
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Chanel",
+    "jalons": [
+      115997,
+      116003
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Chanel",
+    "jalons": [
+      116100,
+      116106
+    ]
+  },
+  "entite_384": {
+    "label": "PER",
+    "text": "Dior",
+    "jalons": [
+      116421,
+      116425
+    ]
+  },
+  "entite_385": {
+    "label": "ORG",
+    "text": "L’Oréal",
+    "jalons": [
+      116427,
+      116434
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Yves Rocher",
+    "jalons": [
+      116436,
+      116447
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "Roc",
+    "jalons": [
+      116449,
+      116452
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Yves Saint-Laurent",
+    "jalons": [
+      116454,
+      116472
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Christian Dior",
+    "jalons": [
+      116635,
+      116649
+    ]
+  },
+  "entite_390": {
+    "label": "PER",
+    "text": "Christian Dior",
+    "jalons": [
+      116675,
+      116689
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Adonis",
+    "jalons": [
+      116720,
+      116726
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Apollon",
+    "jalons": [
+      116735,
+      116742
+    ]
+  },
+  "entite_393": {
+    "label": "LOC",
+    "text": "richards",
+    "jalons": [
+      116848,
+      116856
+    ]
+  },
+  "entite_394": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      117073,
+      117080
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Yves Saint Laurent",
+    "jalons": [
+      117142,
+      117160
+    ]
+  },
+  "entite_396": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      118532,
+      118539
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      118754,
+      118760
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      119091,
+      119097
+    ]
+  },
+  "entite_399": {
+    "label": "ORG",
+    "text": "Immortels",
+    "jalons": [
+      120021,
+      120030
+    ]
+  },
+  "entite_400": {
+    "label": "ORG",
+    "text": "Immortels",
+    "jalons": [
+      120091,
+      120100
+    ]
+  },
+  "entite_401": {
+    "label": "MISC",
+    "text": "quai Conti",
+    "jalons": [
+      120180,
+      120190
+    ]
+  },
+  "entite_402": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      120876,
+      120884
+    ]
+  },
+  "entite_403": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      121533,
+      121540
+    ]
+  },
+  "entite_404": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      121544,
+      121553
+    ]
+  },
+  "entite_405": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      121650,
+      121656
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Eisa",
+    "jalons": [
+      122071,
+      122075
+    ]
+  },
+  "entite_407": {
+    "label": "PER",
+    "text": "Job",
+    "jalons": [
+      122245,
+      122248
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      122458,
+      122464
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      122712,
+      122718
+    ]
+  },
+  "entite_410": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      122744,
+      122756
+    ]
+  },
+  "entite_411": {
+    "label": "PER",
+    "text": "hue",
+    "jalons": [
+      123355,
+      123358
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      123369,
+      123381
+    ]
+  },
+  "entite_413": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      125177,
+      125189
+    ]
+  },
+  "entite_414": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      125624,
+      125636
+    ]
+  },
+  "entite_415": {
+    "label": "LOC",
+    "text": "Suisse",
+    "jalons": [
+      125749,
+      125755
+    ]
+  },
+  "entite_416": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      126057,
+      126063
+    ]
+  },
+  "entite_417": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      126625,
+      126633
+    ]
+  },
+  "entite_418": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      126717,
+      126724
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      126776,
+      126783
+    ]
+  },
+  "entite_420": {
+    "label": "LOC",
+    "text": "Hamoumbou",
+    "jalons": [
+      126785,
+      126794
+    ]
+  },
+  "entite_421": {
+    "label": "LOC",
+    "text": "Hampanga",
+    "jalons": [
+      126798,
+      126806
+    ]
+  },
+  "entite_422": {
+    "label": "MISC",
+    "text": "Mjihari",
+    "jalons": [
+      127232,
+      127239
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "Mussa Mudu",
+    "jalons": [
+      127405,
+      127415
+    ]
+  },
+  "entite_424": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      127512,
+      127520
+    ]
+  },
+  "entite_425": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      128004,
+      128016
+    ]
+  },
+  "entite_426": {
+    "label": "MISC",
+    "text": "bof",
+    "jalons": [
+      129001,
+      129004
+    ]
+  },
+  "entite_427": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      129486,
+      129492
+    ]
+  },
+  "entite_428": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      130104,
+      130112
+    ]
+  },
+  "entite_429": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      130413,
+      130425
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "coi",
+    "jalons": [
+      130485,
+      130488
+    ]
+  },
+  "entite_431": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      130992,
+      131004
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      131105,
+      131113
+    ]
+  },
+  "entite_433": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      131743,
+      131755
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      131891,
+      131899
+    ]
+  },
+  "entite_435": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      132392,
+      132400
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      132579,
+      132591
+    ]
+  },
+  "entite_437": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      134032,
+      134044
+    ]
+  },
+  "entite_438": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      135296,
+      135302
+    ]
+  },
+  "entite_439": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      135617,
+      135623
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      136728,
+      136734
+    ]
+  },
+  "entite_441": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      137749,
+      137755
+    ]
+  },
+  "entite_442": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      138271,
+      138283
+    ]
+  },
+  "entite_443": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      139378,
+      139390
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      139491,
+      139497
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      140066,
+      140072
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      140852,
+      140858
+    ]
+  },
+  "entite_447": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      141324,
+      141332
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Hercule",
+    "jalons": [
+      141559,
+      141566
+    ]
+  },
+  "entite_449": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      141611,
+      141615
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      142864,
+      142870
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      143411,
+      143417
+    ]
+  },
+  "entite_452": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      143780,
+      143786
+    ]
+  },
+  "entite_453": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      145267,
+      145273
+    ]
+  },
+  "entite_454": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      145500,
+      145504
+    ]
+  },
+  "entite_455": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      145699,
+      145706
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      145900,
+      145907
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      146191,
+      146197
+    ]
+  },
+  "entite_458": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      146918,
+      146924
+    ]
+  },
+  "entite_459": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      147005,
+      147012
+    ]
+  },
+  "entite_460": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      147100,
+      147106
+    ]
+  },
+  "entite_461": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      147727,
+      147739
+    ]
+  },
+  "entite_462": {
+    "label": "MISC",
+    "text": "Mademoiselle la Sonnette",
+    "jalons": [
+      147774,
+      147798
+    ]
+  },
+  "entite_463": {
+    "label": "MISC",
+    "text": "Connaît-Tout nous ressassait souvent une formule",
+    "jalons": [
+      147832,
+      147880
+    ]
+  },
+  "entite_464": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      148078,
+      148084
+    ]
+  },
+  "entite_465": {
+    "label": "MISC",
+    "text": "Voilà et que nous verrons plus tard",
+    "jalons": [
+      148803,
+      148838
+    ]
+  },
+  "entite_466": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      148863,
+      148871
+    ]
+  },
+  "entite_467": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      148939,
+      148945
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      149360,
+      149366
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      149962,
+      149968
+    ]
+  },
+  "entite_470": {
+    "label": "PER",
+    "text": "Connaît-Tout ",
+    "jalons": [
+      151131,
+      151144
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      151313,
+      151319
+    ]
+  },
+  "entite_472": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      153150,
+      153156
+    ]
+  },
+  "entite_473": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      153608,
+      153614
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Connaît-Tout leur amitié",
+    "jalons": [
+      153669,
+      153693
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      153899,
+      153905
+    ]
+  },
+  "entite_476": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      154761,
+      154767
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      155773,
+      155782
+    ]
+  },
+  "entite_478": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      156078,
+      156087
+    ]
+  },
+  "entite_479": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      156304,
+      156310
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      158710,
+      158716
+    ]
+  },
+  "entite_481": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      159153,
+      159165
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      159344,
+      159350
+    ]
+  },
+  "entite_483": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      161512,
+      161518
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      163235,
+      163241
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      163859,
+      163865
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      164073,
+      164079
+    ]
+  },
+  "entite_487": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      164424,
+      164430
+    ]
+  },
+  "entite_488": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      164669,
+      164676
+    ]
+  },
+  "entite_489": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      165171,
+      165177
+    ]
+  },
+  "entite_490": {
+    "label": "MISC",
+    "text": "Crotale le voie",
+    "jalons": [
+      165228,
+      165243
+    ]
+  },
+  "entite_491": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      165503,
+      165510
+    ]
+  },
+  "entite_492": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      165858,
+      165864
+    ]
+  },
+  "entite_493": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      166178,
+      166184
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      166900,
+      166907
+    ]
+  },
+  "entite_495": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      167094,
+      167100
+    ]
+  },
+  "entite_496": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      167284,
+      167292
+    ]
+  },
+  "entite_497": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      167296,
+      167303
+    ]
+  },
+  "entite_498": {
+    "label": "MISC",
+    "text": "Crotale en train de se relaxer",
+    "jalons": [
+      167589,
+      167619
+    ]
+  },
+  "entite_499": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168073,
+      168079
+    ]
+  },
+  "entite_500": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168329,
+      168335
+    ]
+  },
+  "entite_501": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168434,
+      168440
+    ]
+  },
+  "entite_502": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168452,
+      168458
+    ]
+  },
+  "entite_503": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168473,
+      168479
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168497,
+      168503
+    ]
+  },
+  "entite_505": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      168513,
+      168519
+    ]
+  },
+  "entite_506": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      168974,
+      168981
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      169107,
+      169113
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      169201,
+      169207
+    ]
+  },
+  "entite_509": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      169673,
+      169685
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      169693,
+      169701
+    ]
+  },
+  "entite_511": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      171335,
+      171341
+    ]
+  },
+  "entite_512": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      171864,
+      171871
+    ]
+  },
+  "entite_513": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      172002,
+      172008
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      172944,
+      172956
+    ]
+  },
+  "entite_515": {
+    "label": "MISC",
+    "text": "Crotale pour lui dire que je partais",
+    "jalons": [
+      173074,
+      173110
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      173390,
+      173396
+    ]
+  },
+  "entite_517": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      173698,
+      173705
+    ]
+  },
+  "entite_518": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      173878,
+      173884
+    ]
+  },
+  "entite_519": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      174374,
+      174381
+    ]
+  },
+  "entite_520": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      174450,
+      174456
+    ]
+  },
+  "entite_521": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      174577,
+      174584
+    ]
+  },
+  "entite_522": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      175812,
+      175818
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Arcimboldo",
+    "jalons": [
+      176292,
+      176302
+    ]
+  },
+  "entite_524": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      176445,
+      176451
+    ]
+  },
+  "entite_525": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      177004,
+      177010
+    ]
+  },
+  "entite_526": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      178004,
+      178010
+    ]
+  },
+  "entite_527": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      178298,
+      178304
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      178488,
+      178494
+    ]
+  },
+  "entite_529": {
+    "label": "MISC",
+    "text": "Connaît-Tout une fois que l’occasion",
+    "jalons": [
+      178935,
+      178971
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      179019,
+      179027
+    ]
+  },
+  "entite_531": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      179291,
+      179300
+    ]
+  },
+  "entite_532": {
+    "label": "LOC",
+    "text": "place publique Mroni",
+    "jalons": [
+      179745,
+      179765
+    ]
+  },
+  "entite_533": {
+    "label": "LOC",
+    "text": "place Uvoimoja",
+    "jalons": [
+      179770,
+      179784
+    ]
+  },
+  "entite_534": {
+    "label": "LOC",
+    "text": "Jaf",
+    "jalons": [
+      179798,
+      179801
+    ]
+  },
+  "entite_535": {
+    "label": "LOC",
+    "text": "Foukoujou",
+    "jalons": [
+      179816,
+      179825
+    ]
+  },
+  "entite_536": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      179838,
+      179846
+    ]
+  },
+  "entite_537": {
+    "label": "ORG",
+    "text": "Mpangahari",
+    "jalons": [
+      179850,
+      179860
+    ]
+  },
+  "entite_538": {
+    "label": "LOC",
+    "text": "Minadzijou",
+    "jalons": [
+      179864,
+      179874
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      180989,
+      180995
+    ]
+  },
+  "entite_540": {
+    "label": "LOC",
+    "text": "Landerneau",
+    "jalons": [
+      181029,
+      181039
+    ]
+  },
+  "entite_541": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      181233,
+      181243
+    ]
+  },
+  "entite_542": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      181322,
+      181332
+    ]
+  },
+  "entite_543": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      181456,
+      181463
+    ]
+  },
+  "entite_544": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      181489,
+      181495
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      181956,
+      181968
+    ]
+  },
+  "entite_546": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      182044,
+      182051
+    ]
+  },
+  "entite_547": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      182179,
+      182185
+    ]
+  },
+  "entite_548": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      182249,
+      182255
+    ]
+  },
+  "entite_549": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      182933,
+      182945
+    ]
+  },
+  "entite_550": {
+    "label": "LOC",
+    "text": "chiromani",
+    "jalons": [
+      183211,
+      183220
+    ]
+  },
+  "entite_551": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      183267,
+      183276
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Mamadaly",
+    "jalons": [
+      183370,
+      183378
+    ]
+  },
+  "entite_553": {
+    "label": "MISC",
+    "text": "La Chance",
+    "jalons": [
+      183393,
+      183402
+    ]
+  },
+  "entite_554": {
+    "label": "PER",
+    "text": "hue",
+    "jalons": [
+      183446,
+      183449
+    ]
+  },
+  "entite_555": {
+    "label": "MISC",
+    "text": "La Chance",
+    "jalons": [
+      183648,
+      183657
+    ]
+  },
+  "entite_556": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      184809,
+      184815
+    ]
+  },
+  "entite_557": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      185231,
+      185237
+    ]
+  },
+  "entite_558": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      185511,
+      185517
+    ]
+  },
+  "entite_559": {
+    "label": "PER",
+    "text": "Hérode",
+    "jalons": [
+      186610,
+      186616
+    ]
+  },
+  "entite_560": {
+    "label": "MISC",
+    "text": "Badrane",
+    "jalons": [
+      186652,
+      186659
+    ]
+  },
+  "entite_561": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      186802,
+      186808
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      187065,
+      187071
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      187270,
+      187276
+    ]
+  },
+  "entite_564": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      187784,
+      187790
+    ]
+  },
+  "entite_565": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      187955,
+      187960
+    ]
+  },
+  "entite_566": {
+    "label": "MISC",
+    "text": "Voilà était le véritable féal",
+    "jalons": [
+      187962,
+      187991
+    ]
+  },
+  "entite_567": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      187995,
+      188001
+    ]
+  },
+  "entite_568": {
+    "label": "MISC",
+    "text": "Voilà pour sa grande réputation d’ivrognerie",
+    "jalons": [
+      188157,
+      188201
+    ]
+  },
+  "entite_569": {
+    "label": "LOC",
+    "text": "Foukoujou",
+    "jalons": [
+      188620,
+      188629
+    ]
+  },
+  "entite_570": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      189373,
+      189378
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "Hercule",
+    "jalons": [
+      190173,
+      190180
+    ]
+  },
+  "entite_572": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      190513,
+      190518
+    ]
+  },
+  "entite_573": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      191031,
+      191041
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      191044,
+      191049
+    ]
+  },
+  "entite_575": {
+    "label": "PER",
+    "text": "Monsieur Tout-le-Monde",
+    "jalons": [
+      191123,
+      191145
+    ]
+  },
+  "entite_576": {
+    "label": "MISC",
+    "text": "Voilà, oh",
+    "jalons": [
+      191703,
+      191712
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      191766,
+      191770
+    ]
+  },
+  "entite_578": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      192296,
+      192301
+    ]
+  },
+  "entite_579": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      192482,
+      192487
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "brouailles",
+    "jalons": [
+      192544,
+      192554
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      192824,
+      192830
+    ]
+  },
+  "entite_582": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      192990,
+      192996
+    ]
+  },
+  "entite_583": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      193159,
+      193164
+    ]
+  },
+  "entite_584": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      193310,
+      193315
+    ]
+  },
+  "entite_585": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      193550,
+      193555
+    ]
+  },
+  "entite_586": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      193830,
+      193835
+    ]
+  },
+  "entite_587": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      194688,
+      194694
+    ]
+  },
+  "entite_588": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      194709,
+      194714
+    ]
+  },
+  "entite_589": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      194835,
+      194841
+    ]
+  },
+  "entite_590": {
+    "label": "PER",
+    "text": "Madame Voilà",
+    "jalons": [
+      195093,
+      195105
+    ]
+  },
+  "entite_591": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      195221,
+      195226
+    ]
+  },
+  "entite_592": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      195460,
+      195465
+    ]
+  },
+  "entite_593": {
+    "label": "PER",
+    "text": "hétaïre",
+    "jalons": [
+      195480,
+      195487
+    ]
+  },
+  "entite_594": {
+    "label": "MISC",
+    "text": "Voilà avait sept enfants",
+    "jalons": [
+      195743,
+      195767
+    ]
+  },
+  "entite_595": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      196172,
+      196181
+    ]
+  },
+  "entite_596": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      196312,
+      196317
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Bandrankowa",
+    "jalons": [
+      196521,
+      196532
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      196926,
+      196931
+    ]
+  },
+  "entite_599": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      197008,
+      197015
+    ]
+  },
+  "entite_600": {
+    "label": "MISC",
+    "text": "Voilà les avertissait tous, et les fillettes",
+    "jalons": [
+      197253,
+      197297
+    ]
+  },
+  "entite_601": {
+    "label": "MISC",
+    "text": "Voilà leur criait « motus",
+    "jalons": [
+      197434,
+      197459
+    ]
+  },
+  "entite_602": {
+    "label": "PER",
+    "text": "Madame Voilà",
+    "jalons": [
+      197745,
+      197757
+    ]
+  },
+  "entite_603": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      197915,
+      197920
+    ]
+  },
+  "entite_604": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      197954,
+      197960
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      198463,
+      198469
+    ]
+  },
+  "entite_606": {
+    "label": "MISC",
+    "text": "Voilà était déjà bougrement grisé",
+    "jalons": [
+      198471,
+      198504
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "bave",
+    "jalons": [
+      198689,
+      198693
+    ]
+  },
+  "entite_608": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      199081,
+      199086
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      199131,
+      199136
+    ]
+  },
+  "entite_610": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      199749,
+      199755
+    ]
+  },
+  "entite_611": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      199925,
+      199931
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      200228,
+      200233
+    ]
+  },
+  "entite_613": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      200375,
+      200381
+    ]
+  },
+  "entite_614": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      200691,
+      200696
+    ]
+  },
+  "entite_615": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      201041,
+      201046
+    ]
+  },
+  "entite_616": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      201226,
+      201231
+    ]
+  },
+  "entite_617": {
+    "label": "MISC",
+    "text": "Blancs",
+    "jalons": [
+      201616,
+      201622
+    ]
+  },
+  "entite_618": {
+    "label": "LOC",
+    "text": "chiromani",
+    "jalons": [
+      201712,
+      201721
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      202347,
+      202352
+    ]
+  },
+  "entite_620": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      202874,
+      202878
+    ]
+  },
+  "entite_621": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      203294,
+      203299
+    ]
+  },
+  "entite_622": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      203659,
+      203664
+    ]
+  },
+  "entite_623": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      203799,
+      203805
+    ]
+  },
+  "entite_624": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      203848,
+      203854
+    ]
+  },
+  "entite_625": {
+    "label": "MISC",
+    "text": "Voilà était très énervé",
+    "jalons": [
+      204098,
+      204121
+    ]
+  },
+  "entite_626": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      204398,
+      204404
+    ]
+  },
+  "entite_627": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      204655,
+      204661
+    ]
+  },
+  "entite_628": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      205022,
+      205027
+    ]
+  },
+  "entite_629": {
+    "label": "MISC",
+    "text": "Madjikha",
+    "jalons": [
+      205339,
+      205347
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      205528,
+      205533
+    ]
+  },
+  "entite_631": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      205598,
+      205604
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      205730,
+      205736
+    ]
+  },
+  "entite_633": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      205842,
+      205848
+    ]
+  },
+  "entite_634": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      205904,
+      205910
+    ]
+  },
+  "entite_635": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      206045,
+      206051
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      206164,
+      206170
+    ]
+  },
+  "entite_637": {
+    "label": "LOC",
+    "text": "Européens",
+    "jalons": [
+      207066,
+      207075
+    ]
+  },
+  "entite_638": {
+    "label": "ORG",
+    "text": "Blancs",
+    "jalons": [
+      207168,
+      207174
+    ]
+  },
+  "entite_639": {
+    "label": "LOC",
+    "text": "palais royal Ujoumbé",
+    "jalons": [
+      207620,
+      207640
+    ]
+  },
+  "entite_640": {
+    "label": "LOC",
+    "text": "Hamoumbou",
+    "jalons": [
+      207654,
+      207663
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      207676,
+      207688
+    ]
+  },
+  "entite_642": {
+    "label": "MISC",
+    "text": "Idarousse",
+    "jalons": [
+      207738,
+      207747
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Comores",
+    "jalons": [
+      207870,
+      207877
+    ]
+  },
+  "entite_644": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      209396,
+      209401
+    ]
+  },
+  "entite_645": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      209403,
+      209409
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      210020,
+      210026
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      210853,
+      210859
+    ]
+  },
+  "entite_648": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      211350,
+      211356
+    ]
+  },
+  "entite_649": {
+    "label": "MISC",
+    "text": "Voilà le voie",
+    "jalons": [
+      211523,
+      211536
+    ]
+  },
+  "entite_650": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      211646,
+      211652
+    ]
+  },
+  "entite_651": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      212584,
+      212590
+    ]
+  },
+  "entite_652": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      212792,
+      212802
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      212987,
+      212993
+    ]
+  },
+  "entite_654": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      213163,
+      213169
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      215123,
+      215129
+    ]
+  },
+  "entite_656": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      215559,
+      215565
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      215731,
+      215737
+    ]
+  },
+  "entite_658": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      215795,
+      215800
+    ]
+  },
+  "entite_659": {
+    "label": "MISC",
+    "text": "Voilà était un pur casse-pied",
+    "jalons": [
+      215881,
+      215910
+    ]
+  },
+  "entite_660": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      216011,
+      216018
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      216130,
+      216136
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      216939,
+      216951
+    ]
+  },
+  "entite_663": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      216956,
+      216963
+    ]
+  },
+  "entite_664": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      217049,
+      217055
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "la Pologne",
+    "jalons": [
+      217196,
+      217206
+    ]
+  },
+  "entite_666": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      217851,
+      217863
+    ]
+  },
+  "entite_667": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      217930,
+      217937
+    ]
+  },
+  "entite_668": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      218098,
+      218105
+    ]
+  },
+  "entite_669": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      219021,
+      219027
+    ]
+  },
+  "entite_670": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      219727,
+      219733
+    ]
+  },
+  "entite_671": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      220410,
+      220416
+    ]
+  },
+  "entite_672": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      220561,
+      220567
+    ]
+  },
+  "entite_673": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      220708,
+      220713
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      220887,
+      220892
+    ]
+  },
+  "entite_675": {
+    "label": "LOC",
+    "text": "Bordeaux",
+    "jalons": [
+      221049,
+      221057
+    ]
+  },
+  "entite_676": {
+    "label": "LOC",
+    "text": "médoc",
+    "jalons": [
+      221062,
+      221067
+    ]
+  },
+  "entite_677": {
+    "label": "LOC",
+    "text": "sauternais",
+    "jalons": [
+      221084,
+      221094
+    ]
+  },
+  "entite_678": {
+    "label": "LOC",
+    "text": "Bourgogne",
+    "jalons": [
+      221118,
+      221127
+    ]
+  },
+  "entite_679": {
+    "label": "LOC",
+    "text": "chablis",
+    "jalons": [
+      221137,
+      221144
+    ]
+  },
+  "entite_680": {
+    "label": "LOC",
+    "text": "pommard",
+    "jalons": [
+      221149,
+      221156
+    ]
+  },
+  "entite_681": {
+    "label": "LOC",
+    "text": "beaujolais",
+    "jalons": [
+      221161,
+      221171
+    ]
+  },
+  "entite_682": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      221364,
+      221369
+    ]
+  },
+  "entite_683": {
+    "label": "MISC",
+    "text": "VIP",
+    "jalons": [
+      221606,
+      221609
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      221799,
+      221805
+    ]
+  },
+  "entite_685": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      222056,
+      222061
+    ]
+  },
+  "entite_686": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      222405,
+      222411
+    ]
+  },
+  "entite_687": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      222439,
+      222445
+    ]
+  },
+  "entite_688": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      222668,
+      222675
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      222867,
+      222874
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      223064,
+      223072
+    ]
+  },
+  "entite_691": {
+    "label": "MISC",
+    "text": "Voilà, dame",
+    "jalons": [
+      223170,
+      223181
+    ]
+  },
+  "entite_692": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      223183,
+      223190
+    ]
+  },
+  "entite_693": {
+    "label": "LOC",
+    "text": "potron-minet",
+    "jalons": [
+      223296,
+      223308
+    ]
+  },
+  "entite_694": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      223420,
+      223432
+    ]
+  },
+  "entite_695": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      223451,
+      223458
+    ]
+  },
+  "entite_696": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      223700,
+      223707
+    ]
+  },
+  "entite_697": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      224155,
+      224162
+    ]
+  },
+  "entite_698": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      225018,
+      225025
+    ]
+  },
+  "entite_699": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      225463,
+      225469
+    ]
+  },
+  "entite_700": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      225621,
+      225628
+    ]
+  },
+  "entite_701": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      225868,
+      225875
+    ]
+  },
+  "entite_702": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      226322,
+      226329
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "Foukoujou",
+    "jalons": [
+      226595,
+      226604
+    ]
+  },
+  "entite_704": {
+    "label": "MISC",
+    "text": "Voilà en train de faire ses délires",
+    "jalons": [
+      226639,
+      226674
+    ]
+  },
+  "entite_705": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      226835,
+      226842
+    ]
+  },
+  "entite_706": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      226957,
+      226963
+    ]
+  },
+  "entite_707": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      227206,
+      227213
+    ]
+  },
+  "entite_708": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      227312,
+      227319
+    ]
+  },
+  "entite_709": {
+    "label": "MISC",
+    "text": "bof",
+    "jalons": [
+      227531,
+      227534
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      228969,
+      228976
+    ]
+  },
+  "entite_711": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      229111,
+      229118
+    ]
+  },
+  "entite_712": {
+    "label": "LOC",
+    "text": "Chitsangani",
+    "jalons": [
+      229543,
+      229554
+    ]
+  },
+  "entite_713": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      230049,
+      230055
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      230705,
+      230711
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      231072,
+      231078
+    ]
+  },
+  "entite_716": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      231682,
+      231689
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      231712,
+      231718
+    ]
+  },
+  "entite_718": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      232157,
+      232161
+    ]
+  },
+  "entite_719": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      232873,
+      232879
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "Vérone",
+    "jalons": [
+      233231,
+      233237
+    ]
+  },
+  "entite_721": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      233420,
+      233428
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      233576,
+      233582
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      234317,
+      234323
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      234394,
+      234402
+    ]
+  },
+  "entite_725": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      236373,
+      236379
+    ]
+  },
+  "entite_726": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      236573,
+      236580
+    ]
+  },
+  "entite_727": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      236612,
+      236618
+    ]
+  },
+  "entite_728": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      236944,
+      236951
+    ]
+  },
+  "entite_729": {
+    "label": "MISC",
+    "text": "Crotale les faisait boire du vin quelque part",
+    "jalons": [
+      238166,
+      238211
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "Angleterre",
+    "jalons": [
+      238279,
+      238289
+    ]
+  },
+  "entite_731": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      238424,
+      238428
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      238452,
+      238459
+    ]
+  },
+  "entite_733": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      239508,
+      239515
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      240346,
+      240353
+    ]
+  },
+  "entite_735": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      240950,
+      240957
+    ]
+  },
+  "entite_736": {
+    "label": "LOC",
+    "text": "Européen",
+    "jalons": [
+      241298,
+      241306
+    ]
+  },
+  "entite_737": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      241346,
+      241358
+    ]
+  },
+  "entite_738": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      241814,
+      241821
+    ]
+  },
+  "entite_739": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      242237,
+      242244
+    ]
+  },
+  "entite_740": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      243233,
+      243240
+    ]
+  },
+  "entite_741": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      243672,
+      243679
+    ]
+  },
+  "entite_742": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      244049,
+      244057
+    ]
+  },
+  "entite_743": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      244272,
+      244279
+    ]
+  },
+  "entite_744": {
+    "label": "MISC",
+    "text": "Crotale » me demandais-je toujours in petto",
+    "jalons": [
+      244685,
+      244728
+    ]
+  },
+  "entite_745": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      244730,
+      244737
+    ]
+  },
+  "entite_746": {
+    "label": "MISC",
+    "text": "Crotale d’une voix rassurée",
+    "jalons": [
+      245146,
+      245173
+    ]
+  },
+  "entite_747": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      245424,
+      245431
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "mazette",
+    "jalons": [
+      245721,
+      245728
+    ]
+  },
+  "entite_749": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      245969,
+      245976
+    ]
+  },
+  "entite_750": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      246023,
+      246035
+    ]
+  },
+  "entite_751": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      246109,
+      246116
+    ]
+  },
+  "entite_752": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      246639,
+      246646
+    ]
+  },
+  "entite_753": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      248382,
+      248389
+    ]
+  },
+  "entite_754": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      248391,
+      248398
+    ]
+  },
+  "entite_755": {
+    "label": "PER",
+    "text": "Désirée",
+    "jalons": [
+      248410,
+      248417
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      249117,
+      249124
+    ]
+  },
+  "entite_757": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      249823,
+      249830
+    ]
+  },
+  "entite_758": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      250029,
+      250036
+    ]
+  },
+  "entite_759": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      250945,
+      250952
+    ]
+  },
+  "entite_760": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      251455,
+      251462
+    ]
+  },
+  "entite_761": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      251883,
+      251888
+    ]
+  },
+  "entite_762": {
+    "label": "PER",
+    "text": "Lacoste",
+    "jalons": [
+      252020,
+      252027
+    ]
+  },
+  "entite_763": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      252085,
+      252092
+    ]
+  },
+  "entite_764": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      252608,
+      252613
+    ]
+  },
+  "entite_765": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      253774,
+      253786
+    ]
+  },
+  "entite_766": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      254063,
+      254068
+    ]
+  },
+  "entite_767": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      254118,
+      254125
+    ]
+  },
+  "entite_768": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      254155,
+      254162
+    ]
+  },
+  "entite_769": {
+    "label": "LOC",
+    "text": "Pangahari",
+    "jalons": [
+      254375,
+      254384
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      255054,
+      255063
+    ]
+  },
+  "entite_771": {
+    "label": "ORG",
+    "text": "Pangahari",
+    "jalons": [
+      255080,
+      255089
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      255201,
+      255213
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Pangahari",
+    "jalons": [
+      255331,
+      255340
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "de chiromanis",
+    "jalons": [
+      255746,
+      255759
+    ]
+  },
+  "entite_775": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      255886,
+      255893
+    ]
+  },
+  "entite_776": {
+    "label": "ORG",
+    "text": "Pangahari",
+    "jalons": [
+      255936,
+      255945
+    ]
+  },
+  "entite_777": {
+    "label": "ORG",
+    "text": "Cobra",
+    "jalons": [
+      255962,
+      255967
+    ]
+  },
+  "entite_778": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      256021,
+      256026
+    ]
+  },
+  "entite_779": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      256081,
+      256088
+    ]
+  },
+  "entite_780": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      256157,
+      256162
+    ]
+  },
+  "entite_781": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      256429,
+      256436
+    ]
+  },
+  "entite_782": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      256533,
+      256538
+    ]
+  },
+  "entite_783": {
+    "label": "LOC",
+    "text": "Jupiter",
+    "jalons": [
+      257443,
+      257450
+    ]
+  },
+  "entite_784": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      258214,
+      258221
+    ]
+  },
+  "entite_785": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      258231,
+      258236
+    ]
+  },
+  "entite_786": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      258496,
+      258501
+    ]
+  },
+  "entite_787": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      259258,
+      259265
+    ]
+  },
+  "entite_788": {
+    "label": "ORG",
+    "text": "Cobra",
+    "jalons": [
+      259292,
+      259297
+    ]
+  },
+  "entite_789": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      259432,
+      259437
+    ]
+  },
+  "entite_790": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      259697,
+      259704
+    ]
+  },
+  "entite_791": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      260000,
+      260007
+    ]
+  },
+  "entite_792": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      260067,
+      260072
+    ]
+  },
+  "entite_793": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      260124,
+      260131
+    ]
+  },
+  "entite_794": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      260189,
+      260194
+    ]
+  },
+  "entite_795": {
+    "label": "MISC",
+    "text": "Crotale appelait Cobra",
+    "jalons": [
+      260334,
+      260356
+    ]
+  },
+  "entite_796": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      260894,
+      260901
+    ]
+  },
+  "entite_797": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      261059,
+      261064
+    ]
+  },
+  "entite_798": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      261382,
+      261389
+    ]
+  },
+  "entite_799": {
+    "label": "ORG",
+    "text": "Cobra",
+    "jalons": [
+      261737,
+      261742
+    ]
+  },
+  "entite_800": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      261815,
+      261820
+    ]
+  },
+  "entite_801": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      262196,
+      262201
+    ]
+  },
+  "entite_802": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      262270,
+      262277
+    ]
+  },
+  "entite_803": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      262458,
+      262463
+    ]
+  },
+  "entite_804": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      262783,
+      262790
+    ]
+  },
+  "entite_805": {
+    "label": "MISC",
+    "text": "ta cambuse",
+    "jalons": [
+      262970,
+      262980
+    ]
+  },
+  "entite_806": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      263010,
+      263017
+    ]
+  },
+  "entite_807": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      263036,
+      263041
+    ]
+  },
+  "entite_808": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      263252,
+      263259
+    ]
+  },
+  "entite_809": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      263312,
+      263319
+    ]
+  },
+  "entite_810": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      263517,
+      263522
+    ]
+  },
+  "entite_811": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      264024,
+      264031
+    ]
+  },
+  "entite_812": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      264207,
+      264212
+    ]
+  },
+  "entite_813": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      264538,
+      264545
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "-je in petto",
+    "jalons": [
+      264992,
+      265004
+    ]
+  },
+  "entite_815": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      265006,
+      265013
+    ]
+  },
+  "entite_816": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      266024,
+      266036
+    ]
+  },
+  "entite_817": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      266094,
+      266101
+    ]
+  },
+  "entite_818": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      266422,
+      266434
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      267781,
+      267793
+    ]
+  },
+  "entite_820": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      267938,
+      267945
+    ]
+  },
+  "entite_821": {
+    "label": "MISC",
+    "text": "Crotale étonnait fort Connaît-Tout",
+    "jalons": [
+      268268,
+      268302
+    ]
+  },
+  "entite_822": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      268654,
+      268661
+    ]
+  },
+  "entite_823": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      268921,
+      268927
+    ]
+  },
+  "entite_824": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      270463,
+      270469
+    ]
+  },
+  "entite_825": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      270589,
+      270595
+    ]
+  },
+  "entite_826": {
+    "label": "PER",
+    "text": "martel",
+    "jalons": [
+      270680,
+      270686
+    ]
+  },
+  "entite_827": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      270696,
+      270702
+    ]
+  },
+  "entite_828": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      271530,
+      271536
+    ]
+  },
+  "entite_829": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      271949,
+      271955
+    ]
+  },
+  "entite_830": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      272040,
+      272047
+    ]
+  },
+  "entite_831": {
+    "label": "LOC",
+    "text": "gauloises",
+    "jalons": [
+      272221,
+      272230
+    ]
+  },
+  "entite_832": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      272651,
+      272657
+    ]
+  },
+  "entite_833": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      272891,
+      272897
+    ]
+  },
+  "entite_834": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      273089,
+      273095
+    ]
+  },
+  "entite_835": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      273258,
+      273270
+    ]
+  },
+  "entite_836": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      273326,
+      273333
+    ]
+  },
+  "entite_837": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      273904,
+      273911
+    ]
+  },
+  "entite_838": {
+    "label": "MISC",
+    "text": "Crotale me disait juste qu’elle allait partir",
+    "jalons": [
+      274241,
+      274286
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      276052,
+      276058
+    ]
+  },
+  "entite_840": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      276842,
+      276850
+    ]
+  },
+  "entite_841": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      277081,
+      277093
+    ]
+  },
+  "entite_842": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      277111,
+      277117
+    ]
+  },
+  "entite_843": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      277267,
+      277274
+    ]
+  },
+  "entite_844": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      277367,
+      277373
+    ]
+  },
+  "entite_845": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      277429,
+      277436
+    ]
+  },
+  "entite_846": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      277551,
+      277557
+    ]
+  },
+  "entite_847": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      277850,
+      277856
+    ]
+  },
+  "entite_848": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      277909,
+      277921
+    ]
+  },
+  "entite_849": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      278665,
+      278671
+    ]
+  },
+  "entite_850": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      280773,
+      280779
+    ]
+  },
+  "entite_851": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      280962,
+      280968
+    ]
+  },
+  "entite_852": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      281380,
+      281386
+    ]
+  },
+  "entite_853": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      281511,
+      281517
+    ]
+  },
+  "entite_854": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      281732,
+      281738
+    ]
+  },
+  "entite_855": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      281883,
+      281889
+    ]
+  },
+  "entite_856": {
+    "label": "MISC",
+    "text": "Daurade",
+    "jalons": [
+      282073,
+      282080
+    ]
+  },
+  "entite_857": {
+    "label": "PER",
+    "text": "Épicure",
+    "jalons": [
+      282098,
+      282105
+    ]
+  },
+  "entite_858": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      282501,
+      282513
+    ]
+  },
+  "entite_859": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      282583,
+      282589
+    ]
+  },
+  "entite_860": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      282916,
+      282922
+    ]
+  },
+  "entite_861": {
+    "label": "PER",
+    "text": "découché",
+    "jalons": [
+      283017,
+      283025
+    ]
+  },
+  "entite_862": {
+    "label": "PER",
+    "text": "Vorace",
+    "jalons": [
+      283043,
+      283049
+    ]
+  },
+  "entite_863": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      283158,
+      283164
+    ]
+  },
+  "entite_864": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      283381,
+      283387
+    ]
+  },
+  "entite_865": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      283653,
+      283661
+    ]
+  },
+  "entite_866": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      284413,
+      284419
+    ]
+  },
+  "entite_867": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      284898,
+      284904
+    ]
+  },
+  "entite_868": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      285198,
+      285204
+    ]
+  },
+  "entite_869": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      286607,
+      286613
+    ]
+  },
+  "entite_870": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      286686,
+      286698
+    ]
+  },
+  "entite_871": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      286717,
+      286727
+    ]
+  },
+  "entite_872": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      286761,
+      286768
+    ]
+  },
+  "entite_873": {
+    "label": "MISC",
+    "text": "Cobra",
+    "jalons": [
+      286786,
+      286791
+    ]
+  },
+  "entite_874": {
+    "label": "MISC",
+    "text": "Anguille, je disais",
+    "jalons": [
+      287266,
+      287285
+    ]
+  },
+  "entite_875": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      288723,
+      288729
+    ]
+  },
+  "entite_876": {
+    "label": "LOC",
+    "text": "Vérone",
+    "jalons": [
+      289162,
+      289168
+    ]
+  },
+  "entite_877": {
+    "label": "LOC",
+    "text": "bras-le-corps",
+    "jalons": [
+      290235,
+      290248
+    ]
+  },
+  "entite_878": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      291573,
+      291579
+    ]
+  },
+  "entite_879": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      291876,
+      291882
+    ]
+  },
+  "entite_880": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      292826,
+      292838
+    ]
+  },
+  "entite_881": {
+    "label": "PER",
+    "text": "Futilité",
+    "jalons": [
+      293064,
+      293072
+    ]
+  },
+  "entite_882": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      293997,
+      294009
+    ]
+  },
+  "entite_883": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      294161,
+      294168
+    ]
+  },
+  "entite_884": {
+    "label": "LOC",
+    "text": "Nido",
+    "jalons": [
+      294257,
+      294261
+    ]
+  },
+  "entite_885": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      294501,
+      294508
+    ]
+  },
+  "entite_886": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      294982,
+      294994
+    ]
+  },
+  "entite_887": {
+    "label": "LOC",
+    "text": "Israël-Palestine",
+    "jalons": [
+      295650,
+      295666
+    ]
+  },
+  "entite_888": {
+    "label": "LOC",
+    "text": "Soudan",
+    "jalons": [
+      295713,
+      295719
+    ]
+  },
+  "entite_889": {
+    "label": "LOC",
+    "text": "Darfour",
+    "jalons": [
+      295747,
+      295754
+    ]
+  },
+  "entite_890": {
+    "label": "LOC",
+    "text": "Birmanie",
+    "jalons": [
+      295760,
+      295768
+    ]
+  },
+  "entite_891": {
+    "label": "PER",
+    "text": "Aung San Suu Kyi",
+    "jalons": [
+      295771,
+      295787
+    ]
+  },
+  "entite_892": {
+    "label": "LOC",
+    "text": "Rangoon",
+    "jalons": [
+      295806,
+      295813
+    ]
+  },
+  "entite_893": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      295836,
+      295843
+    ]
+  },
+  "entite_894": {
+    "label": "ORG",
+    "text": "ONU",
+    "jalons": [
+      295857,
+      295860
+    ]
+  },
+  "entite_895": {
+    "label": "ORG",
+    "text": "Ligue des États arabes",
+    "jalons": [
+      295865,
+      295887
+    ]
+  },
+  "entite_896": {
+    "label": "ORG",
+    "text": "Union africaine",
+    "jalons": [
+      295893,
+      295908
+    ]
+  },
+  "entite_897": {
+    "label": "MISC",
+    "text": "Génocide rwandais",
+    "jalons": [
+      296926,
+      296943
+    ]
+  },
+  "entite_898": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      297395,
+      297399
+    ]
+  },
+  "entite_899": {
+    "label": "LOC",
+    "text": "Afrique du Sud",
+    "jalons": [
+      297440,
+      297454
+    ]
+  },
+  "entite_900": {
+    "label": "PER",
+    "text": "Martin Luther King",
+    "jalons": [
+      297710,
+      297728
+    ]
+  },
+  "entite_901": {
+    "label": "PER",
+    "text": "Mohandas Karamchand Gandhi",
+    "jalons": [
+      297733,
+      297759
+    ]
+  },
+  "entite_902": {
+    "label": "PER",
+    "text": "Nelson Mandela",
+    "jalons": [
+      297764,
+      297778
+    ]
+  },
+  "entite_903": {
+    "label": "PER",
+    "text": "Yasser Arafat",
+    "jalons": [
+      297783,
+      297796
+    ]
+  },
+  "entite_904": {
+    "label": "PER",
+    "text": "Charles de Gaulle",
+    "jalons": [
+      297801,
+      297818
+    ]
+  },
+  "entite_905": {
+    "label": "PER",
+    "text": "René Cassin",
+    "jalons": [
+      297823,
+      297834
+    ]
+  },
+  "entite_906": {
+    "label": "MISC",
+    "text": "Histoire",
+    "jalons": [
+      297931,
+      297939
+    ]
+  },
+  "entite_907": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      298091,
+      298103
+    ]
+  },
+  "entite_908": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      298334,
+      298346
+    ]
+  },
+  "entite_909": {
+    "label": "MISC",
+    "text": "piétée",
+    "jalons": [
+      299010,
+      299016
+    ]
+  },
+  "entite_910": {
+    "label": "MISC",
+    "text": "Connaît-Tout était si",
+    "jalons": [
+      299408,
+      299429
+    ]
+  },
+  "entite_911": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      301208,
+      301220
+    ]
+  },
+  "entite_912": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      301317,
+      301329
+    ]
+  },
+  "entite_913": {
+    "label": "PER",
+    "text": "déguerpir",
+    "jalons": [
+      301530,
+      301539
+    ]
+  },
+  "entite_914": {
+    "label": "MISC",
+    "text": "bof",
+    "jalons": [
+      302049,
+      302052
+    ]
+  },
+  "entite_915": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      302319,
+      302331
+    ]
+  },
+  "entite_916": {
+    "label": "LOC",
+    "text": "Hamoumbou",
+    "jalons": [
+      303380,
+      303389
+    ]
+  },
+  "entite_917": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      303846,
+      303851
+    ]
+  },
+  "entite_918": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      304169,
+      304174
+    ]
+  },
+  "entite_919": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      306270,
+      306282
+    ]
+  },
+  "entite_920": {
+    "label": "LOC",
+    "text": "Main",
+    "jalons": [
+      307715,
+      307719
+    ]
+  },
+  "entite_921": {
+    "label": "MISC",
+    "text": "Oreille et Mouche",
+    "jalons": [
+      307721,
+      307738
+    ]
+  },
+  "entite_922": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      307906,
+      307911
+    ]
+  },
+  "entite_923": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      308615,
+      308620
+    ]
+  },
+  "entite_924": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      308634,
+      308640
+    ]
+  },
+  "entite_925": {
+    "label": "MISC",
+    "text": "Voilà et de sa femme",
+    "jalons": [
+      308682,
+      308702
+    ]
+  },
+  "entite_926": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      309271,
+      309276
+    ]
+  },
+  "entite_927": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      309379,
+      309385
+    ]
+  },
+  "entite_928": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      309500,
+      309506
+    ]
+  },
+  "entite_929": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      309643,
+      309649
+    ]
+  },
+  "entite_930": {
+    "label": "MISC",
+    "text": "Voilà »",
+    "jalons": [
+      310282,
+      310289
+    ]
+  },
+  "entite_931": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      310470,
+      310476
+    ]
+  },
+  "entite_932": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      310564,
+      310570
+    ]
+  },
+  "entite_933": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      310863,
+      310869
+    ]
+  },
+  "entite_934": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      311537,
+      311543
+    ]
+  },
+  "entite_935": {
+    "label": "MISC",
+    "text": "Voilà, je m’étais",
+    "jalons": [
+      311689,
+      311706
+    ]
+  },
+  "entite_936": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      311799,
+      311804
+    ]
+  },
+  "entite_937": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      312022,
+      312028
+    ]
+  },
+  "entite_938": {
+    "label": "MISC",
+    "text": "Voilà », je riais",
+    "jalons": [
+      313592,
+      313609
+    ]
+  },
+  "entite_939": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      313782,
+      313788
+    ]
+  },
+  "entite_940": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      313964,
+      313970
+    ]
+  },
+  "entite_941": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      314374,
+      314380
+    ]
+  },
+  "entite_942": {
+    "label": "ORG",
+    "text": "badamier",
+    "jalons": [
+      315019,
+      315027
+    ]
+  },
+  "entite_943": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      315159,
+      315164
+    ]
+  },
+  "entite_944": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      315182,
+      315188
+    ]
+  },
+  "entite_945": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      315218,
+      315224
+    ]
+  },
+  "entite_946": {
+    "label": "LOC",
+    "text": "Voilà",
+    "jalons": [
+      316145,
+      316150
+    ]
+  },
+  "entite_947": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      316654,
+      316658
+    ]
+  },
+  "entite_948": {
+    "label": "PER",
+    "text": "Épicure",
+    "jalons": [
+      316829,
+      316836
+    ]
+  },
+  "entite_949": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      317195,
+      317201
+    ]
+  },
+  "entite_950": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      317535,
+      317541
+    ]
+  },
+  "entite_951": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      317645,
+      317650
+    ]
+  },
+  "entite_952": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      318833,
+      318845
+    ]
+  },
+  "entite_953": {
+    "label": "MISC",
+    "text": "Sayyidat Karima",
+    "jalons": [
+      318879,
+      318894
+    ]
+  },
+  "entite_954": {
+    "label": "PER",
+    "text": "Binti Saidi Akili",
+    "jalons": [
+      318895,
+      318912
+    ]
+  },
+  "entite_955": {
+    "label": "PER",
+    "text": "Bin Abdallah",
+    "jalons": [
+      318930,
+      318942
+    ]
+  },
+  "entite_956": {
+    "label": "PER",
+    "text": "Titan",
+    "jalons": [
+      319061,
+      319066
+    ]
+  },
+  "entite_957": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      320739,
+      320745
+    ]
+  },
+  "entite_958": {
+    "label": "LOC",
+    "text": "Daurade",
+    "jalons": [
+      320766,
+      320773
+    ]
+  },
+  "entite_959": {
+    "label": "PER",
+    "text": "misandrie",
+    "jalons": [
+      320814,
+      320823
+    ]
+  },
+  "entite_960": {
+    "label": "PER",
+    "text": "Elina",
+    "jalons": [
+      321417,
+      321422
+    ]
+  },
+  "entite_961": {
+    "label": "PER",
+    "text": "Catherina",
+    "jalons": [
+      321424,
+      321433
+    ]
+  },
+  "entite_962": {
+    "label": "PER",
+    "text": "mazette",
+    "jalons": [
+      321455,
+      321462
+    ]
+  },
+  "entite_963": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      322859,
+      322865
+    ]
+  },
+  "entite_964": {
+    "label": "MISC",
+    "text": "Voilà je commençais",
+    "jalons": [
+      322881,
+      322900
+    ]
+  },
+  "entite_965": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      323918,
+      323925
+    ]
+  },
+  "entite_966": {
+    "label": "LOC",
+    "text": "badamier",
+    "jalons": [
+      324010,
+      324018
+    ]
+  },
+  "entite_967": {
+    "label": "MISC",
+    "text": "sépulcraux",
+    "jalons": [
+      324810,
+      324820
+    ]
+  },
+  "entite_968": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      325540,
+      325552
+    ]
+  },
+  "entite_969": {
+    "label": "PER",
+    "text": "mezza voce",
+    "jalons": [
+      326120,
+      326130
+    ]
+  },
+  "entite_970": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      326136,
+      326148
+    ]
+  },
+  "entite_971": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      326490,
+      326495
+    ]
+  },
+  "entite_972": {
+    "label": "MISC",
+    "text": "Connaît-Tout quelques secondes",
+    "jalons": [
+      326692,
+      326722
+    ]
+  },
+  "entite_973": {
+    "label": "PER",
+    "text": "marmotter",
+    "jalons": [
+      326732,
+      326741
+    ]
+  },
+  "entite_974": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      326779,
+      326787
+    ]
+  },
+  "entite_975": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      326943,
+      326955
+    ]
+  },
+  "entite_976": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      327536,
+      327543
+    ]
+  },
+  "entite_977": {
+    "label": "LOC",
+    "text": "porte Connaît",
+    "jalons": [
+      327723,
+      327736
+    ]
+  },
+  "entite_978": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      328112,
+      328119
+    ]
+  },
+  "entite_979": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      328298,
+      328310
+    ]
+  },
+  "entite_980": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      329466,
+      329472
+    ]
+  },
+  "entite_981": {
+    "label": "PER",
+    "text": "tarabuster",
+    "jalons": [
+      329699,
+      329709
+    ]
+  },
+  "entite_982": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      329836,
+      329843
+    ]
+  },
+  "entite_983": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      330206,
+      330212
+    ]
+  },
+  "entite_984": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      330444,
+      330456
+    ]
+  },
+  "entite_985": {
+    "label": "MISC",
+    "text": "Dieu merci",
+    "jalons": [
+      330458,
+      330468
+    ]
+  },
+  "entite_986": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      331061,
+      331069
+    ]
+  },
+  "entite_987": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      332115,
+      332122
+    ]
+  },
+  "entite_988": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      332223,
+      332235
+    ]
+  },
+  "entite_989": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      332515,
+      332522
+    ]
+  },
+  "entite_990": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      332861,
+      332868
+    ]
+  },
+  "entite_991": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      333137,
+      333144
+    ]
+  },
+  "entite_992": {
+    "label": "MISC",
+    "text": "Connaît-Tout crier encore derrière moi avec furie",
+    "jalons": [
+      333444,
+      333493
+    ]
+  },
+  "entite_993": {
+    "label": "PER",
+    "text": "mazette",
+    "jalons": [
+      334922,
+      334929
+    ]
+  },
+  "entite_994": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      335276,
+      335288
+    ]
+  },
+  "entite_995": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      335393,
+      335400
+    ]
+  },
+  "entite_996": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      335459,
+      335466
+    ]
+  },
+  "entite_997": {
+    "label": "LOC",
+    "text": "bras-le-corps",
+    "jalons": [
+      335797,
+      335810
+    ]
+  },
+  "entite_998": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      336051,
+      336058
+    ]
+  },
+  "entite_999": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      336509,
+      336516
+    ]
+  },
+  "entite_1000": {
+    "label": "MISC",
+    "text": "Pâques",
+    "jalons": [
+      336985,
+      336991
+    ]
+  },
+  "entite_1001": {
+    "label": "LOC",
+    "text": "La Trinité",
+    "jalons": [
+      336997,
+      337007
+    ]
+  },
+  "entite_1002": {
+    "label": "PER",
+    "text": "Voilà",
+    "jalons": [
+      337296,
+      337301
+    ]
+  },
+  "entite_1003": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      337340,
+      337346
+    ]
+  },
+  "entite_1004": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      338284,
+      338290
+    ]
+  },
+  "entite_1005": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      339496,
+      339503
+    ]
+  },
+  "entite_1006": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      339716,
+      339723
+    ]
+  },
+  "entite_1007": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      339900,
+      339907
+    ]
+  },
+  "entite_1008": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      340047,
+      340053
+    ]
+  },
+  "entite_1009": {
+    "label": "PER",
+    "text": "achalant",
+    "jalons": [
+      340381,
+      340389
+    ]
+  },
+  "entite_1010": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      340562,
+      340569
+    ]
+  },
+  "entite_1011": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      340831,
+      340835
+    ]
+  },
+  "entite_1012": {
+    "label": "PER",
+    "text": "patachon",
+    "jalons": [
+      341276,
+      341284
+    ]
+  },
+  "entite_1013": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      341487,
+      341491
+    ]
+  },
+  "entite_1014": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      345426,
+      345430
+    ]
+  },
+  "entite_1015": {
+    "label": "MISC",
+    "text": "Rubicon",
+    "jalons": [
+      348040,
+      348047
+    ]
+  },
+  "entite_1016": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      348112,
+      348119
+    ]
+  },
+  "entite_1017": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      348214,
+      348220
+    ]
+  },
+  "entite_1018": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      348278,
+      348284
+    ]
+  },
+  "entite_1019": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      348366,
+      348373
+    ]
+  },
+  "entite_1020": {
+    "label": "LOC",
+    "text": "Missiri",
+    "jalons": [
+      348391,
+      348398
+    ]
+  },
+  "entite_1021": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      348426,
+      348433
+    ]
+  },
+  "entite_1022": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      348672,
+      348684
+    ]
+  },
+  "entite_1023": {
+    "label": "MISC",
+    "text": "Connaît-Tout n’était pas du tout du genre",
+    "jalons": [
+      348832,
+      348873
+    ]
+  },
+  "entite_1024": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      348991,
+      348998
+    ]
+  },
+  "entite_1025": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      349015,
+      349027
+    ]
+  },
+  "entite_1026": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      349093,
+      349100
+    ]
+  },
+  "entite_1027": {
+    "label": "MISC",
+    "text": "Connaît-Tout ne décolérait pas",
+    "jalons": [
+      349357,
+      349387
+    ]
+  },
+  "entite_1028": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      349538,
+      349545
+    ]
+  },
+  "entite_1029": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      349863,
+      349875
+    ]
+  },
+  "entite_1030": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      350458,
+      350465
+    ]
+  },
+  "entite_1031": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      350668,
+      350675
+    ]
+  },
+  "entite_1032": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      350694,
+      350701
+    ]
+  },
+  "entite_1033": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      350885,
+      350891
+    ]
+  },
+  "entite_1034": {
+    "label": "MISC",
+    "text": "Miraculé et Rescapé",
+    "jalons": [
+      351047,
+      351066
+    ]
+  },
+  "entite_1035": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      351112,
+      351119
+    ]
+  },
+  "entite_1036": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      351184,
+      351191
+    ]
+  },
+  "entite_1037": {
+    "label": "LOC",
+    "text": "Mozambique",
+    "jalons": [
+      351212,
+      351222
+    ]
+  },
+  "entite_1038": {
+    "label": "LOC",
+    "text": "Vauvert",
+    "jalons": [
+      351389,
+      351396
+    ]
+  },
+  "entite_1039": {
+    "label": "LOC",
+    "text": "Troie",
+    "jalons": [
+      353085,
+      353090
+    ]
+  },
+  "entite_1040": {
+    "label": "LOC",
+    "text": "Hampanga",
+    "jalons": [
+      354229,
+      354237
+    ]
+  },
+  "entite_1041": {
+    "label": "LOC",
+    "text": "Bambao",
+    "jalons": [
+      356440,
+      356446
+    ]
+  },
+  "entite_1042": {
+    "label": "PER",
+    "text": "Monsieur",
+    "jalons": [
+      358135,
+      358143
+    ]
+  },
+  "entite_1043": {
+    "label": "LOC",
+    "text": "Bazmine",
+    "jalons": [
+      358262,
+      358269
+    ]
+  },
+  "entite_1044": {
+    "label": "LOC",
+    "text": "Bazmine",
+    "jalons": [
+      358704,
+      358711
+    ]
+  },
+  "entite_1045": {
+    "label": "ORG",
+    "text": "Mirontsi",
+    "jalons": [
+      358929,
+      358937
+    ]
+  },
+  "entite_1046": {
+    "label": "LOC",
+    "text": "Oani",
+    "jalons": [
+      358956,
+      358960
+    ]
+  },
+  "entite_1047": {
+    "label": "PER",
+    "text": "Patsy",
+    "jalons": [
+      358993,
+      358998
+    ]
+  },
+  "entite_1048": {
+    "label": "PER",
+    "text": "Koki",
+    "jalons": [
+      359002,
+      359006
+    ]
+  },
+  "entite_1049": {
+    "label": "PER",
+    "text": "Patsy",
+    "jalons": [
+      359029,
+      359034
+    ]
+  },
+  "entite_1050": {
+    "label": "ORG",
+    "text": "Coca-Cola",
+    "jalons": [
+      359060,
+      359069
+    ]
+  },
+  "entite_1051": {
+    "label": "MISC",
+    "text": "File",
+    "jalons": [
+      359137,
+      359141
+    ]
+  },
+  "entite_1052": {
+    "label": "LOC",
+    "text": "Mchacojou",
+    "jalons": [
+      359384,
+      359393
+    ]
+  },
+  "entite_1053": {
+    "label": "LOC",
+    "text": "Tratringa",
+    "jalons": [
+      359397,
+      359406
+    ]
+  },
+  "entite_1054": {
+    "label": "LOC",
+    "text": "Bambao Lamtsanga",
+    "jalons": [
+      359410,
+      359426
+    ]
+  },
+  "entite_1055": {
+    "label": "PER",
+    "text": "Jéjé",
+    "jalons": [
+      359534,
+      359538
+    ]
+  },
+  "entite_1056": {
+    "label": "LOC",
+    "text": "Jomani",
+    "jalons": [
+      359547,
+      359553
+    ]
+  },
+  "entite_1057": {
+    "label": "LOC",
+    "text": "Shiroroni",
+    "jalons": [
+      359762,
+      359771
+    ]
+  },
+  "entite_1058": {
+    "label": "LOC",
+    "text": "Domoni",
+    "jalons": [
+      359944,
+      359950
+    ]
+  },
+  "entite_1059": {
+    "label": "LOC",
+    "text": "là-bas",
+    "jalons": [
+      360063,
+      360069
+    ]
+  },
+  "entite_1060": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      360102,
+      360108
+    ]
+  },
+  "entite_1061": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      361300,
+      361307
+    ]
+  },
+  "entite_1062": {
+    "label": "LOC",
+    "text": "Papani",
+    "jalons": [
+      361331,
+      361337
+    ]
+  },
+  "entite_1063": {
+    "label": "MISC",
+    "text": "Balawi",
+    "jalons": [
+      361347,
+      361353
+    ]
+  },
+  "entite_1064": {
+    "label": "MISC",
+    "text": "Mtsangombéli",
+    "jalons": [
+      361365,
+      361377
+    ]
+  },
+  "entite_1065": {
+    "label": "LOC",
+    "text": "Papani",
+    "jalons": [
+      361414,
+      361420
+    ]
+  },
+  "entite_1066": {
+    "label": "ORG",
+    "text": "Garanti",
+    "jalons": [
+      361439,
+      361446
+    ]
+  },
+  "entite_1067": {
+    "label": "LOC",
+    "text": "Papani",
+    "jalons": [
+      361593,
+      361599
+    ]
+  },
+  "entite_1068": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      363450,
+      363458
+    ]
+  },
+  "entite_1069": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      363536,
+      363543
+    ]
+  },
+  "entite_1070": {
+    "label": "PER",
+    "text": "jean",
+    "jalons": [
+      366082,
+      366086
+    ]
+  },
+  "entite_1071": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      366250,
+      366257
+    ]
+  },
+  "entite_1072": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      366279,
+      366286
+    ]
+  },
+  "entite_1073": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      366413,
+      366420
+    ]
+  },
+  "entite_1074": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      366595,
+      366602
+    ]
+  },
+  "entite_1075": {
+    "label": "MISC",
+    "text": "Miraculé et Rescapé",
+    "jalons": [
+      366948,
+      366967
+    ]
+  },
+  "entite_1076": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      367029,
+      367036
+    ]
+  },
+  "entite_1077": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      367234,
+      367241
+    ]
+  },
+  "entite_1078": {
+    "label": "MISC",
+    "text": "Miraculé et Rescapé",
+    "jalons": [
+      367369,
+      367388
+    ]
+  },
+  "entite_1079": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      367461,
+      367468
+    ]
+  },
+  "entite_1080": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      367532,
+      367539
+    ]
+  },
+  "entite_1081": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      367956,
+      367964
+    ]
+  },
+  "entite_1082": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      368817,
+      368824
+    ]
+  },
+  "entite_1083": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      370280,
+      370287
+    ]
+  },
+  "entite_1084": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      370367,
+      370375
+    ]
+  },
+  "entite_1085": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      370464,
+      370471
+    ]
+  },
+  "entite_1086": {
+    "label": "PER",
+    "text": "Milon de Crotone",
+    "jalons": [
+      370503,
+      370519
+    ]
+  },
+  "entite_1087": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      370521,
+      370529
+    ]
+  },
+  "entite_1088": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      370895,
+      370902
+    ]
+  },
+  "entite_1089": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      371001,
+      371009
+    ]
+  },
+  "entite_1090": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      371049,
+      371057
+    ]
+  },
+  "entite_1091": {
+    "label": "MISC",
+    "text": "Mademoiselle",
+    "jalons": [
+      371074,
+      371086
+    ]
+  },
+  "entite_1092": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      371283,
+      371290
+    ]
+  },
+  "entite_1093": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      371350,
+      371354
+    ]
+  },
+  "entite_1094": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      371380,
+      371388
+    ]
+  },
+  "entite_1095": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      371417,
+      371425
+    ]
+  },
+  "entite_1096": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      372155,
+      372162
+    ]
+  },
+  "entite_1097": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      372584,
+      372591
+    ]
+  },
+  "entite_1098": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      372845,
+      372849
+    ]
+  },
+  "entite_1099": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      373439,
+      373446
+    ]
+  },
+  "entite_1100": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      373754,
+      373762
+    ]
+  },
+  "entite_1101": {
+    "label": "MISC",
+    "text": "OK",
+    "jalons": [
+      373805,
+      373807
+    ]
+  },
+  "entite_1102": {
+    "label": "LOC",
+    "text": "Mjihari",
+    "jalons": [
+      374343,
+      374350
+    ]
+  },
+  "entite_1103": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      374963,
+      374970
+    ]
+  },
+  "entite_1104": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      375796,
+      375803
+    ]
+  },
+  "entite_1105": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      376333,
+      376340
+    ]
+  },
+  "entite_1106": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      376929,
+      376936
+    ]
+  },
+  "entite_1107": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      377364,
+      377371
+    ]
+  },
+  "entite_1108": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      377637,
+      377644
+    ]
+  },
+  "entite_1109": {
+    "label": "MISC",
+    "text": "Connaît-Tout pour venir jusque-là",
+    "jalons": [
+      377757,
+      377790
+    ]
+  },
+  "entite_1110": {
+    "label": "LOC",
+    "text": "aposiopèse",
+    "jalons": [
+      378043,
+      378053
+    ]
+  },
+  "entite_1111": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      378341,
+      378348
+    ]
+  },
+  "entite_1112": {
+    "label": "MISC",
+    "text": "Tranquille au courant de tout ce qui s’était passé",
+    "jalons": [
+      378359,
+      378409
+    ]
+  },
+  "entite_1113": {
+    "label": "LOC",
+    "text": "Hombo",
+    "jalons": [
+      378432,
+      378437
+    ]
+  },
+  "entite_1114": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      378505,
+      378517
+    ]
+  },
+  "entite_1115": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      378519,
+      378529
+    ]
+  },
+  "entite_1116": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      378688,
+      378698
+    ]
+  },
+  "entite_1117": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      378721,
+      378728
+    ]
+  },
+  "entite_1118": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      378914,
+      378924
+    ]
+  },
+  "entite_1119": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      378937,
+      378949
+    ]
+  },
+  "entite_1120": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      379304,
+      379314
+    ]
+  },
+  "entite_1121": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      379573,
+      379583
+    ]
+  },
+  "entite_1122": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      379760,
+      379772
+    ]
+  },
+  "entite_1123": {
+    "label": "PER",
+    "text": "Tranquille",
+    "jalons": [
+      380282,
+      380292
+    ]
+  },
+  "entite_1124": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      380816,
+      380826
+    ]
+  },
+  "entite_1125": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      381086,
+      381098
+    ]
+  },
+  "entite_1126": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      381599,
+      381611
+    ]
+  },
+  "entite_1127": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      381739,
+      381751
+    ]
+  },
+  "entite_1128": {
+    "label": "MISC",
+    "text": "Crotale me",
+    "jalons": [
+      381879,
+      381889
+    ]
+  },
+  "entite_1129": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      381926,
+      381936
+    ]
+  },
+  "entite_1130": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      382132,
+      382142
+    ]
+  },
+  "entite_1131": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      382223,
+      382235
+    ]
+  },
+  "entite_1132": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      382547,
+      382559
+    ]
+  },
+  "entite_1133": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      383155,
+      383167
+    ]
+  },
+  "entite_1134": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      383428,
+      383438
+    ]
+  },
+  "entite_1135": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      383451,
+      383463
+    ]
+  },
+  "entite_1136": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      383644,
+      383656
+    ]
+  },
+  "entite_1137": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      383939,
+      383951
+    ]
+  },
+  "entite_1138": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      383977,
+      383987
+    ]
+  },
+  "entite_1139": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      384466,
+      384476
+    ]
+  },
+  "entite_1140": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      384638,
+      384644
+    ]
+  },
+  "entite_1141": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      385215,
+      385222
+    ]
+  },
+  "entite_1142": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      385224,
+      385234
+    ]
+  },
+  "entite_1143": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      385452,
+      385462
+    ]
+  },
+  "entite_1144": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      385644,
+      385654
+    ]
+  },
+  "entite_1145": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      386114,
+      386124
+    ]
+  },
+  "entite_1146": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      386506,
+      386516
+    ]
+  },
+  "entite_1147": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      386741,
+      386751
+    ]
+  },
+  "entite_1148": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      387019,
+      387029
+    ]
+  },
+  "entite_1149": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      387231,
+      387243
+    ]
+  },
+  "entite_1150": {
+    "label": "MISC",
+    "text": "Tranquille en sourde-muette",
+    "jalons": [
+      387421,
+      387448
+    ]
+  },
+  "entite_1151": {
+    "label": "LOC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      387582,
+      387594
+    ]
+  },
+  "entite_1152": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      387670,
+      387680
+    ]
+  },
+  "entite_1153": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      387923,
+      387933
+    ]
+  },
+  "entite_1154": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      388000,
+      388012
+    ]
+  },
+  "entite_1155": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      388473,
+      388483
+    ]
+  },
+  "entite_1156": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      388736,
+      388746
+    ]
+  },
+  "entite_1157": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      388771,
+      388783
+    ]
+  },
+  "entite_1158": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      389023,
+      389033
+    ]
+  },
+  "entite_1159": {
+    "label": "MISC",
+    "text": "Crotale me",
+    "jalons": [
+      389124,
+      389134
+    ]
+  },
+  "entite_1160": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      389187,
+      389199
+    ]
+  },
+  "entite_1161": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      389218,
+      389228
+    ]
+  },
+  "entite_1162": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      389405,
+      389417
+    ]
+  },
+  "entite_1163": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      389470,
+      389477
+    ]
+  },
+  "entite_1164": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      389513,
+      389523
+    ]
+  },
+  "entite_1165": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      389818,
+      389828
+    ]
+  },
+  "entite_1166": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      389949,
+      389959
+    ]
+  },
+  "entite_1167": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      389973,
+      389980
+    ]
+  },
+  "entite_1168": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      390277,
+      390289
+    ]
+  },
+  "entite_1169": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      390408,
+      390415
+    ]
+  },
+  "entite_1170": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      390546,
+      390556
+    ]
+  },
+  "entite_1171": {
+    "label": "MISC",
+    "text": "Tranquille",
+    "jalons": [
+      390698,
+      390708
+    ]
+  },
+  "entite_1172": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      390759,
+      390766
+    ]
+  },
+  "entite_1173": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      390879,
+      390886
+    ]
+  },
+  "entite_1174": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      390918,
+      390930
+    ]
+  },
+  "entite_1175": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      390966,
+      390973
+    ]
+  },
+  "entite_1176": {
+    "label": "ORG",
+    "text": "Domoni",
+    "jalons": [
+      391108,
+      391114
+    ]
+  },
+  "entite_1177": {
+    "label": "MISC",
+    "text": "Garanti",
+    "jalons": [
+      391240,
+      391247
+    ]
+  },
+  "entite_1178": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      391271,
+      391278
+    ]
+  },
+  "entite_1179": {
+    "label": "LOC",
+    "text": "Tranquille",
+    "jalons": [
+      391309,
+      391319
+    ]
+  },
+  "entite_1180": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      391440,
+      391447
+    ]
+  },
+  "entite_1181": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      391620,
+      391627
+    ]
+  },
+  "entite_1182": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      391847,
+      391855
+    ]
+  },
+  "entite_1183": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      392019,
+      392026
+    ]
+  },
+  "entite_1184": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      392236,
+      392244
+    ]
+  },
+  "entite_1185": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      392668,
+      392675
+    ]
+  },
+  "entite_1186": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      393203,
+      393210
+    ]
+  },
+  "entite_1187": {
+    "label": "PER",
+    "text": "mazette",
+    "jalons": [
+      393699,
+      393706
+    ]
+  },
+  "entite_1188": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      394463,
+      394470
+    ]
+  },
+  "entite_1189": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      394486,
+      394494
+    ]
+  },
+  "entite_1190": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      396346,
+      396353
+    ]
+  },
+  "entite_1191": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      396369,
+      396377
+    ]
+  },
+  "entite_1192": {
+    "label": "LOC",
+    "text": "Vorace",
+    "jalons": [
+      396779,
+      396785
+    ]
+  },
+  "entite_1193": {
+    "label": "MISC",
+    "text": "Rescapé sur la femme de",
+    "jalons": [
+      397014,
+      397037
+    ]
+  },
+  "entite_1194": {
+    "label": "MISC",
+    "text": "Miraculé ça",
+    "jalons": [
+      397038,
+      397049
+    ]
+  },
+  "entite_1195": {
+    "label": "PER",
+    "text": "forban",
+    "jalons": [
+      397127,
+      397133
+    ]
+  },
+  "entite_1196": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      397438,
+      397445
+    ]
+  },
+  "entite_1197": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      398336,
+      398344
+    ]
+  },
+  "entite_1198": {
+    "label": "PER",
+    "text": "Madame",
+    "jalons": [
+      398410,
+      398416
+    ]
+  },
+  "entite_1199": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      398763,
+      398770
+    ]
+  },
+  "entite_1200": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      399312,
+      399319
+    ]
+  },
+  "entite_1201": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      399663,
+      399670
+    ]
+  },
+  "entite_1202": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      399707,
+      399719
+    ]
+  },
+  "entite_1203": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      400169,
+      400181
+    ]
+  },
+  "entite_1204": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      400436,
+      400445
+    ]
+  },
+  "entite_1205": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      400480,
+      400492
+    ]
+  },
+  "entite_1206": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      401249,
+      401261
+    ]
+  },
+  "entite_1207": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      401845,
+      401857
+    ]
+  },
+  "entite_1208": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      404051,
+      404058
+    ]
+  },
+  "entite_1209": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      404133,
+      404141
+    ]
+  },
+  "entite_1210": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      404222,
+      404229
+    ]
+  },
+  "entite_1211": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      404318,
+      404326
+    ]
+  },
+  "entite_1212": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      404461,
+      404469
+    ]
+  },
+  "entite_1213": {
+    "label": "MISC",
+    "text": "Crotale en train de pleurer",
+    "jalons": [
+      404577,
+      404604
+    ]
+  },
+  "entite_1214": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      404828,
+      404840
+    ]
+  },
+  "entite_1215": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      405072,
+      405079
+    ]
+  },
+  "entite_1216": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      406278,
+      406285
+    ]
+  },
+  "entite_1217": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      406358,
+      406366
+    ]
+  },
+  "entite_1218": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      406558,
+      406565
+    ]
+  },
+  "entite_1219": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      406704,
+      406713
+    ]
+  },
+  "entite_1220": {
+    "label": "MISC",
+    "text": "Crotale",
+    "jalons": [
+      406958,
+      406965
+    ]
+  },
+  "entite_1221": {
+    "label": "MISC",
+    "text": "Jacques",
+    "jalons": [
+      407080,
+      407087
+    ]
+  },
+  "entite_1222": {
+    "label": "LOC",
+    "text": "Crotale",
+    "jalons": [
+      407942,
+      407949
+    ]
+  },
+  "entite_1223": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      408107,
+      408114
+    ]
+  },
+  "entite_1224": {
+    "label": "MISC",
+    "text": "Miraculé in extremis",
+    "jalons": [
+      408139,
+      408159
+    ]
+  },
+  "entite_1225": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      408195,
+      408203
+    ]
+  },
+  "entite_1226": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      409080,
+      409088
+    ]
+  },
+  "entite_1227": {
+    "label": "MISC",
+    "text": "Connaît-Tout",
+    "jalons": [
+      409803,
+      409815
+    ]
+  },
+  "entite_1228": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      410042,
+      410050
+    ]
+  },
+  "entite_1229": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      412501,
+      412509
+    ]
+  },
+  "entite_1230": {
+    "label": "LOC",
+    "text": "Domoni",
+    "jalons": [
+      412724,
+      412730
+    ]
+  },
+  "entite_1231": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      414530,
+      414537
+    ]
+  },
+  "entite_1232": {
+    "label": "LOC",
+    "text": "Grande Terre",
+    "jalons": [
+      414957,
+      414969
+    ]
+  },
+  "entite_1233": {
+    "label": "LOC",
+    "text": "Petite Terre",
+    "jalons": [
+      414972,
+      414984
+    ]
+  },
+  "entite_1234": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      415328,
+      415335
+    ]
+  },
+  "entite_1235": {
+    "label": "LOC",
+    "text": "Anjouan",
+    "jalons": [
+      422090,
+      422097
+    ]
+  },
+  "entite_1236": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      422689,
+      422696
+    ]
+  },
+  "entite_1237": {
+    "label": "LOC",
+    "text": "Français",
+    "jalons": [
+      422863,
+      422871
+    ]
+  },
+  "entite_1238": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      423563,
+      423570
+    ]
+  },
+  "entite_1239": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      423867,
+      423876
+    ]
+  },
+  "entite_1240": {
+    "label": "LOC",
+    "text": "Anjouan",
+    "jalons": [
+      423880,
+      423887
+    ]
+  },
+  "entite_1241": {
+    "label": "PER",
+    "text": "pweré",
+    "jalons": [
+      424042,
+      424047
+    ]
+  },
+  "entite_1242": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      429775,
+      429783
+    ]
+  },
+  "entite_1243": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      430122,
+      430129
+    ]
+  },
+  "entite_1244": {
+    "label": "MISC",
+    "text": "Miraculé et Rescapé",
+    "jalons": [
+      434768,
+      434787
+    ]
+  },
+  "entite_1245": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      435221,
+      435229
+    ]
+  },
+  "entite_1246": {
+    "label": "LOC",
+    "text": "Mayotte",
+    "jalons": [
+      435806,
+      435813
+    ]
+  },
+  "entite_1247": {
+    "label": "PER",
+    "text": "Miraculé",
+    "jalons": [
+      436534,
+      436542
+    ]
+  },
+  "entite_1248": {
+    "label": "MISC",
+    "text": "Miraculé",
+    "jalons": [
+      436759,
+      436767
+    ]
+  },
+  "entite_1249": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      437561,
+      437565
+    ]
+  },
+  "entite_1250": {
+    "label": "LOC",
+    "text": "Anjouan de Mayotte",
+    "jalons": [
+      439292,
+      439310
+    ]
+  },
+  "entite_1251": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      439978,
+      439982
+    ]
+  },
+  "entite_1252": {
+    "label": "MISC",
+    "text": "Voilà",
+    "jalons": [
+      440158,
+      440163
+    ]
+  },
+  "entite_1253": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      441399,
+      441403
+    ]
+  },
+  "entite_1254": {
+    "label": "MISC",
+    "text": "rie au nez",
+    "jalons": [
+      441473,
+      441483
+    ]
+  },
+  "entite_1255": {
+    "label": "MISC",
+    "text": "gasconnade",
+    "jalons": [
+      441543,
+      441553
+    ]
+  },
+  "entite_1256": {
+    "label": "MISC",
+    "text": "Rescapé",
+    "jalons": [
+      441790,
+      441797
+    ]
+  },
+  "entite_1257": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      443593,
+      443601
+    ]
+  },
+  "entite_1258": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      443778,
+      443786
+    ]
+  },
+  "entite_1259": {
+    "label": "MISC",
+    "text": "vlan",
+    "jalons": [
+      444923,
+      444927
+    ]
+  },
+  "entite_1260": {
+    "label": "PER",
+    "text": "puff",
+    "jalons": [
+      445047,
+      445051
+    ]
+  },
+  "entite_1261": {
+    "label": "MISC",
+    "text": "Dieu merci",
+    "jalons": [
+      445360,
+      445370
+    ]
+  },
+  "entite_1262": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      447812,
+      447816
+    ]
+  },
+  "entite_1263": {
+    "label": "PER",
+    "text": "Connaît-Tout",
+    "jalons": [
+      449368,
+      449380
+    ]
+  },
+  "entite_1264": {
+    "label": "PER",
+    "text": "mazette",
+    "jalons": [
+      451279,
+      451286
+    ]
+  },
+  "entite_1265": {
+    "label": "PER",
+    "text": "Épicure",
+    "jalons": [
+      451389,
+      451396
+    ]
+  },
+  "entite_1266": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      451781,
+      451785
+    ]
+  },
+  "entite_1267": {
+    "label": "PER",
+    "text": "Anguille",
+    "jalons": [
+      451988,
+      451996
+    ]
+  },
+  "entite_1268": {
+    "label": "LOC",
+    "text": "Mutsamudu",
+    "jalons": [
+      452111,
+      452120
+    ]
+  }
+}

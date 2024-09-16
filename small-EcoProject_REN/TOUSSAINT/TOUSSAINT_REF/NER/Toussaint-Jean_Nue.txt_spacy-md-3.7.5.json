@@ -1,0 +1,6746 @@
+{
+  "entite_0": {
+    "label": "MISC",
+    "text": "METADATA",
+    "jalons": [
+      1,
+      9
+    ]
+  },
+  "entite_1": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      35,
+      43
+    ]
+  },
+  "entite_2": {
+    "label": "ORG",
+    "text": "METADATA",
+    "jalons": [
+      49,
+      57
+    ]
+  },
+  "entite_3": {
+    "label": "MISC",
+    "text": "JEAN-PHILIPPE TOUSSAINT\nNUE\n",
+    "jalons": [
+      59,
+      87
+    ]
+  },
+  "entite_4": {
+    "label": "MISC",
+    "text": "LES ÉDITIONS DE MINUIT\n",
+    "jalons": [
+      87,
+      110
+    ]
+  },
+  "entite_5": {
+    "label": "PER",
+    "text": "Dante\n",
+    "jalons": [
+      157,
+      163
+    ]
+  },
+  "entite_6": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      243,
+      248
+    ]
+  },
+  "entite_7": {
+    "label": "LOC",
+    "text": "Vénus",
+    "jalons": [
+      409,
+      414
+    ]
+  },
+  "entite_8": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      418,
+      423
+    ]
+  },
+  "entite_9": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      920,
+      925
+    ]
+  },
+  "entite_10": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      988,
+      993
+    ]
+  },
+  "entite_11": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      1333,
+      1339
+    ]
+  },
+  "entite_12": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      1343,
+      1348
+    ]
+  },
+  "entite_13": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      1418,
+      1423
+    ]
+  },
+  "entite_14": {
+    "label": "LOC",
+    "text": "Nue",
+    "jalons": [
+      1636,
+      1639
+    ]
+  },
+  "entite_15": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      2346,
+      2352
+    ]
+  },
+  "entite_16": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      2356,
+      2361
+    ]
+  },
+  "entite_17": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      2918,
+      2923
+    ]
+  },
+  "entite_18": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      2927,
+      2932
+    ]
+  },
+  "entite_19": {
+    "label": "PER",
+    "text": "Léonard de Vinci",
+    "jalons": [
+      3097,
+      3113
+    ]
+  },
+  "entite_20": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      3288,
+      3293
+    ]
+  },
+  "entite_21": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      3628,
+      3633
+    ]
+  },
+  "entite_22": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      3648,
+      3653
+    ]
+  },
+  "entite_23": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      3740,
+      3745
+    ]
+  },
+  "entite_24": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      3750,
+      3755
+    ]
+  },
+  "entite_25": {
+    "label": "LOC",
+    "text": "Shinjuku",
+    "jalons": [
+      3819,
+      3827
+    ]
+  },
+  "entite_26": {
+    "label": "PER",
+    "text": "Tristani",
+    "jalons": [
+      3847,
+      3855
+    ]
+  },
+  "entite_27": {
+    "label": "PER",
+    "text": "Cristiani",
+    "jalons": [
+      3860,
+      3869
+    ]
+  },
+  "entite_28": {
+    "label": "PER",
+    "text": "Toussaint",
+    "jalons": [
+      3912,
+      3921
+    ]
+  },
+  "entite_29": {
+    "label": "LOC",
+    "text": "bordeaux",
+    "jalons": [
+      4004,
+      4012
+    ]
+  },
+  "entite_30": {
+    "label": "PER",
+    "text": "Tristani",
+    "jalons": [
+      4017,
+      4025
+    ]
+  },
+  "entite_31": {
+    "label": "PER",
+    "text": "Tristani",
+    "jalons": [
+      4186,
+      4194
+    ]
+  },
+  "entite_32": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      4416,
+      4421
+    ]
+  },
+  "entite_33": {
+    "label": "PER",
+    "text": "Tristani",
+    "jalons": [
+      4626,
+      4634
+    ]
+  },
+  "entite_34": {
+    "label": "MISC",
+    "text": "Piombu !",
+    "jalons": [
+      5051,
+      5059
+    ]
+  },
+  "entite_35": {
+    "label": "PER",
+    "text": "Tristani",
+    "jalons": [
+      5063,
+      5071
+    ]
+  },
+  "entite_36": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      5151,
+      5156
+    ]
+  },
+  "entite_37": {
+    "label": "LOC",
+    "text": "Shinjuku",
+    "jalons": [
+      5443,
+      5451
+    ]
+  },
+  "entite_38": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      5610,
+      5615
+    ]
+  },
+  "entite_39": {
+    "label": "PER",
+    "text": "Toussaint",
+    "jalons": [
+      5803,
+      5812
+    ]
+  },
+  "entite_40": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      6096,
+      6101
+    ]
+  },
+  "entite_41": {
+    "label": "MISC",
+    "text": "Maquis",
+    "jalons": [
+      6139,
+      6145
+    ]
+  },
+  "entite_42": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      6170,
+      6175
+    ]
+  },
+  "entite_43": {
+    "label": "LOC",
+    "text": "Allemand",
+    "jalons": [
+      6227,
+      6235
+    ]
+  },
+  "entite_44": {
+    "label": "LOC",
+    "text": "Cévennes",
+    "jalons": [
+      6254,
+      6262
+    ]
+  },
+  "entite_45": {
+    "label": "LOC",
+    "text": "Hokkaido",
+    "jalons": [
+      6281,
+      6289
+    ]
+  },
+  "entite_46": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      6349,
+      6354
+    ]
+  },
+  "entite_47": {
+    "label": "LOC",
+    "text": "Cévenol",
+    "jalons": [
+      6793,
+      6800
+    ]
+  },
+  "entite_48": {
+    "label": "LOC",
+    "text": "Hokkaido",
+    "jalons": [
+      6844,
+      6852
+    ]
+  },
+  "entite_49": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      7060,
+      7065
+    ]
+  },
+  "entite_50": {
+    "label": "MISC",
+    "text": "Allons-y Allons-o",
+    "jalons": [
+      7090,
+      7107
+    ]
+  },
+  "entite_51": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      7161,
+      7166
+    ]
+  },
+  "entite_52": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      7719,
+      7724
+    ]
+  },
+  "entite_53": {
+    "label": "MISC",
+    "text": "Allons-y Allons-o",
+    "jalons": [
+      7938,
+      7955
+    ]
+  },
+  "entite_54": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      7958,
+      7963
+    ]
+  },
+  "entite_55": {
+    "label": "MISC",
+    "text": "Russe",
+    "jalons": [
+      8022,
+      8027
+    ]
+  },
+  "entite_56": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      8067,
+      8072
+    ]
+  },
+  "entite_57": {
+    "label": "MISC",
+    "text": "Rezo",
+    "jalons": [
+      8158,
+      8162
+    ]
+  },
+  "entite_58": {
+    "label": "LOC",
+    "text": "Shibuya",
+    "jalons": [
+      8166,
+      8173
+    ]
+  },
+  "entite_59": {
+    "label": "LOC",
+    "text": "Hakodate",
+    "jalons": [
+      8711,
+      8719
+    ]
+  },
+  "entite_60": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      8757,
+      8763
+    ]
+  },
+  "entite_61": {
+    "label": "MISC",
+    "text": "iPod",
+    "jalons": [
+      9453,
+      9457
+    ]
+  },
+  "entite_62": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      9780,
+      9785
+    ]
+  },
+  "entite_63": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      9825,
+      9831
+    ]
+  },
+  "entite_64": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      15224,
+      15229
+    ]
+  },
+  "entite_65": {
+    "label": "PER",
+    "text": "Bill Viola",
+    "jalons": [
+      15560,
+      15570
+    ]
+  },
+  "entite_66": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      15932,
+      15937
+    ]
+  },
+  "entite_67": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      16140,
+      16145
+    ]
+  },
+  "entite_68": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      16266,
+      16271
+    ]
+  },
+  "entite_69": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      16519,
+      16524
+    ]
+  },
+  "entite_70": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      17285,
+      17290
+    ]
+  },
+  "entite_71": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      17893,
+      17898
+    ]
+  },
+  "entite_72": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      18214,
+      18220
+    ]
+  },
+  "entite_73": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      18571,
+      18581
+    ]
+  },
+  "entite_74": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      18648,
+      18653
+    ]
+  },
+  "entite_75": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      18671,
+      18676
+    ]
+  },
+  "entite_76": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      18761,
+      18788
+    ]
+  },
+  "entite_77": {
+    "label": "LOC",
+    "text": "Roissy",
+    "jalons": [
+      18906,
+      18912
+    ]
+  },
+  "entite_78": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      18928,
+      18933
+    ]
+  },
+  "entite_79": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      19009,
+      19014
+    ]
+  },
+  "entite_80": {
+    "label": "LOC",
+    "text": "La Vrillière",
+    "jalons": [
+      19190,
+      19202
+    ]
+  },
+  "entite_81": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      19285,
+      19290
+    ]
+  },
+  "entite_82": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      19365,
+      19375
+    ]
+  },
+  "entite_83": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      19430,
+      19435
+    ]
+  },
+  "entite_84": {
+    "label": "PER",
+    "text": "Toi",
+    "jalons": [
+      19873,
+      19876
+    ]
+  },
+  "entite_85": {
+    "label": "MISC",
+    "text": "mmmmhhh",
+    "jalons": [
+      19906,
+      19913
+    ]
+  },
+  "entite_86": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      20084,
+      20111
+    ]
+  },
+  "entite_87": {
+    "label": "MISC",
+    "text": "Un pantalon de pyjama",
+    "jalons": [
+      20786,
+      20807
+    ]
+  },
+  "entite_88": {
+    "label": "LOC",
+    "text": "Bourse",
+    "jalons": [
+      21005,
+      21011
+    ]
+  },
+  "entite_89": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      21064,
+      21069
+    ]
+  },
+  "entite_90": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      21267,
+      21272
+    ]
+  },
+  "entite_91": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      21275,
+      21280
+    ]
+  },
+  "entite_92": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      21476,
+      21486
+    ]
+  },
+  "entite_93": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      21538,
+      21543
+    ]
+  },
+  "entite_94": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      22036,
+      22041
+    ]
+  },
+  "entite_95": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      22086,
+      22091
+    ]
+  },
+  "entite_96": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      22202,
+      22207
+    ]
+  },
+  "entite_97": {
+    "label": "LOC",
+    "text": "La Vrillière",
+    "jalons": [
+      22259,
+      22271
+    ]
+  },
+  "entite_98": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      22464,
+      22474
+    ]
+  },
+  "entite_99": {
+    "label": "PER",
+    "text": "La Vrillière",
+    "jalons": [
+      22688,
+      22700
+    ]
+  },
+  "entite_100": {
+    "label": "LOC",
+    "text": "La Vrillière",
+    "jalons": [
+      22981,
+      22993
+    ]
+  },
+  "entite_101": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      23042,
+      23069
+    ]
+  },
+  "entite_102": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      23179,
+      23184
+    ]
+  },
+  "entite_103": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      23660,
+      23665
+    ]
+  },
+  "entite_104": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      24106,
+      24111
+    ]
+  },
+  "entite_105": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      24361,
+      24371
+    ]
+  },
+  "entite_106": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      24655,
+      24660
+    ]
+  },
+  "entite_107": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      24800,
+      24805
+    ]
+  },
+  "entite_108": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      25072,
+      25077
+    ]
+  },
+  "entite_109": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      25135,
+      25145
+    ]
+  },
+  "entite_110": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      25341,
+      25351
+    ]
+  },
+  "entite_111": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      25363,
+      25368
+    ]
+  },
+  "entite_112": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      25484,
+      25489
+    ]
+  },
+  "entite_113": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      25986,
+      25991
+    ]
+  },
+  "entite_114": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      26175,
+      26180
+    ]
+  },
+  "entite_115": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      26628,
+      26633
+    ]
+  },
+  "entite_116": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      26686,
+      26691
+    ]
+  },
+  "entite_117": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      27235,
+      27240
+    ]
+  },
+  "entite_118": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      27447,
+      27452
+    ]
+  },
+  "entite_119": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      27738,
+      27743
+    ]
+  },
+  "entite_120": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28045,
+      28050
+    ]
+  },
+  "entite_121": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28078,
+      28083
+    ]
+  },
+  "entite_122": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28350,
+      28355
+    ]
+  },
+  "entite_123": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28375,
+      28380
+    ]
+  },
+  "entite_124": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      28469,
+      28474
+    ]
+  },
+  "entite_125": {
+    "label": "LOC",
+    "text": "Chine",
+    "jalons": [
+      28481,
+      28486
+    ]
+  },
+  "entite_126": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28582,
+      28587
+    ]
+  },
+  "entite_127": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      28697,
+      28702
+    ]
+  },
+  "entite_128": {
+    "label": "MISC",
+    "text": "Dieu",
+    "jalons": [
+      29068,
+      29072
+    ]
+  },
+  "entite_129": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      29293,
+      29298
+    ]
+  },
+  "entite_130": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      29572,
+      29577
+    ]
+  },
+  "entite_131": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      29887,
+      29892
+    ]
+  },
+  "entite_132": {
+    "label": "MISC",
+    "text": "Allons-y Allons-o",
+    "jalons": [
+      30573,
+      30590
+    ]
+  },
+  "entite_133": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      31251,
+      31261
+    ]
+  },
+  "entite_134": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      31810,
+      31820
+    ]
+  },
+  "entite_135": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      31857,
+      31862
+    ]
+  },
+  "entite_136": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      31922,
+      31927
+    ]
+  },
+  "entite_137": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      32005,
+      32015
+    ]
+  },
+  "entite_138": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      32065,
+      32070
+    ]
+  },
+  "entite_139": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32094,
+      32099
+    ]
+  },
+  "entite_140": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32221,
+      32226
+    ]
+  },
+  "entite_141": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32317,
+      32322
+    ]
+  },
+  "entite_142": {
+    "label": "LOC",
+    "text": "La Vrillière",
+    "jalons": [
+      32392,
+      32404
+    ]
+  },
+  "entite_143": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32459,
+      32464
+    ]
+  },
+  "entite_144": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      32770,
+      32780
+    ]
+  },
+  "entite_145": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32788,
+      32793
+    ]
+  },
+  "entite_146": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      32808,
+      32813
+    ]
+  },
+  "entite_147": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      33797,
+      33802
+    ]
+  },
+  "entite_148": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      33868,
+      33873
+    ]
+  },
+  "entite_149": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      33926,
+      33936
+    ]
+  },
+  "entite_150": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      34029,
+      34041
+    ]
+  },
+  "entite_151": {
+    "label": "LOC",
+    "text": "suçoté",
+    "jalons": [
+      34112,
+      34118
+    ]
+  },
+  "entite_152": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      34466,
+      34471
+    ]
+  },
+  "entite_153": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      35164,
+      35169
+    ]
+  },
+  "entite_154": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      35363,
+      35390
+    ]
+  },
+  "entite_155": {
+    "label": "LOC",
+    "text": "Bourse",
+    "jalons": [
+      35530,
+      35536
+    ]
+  },
+  "entite_156": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      36322,
+      36327
+    ]
+  },
+  "entite_157": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      36333,
+      36338
+    ]
+  },
+  "entite_158": {
+    "label": "LOC",
+    "text": "Shinjuku",
+    "jalons": [
+      36570,
+      36578
+    ]
+  },
+  "entite_159": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      36611,
+      36616
+    ]
+  },
+  "entite_160": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      36770,
+      36775
+    ]
+  },
+  "entite_161": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      36843,
+      36870
+    ]
+  },
+  "entite_162": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      36978,
+      36988
+    ]
+  },
+  "entite_163": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      37002,
+      37007
+    ]
+  },
+  "entite_164": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      37129,
+      37151
+    ]
+  },
+  "entite_165": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      37155,
+      37164
+    ]
+  },
+  "entite_166": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      37200,
+      37205
+    ]
+  },
+  "entite_167": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      37250,
+      37255
+    ]
+  },
+  "entite_168": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      37272,
+      37277
+    ]
+  },
+  "entite_169": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      37302,
+      37307
+    ]
+  },
+  "entite_170": {
+    "label": "LOC",
+    "text": "Kyoto",
+    "jalons": [
+      37349,
+      37354
+    ]
+  },
+  "entite_171": {
+    "label": "LOC",
+    "text": "Toibu",
+    "jalons": [
+      37436,
+      37441
+    ]
+  },
+  "entite_172": {
+    "label": "ORG",
+    "text": "JR",
+    "jalons": [
+      37466,
+      37468
+    ]
+  },
+  "entite_173": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      37472,
+      37481
+    ]
+  },
+  "entite_174": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      37529,
+      37534
+    ]
+  },
+  "entite_175": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      37666,
+      37671
+    ]
+  },
+  "entite_176": {
+    "label": "LOC",
+    "text": "Shinjuku",
+    "jalons": [
+      37880,
+      37888
+    ]
+  },
+  "entite_177": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      38001,
+      38023
+    ]
+  },
+  "entite_178": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      38027,
+      38036
+    ]
+  },
+  "entite_179": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      38210,
+      38219
+    ]
+  },
+  "entite_180": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      39177,
+      39182
+    ]
+  },
+  "entite_181": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      39227,
+      39232
+    ]
+  },
+  "entite_182": {
+    "label": "LOC",
+    "text": "JR",
+    "jalons": [
+      39600,
+      39602
+    ]
+  },
+  "entite_183": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      39606,
+      39615
+    ]
+  },
+  "entite_184": {
+    "label": "MISC",
+    "text": "SORRY",
+    "jalons": [
+      40160,
+      40165
+    ]
+  },
+  "entite_185": {
+    "label": "ORG",
+    "text": "SONY",
+    "jalons": [
+      40178,
+      40182
+    ]
+  },
+  "entite_186": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      40359,
+      40364
+    ]
+  },
+  "entite_187": {
+    "label": "PER",
+    "text": "Gotenda",
+    "jalons": [
+      40530,
+      40537
+    ]
+  },
+  "entite_188": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      40750,
+      40755
+    ]
+  },
+  "entite_189": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      40860,
+      40882
+    ]
+  },
+  "entite_190": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      40886,
+      40895
+    ]
+  },
+  "entite_191": {
+    "label": "MISC",
+    "text": "Un policier harnaché",
+    "jalons": [
+      41354,
+      41374
+    ]
+  },
+  "entite_192": {
+    "label": "LOC",
+    "text": "Opéra",
+    "jalons": [
+      41715,
+      41720
+    ]
+  },
+  "entite_193": {
+    "label": "MISC",
+    "text": "it’",
+    "jalons": [
+      42326,
+      42329
+    ]
+  },
+  "entite_194": {
+    "label": "PER",
+    "text": "jirojiro minai",
+    "jalons": [
+      42494,
+      42508
+    ]
+  },
+  "entite_195": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      43706,
+      43728
+    ]
+  },
+  "entite_196": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      43732,
+      43741
+    ]
+  },
+  "entite_197": {
+    "label": "MISC",
+    "text": "Un couloir de lanternes",
+    "jalons": [
+      43840,
+      43863
+    ]
+  },
+  "entite_198": {
+    "label": "ORG",
+    "text": "PRESS",
+    "jalons": [
+      44467,
+      44472
+    ]
+  },
+  "entite_199": {
+    "label": "MISC",
+    "text": "GUESTS",
+    "jalons": [
+      44476,
+      44482
+    ]
+  },
+  "entite_200": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      44903,
+      44908
+    ]
+  },
+  "entite_201": {
+    "label": "ORG",
+    "text": "badgés",
+    "jalons": [
+      45091,
+      45097
+    ]
+  },
+  "entite_202": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      45122,
+      45127
+    ]
+  },
+  "entite_203": {
+    "label": "LOC",
+    "text": "Débarrassées",
+    "jalons": [
+      45342,
+      45354
+    ]
+  },
+  "entite_204": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      46854,
+      46859
+    ]
+  },
+  "entite_205": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      46910,
+      46915
+    ]
+  },
+  "entite_206": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      46947,
+      46952
+    ]
+  },
+  "entite_207": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      46980,
+      46985
+    ]
+  },
+  "entite_208": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      47057,
+      47062
+    ]
+  },
+  "entite_209": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      47077,
+      47082
+    ]
+  },
+  "entite_210": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      47100,
+      47105
+    ]
+  },
+  "entite_211": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      47179,
+      47184
+    ]
+  },
+  "entite_212": {
+    "label": "LOC",
+    "text": "Kyoto",
+    "jalons": [
+      48157,
+      48162
+    ]
+  },
+  "entite_213": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      51523,
+      51528
+    ]
+  },
+  "entite_214": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      51659,
+      51668
+    ]
+  },
+  "entite_215": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      52514,
+      52519
+    ]
+  },
+  "entite_216": {
+    "label": "PER",
+    "text": "progressai",
+    "jalons": [
+      52809,
+      52819
+    ]
+  },
+  "entite_217": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      52999,
+      53004
+    ]
+  },
+  "entite_218": {
+    "label": "PER",
+    "text": "Accroupi",
+    "jalons": [
+      53006,
+      53014
+    ]
+  },
+  "entite_219": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      53049,
+      53054
+    ]
+  },
+  "entite_220": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      54022,
+      54027
+    ]
+  },
+  "entite_221": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      54397,
+      54402
+    ]
+  },
+  "entite_222": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      54586,
+      54591
+    ]
+  },
+  "entite_223": {
+    "label": "LOC",
+    "text": "ligne Yamanote",
+    "jalons": [
+      55307,
+      55321
+    ]
+  },
+  "entite_224": {
+    "label": "LOC",
+    "text": "Kyoto",
+    "jalons": [
+      55767,
+      55772
+    ]
+  },
+  "entite_225": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      55813,
+      55818
+    ]
+  },
+  "entite_226": {
+    "label": "PER",
+    "text": "Accroupi",
+    "jalons": [
+      55879,
+      55887
+    ]
+  },
+  "entite_227": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      55949,
+      55954
+    ]
+  },
+  "entite_228": {
+    "label": "PER",
+    "text": "Morel",
+    "jalons": [
+      56472,
+      56477
+    ]
+  },
+  "entite_229": {
+    "label": "LOC",
+    "text": "Bioy Casares",
+    "jalons": [
+      56498,
+      56510
+    ]
+  },
+  "entite_230": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      58150,
+      58155
+    ]
+  },
+  "entite_231": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      58218,
+      58245
+    ]
+  },
+  "entite_232": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      58634,
+      58639
+    ]
+  },
+  "entite_233": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      58645,
+      58650
+    ]
+  },
+  "entite_234": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      58664,
+      58669
+    ]
+  },
+  "entite_235": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      58685,
+      58707
+    ]
+  },
+  "entite_236": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      58711,
+      58720
+    ]
+  },
+  "entite_237": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      58746,
+      58751
+    ]
+  },
+  "entite_238": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      58778,
+      58783
+    ]
+  },
+  "entite_239": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      58856,
+      58883
+    ]
+  },
+  "entite_240": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      58919,
+      58924
+    ]
+  },
+  "entite_241": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      58943,
+      58953
+    ]
+  },
+  "entite_242": {
+    "label": "MISC",
+    "text": "Où étais-je alors ?\n",
+    "jalons": [
+      58956,
+      58976
+    ]
+  },
+  "entite_243": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      59129,
+      59134
+    ]
+  },
+  "entite_244": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      59218,
+      59239
+    ]
+  },
+  "entite_245": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      59270,
+      59275
+    ]
+  },
+  "entite_246": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      59279,
+      59301
+    ]
+  },
+  "entite_247": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      59305,
+      59314
+    ]
+  },
+  "entite_248": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      59353,
+      59374
+    ]
+  },
+  "entite_249": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      59745,
+      59766
+    ]
+  },
+  "entite_250": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      59826,
+      59831
+    ]
+  },
+  "entite_251": {
+    "label": "LOC",
+    "text": "Ginza",
+    "jalons": [
+      59928,
+      59933
+    ]
+  },
+  "entite_252": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      59969,
+      59986
+    ]
+  },
+  "entite_253": {
+    "label": "LOC",
+    "text": "Massif",
+    "jalons": [
+      59988,
+      59994
+    ]
+  },
+  "entite_254": {
+    "label": "PER",
+    "text": "Antonello",
+    "jalons": [
+      60158,
+      60167
+    ]
+  },
+  "entite_255": {
+    "label": "LOC",
+    "text": "Messine",
+    "jalons": [
+      60171,
+      60178
+    ]
+  },
+  "entite_256": {
+    "label": "PER",
+    "text": "Luca Signorelli",
+    "jalons": [
+      60214,
+      60229
+    ]
+  },
+  "entite_257": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      60233,
+      60250
+    ]
+  },
+  "entite_258": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      60326,
+      60331
+    ]
+  },
+  "entite_259": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      60468,
+      60490
+    ]
+  },
+  "entite_260": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      60494,
+      60503
+    ]
+  },
+  "entite_261": {
+    "label": "MISC",
+    "text": "MAQUIS",
+    "jalons": [
+      60584,
+      60590
+    ]
+  },
+  "entite_262": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      60664,
+      60669
+    ]
+  },
+  "entite_263": {
+    "label": "ORG",
+    "text": "Spiral",
+    "jalons": [
+      60673,
+      60679
+    ]
+  },
+  "entite_264": {
+    "label": "MISC",
+    "text": "Maquis",
+    "jalons": [
+      60682,
+      60688
+    ]
+  },
+  "entite_265": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      60761,
+      60782
+    ]
+  },
+  "entite_266": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      60832,
+      60853
+    ]
+  },
+  "entite_267": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      60987,
+      60992
+    ]
+  },
+  "entite_268": {
+    "label": "PER",
+    "text": "Marie Madeleine Marguerite de Montalte",
+    "jalons": [
+      61057,
+      61095
+    ]
+  },
+  "entite_269": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      61193,
+      61202
+    ]
+  },
+  "entite_270": {
+    "label": "PER",
+    "text": "Tapotant",
+    "jalons": [
+      61204,
+      61212
+    ]
+  },
+  "entite_271": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      61288,
+      61305
+    ]
+  },
+  "entite_272": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      61307,
+      61328
+    ]
+  },
+  "entite_273": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      61464,
+      61469
+    ]
+  },
+  "entite_274": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      61503,
+      61508
+    ]
+  },
+  "entite_275": {
+    "label": "LOC",
+    "text": "Ginza",
+    "jalons": [
+      61873,
+      61878
+    ]
+  },
+  "entite_276": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      62052,
+      62057
+    ]
+  },
+  "entite_277": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      62353,
+      62375
+    ]
+  },
+  "entite_278": {
+    "label": "LOC",
+    "text": "Shinagawa",
+    "jalons": [
+      62379,
+      62388
+    ]
+  },
+  "entite_279": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      62489,
+      62510
+    ]
+  },
+  "entite_280": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      62769,
+      62786
+    ]
+  },
+  "entite_281": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      63105,
+      63122
+    ]
+  },
+  "entite_282": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      63159,
+      63180
+    ]
+  },
+  "entite_283": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      63590,
+      63611
+    ]
+  },
+  "entite_284": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      63771,
+      63776
+    ]
+  },
+  "entite_285": {
+    "label": "LOC",
+    "text": "Shinjuku",
+    "jalons": [
+      63900,
+      63908
+    ]
+  },
+  "entite_286": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      64350,
+      64371
+    ]
+  },
+  "entite_287": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      64444,
+      64465
+    ]
+  },
+  "entite_288": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      64835,
+      64840
+    ]
+  },
+  "entite_289": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      64912,
+      64933
+    ]
+  },
+  "entite_290": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      64956,
+      64973
+    ]
+  },
+  "entite_291": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      65227,
+      65248
+    ]
+  },
+  "entite_292": {
+    "label": "ORG",
+    "text": "Demeurant",
+    "jalons": [
+      66393,
+      66402
+    ]
+  },
+  "entite_293": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      66574,
+      66579
+    ]
+  },
+  "entite_294": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      67224,
+      67229
+    ]
+  },
+  "entite_295": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      68199,
+      68220
+    ]
+  },
+  "entite_296": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68380,
+      68385
+    ]
+  },
+  "entite_297": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      68448,
+      68469
+    ]
+  },
+  "entite_298": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68634,
+      68639
+    ]
+  },
+  "entite_299": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68661,
+      68666
+    ]
+  },
+  "entite_300": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68686,
+      68691
+    ]
+  },
+  "entite_301": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68719,
+      68724
+    ]
+  },
+  "entite_302": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      68751,
+      68756
+    ]
+  },
+  "entite_303": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      68766,
+      68771
+    ]
+  },
+  "entite_304": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      68942,
+      68963
+    ]
+  },
+  "entite_305": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      69030,
+      69035
+    ]
+  },
+  "entite_306": {
+    "label": "ORG",
+    "text": "Contemporary Art Space",
+    "jalons": [
+      69047,
+      69069
+    ]
+  },
+  "entite_307": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      69152,
+      69157
+    ]
+  },
+  "entite_308": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      69167,
+      69172
+    ]
+  },
+  "entite_309": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      69217,
+      69238
+    ]
+  },
+  "entite_310": {
+    "label": "LOC",
+    "text": "Japon",
+    "jalons": [
+      69449,
+      69454
+    ]
+  },
+  "entite_311": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      69614,
+      69619
+    ]
+  },
+  "entite_312": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      69634,
+      69639
+    ]
+  },
+  "entite_313": {
+    "label": "ORG",
+    "text": "Tokyo Shimbun Hai",
+    "jalons": [
+      69768,
+      69785
+    ]
+  },
+  "entite_314": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      69916,
+      69921
+    ]
+  },
+  "entite_315": {
+    "label": "MISC",
+    "text": "Tokyo Race-course",
+    "jalons": [
+      70358,
+      70375
+    ]
+  },
+  "entite_316": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      70418,
+      70423
+    ]
+  },
+  "entite_317": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      70447,
+      70468
+    ]
+  },
+  "entite_318": {
+    "label": "PER",
+    "text": "Blotti",
+    "jalons": [
+      70964,
+      70970
+    ]
+  },
+  "entite_319": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      71047,
+      71068
+    ]
+  },
+  "entite_320": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      71799,
+      71804
+    ]
+  },
+  "entite_321": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      71919,
+      71940
+    ]
+  },
+  "entite_322": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      72313,
+      72318
+    ]
+  },
+  "entite_323": {
+    "label": "MISC",
+    "text": "Mon Dieu",
+    "jalons": [
+      72462,
+      72470
+    ]
+  },
+  "entite_324": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      72665,
+      72670
+    ]
+  },
+  "entite_325": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      72749,
+      72766
+    ]
+  },
+  "entite_326": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      73116,
+      73137
+    ]
+  },
+  "entite_327": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      73454,
+      73471
+    ]
+  },
+  "entite_328": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      73556,
+      73561
+    ]
+  },
+  "entite_329": {
+    "label": "PER",
+    "text": "Jean-Christophe de G. Mais",
+    "jalons": [
+      73613,
+      73639
+    ]
+  },
+  "entite_330": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      73700,
+      73705
+    ]
+  },
+  "entite_331": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      73761,
+      73778
+    ]
+  },
+  "entite_332": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      73780,
+      73785
+    ]
+  },
+  "entite_333": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      73898,
+      73919
+    ]
+  },
+  "entite_334": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      73958,
+      73963
+    ]
+  },
+  "entite_335": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      73986,
+      73991
+    ]
+  },
+  "entite_336": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      74028,
+      74045
+    ]
+  },
+  "entite_337": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      74106,
+      74123
+    ]
+  },
+  "entite_338": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      74352,
+      74369
+    ]
+  },
+  "entite_339": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      74847,
+      74868
+    ]
+  },
+  "entite_340": {
+    "label": "PER",
+    "text": "hein",
+    "jalons": [
+      74898,
+      74902
+    ]
+  },
+  "entite_341": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      75018,
+      75039
+    ]
+  },
+  "entite_342": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      75169,
+      75174
+    ]
+  },
+  "entite_343": {
+    "label": "MISC",
+    "text": "Ça",
+    "jalons": [
+      75176,
+      75178
+    ]
+  },
+  "entite_344": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      75317,
+      75322
+    ]
+  },
+  "entite_345": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      75390,
+      75411
+    ]
+  },
+  "entite_346": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      76024,
+      76045
+    ]
+  },
+  "entite_347": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      76159,
+      76180
+    ]
+  },
+  "entite_348": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      76332,
+      76349
+    ]
+  },
+  "entite_349": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      76357,
+      76362
+    ]
+  },
+  "entite_350": {
+    "label": "PER",
+    "text": "hein",
+    "jalons": [
+      77210,
+      77214
+    ]
+  },
+  "entite_351": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      77226,
+      77243
+    ]
+  },
+  "entite_352": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      77266,
+      77271
+    ]
+  },
+  "entite_353": {
+    "label": "PER",
+    "text": "Jean-Christophe de G. les regarda",
+    "jalons": [
+      77311,
+      77344
+    ]
+  },
+  "entite_354": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      77361,
+      77366
+    ]
+  },
+  "entite_355": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      77538,
+      77559
+    ]
+  },
+  "entite_356": {
+    "label": "PER",
+    "text": "Pierre Signorelli",
+    "jalons": [
+      77906,
+      77923
+    ]
+  },
+  "entite_357": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      78280,
+      78301
+    ]
+  },
+  "entite_358": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      78337,
+      78342
+    ]
+  },
+  "entite_359": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      78613,
+      78618
+    ]
+  },
+  "entite_360": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      78864,
+      78885
+    ]
+  },
+  "entite_361": {
+    "label": "MISC",
+    "text": "Essayez",
+    "jalons": [
+      78908,
+      78915
+    ]
+  },
+  "entite_362": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      78945,
+      78950
+    ]
+  },
+  "entite_363": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      79192,
+      79197
+    ]
+  },
+  "entite_364": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      79276,
+      79297
+    ]
+  },
+  "entite_365": {
+    "label": "MISC",
+    "text": "Un puissant sentiment de honte l’envahit",
+    "jalons": [
+      79408,
+      79448
+    ]
+  },
+  "entite_366": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      79761,
+      79782
+    ]
+  },
+  "entite_367": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      80159,
+      80164
+    ]
+  },
+  "entite_368": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      80682,
+      80687
+    ]
+  },
+  "entite_369": {
+    "label": "MISC",
+    "text": "Une main en équilibre sur le revêtement d’aluminium",
+    "jalons": [
+      81095,
+      81146
+    ]
+  },
+  "entite_370": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      81217,
+      81222
+    ]
+  },
+  "entite_371": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      81392,
+      81397
+    ]
+  },
+  "entite_372": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      82362,
+      82367
+    ]
+  },
+  "entite_373": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      82378,
+      82383
+    ]
+  },
+  "entite_374": {
+    "label": "LOC",
+    "text": "col lavallière",
+    "jalons": [
+      82583,
+      82597
+    ]
+  },
+  "entite_375": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      83324,
+      83329
+    ]
+  },
+  "entite_376": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      83686,
+      83691
+    ]
+  },
+  "entite_377": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      83830,
+      83835
+    ]
+  },
+  "entite_378": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      83910,
+      83915
+    ]
+  },
+  "entite_379": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      84131,
+      84136
+    ]
+  },
+  "entite_380": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      84222,
+      84227
+    ]
+  },
+  "entite_381": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      84668,
+      84673
+    ]
+  },
+  "entite_382": {
+    "label": "PER",
+    "text": "Accroupi",
+    "jalons": [
+      85450,
+      85458
+    ]
+  },
+  "entite_383": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      86180,
+      86185
+    ]
+  },
+  "entite_384": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      86492,
+      86502
+    ]
+  },
+  "entite_385": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      86547,
+      86552
+    ]
+  },
+  "entite_386": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      86778,
+      86783
+    ]
+  },
+  "entite_387": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      86902,
+      86929
+    ]
+  },
+  "entite_388": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      86975,
+      86980
+    ]
+  },
+  "entite_389": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      87133,
+      87138
+    ]
+  },
+  "entite_390": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      87381,
+      87400
+    ]
+  },
+  "entite_391": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      87536,
+      87541
+    ]
+  },
+  "entite_392": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      87921,
+      87926
+    ]
+  },
+  "entite_393": {
+    "label": "PER",
+    "text": "Jean-Christophe de G.",
+    "jalons": [
+      88059,
+      88080
+    ]
+  },
+  "entite_394": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      88229,
+      88242
+    ]
+  },
+  "entite_395": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      88276,
+      88281
+    ]
+  },
+  "entite_396": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      88309,
+      88314
+    ]
+  },
+  "entite_397": {
+    "label": "LOC",
+    "text": "rue du Vieux-Colombier",
+    "jalons": [
+      88490,
+      88512
+    ]
+  },
+  "entite_398": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      88630,
+      88649
+    ]
+  },
+  "entite_399": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      89349,
+      89354
+    ]
+  },
+  "entite_400": {
+    "label": "PER",
+    "text": "Marie du regard",
+    "jalons": [
+      89724,
+      89739
+    ]
+  },
+  "entite_401": {
+    "label": "LOC",
+    "text": "Seine",
+    "jalons": [
+      89907,
+      89912
+    ]
+  },
+  "entite_402": {
+    "label": "LOC",
+    "text": "Invalides",
+    "jalons": [
+      89925,
+      89934
+    ]
+  },
+  "entite_403": {
+    "label": "ORG",
+    "text": "Mercedes",
+    "jalons": [
+      89964,
+      89972
+    ]
+  },
+  "entite_404": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      90042,
+      90047
+    ]
+  },
+  "entite_405": {
+    "label": "PER",
+    "text": "flamboyances habituelles",
+    "jalons": [
+      90469,
+      90493
+    ]
+  },
+  "entite_406": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      90553,
+      90558
+    ]
+  },
+  "entite_407": {
+    "label": "LOC",
+    "text": "pompon",
+    "jalons": [
+      90980,
+      90986
+    ]
+  },
+  "entite_408": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      91286,
+      91299
+    ]
+  },
+  "entite_409": {
+    "label": "LOC",
+    "text": "lèse-majesté",
+    "jalons": [
+      92479,
+      92491
+    ]
+  },
+  "entite_410": {
+    "label": "LOC",
+    "text": "La Vrillière",
+    "jalons": [
+      93212,
+      93224
+    ]
+  },
+  "entite_411": {
+    "label": "PER",
+    "text": "vieux tee-shirt",
+    "jalons": [
+      93328,
+      93343
+    ]
+  },
+  "entite_412": {
+    "label": "MISC",
+    "text": "Un des serveurs",
+    "jalons": [
+      93909,
+      93924
+    ]
+  },
+  "entite_413": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      93987,
+      93992
+    ]
+  },
+  "entite_414": {
+    "label": "MISC",
+    "text": "Le garçon acquiesça",
+    "jalons": [
+      94169,
+      94188
+    ]
+  },
+  "entite_415": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      94268,
+      94273
+    ]
+  },
+  "entite_416": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      94385,
+      94390
+    ]
+  },
+  "entite_417": {
+    "label": "LOC",
+    "text": "Vittel",
+    "jalons": [
+      94401,
+      94407
+    ]
+  },
+  "entite_418": {
+    "label": "LOC",
+    "text": "Evian",
+    "jalons": [
+      94409,
+      94414
+    ]
+  },
+  "entite_419": {
+    "label": "LOC",
+    "text": "Evian",
+    "jalons": [
+      94431,
+      94436
+    ]
+  },
+  "entite_420": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      94442,
+      94447
+    ]
+  },
+  "entite_421": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      94590,
+      94595
+    ]
+  },
+  "entite_422": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      94900,
+      94905
+    ]
+  },
+  "entite_423": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      95226,
+      95231
+    ]
+  },
+  "entite_424": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      95395,
+      95400
+    ]
+  },
+  "entite_425": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      95537,
+      95542
+    ]
+  },
+  "entite_426": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      95552,
+      95557
+    ]
+  },
+  "entite_427": {
+    "label": "PER",
+    "text": "Remerciant",
+    "jalons": [
+      95588,
+      95598
+    ]
+  },
+  "entite_428": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      95953,
+      95958
+    ]
+  },
+  "entite_429": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      96304,
+      96317
+    ]
+  },
+  "entite_430": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      96353,
+      96361
+    ]
+  },
+  "entite_431": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      96417,
+      96427
+    ]
+  },
+  "entite_432": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      96772,
+      96785
+    ]
+  },
+  "entite_433": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      96858,
+      96863
+    ]
+  },
+  "entite_434": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      97225,
+      97233
+    ]
+  },
+  "entite_435": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      97238,
+      97248
+    ]
+  },
+  "entite_436": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      97271,
+      97276
+    ]
+  },
+  "entite_437": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      97314,
+      97333
+    ]
+  },
+  "entite_438": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      97422,
+      97427
+    ]
+  },
+  "entite_439": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      97497,
+      97502
+    ]
+  },
+  "entite_440": {
+    "label": "LOC",
+    "text": "Evian",
+    "jalons": [
+      97624,
+      97629
+    ]
+  },
+  "entite_441": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      98226,
+      98231
+    ]
+  },
+  "entite_442": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      98498,
+      98517
+    ]
+  },
+  "entite_443": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      99244,
+      99257
+    ]
+  },
+  "entite_444": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      99414,
+      99433
+    ]
+  },
+  "entite_445": {
+    "label": "LOC",
+    "text": "fontaine Visconti",
+    "jalons": [
+      99645,
+      99662
+    ]
+  },
+  "entite_446": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      99943,
+      99956
+    ]
+  },
+  "entite_447": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      100029,
+      100034
+    ]
+  },
+  "entite_448": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      100239,
+      100244
+    ]
+  },
+  "entite_449": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      100417,
+      100422
+    ]
+  },
+  "entite_450": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      100702,
+      100712
+    ]
+  },
+  "entite_451": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      100890,
+      100900
+    ]
+  },
+  "entite_452": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      101001,
+      101006
+    ]
+  },
+  "entite_453": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      101062,
+      101072
+    ]
+  },
+  "entite_454": {
+    "label": "LOC",
+    "text": "rue des Filles-Saint-Thomas",
+    "jalons": [
+      101171,
+      101198
+    ]
+  },
+  "entite_455": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      101235,
+      101240
+    ]
+  },
+  "entite_456": {
+    "label": "LOC",
+    "text": "Pise",
+    "jalons": [
+      101275,
+      101279
+    ]
+  },
+  "entite_457": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      101342,
+      101347
+    ]
+  },
+  "entite_458": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      101387,
+      101392
+    ]
+  },
+  "entite_459": {
+    "label": "LOC",
+    "text": "Roissy",
+    "jalons": [
+      101733,
+      101739
+    ]
+  },
+  "entite_460": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      101921,
+      101926
+    ]
+  },
+  "entite_461": {
+    "label": "LOC",
+    "text": "Roissy",
+    "jalons": [
+      102329,
+      102335
+    ]
+  },
+  "entite_462": {
+    "label": "LOC",
+    "text": "Pise",
+    "jalons": [
+      102387,
+      102391
+    ]
+  },
+  "entite_463": {
+    "label": "LOC",
+    "text": "aéroport Galileo Galilei",
+    "jalons": [
+      102498,
+      102522
+    ]
+  },
+  "entite_464": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      102729,
+      102734
+    ]
+  },
+  "entite_465": {
+    "label": "ORG",
+    "text": "Consultant",
+    "jalons": [
+      102759,
+      102769
+    ]
+  },
+  "entite_466": {
+    "label": "LOC",
+    "text": "Piombino",
+    "jalons": [
+      102861,
+      102869
+    ]
+  },
+  "entite_467": {
+    "label": "MISC",
+    "text": "Un jour pluvieux se levait sur la Toscane",
+    "jalons": [
+      102952,
+      102993
+    ]
+  },
+  "entite_468": {
+    "label": "LOC",
+    "text": "Europe",
+    "jalons": [
+      103551,
+      103557
+    ]
+  },
+  "entite_469": {
+    "label": "LOC",
+    "text": "Piombino",
+    "jalons": [
+      103741,
+      103749
+    ]
+  },
+  "entite_470": {
+    "label": "LOC",
+    "text": "Méditerranée",
+    "jalons": [
+      103964,
+      103976
+    ]
+  },
+  "entite_471": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      104482,
+      104492
+    ]
+  },
+  "entite_472": {
+    "label": "MISC",
+    "text": "Toussaint",
+    "jalons": [
+      104501,
+      104510
+    ]
+  },
+  "entite_473": {
+    "label": "PER",
+    "text": "Agencia Marittima",
+    "jalons": [
+      104571,
+      104588
+    ]
+  },
+  "entite_474": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      104901,
+      104906
+    ]
+  },
+  "entite_475": {
+    "label": "LOC",
+    "text": "Mobyline",
+    "jalons": [
+      105071,
+      105079
+    ]
+  },
+  "entite_476": {
+    "label": "MISC",
+    "text": "MOBY",
+    "jalons": [
+      105107,
+      105111
+    ]
+  },
+  "entite_477": {
+    "label": "LOC",
+    "text": "Toremar",
+    "jalons": [
+      105164,
+      105171
+    ]
+  },
+  "entite_478": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      105419,
+      105424
+    ]
+  },
+  "entite_479": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      105907,
+      105912
+    ]
+  },
+  "entite_480": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      106542,
+      106552
+    ]
+  },
+  "entite_481": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      106728,
+      106738
+    ]
+  },
+  "entite_482": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      107274,
+      107284
+    ]
+  },
+  "entite_483": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      107419,
+      107429
+    ]
+  },
+  "entite_484": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      107714,
+      107724
+    ]
+  },
+  "entite_485": {
+    "label": "LOC",
+    "text": "distinguions",
+    "jalons": [
+      108186,
+      108198
+    ]
+  },
+  "entite_486": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      108753,
+      108765
+    ]
+  },
+  "entite_487": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      108892,
+      108897
+    ]
+  },
+  "entite_488": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      109057,
+      109066
+    ]
+  },
+  "entite_489": {
+    "label": "PER",
+    "text": "Francesco",
+    "jalons": [
+      109094,
+      109103
+    ]
+  },
+  "entite_490": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      109144,
+      109152
+    ]
+  },
+  "entite_491": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      109424,
+      109429
+    ]
+  },
+  "entite_492": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      109757,
+      109765
+    ]
+  },
+  "entite_493": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      109793,
+      109801
+    ]
+  },
+  "entite_494": {
+    "label": "MISC",
+    "text": "Ray-Ban",
+    "jalons": [
+      110021,
+      110028
+    ]
+  },
+  "entite_495": {
+    "label": "MISC",
+    "text": "Giuseppe",
+    "jalons": [
+      110309,
+      110317
+    ]
+  },
+  "entite_496": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      110557,
+      110562
+    ]
+  },
+  "entite_497": {
+    "label": "LOC",
+    "text": "È la vita",
+    "jalons": [
+      110704,
+      110713
+    ]
+  },
+  "entite_498": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      111134,
+      111143
+    ]
+  },
+  "entite_499": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      111360,
+      111368
+    ]
+  },
+  "entite_500": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      111395,
+      111400
+    ]
+  },
+  "entite_501": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      112108,
+      112113
+    ]
+  },
+  "entite_502": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      112191,
+      112199
+    ]
+  },
+  "entite_503": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      112261,
+      112266
+    ]
+  },
+  "entite_504": {
+    "label": "LOC",
+    "text": "Monte",
+    "jalons": [
+      112635,
+      112640
+    ]
+  },
+  "entite_505": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      112700,
+      112705
+    ]
+  },
+  "entite_506": {
+    "label": "LOC",
+    "text": "Monte Capanne",
+    "jalons": [
+      112753,
+      112766
+    ]
+  },
+  "entite_507": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      112810,
+      112822
+    ]
+  },
+  "entite_508": {
+    "label": "LOC",
+    "text": "Schiopparello",
+    "jalons": [
+      112846,
+      112859
+    ]
+  },
+  "entite_509": {
+    "label": "MISC",
+    "text": "Prati",
+    "jalons": [
+      112899,
+      112904
+    ]
+  },
+  "entite_510": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      112906,
+      112911
+    ]
+  },
+  "entite_511": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      112960,
+      112969
+    ]
+  },
+  "entite_512": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      113165,
+      113170
+    ]
+  },
+  "entite_513": {
+    "label": "MISC",
+    "text": "MC",
+    "jalons": [
+      113437,
+      113439
+    ]
+  },
+  "entite_514": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      113740,
+      113750
+    ]
+  },
+  "entite_515": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      114922,
+      114934
+    ]
+  },
+  "entite_516": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      115155,
+      115163
+    ]
+  },
+  "entite_517": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      115388,
+      115400
+    ]
+  },
+  "entite_518": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      116945,
+      116953
+    ]
+  },
+  "entite_519": {
+    "label": "ORG",
+    "text": "Immédiatement",
+    "jalons": [
+      117247,
+      117260
+    ]
+  },
+  "entite_520": {
+    "label": "PER",
+    "text": "Derrière",
+    "jalons": [
+      118049,
+      118057
+    ]
+  },
+  "entite_521": {
+    "label": "LOC",
+    "text": "Carle & Montanari",
+    "jalons": [
+      120032,
+      120049
+    ]
+  },
+  "entite_522": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      120223,
+      120231
+    ]
+  },
+  "entite_523": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      120590,
+      120595
+    ]
+  },
+  "entite_524": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      120690,
+      120698
+    ]
+  },
+  "entite_525": {
+    "label": "LOC",
+    "text": "chemin de la Rivercina",
+    "jalons": [
+      121448,
+      121470
+    ]
+  },
+  "entite_526": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      121472,
+      121480
+    ]
+  },
+  "entite_527": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      121628,
+      121633
+    ]
+  },
+  "entite_528": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      122747,
+      122752
+    ]
+  },
+  "entite_529": {
+    "label": "PER",
+    "text": "Scaglione",
+    "jalons": [
+      123684,
+      123693
+    ]
+  },
+  "entite_530": {
+    "label": "LOC",
+    "text": "Monte Capanne",
+    "jalons": [
+      123738,
+      123751
+    ]
+  },
+  "entite_531": {
+    "label": "ORG",
+    "text": "Arrivés",
+    "jalons": [
+      123799,
+      123806
+    ]
+  },
+  "entite_532": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      123820,
+      123829
+    ]
+  },
+  "entite_533": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      123831,
+      123839
+    ]
+  },
+  "entite_534": {
+    "label": "MISC",
+    "text": "maison de Maurizio",
+    "jalons": [
+      123980,
+      123998
+    ]
+  },
+  "entite_535": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      124032,
+      124037
+    ]
+  },
+  "entite_536": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      124204,
+      124212
+    ]
+  },
+  "entite_537": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      124226,
+      124234
+    ]
+  },
+  "entite_538": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      124241,
+      124249
+    ]
+  },
+  "entite_539": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      124450,
+      124455
+    ]
+  },
+  "entite_540": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      124562,
+      124567
+    ]
+  },
+  "entite_541": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      124787,
+      124796
+    ]
+  },
+  "entite_542": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      125002,
+      125007
+    ]
+  },
+  "entite_543": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      125091,
+      125099
+    ]
+  },
+  "entite_544": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      125196,
+      125205
+    ]
+  },
+  "entite_545": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      125208,
+      125213
+    ]
+  },
+  "entite_546": {
+    "label": "MISC",
+    "text": "Giuseppe",
+    "jalons": [
+      125283,
+      125291
+    ]
+  },
+  "entite_547": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      125534,
+      125539
+    ]
+  },
+  "entite_548": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      125629,
+      125637
+    ]
+  },
+  "entite_549": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      126054,
+      126062
+    ]
+  },
+  "entite_550": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      126266,
+      126274
+    ]
+  },
+  "entite_551": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      126819,
+      126824
+    ]
+  },
+  "entite_552": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      127546,
+      127551
+    ]
+  },
+  "entite_553": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      127852,
+      127857
+    ]
+  },
+  "entite_554": {
+    "label": "MISC",
+    "text": "mur",
+    "jalons": [
+      128374,
+      128377
+    ]
+  },
+  "entite_555": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      128736,
+      128741
+    ]
+  },
+  "entite_556": {
+    "label": "MISC",
+    "text": "CD",
+    "jalons": [
+      129474,
+      129476
+    ]
+  },
+  "entite_557": {
+    "label": "MISC",
+    "text": "Ancora tu",
+    "jalons": [
+      129511,
+      129520
+    ]
+  },
+  "entite_558": {
+    "label": "PER",
+    "text": "Lucio Battisti",
+    "jalons": [
+      129525,
+      129539
+    ]
+  },
+  "entite_559": {
+    "label": "LOC",
+    "text": "E",
+    "jalons": [
+      129542,
+      129543
+    ]
+  },
+  "entite_560": {
+    "label": "PER",
+    "text": "Domanda",
+    "jalons": [
+      129556,
+      129563
+    ]
+  },
+  "entite_561": {
+    "label": "ORG",
+    "text": "Stai come",
+    "jalons": [
+      129573,
+      129582
+    ]
+  },
+  "entite_562": {
+    "label": "LOC",
+    "text": "Amore mio ha già mangiato o no",
+    "jalons": [
+      129609,
+      129639
+    ]
+  },
+  "entite_563": {
+    "label": "PER",
+    "text": "Ho fame",
+    "jalons": [
+      129641,
+      129648
+    ]
+  },
+  "entite_564": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      129679,
+      129684
+    ]
+  },
+  "entite_565": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      131611,
+      131616
+    ]
+  },
+  "entite_566": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      131661,
+      131666
+    ]
+  },
+  "entite_567": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      132415,
+      132420
+    ]
+  },
+  "entite_568": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      132827,
+      132832
+    ]
+  },
+  "entite_569": {
+    "label": "MISC",
+    "text": "Homme de culture",
+    "jalons": [
+      132962,
+      132978
+    ]
+  },
+  "entite_570": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      133109,
+      133114
+    ]
+  },
+  "entite_571": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      133127,
+      133135
+    ]
+  },
+  "entite_572": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      133221,
+      133230
+    ]
+  },
+  "entite_573": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      133243,
+      133251
+    ]
+  },
+  "entite_574": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      133317,
+      133322
+    ]
+  },
+  "entite_575": {
+    "label": "MISC",
+    "text": "Maurizio",
+    "jalons": [
+      133370,
+      133378
+    ]
+  },
+  "entite_576": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      133391,
+      133396
+    ]
+  },
+  "entite_577": {
+    "label": "MISC",
+    "text": "Maurizio",
+    "jalons": [
+      133521,
+      133529
+    ]
+  },
+  "entite_578": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      133862,
+      133867
+    ]
+  },
+  "entite_579": {
+    "label": "MISC",
+    "text": "Maurizio",
+    "jalons": [
+      133908,
+      133916
+    ]
+  },
+  "entite_580": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      134462,
+      134467
+    ]
+  },
+  "entite_581": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      135126,
+      135136
+    ]
+  },
+  "entite_582": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      135238,
+      135246
+    ]
+  },
+  "entite_583": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      135622,
+      135627
+    ]
+  },
+  "entite_584": {
+    "label": "ORG",
+    "text": "Arrivés",
+    "jalons": [
+      135699,
+      135706
+    ]
+  },
+  "entite_585": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      135809,
+      135814
+    ]
+  },
+  "entite_586": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      136614,
+      136619
+    ]
+  },
+  "entite_587": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      137203,
+      137208
+    ]
+  },
+  "entite_588": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      137284,
+      137289
+    ]
+  },
+  "entite_589": {
+    "label": "MISC",
+    "text": "grand incendie",
+    "jalons": [
+      137773,
+      137787
+    ]
+  },
+  "entite_590": {
+    "label": "ORG",
+    "text": "Arrivés",
+    "jalons": [
+      137955,
+      137962
+    ]
+  },
+  "entite_591": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      138156,
+      138161
+    ]
+  },
+  "entite_592": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      138376,
+      138381
+    ]
+  },
+  "entite_593": {
+    "label": "MISC",
+    "text": "maison de Maurizio",
+    "jalons": [
+      138509,
+      138527
+    ]
+  },
+  "entite_594": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      138567,
+      138575
+    ]
+  },
+  "entite_595": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      138795,
+      138803
+    ]
+  },
+  "entite_596": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      138822,
+      138827
+    ]
+  },
+  "entite_597": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      138896,
+      138908
+    ]
+  },
+  "entite_598": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      139051,
+      139059
+    ]
+  },
+  "entite_599": {
+    "label": "PER",
+    "text": "latitanti",
+    "jalons": [
+      139598,
+      139607
+    ]
+  },
+  "entite_600": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      139736,
+      139744
+    ]
+  },
+  "entite_601": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      139760,
+      139772
+    ]
+  },
+  "entite_602": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      139774,
+      139779
+    ]
+  },
+  "entite_603": {
+    "label": "LOC",
+    "text": "Porta a Mare",
+    "jalons": [
+      139936,
+      139948
+    ]
+  },
+  "entite_604": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      140040,
+      140045
+    ]
+  },
+  "entite_605": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      140158,
+      140167
+    ]
+  },
+  "entite_606": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      140372,
+      140377
+    ]
+  },
+  "entite_607": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      140662,
+      140667
+    ]
+  },
+  "entite_608": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      140672,
+      140682
+    ]
+  },
+  "entite_609": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      140737,
+      140742
+    ]
+  },
+  "entite_610": {
+    "label": "PER",
+    "text": "Aspettate un attimo",
+    "jalons": [
+      142001,
+      142020
+    ]
+  },
+  "entite_611": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      142319,
+      142324
+    ]
+  },
+  "entite_612": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      142778,
+      142790
+    ]
+  },
+  "entite_613": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      143887,
+      143892
+    ]
+  },
+  "entite_614": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      144301,
+      144313
+    ]
+  },
+  "entite_615": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      144662,
+      144671
+    ]
+  },
+  "entite_616": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      144673,
+      144678
+    ]
+  },
+  "entite_617": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      145063,
+      145068
+    ]
+  },
+  "entite_618": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      145174,
+      145182
+    ]
+  },
+  "entite_619": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      145366,
+      145374
+    ]
+  },
+  "entite_620": {
+    "label": "PER",
+    "text": "Toussaint",
+    "jalons": [
+      145656,
+      145665
+    ]
+  },
+  "entite_621": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      145998,
+      146003
+    ]
+  },
+  "entite_622": {
+    "label": "MISC",
+    "text": "Maurizio",
+    "jalons": [
+      146042,
+      146050
+    ]
+  },
+  "entite_623": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      146470,
+      146478
+    ]
+  },
+  "entite_624": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      146709,
+      146714
+    ]
+  },
+  "entite_625": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      147680,
+      147685
+    ]
+  },
+  "entite_626": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      147758,
+      147766
+    ]
+  },
+  "entite_627": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      147768,
+      147773
+    ]
+  },
+  "entite_628": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      148305,
+      148310
+    ]
+  },
+  "entite_629": {
+    "label": "PER",
+    "text": "Francesco",
+    "jalons": [
+      148392,
+      148401
+    ]
+  },
+  "entite_630": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      148943,
+      148948
+    ]
+  },
+  "entite_631": {
+    "label": "PER",
+    "text": "Francesco",
+    "jalons": [
+      149254,
+      149263
+    ]
+  },
+  "entite_632": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      149375,
+      149383
+    ]
+  },
+  "entite_633": {
+    "label": "MISC",
+    "text": "Giuseppe",
+    "jalons": [
+      149429,
+      149437
+    ]
+  },
+  "entite_634": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      149554,
+      149562
+    ]
+  },
+  "entite_635": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      149592,
+      149597
+    ]
+  },
+  "entite_636": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      149860,
+      149868
+    ]
+  },
+  "entite_637": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      149873,
+      149878
+    ]
+  },
+  "entite_638": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      151411,
+      151416
+    ]
+  },
+  "entite_639": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      151923,
+      151928
+    ]
+  },
+  "entite_640": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      152152,
+      152160
+    ]
+  },
+  "entite_641": {
+    "label": "MISC",
+    "text": "De gros nuages noirs de pluie",
+    "jalons": [
+      153259,
+      153288
+    ]
+  },
+  "entite_642": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      153499,
+      153511
+    ]
+  },
+  "entite_643": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      153733,
+      153745
+    ]
+  },
+  "entite_644": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      155193,
+      155198
+    ]
+  },
+  "entite_645": {
+    "label": "PER",
+    "text": "marronnasse",
+    "jalons": [
+      155445,
+      155456
+    ]
+  },
+  "entite_646": {
+    "label": "LOC",
+    "text": "Monte Capanne",
+    "jalons": [
+      155561,
+      155574
+    ]
+  },
+  "entite_647": {
+    "label": "LOC",
+    "text": "Rio Marina",
+    "jalons": [
+      155649,
+      155659
+    ]
+  },
+  "entite_648": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      156423,
+      156428
+    ]
+  },
+  "entite_649": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      157073,
+      157078
+    ]
+  },
+  "entite_650": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      157094,
+      157099
+    ]
+  },
+  "entite_651": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      157828,
+      157833
+    ]
+  },
+  "entite_652": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      158093,
+      158098
+    ]
+  },
+  "entite_653": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      158759,
+      158772
+    ]
+  },
+  "entite_654": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      158953,
+      158958
+    ]
+  },
+  "entite_655": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      159048,
+      159060
+    ]
+  },
+  "entite_656": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      159203,
+      159208
+    ]
+  },
+  "entite_657": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      159232,
+      159241
+    ]
+  },
+  "entite_658": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      159291,
+      159299
+    ]
+  },
+  "entite_659": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      159313,
+      159321
+    ]
+  },
+  "entite_660": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      159429,
+      159438
+    ]
+  },
+  "entite_661": {
+    "label": "LOC",
+    "text": "maison de Maurizio",
+    "jalons": [
+      159448,
+      159466
+    ]
+  },
+  "entite_662": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      159573,
+      159582
+    ]
+  },
+  "entite_663": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      159986,
+      159994
+    ]
+  },
+  "entite_664": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      159996,
+      160001
+    ]
+  },
+  "entite_665": {
+    "label": "LOC",
+    "text": "Antonina",
+    "jalons": [
+      160586,
+      160594
+    ]
+  },
+  "entite_666": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      160608,
+      160616
+    ]
+  },
+  "entite_667": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      160676,
+      160681
+    ]
+  },
+  "entite_668": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      160690,
+      160698
+    ]
+  },
+  "entite_669": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      161053,
+      161061
+    ]
+  },
+  "entite_670": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      161205,
+      161210
+    ]
+  },
+  "entite_671": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      161700,
+      161705
+    ]
+  },
+  "entite_672": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      161735,
+      161740
+    ]
+  },
+  "entite_673": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      161880,
+      161885
+    ]
+  },
+  "entite_674": {
+    "label": "LOC",
+    "text": "Antonina",
+    "jalons": [
+      161913,
+      161921
+    ]
+  },
+  "entite_675": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      162007,
+      162015
+    ]
+  },
+  "entite_676": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      162059,
+      162067
+    ]
+  },
+  "entite_677": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      162251,
+      162256
+    ]
+  },
+  "entite_678": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      162277,
+      162282
+    ]
+  },
+  "entite_679": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      162338,
+      162343
+    ]
+  },
+  "entite_680": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      162391,
+      162399
+    ]
+  },
+  "entite_681": {
+    "label": "PER",
+    "text": "Continuant",
+    "jalons": [
+      162461,
+      162471
+    ]
+  },
+  "entite_682": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      162484,
+      162492
+    ]
+  },
+  "entite_683": {
+    "label": "PER",
+    "text": "bouquet flapi",
+    "jalons": [
+      162638,
+      162651
+    ]
+  },
+  "entite_684": {
+    "label": "LOC",
+    "text": "Antonina",
+    "jalons": [
+      162678,
+      162686
+    ]
+  },
+  "entite_685": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      162717,
+      162722
+    ]
+  },
+  "entite_686": {
+    "label": "PER",
+    "text": "Francesco",
+    "jalons": [
+      162813,
+      162822
+    ]
+  },
+  "entite_687": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      162960,
+      162965
+    ]
+  },
+  "entite_688": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      162993,
+      163001
+    ]
+  },
+  "entite_689": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      163019,
+      163027
+    ]
+  },
+  "entite_690": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      163162,
+      163167
+    ]
+  },
+  "entite_691": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      163259,
+      163267
+    ]
+  },
+  "entite_692": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      163429,
+      163434
+    ]
+  },
+  "entite_693": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      163565,
+      163570
+    ]
+  },
+  "entite_694": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      163816,
+      163821
+    ]
+  },
+  "entite_695": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      164003,
+      164011
+    ]
+  },
+  "entite_696": {
+    "label": "PER",
+    "text": "Che",
+    "jalons": [
+      164060,
+      164063
+    ]
+  },
+  "entite_697": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      164148,
+      164156
+    ]
+  },
+  "entite_698": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      164290,
+      164295
+    ]
+  },
+  "entite_699": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      164570,
+      164575
+    ]
+  },
+  "entite_700": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      164935,
+      164940
+    ]
+  },
+  "entite_701": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      165286,
+      165291
+    ]
+  },
+  "entite_702": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      165516,
+      165528
+    ]
+  },
+  "entite_703": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      165609,
+      165619
+    ]
+  },
+  "entite_704": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      165690,
+      165695
+    ]
+  },
+  "entite_705": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      165758,
+      165766
+    ]
+  },
+  "entite_706": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      165943,
+      165951
+    ]
+  },
+  "entite_707": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      166120,
+      166130
+    ]
+  },
+  "entite_708": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      167002,
+      167007
+    ]
+  },
+  "entite_709": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      167145,
+      167150
+    ]
+  },
+  "entite_710": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      167360,
+      167370
+    ]
+  },
+  "entite_711": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      167386,
+      167391
+    ]
+  },
+  "entite_712": {
+    "label": "MISC",
+    "text": "Maurizio",
+    "jalons": [
+      167934,
+      167942
+    ]
+  },
+  "entite_713": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      168597,
+      168602
+    ]
+  },
+  "entite_714": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      169334,
+      169339
+    ]
+  },
+  "entite_715": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      169679,
+      169684
+    ]
+  },
+  "entite_716": {
+    "label": "LOC",
+    "text": "Tokyo",
+    "jalons": [
+      169873,
+      169878
+    ]
+  },
+  "entite_717": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      170053,
+      170058
+    ]
+  },
+  "entite_718": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      170394,
+      170399
+    ]
+  },
+  "entite_719": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      170773,
+      170778
+    ]
+  },
+  "entite_720": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      170798,
+      170817
+    ]
+  },
+  "entite_721": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      170929,
+      170942
+    ]
+  },
+  "entite_722": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      170981,
+      170986
+    ]
+  },
+  "entite_723": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      171045,
+      171058
+    ]
+  },
+  "entite_724": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      171098,
+      171103
+    ]
+  },
+  "entite_725": {
+    "label": "MISC",
+    "text": "la matrice",
+    "jalons": [
+      171978,
+      171988
+    ]
+  },
+  "entite_726": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      172061,
+      172073
+    ]
+  },
+  "entite_727": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      172159,
+      172164
+    ]
+  },
+  "entite_728": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      172432,
+      172437
+    ]
+  },
+  "entite_729": {
+    "label": "LOC",
+    "text": "place Saint-Sulpice",
+    "jalons": [
+      172458,
+      172477
+    ]
+  },
+  "entite_730": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      172704,
+      172714
+    ]
+  },
+  "entite_731": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      172743,
+      172748
+    ]
+  },
+  "entite_732": {
+    "label": "MISC",
+    "text": "Annonciations",
+    "jalons": [
+      172871,
+      172884
+    ]
+  },
+  "entite_733": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      172901,
+      172914
+    ]
+  },
+  "entite_734": {
+    "label": "MISC",
+    "text": "Annonciation",
+    "jalons": [
+      172920,
+      172932
+    ]
+  },
+  "entite_735": {
+    "label": "LOC",
+    "text": "XXIe",
+    "jalons": [
+      172961,
+      172965
+    ]
+  },
+  "entite_736": {
+    "label": "PER",
+    "text": "Nan Goldin",
+    "jalons": [
+      173124,
+      173134
+    ]
+  },
+  "entite_737": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      173154,
+      173159
+    ]
+  },
+  "entite_738": {
+    "label": "PER",
+    "text": "Hopper",
+    "jalons": [
+      173295,
+      173301
+    ]
+  },
+  "entite_739": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      173455,
+      173460
+    ]
+  },
+  "entite_740": {
+    "label": "PER",
+    "text": "Hopper Annonciation",
+    "jalons": [
+      173509,
+      173528
+    ]
+  },
+  "entite_741": {
+    "label": "LOC",
+    "text": "Nighthawks",
+    "jalons": [
+      173540,
+      173550
+    ]
+  },
+  "entite_742": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      173611,
+      173623
+    ]
+  },
+  "entite_743": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      173694,
+      173699
+    ]
+  },
+  "entite_744": {
+    "label": "LOC",
+    "text": "XXIe",
+    "jalons": [
+      173727,
+      173731
+    ]
+  },
+  "entite_745": {
+    "label": "MISC",
+    "text": "Annonciations",
+    "jalons": [
+      173841,
+      173854
+    ]
+  },
+  "entite_746": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174041,
+      174046
+    ]
+  },
+  "entite_747": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174095,
+      174100
+    ]
+  },
+  "entite_748": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174222,
+      174227
+    ]
+  },
+  "entite_749": {
+    "label": "PER",
+    "text": "ange Gabriel",
+    "jalons": [
+      174268,
+      174280
+    ]
+  },
+  "entite_750": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174284,
+      174289
+    ]
+  },
+  "entite_751": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174414,
+      174419
+    ]
+  },
+  "entite_752": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      174865,
+      174870
+    ]
+  },
+  "entite_753": {
+    "label": "MISC",
+    "text": "Annonciations",
+    "jalons": [
+      174952,
+      174965
+    ]
+  },
+  "entite_754": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      175155,
+      175160
+    ]
+  },
+  "entite_755": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      175284,
+      175296
+    ]
+  },
+  "entite_756": {
+    "label": "MISC",
+    "text": "Annonciation de Botticelli",
+    "jalons": [
+      175485,
+      175511
+    ]
+  },
+  "entite_757": {
+    "label": "LOC",
+    "text": "Offices",
+    "jalons": [
+      175530,
+      175537
+    ]
+  },
+  "entite_758": {
+    "label": "LOC",
+    "text": "Vierge",
+    "jalons": [
+      175545,
+      175551
+    ]
+  },
+  "entite_759": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      175626,
+      175631
+    ]
+  },
+  "entite_760": {
+    "label": "LOC",
+    "text": "Portoferraio",
+    "jalons": [
+      175663,
+      175675
+    ]
+  },
+  "entite_761": {
+    "label": "PER",
+    "text": "Vierge de Botticelli",
+    "jalons": [
+      175683,
+      175703
+    ]
+  },
+  "entite_762": {
+    "label": "MISC",
+    "text": "histoire des Annonciations",
+    "jalons": [
+      175717,
+      175743
+    ]
+  },
+  "entite_763": {
+    "label": "PER",
+    "text": "la Vierge",
+    "jalons": [
+      175831,
+      175840
+    ]
+  },
+  "entite_764": {
+    "label": "PER",
+    "text": "Botticelli",
+    "jalons": [
+      176030,
+      176040
+    ]
+  },
+  "entite_765": {
+    "label": "MISC",
+    "text": "Annonciation",
+    "jalons": [
+      176063,
+      176075
+    ]
+  },
+  "entite_766": {
+    "label": "PER",
+    "text": "Noli",
+    "jalons": [
+      176084,
+      176088
+    ]
+  },
+  "entite_767": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      176102,
+      176107
+    ]
+  },
+  "entite_768": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      176683,
+      176688
+    ]
+  },
+  "entite_769": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      176833,
+      176838
+    ]
+  },
+  "entite_770": {
+    "label": "LOC",
+    "text": "Paris",
+    "jalons": [
+      176869,
+      176874
+    ]
+  },
+  "entite_771": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      177382,
+      177387
+    ]
+  },
+  "entite_772": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      177645,
+      177650
+    ]
+  },
+  "entite_773": {
+    "label": "PER",
+    "text": "Nous bavardâmes",
+    "jalons": [
+      177810,
+      177825
+    ]
+  },
+  "entite_774": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      178426,
+      178431
+    ]
+  },
+  "entite_775": {
+    "label": "MISC",
+    "text": "grand incendie",
+    "jalons": [
+      178702,
+      178716
+    ]
+  },
+  "entite_776": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      179086,
+      179091
+    ]
+  },
+  "entite_777": {
+    "label": "PER",
+    "text": "Maurizio",
+    "jalons": [
+      179346,
+      179354
+    ]
+  },
+  "entite_778": {
+    "label": "PER",
+    "text": "Francesco",
+    "jalons": [
+      179384,
+      179393
+    ]
+  },
+  "entite_779": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      179441,
+      179446
+    ]
+  },
+  "entite_780": {
+    "label": "LOC",
+    "text": "Saint-Sulpice",
+    "jalons": [
+      179494,
+      179507
+    ]
+  },
+  "entite_781": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      179819,
+      179829
+    ]
+  },
+  "entite_782": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      180594,
+      180599
+    ]
+  },
+  "entite_783": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      181405,
+      181410
+    ]
+  },
+  "entite_784": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      181894,
+      181899
+    ]
+  },
+  "entite_785": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      182193,
+      182202
+    ]
+  },
+  "entite_786": {
+    "label": "LOC",
+    "text": "île d’Elbe",
+    "jalons": [
+      182282,
+      182292
+    ]
+  },
+  "entite_787": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      182347,
+      182356
+    ]
+  },
+  "entite_788": {
+    "label": "LOC",
+    "text": "Monte Capanne",
+    "jalons": [
+      182618,
+      182631
+    ]
+  },
+  "entite_789": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      182963,
+      182972
+    ]
+  },
+  "entite_790": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      182974,
+      182979
+    ]
+  },
+  "entite_791": {
+    "label": "MISC",
+    "text": "maison de Maurizio",
+    "jalons": [
+      183014,
+      183032
+    ]
+  },
+  "entite_792": {
+    "label": "MISC",
+    "text": "maison de Maurizio",
+    "jalons": [
+      183243,
+      183261
+    ]
+  },
+  "entite_793": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      183476,
+      183484
+    ]
+  },
+  "entite_794": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      183646,
+      183651
+    ]
+  },
+  "entite_795": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      183870,
+      183878
+    ]
+  },
+  "entite_796": {
+    "label": "MISC",
+    "text": "Giuseppe",
+    "jalons": [
+      183972,
+      183980
+    ]
+  },
+  "entite_797": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      184430,
+      184438
+    ]
+  },
+  "entite_798": {
+    "label": "PER",
+    "text": "Giuseppe",
+    "jalons": [
+      184947,
+      184955
+    ]
+  },
+  "entite_799": {
+    "label": "PER",
+    "text": "Antonina",
+    "jalons": [
+      185143,
+      185151
+    ]
+  },
+  "entite_800": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      185467,
+      185472
+    ]
+  },
+  "entite_801": {
+    "label": "PER",
+    "text": "Rivercina",
+    "jalons": [
+      185584,
+      185593
+    ]
+  },
+  "entite_802": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      186131,
+      186136
+    ]
+  },
+  "entite_803": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      186455,
+      186460
+    ]
+  },
+  "entite_804": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      187059,
+      187064
+    ]
+  },
+  "entite_805": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      187453,
+      187458
+    ]
+  },
+  "entite_806": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      187858,
+      187863
+    ]
+  },
+  "entite_807": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      187995,
+      188000
+    ]
+  },
+  "entite_808": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      188866,
+      188871
+    ]
+  },
+  "entite_809": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      188962,
+      188967
+    ]
+  },
+  "entite_810": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      189278,
+      189283
+    ]
+  },
+  "entite_811": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      189704,
+      189709
+    ]
+  },
+  "entite_812": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      190063,
+      190068
+    ]
+  },
+  "entite_813": {
+    "label": "PER",
+    "text": "Marie",
+    "jalons": [
+      190316,
+      190321
+    ]
+  },
+  "entite_814": {
+    "label": "MISC",
+    "text": "SALLE DE BAIN",
+    "jalons": [
+      191146,
+      191159
+    ]
+  },
+  "entite_815": {
+    "label": "ORG",
+    "text": "MONSIEUR",
+    "jalons": [
+      191194,
+      191202
+    ]
+  },
+  "entite_816": {
+    "label": "MISC",
+    "text": "RÉTICENCE",
+    "jalons": [
+      191270,
+      191279
+    ]
+  },
+  "entite_817": {
+    "label": "ORG",
+    "text": "TÉLÉVISION",
+    "jalons": [
+      191296,
+      191306
+    ]
+  },
+  "entite_818": {
+    "label": "ORG",
+    "text": "AUTOPORTRAIT",
+    "jalons": [
+      191341,
+      191353
+    ]
+  },
+  "entite_819": {
+    "label": "MISC",
+    "text": "À L’ÉTRANGER",
+    "jalons": [
+      191355,
+      191367
+    ]
+  },
+  "entite_820": {
+    "label": "MISC",
+    "text": "MÉLANCOLIE DE ZIDANE",
+    "jalons": [
+      191399,
+      191419
+    ]
+  },
+  "entite_821": {
+    "label": "MISC",
+    "text": "URGENCE ET LA PATIENCE",
+    "jalons": [
+      191428,
+      191450
+    ]
+  },
+  "entite_822": {
+    "label": "MISC",
+    "text": "MONTALTE",
+    "jalons": [
+      191487,
+      191495
+    ]
+  },
+  "entite_823": {
+    "label": "MISC",
+    "text": "II",
+    "jalons": [
+      191547,
+      191549
+    ]
+  },
+  "entite_824": {
+    "label": "MISC",
+    "text": "FUIR",
+    "jalons": [
+      191551,
+      191555
+    ]
+  },
+  "entite_825": {
+    "label": "PER",
+    "text": "III",
+    "jalons": [
+      191588,
+      191591
+    ]
+  },
+  "entite_826": {
+    "label": "MISC",
+    "text": "VÉRITÉ SUR MARIE",
+    "jalons": [
+      191596,
+      191612
+    ]
+  },
+  "entite_827": {
+    "label": "LOC",
+    "text": "IV",
+    "jalons": [
+      191655,
+      191657
+    ]
+  },
+  "entite_828": {
+    "label": "ORG",
+    "text": "NUE",
+    "jalons": [
+      191659,
+      191662
+    ]
+  },
+  "entite_829": {
+    "label": "MISC",
+    "text": "Le Passage\n",
+    "jalons": [
+      191698,
+      191709
+    ]
+  },
+  "entite_830": {
+    "label": "MISC",
+    "text": "LIVRE/LOUVRE",
+    "jalons": [
+      191766,
+      191778
+    ]
+  },
+  "entite_831": {
+    "label": "LOC",
+    "text": "musée du Louvre",
+    "jalons": [
+      191782,
+      191797
+    ]
+  },
+  "entite_832": {
+    "label": "MISC",
+    "text": "Nue de Jean-Philippe Toussaint",
+    "jalons": [
+      191834,
+      191864
+    ]
+  },
+  "entite_833": {
+    "label": "MISC",
+    "text": "Éditions de Minuit",
+    "jalons": [
+      191903,
+      191921
+    ]
+  },
+  "entite_834": {
+    "label": "MISC",
+    "text": "ISBN 9782707323057",
+    "jalons": [
+      191968,
+      191986
+    ]
+  },
+  "entite_835": {
+    "label": "MISC",
+    "text": "ePub",
+    "jalons": [
+      192069,
+      192073
+    ]
+  },
+  "entite_836": {
+    "label": "PER",
+    "text": "ePagine",
+    "jalons": [
+      192092,
+      192099
+    ]
+  },
+  "entite_837": {
+    "label": "ORG",
+    "text": "www",
+    "jalons": [
+      192101,
+      192104
+    ]
+  },
+  "entite_838": {
+    "label": "LOC",
+    "text": "epagine",
+    "jalons": [
+      192106,
+      192113
+    ]
+  },
+  "entite_839": {
+    "label": "LOC",
+    "text": "fr",
+    "jalons": [
+      192115,
+      192117
+    ]
+  },
+  "entite_840": {
+    "label": "MISC",
+    "text": "Couverture",
+    "jalons": [
+      192141,
+      192151
+    ]
+  },
+  "entite_841": {
+    "label": "MISC",
+    "text": "Titre\nCopyright\nExergue\nPartie I\nPartie II\n",
+    "jalons": [
+      192152,
+      192195
+    ]
+  },
+  "entite_842": {
+    "label": "PER",
+    "text": "Achevé",
+    "jalons": [
+      192210,
+      192216
+    ]
+  }
+}
