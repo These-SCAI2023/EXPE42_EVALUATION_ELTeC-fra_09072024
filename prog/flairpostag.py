@@ -1,10 +1,16 @@
 from flair.data import Sentence
 from flair.models import SequenceTagger
 
+
+
+
+
+
+
 # Load the model
 model = SequenceTagger.load("qanastek/pos-french")
 
-sentence = Sentence("George Washington est allé à Washington")
+sentence = Sentence("Allons, mettons les malheureux dans leur dernière demeure.")
 
 # Predict tags
 model.predict(sentence)

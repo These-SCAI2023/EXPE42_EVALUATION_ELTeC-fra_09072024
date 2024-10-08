@@ -136,7 +136,7 @@ if __name__ == "__main__":
         nom_complet_modele = "fr_core_news_%s" % modele
         # nom_complet_modele = "en_core_web_%s" % modele
         try:
-            nlp = spacy.load(nom_complet_modele)
+            nlp = spacy.load(nom_complet_modele, disable=["tok2vec"])
         except:
             cmd = f"python3 -m spacy download {nom_complet_modele}"
             os.system(cmd)

@@ -10,62 +10,63 @@ import glob
 import json
 import numpy as np
 
-def lire_fichier_json (chemin):
+
+def lire_fichier_json(chemin):
     with open(chemin) as json_data: 
-        texte =json.load(json_data)
+        texte = json.load(json_data)
     return texte
 
+
 def moyenne(liste_res):
-    somme= sum(liste_res)
-    moyenne=somme/len(liste_res)
-    return(moyenne)
+    somme = sum(liste_res)
+    moyenne = somme/len(liste_res)
+    return moyenne
+
 
 def mediane(liste_resm):
     a = np.array(liste_resm)
     median_value = np.percentile(a, 50)
     return median_value
 
-def stocker_json(chemin,contenu):
+
+def stocker_json(chemin, contenu):
     with open(chemin, "w", encoding="utf-8") as w:
-        w.write(json.dumps(contenu, indent =2,ensure_ascii=False))
+        w.write(json.dumps(contenu, indent=2, ensure_ascii=False))
     return
 
-dico_res={}
-liste_CER=[]
-corpus=["DATA_ELTeC-fra_spaCy3.5.1_d","DATA_ELTeC-eng_spaCy3.5.1_d","DATA_ELTeC-Por_spaCy3.5.1_d","DATA_TGB-2023_spaCy3.5.1_Distance"]
-corp=corpus[3]
-calcul=["sim2-3","word"]
-calc=calcul[1]
-path_file=f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/*/*OCR/*"
-for chemin in glob.glob(path_file):
 
-    # print(chemin)
-    moteur_ocr=chemin.split("/")[-1].split("_")[-1]
-    # print(moteur_ocr)
+dico_res = {}
+liste_CER = []
+corpus = ["small-TGB-RevueTAL-corr-automatique_REN", "small-TGB-RevueCorpus-corr-automatique_REN", "small-ELTeC-fra-2021-2024-corr-automatique_REN","small-ELTeC-eng-corr-automatique_REN","small-ELTeC-por-corr-automatique_REN","small-ELTeC-fra-corr-automatique_REN"]
+corp = corpus[5]
+calcul = ["sim2-3", "word"]
+calc = calcul[0]
+path_file = f"../CORRECTION_DISTANCES/{corp}/*/*OCR/*"
 
-
-# print(dico_res)
-    
-    for file in glob.glob(f"%s/SIM/{calc}*.json"%chemin):##REF
-    # for file in glob.glob(f"%s/NER/SIM/{calc}*.json" % chemin):##NER
-    #     print(file)
-        data=lire_fichier_json(file)
+for path in glob.glob(path_file):
+    print(path)
+    moteur_ocr = path.split("/")[-1].split("_")[-1]
+    print(moteur_ocr)
+    for file in glob.glob(f"%s/SIM/{calc}*.json"%path): ##REF
+    # for file in glob.glob(f"{path}/NER/SIM/{calc}*.json"):  ##NER
+        print("NER", file)
+        ner_model =file.split("_")[-1].split("-liste.json")[0]
+        print(ner_model)
+        filename = file.split("/")[-1]
+        data = lire_fichier_json(file)
         # print(data)
-
-        # if moteur_ocr == "kraken":
         for key, value_dic in data.items():
-
-            if key=="KL_res":
+            if key == "KL_res":
                 # print(value_dic)
                 for k, v in value_dic.items():
-                    if k=="CER":
+                    if k == "CER":
                         if moteur_ocr in dico_res:
                             liste_CER = dico_res[moteur_ocr]
                             liste_CER.append(v)
                             dico_res[moteur_ocr] = liste_CER
                         else:
                             dico_res[moteur_ocr] = [v]
-print(dico_res)
+print("DICO--RES ***** ",dico_res)
 dico_mediane={}
 for cle, valeur in dico_res.items():
     dico_mediane[cle]= {}
@@ -73,11 +74,11 @@ for cle, valeur in dico_res.items():
     dico_mediane[cle]["moyenne"] = moyenne(valeur)
 
 
-# print(f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/{calc}_moy_mediane.json")
-# stocker_json(f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/{corp}_{calc}_moy_mediane.json",dico_mediane)
+print(f"../CORRECTION_DISTANCES/{corp}/OCR_{calc}_moy_mediane.json")
+stocker_json(f"../CORRECTION_DISTANCES/{corp}/OCR_{calc}_moy_mediane.json",dico_mediane)
 
-# print(f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/{corp}_{calc}-lg_moy_mediane.json")
-# stocker_json(f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/{corp}_{calc}-lg_moy_mediane.json",dico_mediane)
+# print(f"../DATA_ELTeC_spaCy3.5.1_Distances/{corp}/{corp}_{calc}-test_moy_mediane.json")
+# stocker_json(f"../ARCHEO_Correction_Distances/{corp}/{corp}_{calc}-test_moy_mediane.json",dico_mediane)
 # mediane(liste_CERK)
 # moyenne(liste_CERK)
 
