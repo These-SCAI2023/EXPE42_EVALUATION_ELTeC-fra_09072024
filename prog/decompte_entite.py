@@ -25,21 +25,27 @@ def stocker(chemin, contenu):
     w.close()
     # print(chemin)
     return chemin
-corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
-corpa=corpusa[3]
-path_corpora = f"../DATA_ELTeC_spaCy3.5.1_ENliste/DATA_ENliste/{corpa}_moteurOCR-global.json"
+# corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
+# corpa=corpusa[3]
+path_corpora = f"../small-ELTeC-fra_spaCy3.5.1/*/*OCR/*_kraken/*NER/*-liste.json"
 dico_resultat={}
-
+liste_res=[]
 for gen_path in glob.glob(path_corpora):
     print("_____________",gen_path)
     data=lire_json(gen_path)
-    # print(data)
-    liste_res_nb = {}
-    for cle, valeur in data.items():
-        print(cle)
-        set_valeur=len(set(valeur))
-        # en_type=str(set_valeur)
-        liste_res_nb[cle] = {}
-        liste_res_nb[cle]["EN-occ"] = len(valeur)
-        liste_res_nb[cle]["EN-type"] = set_valeur
-    stocker("%s_--nb_entite.json"%gen_path,liste_res_nb)
+    print(data)
+    if "spacy-lg" in gen_path:
+        liste_res.append(len(data))
+    print(sum(liste_res))
+
+
+
+    # liste_res_nb = {}
+    # for cle, valeur in data.items():
+    #     print(cle)
+    #     set_valeur=len(set(valeur))
+    #     # en_type=str(set_valeur)
+    #     liste_res_nb[cle] = {}
+    #     liste_res_nb[cle]["EN-occ"] = len(valeur)
+    #     liste_res_nb[cle]["EN-type"] = set_valeur
+    # stocker("%s_--nb_entite.json"%gen_path,liste_res_nb)

@@ -114,8 +114,8 @@ def archeo_nommage(version, vers_ren):
 #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
 
 def nommage(version):
-    if version == "Kraken-base.txt" or version == "kraken" or version == "Kraken":
-        version = re.sub("Kraken-base.txt|kraken|Kraken", f"Kraken", version)
+    if version == "Kraken-base.txt" or version == "Kraken-base" or version == "kraken" or version == "Kraken":
+        version = re.sub("Kraken-base.txt|Kraken-base|kraken|Kraken", f"Kraken", version)
         # print("Version : ", version)
 
     if version == "kraken-jspll-pretrain.txt" or version == "kraken-jspll-pretrain":
@@ -167,8 +167,8 @@ def nommage(version):
         version = re.sub("TesseractPor-PNG-jspl-ELTeC", "Tess. pt -- jspl-ELTeCpt", version)
         # print("Version : ", version)
 
-    if version == "tesseract0.3.10":
-        version = re.sub("tesseract0.3.10", "Tess. fr 3.10", version)
+    if version == "tesseract0.3.10" or version == "tesseract0":
+        version = re.sub("tesseract0.3.10|tesseract0", "Tess. fr 3.10", version)
         # print("version : ", version)
 
     if version == "tesseract0.3.10-jspll-pretrain":
@@ -179,8 +179,8 @@ def nommage(version):
         version = re.sub("tesseract0.3.10-jspll-ELTeC", "Tess. fr 3.10 -- jspl-ELTeCfr", version)
         # print("version : ", version)
 
-    if version == "kraken4.3.13.dev25":
-        version = re.sub("kraken4.3.13.dev25", "Kraken 4.3.13", version)
+    if version == "kraken4.3.13.dev25" or version == "kraken4":
+        version = re.sub("kraken4.3.13.dev25|kraken4", "Kraken 4.3.13", version)
         # print("version : ", version)
 
     if version == "kraken4.3.13.dev25-jspll-pretrain":
