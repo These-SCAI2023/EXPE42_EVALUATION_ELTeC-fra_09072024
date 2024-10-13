@@ -170,7 +170,7 @@ def filtre_stop(contenu, language):
     return filtre_stopfr
 
 #MAIN
-path_corpora = "../small-ELTeC-eng_REN/"
+path_corpora = "../small-ELTeC-por_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 texte_list_ref=[]
 liste_list_ocr=[]
