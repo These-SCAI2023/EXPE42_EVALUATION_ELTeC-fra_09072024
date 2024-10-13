@@ -19,7 +19,7 @@ import re
 from nltk.corpus import stopwords
 from renommage import *
 
-def lire_fichier (chemin):
+def lire_fichier(chemin):
     with open(chemin) as json_data: 
         EN =json.load(json_data)
         
@@ -34,6 +34,7 @@ def lire_fichier_txt (chemin):
 def text_2_tok(texte):
     liste_tok=[]
     nlp = spacy.load("fr_core_news_sm")
+    nlp.max_length = 5000000
     doc = nlp(texte)
     for token in doc:
         liste_tok.append(token.text)
@@ -87,18 +88,16 @@ def plot_zipf(texte_list, ocr,ocr_name, log=False):
     y = [_[0] for _ in texte_list]
     y_ = [_[0] for _ in ocr[0]]
     y1 = [_[0] for _ in ocr[1]]
-    y2 = [_[0] for _ in ocr[2]]
-    y3 = [_[0] for _ in ocr[3]]
-    y4 = [_[0] for _ in ocr[4]]
-    # for _ in range(len(texte_list)):
-    #     y_.append(int(texte_list[0][0]/(_+1)))
+    # y2 = [_[0] for _ in ocr[2]]
+    # y3 = [_[0] for _ in ocr[3]]
+    # y4 = [_[0] for _ in ocr[4]]
 
     pyplot.plot(y, "-", color = 'chartreuse', label="Référence")
     pyplot.plot(y_, "--", color = 'darkorange', label=ocr_name[0])
     pyplot.plot(y1, "-.", color = 'royalblue', label=ocr_name[1])
-    pyplot.plot(y2, "--", color='firebrick', label=ocr_name[2])
-    pyplot.plot(y3, "--", color='deepskyblue', label=ocr_name[3])
-    pyplot.plot(y4, "--", color='seagreen', label=ocr_name[4])
+    # pyplot.plot(y2, "--", color='firebrick', label=ocr_name[2])
+    # pyplot.plot(y3, "--", color='deepskyblue', label=ocr_name[3])
+    # pyplot.plot(y4, "--", color='seagreen', label=ocr_name[4])
     # pyplot.plot(y_, "--", label="Approximation (Zipf)")
     
     if log:
@@ -167,14 +166,14 @@ def filtre_stop(contenu, language):
     return filtre_stopfr
 
 #MAIN
-path_corpora = "../small-ELTeC-fra-2021-2024_REN/"
+path_corpora = "../small-TGB-RevueTAL_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 texte_list_ref=[]
 liste_list_ocr=[]
 liste_noms_ocrs=[]
-for subcorpus in sorted(glob.glob("%sDAUDET/"%path_corpora)):
+for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     # print(subcorpus)
-
+## _______________ZIPF sur .txt REF et OCRs
     for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
         print("subpath",subpath)
         texte = lire_fichier_txt(subpath)
@@ -184,27 +183,27 @@ for subcorpus in sorted(glob.glob("%sDAUDET/"%path_corpora)):
         texte_dict = texte_to_dict(texte_tok)
         # print(texte_dict)
         texte_list_ref = dict_to_list(texte_dict)
-        # print(texte_list_ref)
+        print(texte_list_ref)
 
-    for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
-        print("subpath",subpath)
-        texte_ocr = lire_fichier_txt(subpath)
-        nomfichier = nom_fichier(subpath)
-        output_name= "_".join(nomfichier.split("_")[:2])
-        nom_ocr = nomfichier.split("_")[-1]
-        nom_ocr=nommage(nom_ocr)
-        liste_noms_ocrs.append(nom_ocr)
-
-        texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
-        texte_tok_ocr = text_2_tok(texte_ocr)
-        # print(texte_tok_ocr)
-        texte_dict_ocr = texte_to_dict(texte_tok_ocr)
-        # print(texte_dict_ocr)
-        texte_list_ocr = dict_to_list(texte_dict_ocr)
-        # print(texte_list_ocr)
-        liste_list_ocr.append(texte_list_ocr)
-        # print(texte_list_ref)
-
-    graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
-    stocker("../small-ELTeC-fra_REN/ZIPF_PLT/%s.png"%output_name)
-
+    # for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
+    #     print("subpath",subpath)
+    #     texte_ocr = lire_fichier_txt(subpath)
+    #     nomfichier = nom_fichier(subpath)
+    #     output_name= "_".join(nomfichier.split("_")[:2])
+    #     nom_ocr = nomfichier.split("_")[-1]
+    #     nom_ocr=nommage(nom_ocr)
+    #     liste_noms_ocrs.append(nom_ocr)
+    #
+    #     texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
+    #     texte_tok_ocr = text_2_tok(texte_ocr)
+    #     # print(texte_tok_ocr)
+    #     texte_dict_ocr = texte_to_dict(texte_tok_ocr)
+    #     # print(texte_dict_ocr)
+    #     texte_list_ocr = dict_to_list(texte_dict_ocr)
+    #     # print(texte_list_ocr)
+    #     liste_list_ocr.append(texte_list_ocr)
+    #     # print(texte_list_ref)
+    #
+    # graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
+    # stocker("../small-ELTeC-fra_REN/ZIPF_PLT/%s.png"%output_name)
+## _______________ZIPF sur .txt REF et OCRs
