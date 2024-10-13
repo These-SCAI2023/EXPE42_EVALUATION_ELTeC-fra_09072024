@@ -84,6 +84,9 @@ def afficher_n(texte_list, n):
 
 def plot_zipf(texte_list, ocr,ocr_name, log=False):
     pyplot.rcParams['figure.figsize'] = [15, 10]
+    pyplot.rcParams['axes.labelsize'] = 25
+    pyplot.rcParams['xtick.labelsize'] = 25
+    pyplot.rcParams['ytick.labelsize'] = 25
 
     y = [_[0] for _ in texte_list]
     y_ = [_[0] for _ in ocr[0]]
@@ -148,14 +151,15 @@ def nom_fichier_REN(chemin_fichier):
 
 def stocker(name_file):
 #    pyplot.rcParams.update({'font.size': 16})
-    titre_plt = name_file.split("/")
-    titre_plt = titre_plt[3]
-    titre_plt = titre_plt.split("_")
-    titre_plt = " ".join(titre_plt)
-    delete_png = titre_plt.split(".")
-    titre_plt= " ".join([delete_png[0]])
-    pyplot.legend()
-    pyplot.title("Loi de Zipf -- %s"%titre_plt)
+#     titre_plt = name_file.split("/")
+#     titre_plt = titre_plt[3]
+#     titre_plt = titre_plt.split("_")
+#     titre_plt = " ".join(titre_plt)
+#     delete_png = titre_plt.split(".")
+#     titre_plt= " ".join([delete_png[0]])
+    pyplot.legend(fontsize='25', bbox_to_anchor=(1,1))
+    pyplot.savefig(name_file, dpi=300, bbox_inches="tight")
+    # pyplot.title("Loi de Zipf -- %s"%titre_plt)
     pyplot.savefig(name_file, dpi=300)
     pyplot.clf()
     return name_file   
@@ -166,7 +170,7 @@ def filtre_stop(contenu, language):
     return filtre_stopfr
 
 #MAIN
-path_corpora = "../small-TGB-RevueTAL_REN/"
+path_corpora = "../small-ELTeC-eng_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 texte_list_ref=[]
 liste_list_ocr=[]
@@ -183,27 +187,27 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
         texte_dict = texte_to_dict(texte_tok)
         # print(texte_dict)
         texte_list_ref = dict_to_list(texte_dict)
-        print(texte_list_ref)
+        # print(texte_list_ref)
 
-    # for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
-    #     print("subpath",subpath)
-    #     texte_ocr = lire_fichier_txt(subpath)
-    #     nomfichier = nom_fichier(subpath)
-    #     output_name= "_".join(nomfichier.split("_")[:2])
-    #     nom_ocr = nomfichier.split("_")[-1]
-    #     nom_ocr=nommage(nom_ocr)
-    #     liste_noms_ocrs.append(nom_ocr)
-    #
-    #     texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
-    #     texte_tok_ocr = text_2_tok(texte_ocr)
-    #     # print(texte_tok_ocr)
-    #     texte_dict_ocr = texte_to_dict(texte_tok_ocr)
-    #     # print(texte_dict_ocr)
-    #     texte_list_ocr = dict_to_list(texte_dict_ocr)
-    #     # print(texte_list_ocr)
-    #     liste_list_ocr.append(texte_list_ocr)
-    #     # print(texte_list_ref)
-    #
-    # graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
-    # stocker("../small-ELTeC-fra_REN/ZIPF_PLT/%s.png"%output_name)
+    for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
+        print("subpath",subpath)
+        texte_ocr = lire_fichier_txt(subpath)
+        nomfichier = nom_fichier(subpath)
+        output_name= "_".join(nomfichier.split("_")[:2])
+        nom_ocr = nomfichier.split("_")[-1]
+        nom_ocr=nommage(nom_ocr)
+        liste_noms_ocrs.append(nom_ocr)
+
+        texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
+        texte_tok_ocr = text_2_tok(texte_ocr)
+        # print(texte_tok_ocr)
+        texte_dict_ocr = texte_to_dict(texte_tok_ocr)
+        # print(texte_dict_ocr)
+        texte_list_ocr = dict_to_list(texte_dict_ocr)
+        # print(texte_list_ocr)
+        liste_list_ocr.append(texte_list_ocr)
+        # print(texte_list_ref)
+
+    graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
+    stocker("../ZIPF_PLT/%s.png"%output_name)
 ## _______________ZIPF sur .txt REF et OCRs

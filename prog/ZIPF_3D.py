@@ -11,6 +11,8 @@ from IPython.display import display
 import seaborn as sns
 import scipy.stats as stats
 from nltk.corpus import stopwords
+from seaborn import FacetGrid
+
 from renommage import *
 
 
@@ -102,20 +104,22 @@ def afficher_n(texte_list, n):
 #
 #
 #    # pyplot.show()
-def plot_zipf(log=True):
+def plot_zipf(n, log=False):
     pyplot.rcParams['figure.figsize'] = [15, 10]
+    pyplot.rcParams['axes.labelsize'] = 25
+    pyplot.rcParams['xtick.labelsize'] = 25
+    pyplot.rcParams['ytick.labelsize'] = 25
 
     if log:
-        # pyplot.yscale("log")
+        pyplot.yscale("log")
         pyplot.xscale("log")
     #        pyplot.axis([0,10^2,0,10^2])
-    pyplot.ylim(0, 50)
-    pyplot.xlim(0, 100)
-
-    #    pyplot.legend()
+    pyplot.ylim(0, n)
+    pyplot.xlim(0, n)
     #    pyplot.title("Loi de Zipf (Brown Corpus)")
     pyplot.xlabel("Rang")
     pyplot.ylabel("Fréquence")
+    # pyplot.tick_params(axis='both', labelsize=25)
 def nom_fichier(chemin_fichier):
     # NOM_FICHIER POUR LES TXT
     nom_fichier = chemin_fichier.split("/")
@@ -156,9 +160,10 @@ def stocker(name_file):
     # titre_plt = " ".join(titre_plt)
     # delete_png = titre_plt.split(".")
     # titre_plt = " ".join([delete_png[0]])
-    # pyplot.legend()
+    # pyplot.legend(fontsize='22',bbox_to_anchor=(0.5, 0., 0.5, 0.5))
+    pyplot.legend(fontsize='22', bbox_to_anchor=(1.05,1))
     # pyplot.title("Loi de Zipf -- %s" % name_file)
-    pyplot.savefig(name_file, dpi=300)
+    pyplot.savefig(name_file, dpi=300, bbox_inches="tight")
     pyplot.clf()
     return name_file
 
@@ -177,11 +182,11 @@ def qqplot(x, y, **kwargs):
     pyplot.plot(x, y, **kwargs)
 
 # MAIN
-path_corpora = "../small-ELTeC-fra-2021-2024_REN/"
+path_corpora = "../small-TGB-RevueCorpus_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 
-
-for subcorpus in sorted(glob.glob("%sAIMARD_TRAPPEURS/" % path_corpora)):
+taille=[1000, 10000]
+for subcorpus in sorted(glob.glob("%s*/" % path_corpora)):
     # print(subcorpus)
     data_list = []
     liste_version = []
@@ -198,6 +203,8 @@ for subcorpus in sorted(glob.glob("%sAIMARD_TRAPPEURS/" % path_corpora)):
         nomfichier_ref = subpath.split("/")[-1]
         # print(nomfichier_ref)
         nom_ren_ref = (" ").join(nomfichier_ref.split("_")[-1].split("-")[:2])
+        if "1.8.2" in nom_ren_ref :
+            nom_ren_ref = re.sub("en 1.8.2", "stanza", nom_ren_ref)
         entite = lire_fichier(subpath)
         # print(entite)
         texte_dict = texte_to_dict(entite)
@@ -223,19 +230,24 @@ for subcorpus in sorted(glob.glob("%sAIMARD_TRAPPEURS/" % path_corpora)):
         nom_ocr = nomfichier.split("_")[2].split(".")[0]
         nom_ocr = nommage(nom_ocr)
         nom_ren = (" ").join(nomfichier.split("_")[-1].split("-")[:2])
+        if "1.8.2" in nom_ren :
+            nom_ren = re.sub("en 1.8.2", "stanza", nom_ren)
         # print(nom_ren)
-        texte_dict_ocr = texte_to_dict(entite_ocr)
-        # print(texte_dict_ocr)
-        texte_list_ocr = dict_to_list(texte_dict_ocr)
-        # print(texte_list_ocr)
-        for i in texte_list_ocr :
-            # print("---------",i)
-            liste_data.append(i[-1])
-            liste_freq.append(i[0])
-            liste_version.append(nom_ocr)
-            lst_nom_rens.append(nom_ren)
-            liste_indice.append(k)
-            k+=1
+        # if nom_ocr =="Kraken" or nom_ocr =="Kraken 4.3.13":
+        # if nom_ocr == "Tess. fr" or nom_ocr == "Tess. fr 3.10":
+        if "lectaurep" not in nom_ocr:
+            texte_dict_ocr = texte_to_dict(entite_ocr)
+            # print(texte_dict_ocr)
+            texte_list_ocr = dict_to_list(texte_dict_ocr)
+            # print(texte_list_ocr)
+            for i in texte_list_ocr :
+                # print("---------",i)
+                liste_data.append(i[-1])
+                liste_freq.append(i[0])
+                liste_version.append(nom_ocr)
+                lst_nom_rens.append(nom_ren)
+                liste_indice.append(k)
+                k+=1
         # print(liste_freq)
         # print(liste_indice)
         # print(len(lst_nom_rens))
@@ -247,19 +259,18 @@ for subcorpus in sorted(glob.glob("%sAIMARD_TRAPPEURS/" % path_corpora)):
         tableau["OCR"] = liste_version
         tableau["REN"] = lst_nom_rens
         tableau["Data"] = liste_data
-        tableau["frequence"] = liste_freq
-        tableau["rang"] = liste_indice
+        tableau["Fréquence"] = liste_freq
+        tableau["Rang"] = liste_indice
         data_tab = pd.DataFrame(tableau)
         # print(data_tab)
         # display(data_tab)
-        g = sns.FacetGrid(data_tab, hue="REN", col="OCR", height=4)
-        g.map(qqplot, "rang","frequence")
-
-        plot_zipf()
-        g.add_legend()
-#
-# #
-# #     # graph = plot_zipf(texte_list_ref, liste_list_ocr, lst_nom_config, lst_nom_ren_ref, log=True)
-        stocker("../ZIPF_PLT/%s.png" % output_name)
+        for t in taille:
+            f, ax = pyplot.subplots(figsize=(20, 25))
+            g = sns.FacetGrid(data_tab, hue="REN", col="OCR", height=4)
+            g.map(qqplot, "Rang","Fréquence")
+            # g.add_legend()
+            plot_zipf(t,True)
+    # #     # graph = plot_zipf(texte_list_ref, liste_list_ocr, lst_nom_config, lst_nom_ren_ref, log=True)
+            stocker("../ZIPF_PLT/%s-%s-4.png" %(output_name,t))
 # #
 #     ## _______________ZIPF sur EN.json REF et OCRs
