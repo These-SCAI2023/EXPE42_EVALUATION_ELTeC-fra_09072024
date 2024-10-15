@@ -114,8 +114,8 @@ def archeo_nommage(version, vers_ren):
 #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
 
 def nommage(version):
-    if version == "Kraken-base.txt" or version == "Kraken-base" or version == "kraken" or version == "Kraken":
-        version = re.sub("Kraken-base.txt|Kraken-base|kraken|Kraken", f"Kraken", version)
+    if version == "Kraken-base.txt" or version == "Kraken-base" or version == "Krakenbase" or version == "krakenbase" or version == "kraken" or version == "Kraken":
+        version = re.sub("Kraken-base.txt|Kraken-base|Krakenbase|krakenbase|kraken|Kraken", f"Kraken", version)
         # print("Version : ", version)
 
     if version == "kraken-jspll-pretrain.txt" or version == "kraken-jspll-pretrain":

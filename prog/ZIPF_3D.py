@@ -182,7 +182,7 @@ def qqplot(x, y, **kwargs):
     pyplot.plot(x, y, **kwargs)
 
 # MAIN
-path_corpora = "../small-TGB-RevueCorpus_REN/"
+path_corpora = "../small-ELTeC-por_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 
 taille=[1000, 10000]

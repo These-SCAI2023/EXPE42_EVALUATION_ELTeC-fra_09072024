@@ -91,16 +91,16 @@ def plot_zipf(texte_list, ocr,ocr_name, log=False):
     y = [_[0] for _ in texte_list]
     y_ = [_[0] for _ in ocr[0]]
     y1 = [_[0] for _ in ocr[1]]
-    # y2 = [_[0] for _ in ocr[2]]
-    # y3 = [_[0] for _ in ocr[3]]
-    # y4 = [_[0] for _ in ocr[4]]
+    y2 = [_[0] for _ in ocr[2]]
+    y3 = [_[0] for _ in ocr[3]]
+    y4 = [_[0] for _ in ocr[4]]
 
     pyplot.plot(y, "-", color = 'chartreuse', label="Référence")
     pyplot.plot(y_, "--", color = 'darkorange', label=ocr_name[0])
     pyplot.plot(y1, "-.", color = 'royalblue', label=ocr_name[1])
-    # pyplot.plot(y2, "--", color='firebrick', label=ocr_name[2])
-    # pyplot.plot(y3, "--", color='deepskyblue', label=ocr_name[3])
-    # pyplot.plot(y4, "--", color='seagreen', label=ocr_name[4])
+    pyplot.plot(y2, "--", color='firebrick', label=ocr_name[2])
+    pyplot.plot(y3, "--", color='deepskyblue', label=ocr_name[3])
+    pyplot.plot(y4, "--", color='seagreen', label=ocr_name[4])
     # pyplot.plot(y_, "--", label="Approximation (Zipf)")
     
     if log:
@@ -170,13 +170,16 @@ def filtre_stop(contenu, language):
     return filtre_stopfr
 
 #MAIN
-path_corpora = "../small-ELTeC-por_REN/"
+path_corpora = "../small-ELTeC-fra-2021-2024_REN/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
-texte_list_ref=[]
-liste_list_ocr=[]
-liste_noms_ocrs=[]
+# texte_list_ref=[]
+# liste_list_ocr=[]
+# liste_noms_ocrs=[]
 for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     # print(subcorpus)
+    texte_list_ref = []
+    liste_list_ocr = []
+    liste_noms_ocrs = []
 ## _______________ZIPF sur .txt REF et OCRs
     for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
         print("subpath",subpath)
@@ -195,9 +198,11 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
         nomfichier = nom_fichier(subpath)
         output_name= "_".join(nomfichier.split("_")[:2])
         nom_ocr = nomfichier.split("_")[-1]
+        # print(nom_ocr)
         nom_ocr=nommage(nom_ocr)
+        # print(nom_ocr)
         liste_noms_ocrs.append(nom_ocr)
-
+    #
         texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
         texte_tok_ocr = text_2_tok(texte_ocr)
         # print(texte_tok_ocr)
@@ -206,7 +211,7 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
         texte_list_ocr = dict_to_list(texte_dict_ocr)
         # print(texte_list_ocr)
         liste_list_ocr.append(texte_list_ocr)
-        # print(texte_list_ref)
+    print(len(liste_list_ocr))
 
     graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
     stocker("../ZIPF_PLT/%s.png"%output_name)
