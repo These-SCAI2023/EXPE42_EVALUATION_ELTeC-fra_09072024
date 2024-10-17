@@ -22,7 +22,7 @@ def stocker(chemin, contenu):
         bio_file.writerows(contenu)
     return bio_file
 
-path_csv="../EXPE49_TAL-ENs_vs_GOLD-WG/REF_small-ELTeC-fra_IOB/*.csv"
+path_csv="../EXPE49_TAL-ENs_vs_GOLD-WG_en cours/REF_small-ELTeC-fra_IOB/*.bio"
 
 for path in glob.glob(path_csv):
     # print(path)

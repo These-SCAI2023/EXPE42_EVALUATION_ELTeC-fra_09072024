@@ -80,30 +80,6 @@ def afficher_n(texte_list, n):
     print("Ces {} mots représentent le {:0.2f}% du corpus".format(n, prop))
 
 
-# def plot_zipf(texte_list, ocr, config_name, liste_ren_ref, log=False):
-#     pyplot.rcParams['figure.figsize'] = [15, 10]
-#
-#     y = [_[0] for _ in texte_list]
-#     y_ = [_[0] for _ in ocr[0]]
-#
-#     pyplot.plot(y, "-", color='chartreuse', label="Référence")
-#     pyplot.plot(y_, "--", color='darkorange', label=config_name[0])
-#     # pyplot.plot(y1, "-.", color='royalblue', label=ocr_name[1])
-#
-#     if log:
-#         pyplot.yscale("log")
-#         pyplot.xscale("log")
-#     #        pyplot.axis([0,10^2,0,10^2])
-#     pyplot.ylim(0, 10000)
-#     pyplot.xlim(0, 95000)
-#
-#     #    pyplot.legend()
-#     #    pyplot.title("Loi de Zipf (Brown Corpus)")
-#     pyplot.xlabel("Rang")
-#     pyplot.ylabel("Fréquence")
-#
-#
-#    # pyplot.show()
 def plot_zipf(n, log=False):
     pyplot.rcParams['figure.figsize'] = [15, 10]
     pyplot.rcParams['axes.labelsize'] = 25
@@ -173,12 +149,7 @@ def filtre_stop(contenu, language):
     filtre_stopfr = lambda text: [token for token in text if token.lower() not in french_stopwords]
     return filtre_stopfr
 
-# def quantile_plot(x, **kwargs):
-#     quantiles, xr = stats.probplot(x, fit=False)
-#     pyplot.scatter(xr, quantiles, **kwargs)
 def qqplot(x, y, **kwargs):
-    # _, xr = stats.probplot(x, fit=False)
-    # _, yr = stats.probplot(y, fit=False)
     pyplot.plot(x, y, **kwargs)
 
 # MAIN

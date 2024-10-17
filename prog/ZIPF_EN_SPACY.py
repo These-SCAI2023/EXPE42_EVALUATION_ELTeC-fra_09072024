@@ -94,13 +94,27 @@ def plot_zipf(texte_list, ocr,ocr_name, log=False):
     y2 = [_[0] for _ in ocr[2]]
     y3 = [_[0] for _ in ocr[3]]
     y4 = [_[0] for _ in ocr[4]]
+    y5 = [_[0] for _ in ocr[5]]
+    y6 = [_[0] for _ in ocr[6]]
+    y7 = [_[0] for _ in ocr[7]]
+    y8 = [_[0] for _ in ocr[8]]
+    y9 = [_[0] for _ in ocr[9]]
+    y10 = [_[0] for _ in ocr[10]]
+    y11 = [_[0] for _ in ocr[11]]
 
-    pyplot.plot(y, "-", color = 'chartreuse', label="Référence")
-    pyplot.plot(y_, "--", color = 'darkorange', label=ocr_name[0])
-    pyplot.plot(y1, "-.", color = 'royalblue', label=ocr_name[1])
-    pyplot.plot(y2, "--", color='firebrick', label=ocr_name[2])
-    pyplot.plot(y3, "--", color='deepskyblue', label=ocr_name[3])
-    pyplot.plot(y4, "--", color='seagreen', label=ocr_name[4])
+    pyplot.plot(y, "-", color = 'black', label="Référence", linewidth=7.0)
+    pyplot.plot(y_, "-", color = 'darkorange', label=ocr_name[0])
+    pyplot.plot(y1, "-.", color = 'chocolate', label=ocr_name[1])
+    pyplot.plot(y2, "--", color='tan', label=ocr_name[2])
+    pyplot.plot(y3, "-", color="blue", label=ocr_name[3])
+    pyplot.plot(y4, "-.", color='deepskyblue', label=ocr_name[4])
+    pyplot.plot(y5, "--", color = 'royalblue', label=ocr_name[5])
+    pyplot.plot(y6, "-", color = 'green', label=ocr_name[6])
+    pyplot.plot(y7, "-.", color='yellowgreen', label=ocr_name[7])
+    pyplot.plot(y8, "--", color='seagreen', label=ocr_name[8], )
+    pyplot.plot(y9, "-", color='red', label=ocr_name[9])
+    pyplot.plot(y10, "-.", color='deeppink', label=ocr_name[10])
+    pyplot.plot(y11, "--", color='firebrick', label=ocr_name[11])
     # pyplot.plot(y_, "--", label="Approximation (Zipf)")
     
     if log:
@@ -114,7 +128,6 @@ def plot_zipf(texte_list, ocr,ocr_name, log=False):
 #    pyplot.title("Loi de Zipf (Brown Corpus)")
     pyplot.xlabel("Rang")
     pyplot.ylabel("Fréquence")
-    
 #    pyplot.show()    
 
 def nom_fichier(chemin_fichier):
@@ -157,8 +170,11 @@ def stocker(name_file):
 #     titre_plt = " ".join(titre_plt)
 #     delete_png = titre_plt.split(".")
 #     titre_plt= " ".join([delete_png[0]])
-    pyplot.legend(fontsize='25', bbox_to_anchor=(1,1))
-    pyplot.savefig(name_file, dpi=300, bbox_inches="tight")
+#     pyplot.legend(fontsize='25', bbox_to_anchor=(1,1))
+    pyplot.legend(fontsize='25', bbox_to_anchor=(1.05,1))
+    pyplot.tight_layout()
+    pyplot.savefig(name_file, dpi=300)
+# , bbox_inches="tight"
     # pyplot.title("Loi de Zipf -- %s"%titre_plt)
     pyplot.savefig(name_file, dpi=300)
     pyplot.clf()
@@ -170,11 +186,8 @@ def filtre_stop(contenu, language):
     return filtre_stopfr
 
 #MAIN
-path_corpora = "../small-ELTeC-fra-2021-2024_REN/"
-# dans "corpora" un subcorpus = toutes les versions 'un texte'
-# texte_list_ref=[]
-# liste_list_ocr=[]
-# liste_noms_ocrs=[]
+path_corpora = "../CORRECTION_DISTANCES/small-ELTeC-fra-2021-2024*/"
+
 for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     # print(subcorpus)
     texte_list_ref = []
@@ -182,7 +195,7 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     liste_noms_ocrs = []
 ## _______________ZIPF sur .txt REF et OCRs
     for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
-        print("subpath",subpath)
+        print("REF subpath",subpath)
         texte = lire_fichier_txt(subpath)
         texte = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte)
         texte_tok = text_2_tok(texte)
@@ -190,29 +203,36 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
         texte_dict = texte_to_dict(texte_tok)
         # print(texte_dict)
         texte_list_ref = dict_to_list(texte_dict)
-        # print(texte_list_ref)
-
-    for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
-        print("subpath",subpath)
-        texte_ocr = lire_fichier_txt(subpath)
-        nomfichier = nom_fichier(subpath)
-        output_name= "_".join(nomfichier.split("_")[:2])
-        nom_ocr = nomfichier.split("_")[-1]
-        # print(nom_ocr)
-        nom_ocr=nommage(nom_ocr)
-        # print(nom_ocr)
-        liste_noms_ocrs.append(nom_ocr)
+        # # print(texte_list_ref)
     #
-        texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
-        texte_tok_ocr = text_2_tok(texte_ocr)
-        # print(texte_tok_ocr)
-        texte_dict_ocr = texte_to_dict(texte_tok_ocr)
-        # print(texte_dict_ocr)
-        texte_list_ocr = dict_to_list(texte_dict_ocr)
-        # print(texte_list_ocr)
-        liste_list_ocr.append(texte_list_ocr)
-    print(len(liste_list_ocr))
+    for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
 
-    graph=plot_zipf(texte_list_ref, liste_list_ocr, liste_noms_ocrs, log=True)
-    stocker("../ZIPF_PLT/%s.png"%output_name)
-## _______________ZIPF sur .txt REF et OCRs
+        if "lectaurep" not in subpath:
+            print("OCR subpath", subpath)
+            nomfichier = nom_fichier(subpath)
+            output_name= "_".join(nomfichier.split("_")[:2])
+            # print("output_name----------->",output_name)
+            # nom_ocr = nomfichier.split("_")[-1]
+            nom_ocr= subpath.split("/")[-1].split("_")[-1].split(".txt")[0] ## A VERIFIER QUAND ON CHANGE LE CHEMIN D'ENTREE
+            # print("avant ",nom_ocr)
+            nom_ocr=nommage(nom_ocr)
+            # print("après ",nom_ocr)
+
+            liste_noms_ocrs.append(nom_ocr)
+            # print(liste_noms_ocrs)
+            # print(len(liste_noms_ocrs))
+            texte_ocr = lire_fichier_txt(subpath)
+            texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
+            texte_tok_ocr = text_2_tok(texte_ocr)
+            # print(texte_tok_ocr)
+            texte_dict_ocr = texte_to_dict(texte_tok_ocr)
+            # print(texte_dict_ocr)
+            texte_list_ocr = dict_to_list(texte_dict_ocr)
+            # print(texte_list_ocr)
+            liste_list_ocr.append(texte_list_ocr)
+            # print(len(liste_list_ocr))
+    # print(liste_noms_ocrs)
+    # print(len(liste_noms_ocrs))
+    graph=plot_zipf(texte_list_ref, liste_list_ocr, sorted(liste_noms_ocrs), log=True) ## VERIFIER LA FONCTION QUAND ON CHANGE LE NOMBRE DES VERSIONS OCR, PAS ENCORE AUTOMATISEE
+    stocker("../tmp_ZIPF-corr-PLT/%s.png"%output_name)
+# ## _______________ZIPF sur .txt REF et OCRs
