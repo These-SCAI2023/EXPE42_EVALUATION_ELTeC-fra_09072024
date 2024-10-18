@@ -1,0 +1,392 @@
+{
+  "Kraken 4.3.13": {
+    "stanza-fr": {
+      "spearman.stats": 0.6090909090909091,
+      "p-value": 0.04669570935409886
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.3454545454545455,
+      "p-value": 0.2980892209030388
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.46363636363636374,
+      "p-value": 0.15090149929248603
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.18181818181818182,
+      "p-value": 0.5926152128455
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.46363636363636374,
+      "p-value": 0.15090149929248603
+    },
+    "spacy-md": {
+      "spearman.stats": 0.2545454545454546,
+      "p-value": 0.4500365768888285
+    }
+  },
+  "Tess. fr -- jspl-fr": {
+    "stanza-fr": {
+      "spearman.stats": 0.4727272727272727,
+      "p-value": 0.14199852020631992
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.6090909090909091,
+      "p-value": 0.04669570935409886
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.690909090909091,
+      "p-value": 0.018565033381595004
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.7363636363636363,
+      "p-value": 0.009759535959916903
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.7454545454545456,
+      "p-value": 0.00845472888506156
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7454545454545456,
+      "p-value": 0.00845472888506156
+    }
+  },
+  "Tess. fr 3.10": {
+    "stanza-fr": {
+      "spearman.stats": -0.10909090909090911,
+      "p-value": 0.7495085962341482
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.02727272727272728,
+      "p-value": 0.9365584481926122
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": -0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "spacy-lg": {
+      "spearman.stats": -0.23636363636363636,
+      "p-value": 0.4840911622253965
+    },
+    "spacy-sm": {
+      "spearman.stats": -0.17272727272727276,
+      "p-value": 0.6115423848512369
+    },
+    "spacy-md": {
+      "spearman.stats": -0.009090909090909092,
+      "p-value": 0.9788365001441937
+    }
+  },
+  "Kraken Lectp. 4.3.13 -- jspl-ELTeCfr": {
+    "stanza-fr": {
+      "spearman.stats": -0.05454545454545456,
+      "p-value": 0.8734465775233149
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.15454545454545454,
+      "p-value": 0.65003396549758
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.03636363636363637,
+      "p-value": 0.9154683168905347
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.009090909090909092,
+      "p-value": 0.9788365001441937
+    },
+    "spacy-sm": {
+      "spearman.stats": -0.018181818181818184,
+      "p-value": 0.9576852410216187
+    },
+    "spacy-md": {
+      "spearman.stats": -0.07272727272727274,
+      "p-value": 0.831716405381337
+    }
+  },
+  "Tess. fr 3.10 -- jspl-ELTeCfr": {
+    "stanza-fr": {
+      "spearman.stats": -0.17272727272727276,
+      "p-value": 0.6115423848512369
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.08181818181818183,
+      "p-value": 0.8109903943000458
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.1272727272727273,
+      "p-value": 0.7092146257733047
+    },
+    "spacy-lg": {
+      "spearman.stats": -0.17272727272727276,
+      "p-value": 0.6115423848512369
+    },
+    "spacy-sm": {
+      "spearman.stats": -0.20000000000000004,
+      "p-value": 0.5554454421055854
+    },
+    "spacy-md": {
+      "spearman.stats": -0.11818181818181818,
+      "p-value": 0.72928477951978
+    }
+  },
+  "Tess. fr": {
+    "stanza-fr": {
+      "spearman.stats": 0.4090909090909091,
+      "p-value": 0.2115450103420961
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.5818181818181819,
+      "p-value": 0.060419896215648305
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.6272727272727273,
+      "p-value": 0.03884525362035334
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.7363636363636363,
+      "p-value": 0.009759535959916903
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7000000000000001,
+      "p-value": 0.01647097883651441
+    }
+  },
+  "Tess. fr 3.10 -- jspl-fr": {
+    "stanza-fr": {
+      "spearman.stats": -0.02727272727272728,
+      "p-value": 0.9365584481926122
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.1272727272727273,
+      "p-value": 0.7092146257733047
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.09090909090909091,
+      "p-value": 0.7903727377532903
+    },
+    "spacy-lg": {
+      "spearman.stats": -0.3181818181818182,
+      "p-value": 0.34029761418190363
+    },
+    "spacy-sm": {
+      "spearman.stats": -0.18181818181818182,
+      "p-value": 0.5926152128455
+    },
+    "spacy-md": {
+      "spearman.stats": 0.009090909090909092,
+      "p-value": 0.9788365001441937
+    }
+  },
+  "Kraken Lectp. 4.3.13 -- jspl-fr": {
+    "stanza-fr": {
+      "spearman.stats": 0.13636363636363638,
+      "p-value": 0.6893090205863619
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.018181818181818184,
+      "p-value": 0.9576852410216187
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.009090909090909092,
+      "p-value": 0.9788365001441937
+    },
+    "spacy-lg": {
+      "spearman.stats": -0.02727272727272728,
+      "p-value": 0.9365584481926122
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "spacy-md": {
+      "spearman.stats": 0.0,
+      "p-value": 1.0
+    }
+  },
+  "Tess. fr -- jspl-ELTeCfr": {
+    "stanza-fr": {
+      "spearman.stats": 0.22727272727272727,
+      "p-value": 0.501535667604937
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.6181818181818182,
+      "p-value": 0.042645569805326695
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.7363636363636363,
+      "p-value": 0.009759535959916903
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    }
+  },
+  "Kraken--jspl-ELTeCfr": {
+    "stanza-fr": {
+      "spearman.stats": 0.30000000000000004,
+      "p-value": 0.37008312228206786
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.20909090909090913,
+      "p-value": 0.5372209352113229
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.4000000000000001,
+      "p-value": 0.22286835013352002
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.5545454545454546,
+      "p-value": 0.07665233333978251
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.5454545454545455,
+      "p-value": 0.08265095734417506
+    },
+    "spacy-md": {
+      "spearman.stats": 0.5818181818181819,
+      "p-value": 0.060419896215648305
+    }
+  },
+  "Kraken 4.3.13 -- jspl-ELTeCfr": {
+    "stanza-fr": {
+      "spearman.stats": 0.5181818181818182,
+      "p-value": 0.10249153979096383
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.38181818181818183,
+      "p-value": 0.24655957577897006
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.27272727272727276,
+      "p-value": 0.41714143714253127
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.18181818181818182,
+      "p-value": 0.5926152128455
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.38181818181818183,
+      "p-value": 0.24655957577897006
+    },
+    "spacy-md": {
+      "spearman.stats": 0.3272727272727273,
+      "p-value": 0.32589494101284167
+    }
+  },
+  "Kraken 4.3.13 -- jspl-fr": {
+    "stanza-fr": {
+      "spearman.stats": 0.5363636363636364,
+      "p-value": 0.08895341813596276
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.03636363636363637,
+      "p-value": 0.9154683168905347
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.24545454545454545,
+      "p-value": 0.4669223669820163
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.03636363636363637,
+      "p-value": 0.9154683168905347
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.2545454545454546,
+      "p-value": 0.4500365768888285
+    },
+    "spacy-md": {
+      "spearman.stats": 0.08181818181818183,
+      "p-value": 0.8109903943000458
+    }
+  },
+  "Kraken--jspl-fr": {
+    "stanza-fr": {
+      "spearman.stats": 0.39090909090909093,
+      "p-value": 0.23454006709519432
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.018181818181818184,
+      "p-value": 0.9576852410216187
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.4727272727272727,
+      "p-value": 0.14199852020631992
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.41818181818181827,
+      "p-value": 0.20057021703405067
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.6454545454545455,
+      "p-value": 0.03196279932801745
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    }
+  },
+  "Kraken": {
+    "stanza-fr": {
+      "spearman.stats": 0.24545454545454545,
+      "p-value": 0.4669223669820163
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.44545454545454555,
+      "p-value": 0.16973260492681172
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.44545454545454555,
+      "p-value": 0.16973260492681172
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.6727272727272727,
+      "p-value": 0.023313039833185972
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.7090909090909092,
+      "p-value": 0.014552051953727704
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7636363636363637,
+      "p-value": 0.006233059747904751
+    }
+  },
+  "Kraken Lectp. 4.3.13": {
+    "stanza-fr": {
+      "spearman.stats": 0.018181818181818184,
+      "p-value": 0.9576852410216187
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.15454545454545454,
+      "p-value": 0.65003396549758
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.02727272727272728,
+      "p-value": 0.9365584481926122
+    },
+    "spacy-sm": {
+      "spearman.stats": 0.1272727272727273,
+      "p-value": 0.7092146257733047
+    },
+    "spacy-md": {
+      "spearman.stats": -0.045454545454545456,
+      "p-value": 0.8944269969053026
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "Kraken": {
+    "spacy-sm": {
+      "spearman.stats": 0.7090909090909092,
+      "p-value": 0.014552051953727704
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7636363636363637,
+      "p-value": 0.006233059747904751
+    },
+    "stanza-fr": {
+      "spearman.stats": 0.24545454545454545,
+      "p-value": 0.4669223669820163
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.6727272727272727,
+      "p-value": 0.023313039833185972
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.44545454545454555,
+      "p-value": 0.16973260492681172
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.44545454545454555,
+      "p-value": 0.16973260492681172
+    }
+  },
+  "Tess. fr": {
+    "spacy-sm": {
+      "spearman.stats": 0.7363636363636363,
+      "p-value": 0.009759535959916903
+    },
+    "spacy-md": {
+      "spearman.stats": 0.7000000000000001,
+      "p-value": 0.01647097883651441
+    },
+    "stanza-fr": {
+      "spearman.stats": 0.4090909090909091,
+      "p-value": 0.2115450103420961
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.7181818181818183,
+      "p-value": 0.01279959806885844
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.6272727272727273,
+      "p-value": 0.03884525362035334
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.5818181818181819,
+      "p-value": 0.060419896215648305
+    }
+  },
+  "Kraken Lectp. 4.3.13": {
+    "spacy-sm": {
+      "spearman.stats": 0.1272727272727273,
+      "p-value": 0.7092146257733047
+    },
+    "spacy-md": {
+      "spearman.stats": -0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "stanza-fr": {
+      "spearman.stats": 0.018181818181818184,
+      "p-value": 0.9576852410216187
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.02727272727272728,
+      "p-value": 0.9365584481926122
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "flair-0.13.1": {
+      "spearman.stats": -0.15454545454545454,
+      "p-value": 0.65003396549758
+    }
+  },
+  "Tess. fr 3.10": {
+    "spacy-sm": {
+      "spearman.stats": -0.17272727272727276,
+      "p-value": 0.6115423848512369
+    },
+    "spacy-md": {
+      "spearman.stats": -0.009090909090909092,
+      "p-value": 0.9788365001441937
+    },
+    "stanza-fr": {
+      "spearman.stats": -0.10909090909090911,
+      "p-value": 0.7495085962341482
+    },
+    "spacy-lg": {
+      "spearman.stats": -0.23636363636363636,
+      "p-value": 0.4840911622253965
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": -0.045454545454545456,
+      "p-value": 0.8944269969053026
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.02727272727272728,
+      "p-value": 0.9365584481926122
+    }
+  },
+  "Kraken 4.3.13": {
+    "spacy-sm": {
+      "spearman.stats": 0.46363636363636374,
+      "p-value": 0.15090149929248603
+    },
+    "spacy-md": {
+      "spearman.stats": 0.2545454545454546,
+      "p-value": 0.4500365768888285
+    },
+    "stanza-fr": {
+      "spearman.stats": 0.6090909090909091,
+      "p-value": 0.04669570935409886
+    },
+    "spacy-lg": {
+      "spearman.stats": 0.18181818181818182,
+      "p-value": 0.5926152128455
+    },
+    "camembert-4.41.1": {
+      "spearman.stats": 0.46363636363636374,
+      "p-value": 0.15090149929248603
+    },
+    "flair-0.13.1": {
+      "spearman.stats": 0.3454545454545455,
+      "p-value": 0.2980892209030388
+    }
+  }
+}
