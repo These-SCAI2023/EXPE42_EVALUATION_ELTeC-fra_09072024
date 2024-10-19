@@ -114,17 +114,10 @@ def stocker( chemin, contenu):
     w.close()
     
 # -----------------------------------------------------------------------------------------------------------------
-
-
 # chemin d'accès aux fichiers
 path_corpora = "../small-ELTeC-fra-2021-2024_REN_test/*/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
-
 # récupération du contenu des fichiers
-
-
-# dico_en = {}
-
 for subcorpus in sorted(glob.glob(path_corpora)):
     print("subcorpus",subcorpus)
     liste_EN = []
@@ -153,12 +146,7 @@ for subcorpus in sorted(glob.glob(path_corpora)):
         liste_EN.append(data_ocr)
         liste_version.append(version)
         liste_modele_REN.append(modele_REN)
-        # cle_dic = version + "--" + modele_REN
-        # dico_en[cle_dic] = data_ocr
 
-#     for config, listeen in dico_en.items():
-
-# # print(dico_en.keys())
     tableau = {}
     dic_sim = {}
     tableau["Version"] = liste_version
@@ -185,30 +173,4 @@ for subcorpus in sorted(glob.glob(path_corpora)):
             i=i+1
     stocker(f"{subcorpus}_NERALIGNE.json",dic_sim)
 
-
-
-
-
-# while i <len(liste_EN_ocr) :
-#     print("i--------->",i)
-#     print(liste_EN_ocr[i])
-#     nom_OCR = nom_version(liste_EN_ocr[i])
-#     # print(nom_OCR)
-#     modele_REN = nom_model(liste_EN_ocr[i])
-#     print(modele_REN)
-#     # print("mod : ",nom_OCR+"--"+modele_REN)
-#     cle_dic= nom_OCR+"--"+modele_REN
-#     dictionnaire_tot[cle_dic] = {}
-#     liste_ref = liste_EN_ref[i+1]
-#     # print(liste_ref)
-#     liste_ocr = liste_EN_ocr[i+1]
-#
-#     dictionnaire_tot[cle_dic]  = get_similar_word(liste_ref,liste_ocr)
-# # #     # print(dictionnaire_tot.keys())
-# # #     # print("########ecriture fichier###########")
-# # #     # SavePath=get_save_path(liste_EN_ocr[i])
-# # #     # SaveP = "%s_NERAligne.json"%(SavePath)
-# # #     # # print(SaveP)
-# # #     # stocker(SaveP, dictionnaire_tot[cle_dic])
-#     i=i+2
 
