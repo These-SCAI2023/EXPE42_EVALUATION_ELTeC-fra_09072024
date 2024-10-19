@@ -177,6 +177,6 @@ for subcorpus in sorted(glob.glob(path_corpora)):
                 print(cle_dir)
                 dic_sim[cle_dir]  = get_similar_word(liste_reference, liste_roc, seuil=0.35)
             i=i+1
-    stocker(f"{subcorpus}/{tableau["Auteur"].values[0]}_NERALIGNE.json",dic_sim)
+    stocker(f"{subcorpus}/{tableau['Auteur'].values[0]}_NERALIGNE.json",dic_sim)
 
 
