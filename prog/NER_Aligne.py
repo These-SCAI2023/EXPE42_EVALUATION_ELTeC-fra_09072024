@@ -115,7 +115,7 @@ def stocker( chemin, contenu):
     
 # -----------------------------------------------------------------------------------------------------------------
 # chemin d'accès aux fichiers
-path_corpora = "../small-ELTeC-fra-2021-2024_REN_test/*/"
+path_corpora = "../small-ELTeC-fra-2021-2024_REN/*/"
 # dans "corpora" un subcorpus = toutes les versions 'un texte'
 # récupération du contenu des fichiers
 for subcorpus in sorted(glob.glob(path_corpora)):
@@ -123,38 +123,44 @@ for subcorpus in sorted(glob.glob(path_corpora)):
     liste_EN = []
     liste_version = []
     liste_modele_REN = []
+    liste_auteur=[]
     for path in sorted(glob.glob("%s*REF/NER/*liste.json" % subcorpus)):
-        print("path : ", path )
+        # print("path : ", path )
+        auteur = path.split("/")[2]
+        # print(auteur)
         data = lire_fichier_json(path)
         # print(data)
         version = nom_version(path)
         modele_REN = nom_model(path)
-        print(version)
-        print(modele_REN)
-        print(data)
+        # print(version)
+        # print(modele_REN)
+        # print(data)
         liste_EN.append(data)
         liste_version.append(version)
         liste_modele_REN.append(modele_REN)
-        # cle_dic = version+"--"+modele_REN
-        # dico_en[cle_dic] = data
+        liste_auteur.append(auteur)
 
     for path_ocrs in sorted(glob.glob("%s*OCR/*/NER/*liste.json" % subcorpus)):
         print("path OCRS: ", path_ocrs )
+        auteur = path.split("/")[2]
         data_ocr = lire_fichier_json(path_ocrs)
         version = nom_version(path_ocrs)
         modele_REN = nom_model(path_ocrs)
         liste_EN.append(data_ocr)
         liste_version.append(version)
         liste_modele_REN.append(modele_REN)
+        liste_auteur.append(auteur)
 
     tableau = {}
     dic_sim = {}
     tableau["Version"] = liste_version
     tableau["REN"] = liste_modele_REN
     tableau["EN"] = liste_EN
+    tableau["Auteur"] = liste_auteur
     data_tab = pd.DataFrame(tableau)
-    # print(data_tab)
+    # # print(data_tab)
     # display(data_tab)
+    # print(data_tab["Auteur"].values[0])
     REN_liste=set(tableau["REN"])
     for r in REN_liste:
         data_tab1=data_tab.query('REN == @r')
@@ -171,6 +177,6 @@ for subcorpus in sorted(glob.glob(path_corpora)):
                 print(cle_dir)
                 dic_sim[cle_dir]  = get_similar_word(liste_reference, liste_roc, seuil=0.35)
             i=i+1
-    stocker(f"{subcorpus}_NERALIGNE.json",dic_sim)
+    stocker(f"{subcorpus}/{tableau["Auteur"].values[0]}_NERALIGNE.json",dic_sim)
 
 
