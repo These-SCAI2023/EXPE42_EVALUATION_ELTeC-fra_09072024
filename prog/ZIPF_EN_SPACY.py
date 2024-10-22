@@ -180,19 +180,25 @@ def stocker(name_file):
     pyplot.clf()
     return name_file   
 
-def filtre_stop(contenu, language):
-    french_stopwords = set(stopwords.words('french'))
-    filtre_stopfr =  lambda text: [token for token in text if token.lower() not in french_stopwords]
-    return filtre_stopfr
-
+# def filtre_stop(contenu, language):
+#     french_stopwords = set(stopwords.words('french'))
+#     filtre_stopfr =  lambda text: [token for token in text if token.lower() not in french_stopwords]
+#     return filtre_stopfr
+def stocker_json( chemin, contenu):
+    #if os.path.exists(chemin)==True:  # Où mettre la sécurité ?
+        #print(f"Already Done {chemin}")
+    w =open(chemin, "w")
+    w.write(json.dumps(contenu , indent = 2))
+    w.close()
 #MAIN
-path_corpora = "../CORRECTION_DISTANCES/small-ELTeC-fra-2021-2024*/"
+path_corpora = "../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/"
 
 for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     # print(subcorpus)
     texte_list_ref = []
     liste_list_ocr = []
     liste_noms_ocrs = []
+    dico_resultats = {}
 ## _______________ZIPF sur .txt REF et OCRs
     for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
         print("REF subpath",subpath)
@@ -203,8 +209,25 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
         texte_dict = texte_to_dict(texte_tok)
         # print(texte_dict)
         texte_list_ref = dict_to_list(texte_dict)
-        # # print(texte_list_ref)
-    #
+        # #print(texte_list_ref)
+        sorted_dicocrfreq = {key: value for key, value in sorted(texte_dict.items(), key=lambda item: item[1], reverse=True)}
+        stocker_json(f"{subpath}_dico-voc-freq.json", sorted_dicocrfreq)
+        dico_resultats[subpath] = {}
+        liste_hapax = []
+        liste_occ = []
+        for key, value in sorted_dicocrfreq.items():
+            # print(value)
+            if value == 1:
+                # print(value)
+                liste_hapax.append([key, value])
+                # print(liste_hapax)
+            else:
+                liste_occ.append([key, value])
+        dico_resultats[subpath]["mots totoX"] = len(texte_list_ref)
+        dico_resultats[subpath]["Hapax"] = len(liste_hapax)
+        dico_resultats[subpath]["mots iter."] = len(liste_occ)
+
+
     for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
 
         if "lectaurep" not in subpath:
@@ -216,9 +239,9 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
             nom_ocr= subpath.split("/")[-1].split("_")[-1].split(".txt")[0] ## A VERIFIER QUAND ON CHANGE LE CHEMIN D'ENTREE
             # print("avant ",nom_ocr)
             nom_ocr=nommage(nom_ocr)
+            dico_resultats[output_name + " -- " + nom_ocr] = {}
             # print("après ",nom_ocr)
-
-            liste_noms_ocrs.append(nom_ocr)
+            # liste_noms_ocrs.append(nom_ocr)
             # print(liste_noms_ocrs)
             # print(len(liste_noms_ocrs))
             texte_ocr = lire_fichier_txt(subpath)
@@ -229,10 +252,28 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
             # print(texte_dict_ocr)
             texte_list_ocr = dict_to_list(texte_dict_ocr)
             # print(texte_list_ocr)
-            liste_list_ocr.append(texte_list_ocr)
+            # liste_list_ocr.append(texte_list_ocr)
             # print(len(liste_list_ocr))
-    # print(liste_noms_ocrs)
-    # print(len(liste_noms_ocrs))
-    graph=plot_zipf(texte_list_ref, liste_list_ocr, sorted(liste_noms_ocrs), log=True) ## VERIFIER LA FONCTION QUAND ON CHANGE LE NOMBRE DES VERSIONS OCR, PAS ENCORE AUTOMATISEE
-    stocker("../tmp_ZIPF-corr-PLT/%s.png"%output_name)
+            sorted_dicocrfreqocr = {key: value for key, value in sorted(texte_dict_ocr.items(), key=lambda item: item[1], reverse=True)}
+            stocker_json(f"{subpath}_dico-voc-freq.json", sorted_dicocrfreqocr)
+            liste_hapax = []
+            liste_occ = []
+            for key, value in sorted_dicocrfreqocr.items():
+                # print(value)
+                if value == 1:
+                    # print([key, value])
+                    liste_hapax.append(value)
+                    # print(liste_hapax)
+                else:
+                    liste_occ.append([key, value])
+            dico_resultats[output_name+" -- "+nom_ocr]["mots totoX"] = len(texte_list_ocr)
+            dico_resultats[output_name+" -- "+nom_ocr]["Hapax"] = len(liste_hapax)
+            dico_resultats[output_name+" -- "+nom_ocr]["mots iter."] = len(liste_occ)
+    # # print(dico_resultats)
+    stocker_json(f"../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/{output_name}_type-EN-corr.json", dico_resultats)
+    print(output_name)
+
+    #### Pour les diagrammes de ZIPF
+    # graph=plot_zipf(texte_list_ref, liste_list_ocr, sorted(liste_noms_ocrs), log=True) ## VERIFIER LA FONCTION QUAND ON CHANGE LE NOMBRE DES VERSIONS OCR, PAS ENCORE AUTOMATISEE
+    # stocker("../tmp_ZIPF-corr-PLT/%s.png"%output_name)
 # ## _______________ZIPF sur .txt REF et OCRs

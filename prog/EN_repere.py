@@ -18,7 +18,8 @@ def nertools(chemin):
 # path_SEM = "../small-ELTeC-fra_SEM-WiNER/ADAM/*/*/*"
 # path_CasEN = "../small-ELTeC-fra_CasEN/ADAM/*/*/*"
 # path_NERtools = "../small-ELTeC-fra-2021-2024_REN/*/*"
-path_NERtools = "../small-ELTeC-fra-2021-2024_REN_PST/DASH/*"
+# path_NERtools = "../small-ELTeC-fra-2021-2024_REN_PST/DASH/*"
+path_NERtools = "../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/*/*"
 liste_res=[]
 
 EN_input = input("Entité recherchée : ")
