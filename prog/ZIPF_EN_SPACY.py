@@ -191,7 +191,7 @@ def stocker_json( chemin, contenu):
     w.write(json.dumps(contenu , indent = 2))
     w.close()
 #MAIN
-path_corpora = "../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/"
+path_corpora = "../CORRECTION_DISTANCES/small-ELTeC-fra-2021-2024-corr-automatique_REN/AUDOUX"
 
 for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     # print(subcorpus)
@@ -200,37 +200,39 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
     liste_noms_ocrs = []
     dico_resultats = {}
 ## _______________ZIPF sur .txt REF et OCRs
-    for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
-        print("REF subpath",subpath)
-        texte = lire_fichier_txt(subpath)
-        texte = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte)
-        texte_tok = text_2_tok(texte)
-        # print(texte_tok)
-        texte_dict = texte_to_dict(texte_tok)
-        # print(texte_dict)
-        texte_list_ref = dict_to_list(texte_dict)
-        # #print(texte_list_ref)
-        sorted_dicocrfreq = {key: value for key, value in sorted(texte_dict.items(), key=lambda item: item[1], reverse=True)}
-        stocker_json(f"{subpath}_dico-voc-freq.json", sorted_dicocrfreq)
-        dico_resultats[subpath] = {}
-        liste_hapax = []
-        liste_occ = []
-        for key, value in sorted_dicocrfreq.items():
-            # print(value)
-            if value == 1:
-                # print(value)
-                liste_hapax.append([key, value])
-                # print(liste_hapax)
-            else:
-                liste_occ.append([key, value])
-        dico_resultats[subpath]["mots totoX"] = len(texte_list_ref)
-        dico_resultats[subpath]["Hapax"] = len(liste_hapax)
-        dico_resultats[subpath]["mots iter."] = len(liste_occ)
-
-
+    # for subpath in sorted(glob.glob("%s*REF/*.txt" % subcorpus)):
+    #     print("REF subpath",subpath)
+    #     texte = lire_fichier_txt(subpath)
+    #     texte = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte)
+    #     texte_tok = text_2_tok(texte)
+    #     # print(texte_tok)
+    #     texte_dict = texte_to_dict(texte_tok)
+    #     print(texte_dict)
+    # #     texte_list_ref = dict_to_list(texte_dict)
+    # #     # #print(texte_list_ref)
+    #     sorted_dicocrfreq = {key: value for key, value in sorted(texte_dict.items(), key=lambda item: item[1], reverse=True)}
+    #     print(sorted_dicocrfreq)
+    #     stocker_json(f"{subpath}_dico-voc-freq.json", sorted_dicocrfreq)
+    #     dico_resultats[subpath] = {}
+    #     liste_hapax = []
+    #     liste_occ = []
+    #     for key, value in sorted_dicocrfreq.items():
+    #         # print(value)
+    #         if value == 1:
+    #             # print(value)
+    #             liste_hapax.append([key, value])
+    #             # print(liste_hapax)
+    #         else:
+    #             liste_occ.append([key, value])
+    #     dico_resultats[subpath]["mots totoX"] = len(texte_list_ref)
+    #     dico_resultats[subpath]["Hapax"] = len(liste_hapax)
+    #     dico_resultats[subpath]["mots iter."] = len(liste_occ)
+    #
+    #
     for subpath in sorted(glob.glob("%s*OCR/*/*.txt"%subcorpus)):
 
         if "lectaurep" not in subpath:
+        # if "AUDOUX_kraken-jspll-ELTeC" in subpath :
             print("OCR subpath", subpath)
             nomfichier = nom_fichier(subpath)
             output_name= "_".join(nomfichier.split("_")[:2])
@@ -245,33 +247,33 @@ for subcorpus in sorted(glob.glob("%s*/"%path_corpora)):
             # print(liste_noms_ocrs)
             # print(len(liste_noms_ocrs))
             texte_ocr = lire_fichier_txt(subpath)
-            texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
+            # texte_ocr = re.sub("\!|\'|\?|\n|\.|\,|\-|\_|—|" "|' '|:|de|le|la|les|un|une|des|a|à", "", texte_ocr)
             texte_tok_ocr = text_2_tok(texte_ocr)
             # print(texte_tok_ocr)
             texte_dict_ocr = texte_to_dict(texte_tok_ocr)
-            # print(texte_dict_ocr)
+            print(texte_dict_ocr)
             texte_list_ocr = dict_to_list(texte_dict_ocr)
             # print(texte_list_ocr)
             # liste_list_ocr.append(texte_list_ocr)
             # print(len(liste_list_ocr))
-            sorted_dicocrfreqocr = {key: value for key, value in sorted(texte_dict_ocr.items(), key=lambda item: item[1], reverse=True)}
-            stocker_json(f"{subpath}_dico-voc-freq.json", sorted_dicocrfreqocr)
-            liste_hapax = []
-            liste_occ = []
-            for key, value in sorted_dicocrfreqocr.items():
-                # print(value)
-                if value == 1:
-                    # print([key, value])
-                    liste_hapax.append(value)
-                    # print(liste_hapax)
-                else:
-                    liste_occ.append([key, value])
-            dico_resultats[output_name+" -- "+nom_ocr]["mots totoX"] = len(texte_list_ocr)
-            dico_resultats[output_name+" -- "+nom_ocr]["Hapax"] = len(liste_hapax)
-            dico_resultats[output_name+" -- "+nom_ocr]["mots iter."] = len(liste_occ)
-    # # print(dico_resultats)
-    stocker_json(f"../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/{output_name}_type-EN-corr.json", dico_resultats)
-    print(output_name)
+            sorted_dicocrfreqocr = sorted(texte_dict_ocr.items(), key=lambda t: t[0])
+            stocker_json(f"{subpath}_dico-voc-freq-nontrier.json", texte_dict_ocr)
+    #         liste_hapax = []
+    #         liste_occ = []
+    #         for key, value in sorted_dicocrfreqocr.items():
+    #             # print(value)
+    #             if value == 1:
+    #                 # print([key, value])
+    #                 liste_hapax.append(value)
+    #                 # print(liste_hapax)
+    #             else:
+    #                 liste_occ.append([key, value])
+    #         dico_resultats[output_name+" -- "+nom_ocr]["mots totoX"] = len(texte_list_ocr)
+    #         dico_resultats[output_name+" -- "+nom_ocr]["Hapax"] = len(liste_hapax)
+    #         dico_resultats[output_name+" -- "+nom_ocr]["mots iter."] = len(liste_occ)
+    # # # print(dico_resultats)
+    # stocker_json(f"../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/{output_name}_type-EN-corr.json", dico_resultats)
+    # print(output_name)
 
     #### Pour les diagrammes de ZIPF
     # graph=plot_zipf(texte_list_ref, liste_list_ocr, sorted(liste_noms_ocrs), log=True) ## VERIFIER LA FONCTION QUAND ON CHANGE LE NOMBRE DES VERSIONS OCR, PAS ENCORE AUTOMATISEE
