@@ -1,0 +1,35 @@
+{
+  "ACC-MAJ_DAUDET_petit-chose_.csv5000.bio": {
+    "B-LOC": 20,
+    "B-ORG": 4,
+    "B-PER": 98,
+    "B-MISC": 12
+  },
+  "DAUDET_petit-chose_ACCMAJ-6000.bio": {
+    "B-LOC": 27,
+    "B-PER": 122,
+    "B-MISC": 11
+  },
+  "DAUDET_petit-chose_GOLD-6000.bio": {
+    "B-MISC": 23,
+    "B-LOC": 99,
+    "B-PER": 168,
+    "B-ORG": 10
+  },
+  "ACC-MAJ_MAUPASSANT_une-vie.csv5000.bio": {
+    "B-PER": 54,
+    "B-MISC": 10,
+    "B-ORG": 3,
+    "B-LOC": 9
+  },
+  "CARRAUD_petite-Jeanne_ACCMAJ-6000.bio": {
+    "B-PER": 175,
+    "B-LOC": 3,
+    "B-MISC": 14
+  },
+  "CARRAUD_petite-Jeanne_GOLD-6000.bio": {
+    "B-PER": 192,
+    "B-LOC": 52,
+    "B-MISC": 34
+  }
+}
