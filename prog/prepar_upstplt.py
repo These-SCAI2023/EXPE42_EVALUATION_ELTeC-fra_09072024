@@ -97,12 +97,17 @@ for gen_path in glob.glob(path_corpora):
                 dico_REN[version_REN_ref]["Ref"]= dico_tmp
             else:
                 dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
-    # print(dico_REN)
-
+    # print(dico_REN["Ref"])
+    for kle, value in dico_REN.items():
+        if kle != "ACCMAJ-6000.bio" :
+            print(kle)
+            value["Ref"] = {}
+            value["Ref"] = dico_REN[version_REN_ref]["Ref"]
+    print(dico_REN)
 
     for kle, value in dico_REN.items():
-        print(kle)
-        stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json" ,value)
+
+        stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_ACCMAJ_{kle}.json" ,value)
         # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
         # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
     # liste_res_nb = {}

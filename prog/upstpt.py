@@ -27,7 +27,7 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 ##___________________GLOBAL_________________________________
-path_corpora = "../Upsetplot_intersection/GLOBAL/"
+path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS2"
 # path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/small-*fra-2021*"
 # size=[2000, 4000, 6000, 10000,15000,20000,30000]
@@ -37,7 +37,9 @@ path_corpora = "../Upsetplot_intersection/GLOBAL/"
 # path_corpora = "../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*fra2024*"
 # path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*2021-2024*"
-size=[30,50,100]
+size=[30,50,100,200]
+liste_GT = ["GOLD", "ACCMAJ"]
+GT = liste_GT[0]
 ##___________________PAR AUTEUR_________________________________
 
 # liste_version=[]
@@ -46,7 +48,8 @@ for path in glob.glob(f"{path_corpora}"):
     # print(path)
     new_dic = {}
     liste_ren = []
-    ##___________________GLOBAL_________________________________
+
+    #___________________GLOBAL_________________________________
     # output = path.split("/")
     # rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] +"_PNG"])## Pour NER normale
     # # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
@@ -55,22 +58,23 @@ for path in glob.glob(f"{path_corpora}"):
     #     os.mkdir(rep_out) ### Creéer le dossier
     ##___________________GLOBAL_________________________________
 
-    for subpath in glob.glob(f"{path}/*.json"):
+    for subpath in glob.glob(f"{path}/*{GT}*.json"):
         print("subpath",subpath)
         ##___________________PAR AUTEUR_________________________________
         output = subpath.split("/")
         auteur=subpath.split("/")[-1].split("_")
         auteur="-".join(auteur[:2])
-        # rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] + "_PNG"])  ## Pour NER normale
-        rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
+        rep_out = "/".join([output[0], output[1], output[2], output[3], output[3] + "_"+GT+"_" +"_PNG"])  ## Pour NER normale
+        # rep_out = "/".join([output[0], output[1], output[2], output[3],output[4], output[4] + "_PNG"])## Pour correction
         print("------ Rep_out : ", rep_out)
         if os.path.exists(rep_out) == False:
             os.mkdir(rep_out) ### Creéer le dossier
 
-        if os.path.exists(rep_out+"/"+auteur) == False:
-            os.mkdir(rep_out+"/"+auteur) ### Creéer le dossier
+        # if os.path.exists(rep_out+"/"+auteur) == False:
+        #     os.mkdir(rep_out+"/"+auteur) ### Creéer le dossier
 
-        path_output = "/".join([rep_out,auteur, subpath.split("/")[-1]])
+        # path_output = "/".join([rep_out,auteur, subpath.split("/")[-1]])
+        path_output = "/".join([rep_out, subpath.split("/")[-1]])
         print("PATH OUTPUT : ", path_output)
         ##___________________PAR AUTEUR_________________________________
 
@@ -89,10 +93,10 @@ for path in glob.glob(f"{path_corpora}"):
             liste_moteur.append(cle)
 
             print("LISTE MOTEUR",liste_moteur)
-        liste_moteur.remove("Ref.")
+        liste_moteur.remove("Ref")
         print("LISTE MOTEUR", liste_moteur)
 
-        for a in range(10):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
+        for a in range(5):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
             # print(a)
             if a>=len(liste_moteur):
                 print(len(liste_moteur))
@@ -101,7 +105,7 @@ for path in glob.glob(f"{path_corpora}"):
             print(len(liste_moteur))
             print("liste_moteur OK")
             #
-            dico_entite = {k: set(v)for k, v in sorted(new_dic.items()) if k == liste_moteur[a] or k == "Ref."}
+            dico_entite = {k: set(v)for k, v in sorted(new_dic.items()) if k == liste_moteur[a] or k == "Ref"}
             test = from_contents(dico_entite)
             upset = UpSet(
                 test,
@@ -114,7 +118,7 @@ for path in glob.glob(f"{path_corpora}"):
                 show_percentages=True
             )
             upset.style_subsets(
-                present="Ref.",
+                present="Ref",
                 # label="Réf.",
                 # absent=[
                 #     "flair",
