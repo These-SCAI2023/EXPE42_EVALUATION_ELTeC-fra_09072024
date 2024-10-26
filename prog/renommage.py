@@ -8,8 +8,8 @@ def lire_fichier (chemin):
 def archeo_nommage(version, vers_ren):
     ##Kraken
     ##Kraken fr
-    if version=="Kraken-base.txt" or version=="kraken" or version=="Kraken" :
-        version=re.sub("Kraken-base.txt|kraken|Kraken",f"Kraken -- {vers_ren}",version)
+    if version=="Kraken-base.txt" or version=="Kraken-base" or version=="kraken" or version=="Kraken" :
+        version=re.sub("Kraken-base.txt|Kraken-base|kraken|Kraken",f"Kraken -- {vers_ren}",version)
         # print("Version : ", version)
 
     if version=="kraken-jspll-pretrain.txt" or version=="kraken-jspll-pretrain":
@@ -110,10 +110,17 @@ def archeo_nommage(version, vers_ren):
         version=re.sub("TesseractPor-PNG-jspl-ELTeC",f"Tess. pt--jspl-ELTeCpt -- {vers_ren}",version)
         # print("Version : ", version)
 
+    if version == "PP.txt" or version == "REF.txt" or version == "REF" :
+        version = re.sub("PP.txt|REF.txt|REF", f"Ref. -- {vers_ren}", version)
+
     return version
 #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
 
 def nommage(version):
+    if version == "PP":
+        version = re.sub("PP", "Ref.", version)
+        # print("key : ", version)
+
     if version == "Kraken-base.txt" or version == "Kraken-base" or version == "Krakenbase" or version == "krakenbase" or version == "kraken" or version == "Kraken":
         version = re.sub("Kraken-base.txt|Kraken-base|Krakenbase|krakenbase|kraken|Kraken", f"Kraken", version)
         # print("Version : ", version)
@@ -203,10 +210,11 @@ def nommage(version):
         version = re.sub("lectaurep-kraken4.3.13.dev25-jspll-ELTeC", "Kraken Lectp. 4.3.13 -- jspl-ELTeCfr", version)
         # print("version : ", version)
 
-    if version == "Ref":
-        version = re.sub("Ref", "Ref.", version)
-        print("key : ", version)
+    # if version == "Ref" or version == "PP" or version == "REF":
+    #     version = re.sub("Ref|PP|REF", "Ref", version)
+    #     print("key : ", version)
         # new_dic[new_key] = value
+
 
     return version
 

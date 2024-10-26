@@ -44,16 +44,19 @@ for auteur in liste_dossiers_auteurs:
     #NB: La structure est différente : un level de plus dans le dossier OCR
     # en_reference_files = glob.glob(f"{auteur}/*REF/NER_concat/*.json")
     # en_ocr_paths = glob.glob(f"{auteur}/OCR/*/NER_concat/*.json")
-    en_reference_files = glob.glob(f"{auteur}/*REF/NER/*liste.json")
-    en_ocr_paths = glob.glob(f"{auteur}/*OCR/*/NER/*liste.json")
+    # en_reference_files = glob.glob(f"{auteur}/*REF/NER/*liste.json")
+    # en_ocr_paths = glob.glob(f"{auteur}/*OCR/*/NER/*liste.json")
 
-    reference_files = glob.glob(f"{auteur}/*REF/*.txt")
-    ocr_paths = glob.glob(f"{auteur}/*OCR/*/*.txt")
+    en_reference_files = glob.glob(f"{auteur}/*GOLD/NER/*liste.json")
+    en_ocr_paths = glob.glob(f"{auteur}/*VERSIONS/*/NER/*liste.json")
+
+    # reference_files = glob.glob(f"{auteur}/*REF/*.txt")
+    # ocr_paths = glob.glob(f"{auteur}/*OCR/*/*.txt")
 
     print(re.split("/",auteur)[-1])
 
-    print("Number of reference files : ", len(reference_files))
-    print("Number of OCR versions : ", len(ocr_paths))
+    # print("Number of reference files : ", len(reference_files))
+    # print("Number of OCR versions : ", len(ocr_paths))
 
     print("Number of EN reference files : ",len(en_reference_files))
     print("Number of EN OCR versions : ",len(en_ocr_paths))
@@ -92,12 +95,13 @@ for auteur in liste_dossiers_auteurs:
 
     for en_reference_file in en_reference_files:
         print(en_reference_file)
-        model_name_ref = get_model_name(en_reference_file)
+        # model_name_ref = get_model_name(en_reference_file)
         create_str_ner(en_reference_file, "tmp/ref.txt")
         for en_ocr_path in en_ocr_paths:
             model_name_ocr = get_model_name(en_ocr_path)
-            if model_name_ref!=model_name_ocr:
-                continue
+            # if model_name_ref!=model_name_ocr:
+            #     print(model_name_ref,"--",model_name_ocr)
+            #     continue
             configuration = re.split("/", en_ocr_path)[-1]
             # print(configuration)
             sim_path = "/".join(re.split("/", en_ocr_path)[:-1])+"/SIM/"
@@ -118,7 +122,7 @@ for auteur in liste_dossiers_auteurs:
             new_scores_ner = get_new_scores(toot[0], toot[1])#TODO:merge
             #TODO: CER, WER
             print(new_scores_ner)
-            json_path   = f"{sim_path}sim2-3_{configuration}"
+            json_path   = f"{sim_path}sim2-3-GOLD_{configuration}"
             new_scores_ner["clean_eval"] = clean_eval_scores_ner
             for k,v in distance_ner.items():
                 new_scores_ner[k]=v
