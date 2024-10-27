@@ -1,0 +1,31 @@
+{CARRAUD-Kraken : {
+  "Cohen's Kappa": 0.635084058479078,
+  "Fleiss's Kappa": 0.6747549943460235,
+  "Krippendorf's Alpha": 0.6747504142920657
+},
+CARRAUD-REF : {
+  "Cohen's Kappa": 0.7330586320614514,
+  "Fleiss's Kappa": 0.7199446099618146,
+  "Krippendorf's Alpha": 0.7199650364852972
+},
+CARRAUD-Tessfr : {
+  "Cohen's Kappa": 0.6028853188878935,
+  "Fleiss's Kappa": 0.5869873193286814,
+  "Krippendorf's Alpha": 0.5867955343759089
+},
+DAUDET-Kraken :{
+  "Cohen's Kappa": 0.723587629381191,
+  "Fleiss's Kappa": 0.7134283096945383,
+  "Krippendorf's Alpha": 0.7128006021948416
+},
+DAUDET-REF : {
+  "Cohen's Kappa": 0.8533912791031982,
+  "Fleiss's Kappa": 0.8489012422389711,
+  "Krippendorf's Alpha": 0.8488245516116646
+},
+DAUDET-Tessfr :{
+  "Cohen's Kappa": 0.7551978518354299,
+  "Fleiss's Kappa": 0.7407495732503261,
+  "Krippendorf's Alpha": 0.740089539235085
+}
+}

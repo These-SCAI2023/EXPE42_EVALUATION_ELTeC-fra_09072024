@@ -117,9 +117,14 @@ def archeo_nommage(version, vers_ren):
 #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
 
 def nommage(version):
-    if version == "PP":
+    if version == "PP" or version == "REF":
         version = re.sub("PP", "Ref.", version)
         # print("key : ", version)
+
+    if version == "Ref" :
+        version = re.sub("Ref", "ACCMAJ", version) ## POUR TAL−ENS2
+        # version = re.sub("Ref", "GOLD", version)## POUR TAL−ENS2
+    #     print("key : ", version)
 
     if version == "Kraken-base.txt" or version == "Kraken-base" or version == "Krakenbase" or version == "krakenbase" or version == "kraken" or version == "Kraken":
         version = re.sub("Kraken-base.txt|Kraken-base|Krakenbase|krakenbase|kraken|Kraken", f"Kraken", version)
@@ -210,9 +215,7 @@ def nommage(version):
         version = re.sub("lectaurep-kraken4.3.13.dev25-jspll-ELTeC", "Kraken Lectp. 4.3.13 -- jspl-ELTeCfr", version)
         # print("version : ", version)
 
-    # if version == "Ref" or version == "PP" or version == "REF":
-    #     version = re.sub("Ref|PP|REF", "Ref", version)
-    #     print("key : ", version)
+
         # new_dic[new_key] = value
 
 

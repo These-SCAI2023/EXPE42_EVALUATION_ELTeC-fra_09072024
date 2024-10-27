@@ -23,7 +23,7 @@ def corpus(chemin):
 
 corpusa=["DATA_TGB-2023_spaCy3.5.1_Distance","DATA_ELTeC-fra_spaCy3.5.1","DATA_ELTeC-eng_spaCy3.5.1","DATA_ELTeC-Por_spaCy3.5.1"]
 corpa=corpusa[1]
-path_corpora = f"../DATA_spaCy3.5.1_ENliste_compte-set_globale-et-par-auteur/{corpa}/*"
+path_corpora = f"../small-ELTeC-fra_REN/DAUDET"
 
 liste_res=[]
 for gen_path in glob.glob(path_corpora):
@@ -46,7 +46,7 @@ for gen_path in glob.glob(path_corpora):
             else:
                 dico_resultat[data] = 1
         print(dico_resultat)
-        myfile = open(f'../DATA_spaCy3.5.1_ENliste_compte-set_globale-et-par-auteur/DATA_CSV/{pathoutpu}.csv', 'w')
+        myfile = open(f'../EXPE55_ANNOTATION_MANUELLE_TYPOLOGIE/DATA_CSV/{pathoutpu}.csv', 'w')
         mywriter = csv.writer(myfile, delimiter=';', lineterminator='\n')
         for k, v in dico_resultat.items():
             mywriter.writerow([k, v])
@@ -61,7 +61,7 @@ for gen_path in glob.glob(path_corpora):
                 dico_resultat[data]+= 1
             else:
                 dico_resultat[data] = 1
-        myfile = open(f'../DATA_spaCy3.5.1_ENliste_compte-set_globale-et-par-auteur/DATA_CSV/{pathoutpu_ref}.csv', 'w')
+        myfile = open(f'../EXPE55_ANNOTATION_MANUELLE_TYPOLOGIE/DATA_CSV/{pathoutpu_ref}.csv', 'w')
         mywriter = csv.writer(myfile, delimiter=';', lineterminator='\n')
         for k, v in dico_resultat.items():
             mywriter.writerow([k, v])

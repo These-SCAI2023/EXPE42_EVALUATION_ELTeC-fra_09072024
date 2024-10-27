@@ -25,8 +25,9 @@ def stocker(chemin, contenu):
     w.close()
     # print(chemin)
     return chemin
-
-path_corpora = f"../CORPUS_COMPAR_TAL-ENS2/"
+liste_GT = ["GOLD", "ACCMAJ"]
+GT = liste_GT[1]
+path_corpora = f"../CORPUS_COMPAR_TAL-ENS/"
 # path_corpora = f"../CORRECTION_DISTANCES/small-*"
 # path_corpora = f"../small-*"
 
@@ -37,7 +38,7 @@ for gen_path in glob.glob(path_corpora):
     path_output = gen_path.split("/")[1]## 1 REN normale
     print("----------------------------------->>>",path_output)
     paths_ocr= f"{gen_path}*/*VERSIONS/*/NER/*liste.json"
-    paths_ref = "%s*/*ACCMAJ/NER/*liste.json"%gen_path
+    paths_ref = f"%s*/*{GT}/NER/*liste.json"%gen_path
 
     for path_ocr in glob.glob(paths_ocr):
         print(path_ocr)
@@ -83,50 +84,50 @@ for gen_path in glob.glob(path_corpora):
             liste_ner_ref.append(data+"_"+auteur)
 
         if version_REN_ref  in dico_REN:
-            if "Ref" in dico_REN[version_REN_ref]:
-                dico_tmp = dico_REN[version_REN_ref][ "Ref"]
+            if GT in dico_REN[version_REN_ref]:
+                dico_tmp = dico_REN[version_REN_ref][ GT]
                 dico_tmp += liste_ner_ref
-                dico_REN[version_REN_ref]["Ref"] = dico_tmp
+                dico_REN[version_REN_ref][GT] = dico_tmp
             else:
-                dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
+                dico_REN[version_REN_ref][GT] = liste_ner_ref
         else:
             dico_REN[version_REN_ref] = {}
-            if "Ref" in dico_REN[version_REN_ocr]:
-                dico_tmp=dico_REN[version_REN_ref]["Ref"]
+            if GT in dico_REN[version_REN_ocr]:
+                dico_tmp=dico_REN[version_REN_ref][GT]
                 dico_tmp+=liste_ner_ref
-                dico_REN[version_REN_ref]["Ref"]= dico_tmp
+                dico_REN[version_REN_ref][GT]= dico_tmp
             else:
-                dico_REN[version_REN_ref]["Ref"] = liste_ner_ref
+                dico_REN[version_REN_ref][GT] = liste_ner_ref
     # print(dico_REN["Ref"])
     for kle, value in dico_REN.items():
         if kle != "ACCMAJ-6000.bio" :
-            print(kle)
-            value["Ref"] = {}
-            value["Ref"] = dico_REN[version_REN_ref]["Ref"]
-    print(dico_REN)
-
-    for kle, value in dico_REN.items():
-
-        stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_ACCMAJ_{kle}.json" ,value)
-        # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
-        # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
-    # liste_res_nb = {}
-    # for key, dico_resultat in dico_REN.items():
-    #     kk=key.split("-")[-1]
-    #     print("kk",kk)
-    #     for cle, valeur in dico_resultat.items():
-    #         set_valeur = set(valeur)
-    #         print(cle)
-    #         print(valeur[:100])
-    #         print(len(valeur))
-    #         print(len(set(valeur)))
-    #         liste_res_nb[key+"_"+cle] = {}
-    #         liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
-    #         liste_res_nb[key+"_"+cle]["EN-type"] = len(set(valeur))
-    #         print(liste_res_nb)
+            # print(kle)
+            value[GT] = {}
+            value[GT] = dico_REN[version_REN_ref][GT]
+    # print(dico_REN)
     #
-    #         stocker(f"../ARCHEO_Correction_Distances/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{kk}--nb_entite.json",liste_res_nb)
-    #     stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
-    # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
+    # # for kle, value in dico_REN.items():
+    # #
+    # #     stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_ACCMAJ_{kle}.json" ,value)
+    #     # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
+    #     # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
+    liste_res_nb = {}
+    for key, dico_resultat in dico_REN.items():
+        kk=key.split("-")[-1]
+        # print("kk",kk)
+        for cle, valeur in dico_resultat.items():
+            set_valeur = set(valeur)
+            print(cle)
+            # print(valeur[:100])
+            print(len(valeur))
+            print(len(set(valeur)))
+            liste_res_nb[key+"_"+cle] = {}
+            liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
+            liste_res_nb[key+"_"+cle]["EN-type"] = len(set(valeur))
+            print(liste_res_nb)
+
+        stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{GT}--nb_entite.json",liste_res_nb)
+    # #     stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
+    # # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
 
 

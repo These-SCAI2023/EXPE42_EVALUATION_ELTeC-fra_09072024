@@ -27,7 +27,7 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 ##___________________GLOBAL_________________________________
-path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS2"
+path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS"
 # path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/small-*fra-2021*"
 # size=[2000, 4000, 6000, 10000,15000,20000,30000]
@@ -37,9 +37,9 @@ path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS2"
 # path_corpora = "../ARCHEO_Correction_Distances/Upsetplot_intersection/PAR_AUTEUR/small-*fra2024*"
 # path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*2021-2024*"
-size=[30,50,100,200]
+size=[100,200]
 liste_GT = ["GOLD", "ACCMAJ"]
-GT = liste_GT[0]
+GT = liste_GT[1]
 ##___________________PAR AUTEUR_________________________________
 
 # liste_version=[]
@@ -86,6 +86,7 @@ for path in glob.glob(f"{path_corpora}"):
         for key, value in dico_entite.items():
             print("OLD kEY : ",key)
             nouv_kee= nommage(key)
+            print("nouv_kee",nouv_kee)
             new_dic[nouv_kee] = value
 # print("new_dic.keys()------>",new_dic.keys())
         liste_moteur = []
@@ -93,7 +94,7 @@ for path in glob.glob(f"{path_corpora}"):
             liste_moteur.append(cle)
 
             print("LISTE MOTEUR",liste_moteur)
-        liste_moteur.remove("Ref")
+        liste_moteur.remove(f'{GT}')
         print("LISTE MOTEUR", liste_moteur)
 
         for a in range(5):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
@@ -105,7 +106,7 @@ for path in glob.glob(f"{path_corpora}"):
             print(len(liste_moteur))
             print("liste_moteur OK")
             #
-            dico_entite = {k: set(v)for k, v in sorted(new_dic.items()) if k == liste_moteur[a] or k == "Ref"}
+            dico_entite = {k: set(v)for k, v in sorted(new_dic.items()) if k == liste_moteur[a] or k == GT}
             test = from_contents(dico_entite)
             upset = UpSet(
                 test,
@@ -118,7 +119,7 @@ for path in glob.glob(f"{path_corpora}"):
                 show_percentages=True
             )
             upset.style_subsets(
-                present="Ref",
+                present=GT,
                 # label="Réf.",
                 # absent=[
                 #     "flair",

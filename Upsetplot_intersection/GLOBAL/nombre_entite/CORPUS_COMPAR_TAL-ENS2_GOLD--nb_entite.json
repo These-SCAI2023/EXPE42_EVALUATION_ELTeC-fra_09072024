@@ -1,0 +1,102 @@
+{
+  "spacy-lg-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 119,
+    "EN-type": 42
+  },
+  "spacy-lg-3.7.5_kraken": {
+    "EN-occ": 206,
+    "EN-type": 147
+  },
+  "spacy-lg-3.7.5_REF": {
+    "EN-occ": 110,
+    "EN-type": 24
+  },
+  "spacy-lg-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-md-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 92,
+    "EN-type": 46
+  },
+  "spacy-md-3.7.5_kraken": {
+    "EN-occ": 191,
+    "EN-type": 149
+  },
+  "spacy-md-3.7.5_REF": {
+    "EN-occ": 93,
+    "EN-type": 28
+  },
+  "spacy-md-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-sm-3.7.5_TesseractFra-PNG": {
+    "EN-occ": 166,
+    "EN-type": 66
+  },
+  "spacy-sm-3.7.5_kraken": {
+    "EN-occ": 136,
+    "EN-type": 86
+  },
+  "spacy-sm-3.7.5_REF": {
+    "EN-occ": 83,
+    "EN-type": 33
+  },
+  "spacy-sm-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-lg-2.3.5_TesseractFra-PNG": {
+    "EN-occ": 44,
+    "EN-type": 29
+  },
+  "spacy-lg-2.3.5_kraken": {
+    "EN-occ": 118,
+    "EN-type": 84
+  },
+  "spacy-lg-2.3.5_REF": {
+    "EN-occ": 30,
+    "EN-type": 18
+  },
+  "spacy-lg-2.3.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-md-2.3.5_TesseractFra-PNG": {
+    "EN-occ": 46,
+    "EN-type": 32
+  },
+  "spacy-md-2.3.5_kraken": {
+    "EN-occ": 103,
+    "EN-type": 78
+  },
+  "spacy-md-2.3.5_REF": {
+    "EN-occ": 32,
+    "EN-type": 19
+  },
+  "spacy-md-2.3.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-sm-2.3.5_TesseractFra-PNG": {
+    "EN-occ": 49,
+    "EN-type": 34
+  },
+  "spacy-sm-2.3.5_kraken": {
+    "EN-occ": 168,
+    "EN-type": 112
+  },
+  "spacy-sm-2.3.5_REF": {
+    "EN-occ": 54,
+    "EN-type": 35
+  },
+  "spacy-sm-2.3.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "GOLD-6000.bio_GOLD": {
+    "EN-occ": 0,
+    "EN-type": 0
+  }
+}

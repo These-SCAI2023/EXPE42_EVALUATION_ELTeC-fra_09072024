@@ -1,0 +1,21 @@
+{
+    "Precision": 0.8203062046736502,
+    "Recall": 0.9237749546279492,
+    "F-score": 0.8689714041826718,
+    "Total Tokens": 6500,
+    "Tokens VP": 1018,
+    "Tokens FN": 84,
+    "Tokens FP": 223,
+    "Tokens FP (NA)": {
+        "PER": 54,
+        "MISC": 72,
+        "LOC": 22,
+        "ORG": 23
+    },
+    "Tokens FP (Label Error)": {
+        "LOC": 21,
+        "PER": 15,
+        "MISC": 14,
+        "ORG": 2
+    }
+}
