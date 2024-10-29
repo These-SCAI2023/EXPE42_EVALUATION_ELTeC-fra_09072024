@@ -30,7 +30,7 @@ for path in glob.glob(pathdata):
         if key == "Tokens FP (NA)":
             for k , v in value.items():
                 # print(k, v)
-                liste_statut.append(("FP pas entité"))
+                liste_statut.append(("FP, non entité"))
                 liste_label.append(k)
                 liste_FP.append(v)
                 liste_auteur.append(auteur)
@@ -38,7 +38,7 @@ for path in glob.glob(pathdata):
         if key == "Tokens FP (Label Error)":
             for k , v in value.items():
                 # print(k,v)
-                liste_statut.append(("FP mal étiqueté"))
+                liste_statut.append(("FP, mauvaise catégorie"))
                 liste_label.append(k)
                 liste_FP.append(v)
                 liste_auteur.append(auteur)
@@ -52,19 +52,19 @@ for path in glob.glob(pathdata):
 
 
     tableau = {}
-    tableau["Statut"] = liste_statut
-    tableau["nombre de Faux positifs (FP)"] = liste_FP
-    tableau["Label attribué"] = liste_label
+    tableau["Types d'erreurs"] = liste_statut
+    tableau["nombre d'entités mal étiquetées (FP)"] = liste_FP
+    tableau["Catégories"] = liste_label
     tableau["auteur"] = liste_auteur
     tableau["version"] = liste_version
 
     data_tab = pd.DataFrame(tableau)
-    data_tab = data_tab.sort_values(by='Label attribué')
+    data_tab = data_tab.sort_values(by="Types d'erreurs")
     print(data_tab)
     # sns.displot(data_tab, x="Statut", hue="Label attribué")
     # sns.catplot(data=data_tab, x="Statut", y="nombre", jitter=False)
-    sns.catplot(data=data_tab, x="Statut", y="nombre de Faux positifs (FP)", hue="Label attribué", kind="swarm",s=250, palette="gnuplot2")
+    sns.catplot(data=data_tab, x="Types d'erreurs", y="nombre d'entités mal étiquetées (FP)", hue="Catégories", kind="swarm",s=250, palette="colorblind")
     # sns.relplot(data=data_tab, x="Statut", y="nombre", hue="Label attribué", size="nombre")
     # sns.catplot(data=data_tab, x="nombre", y="Statut", hue="Label attribué", kind="violin",)
-    plt.ylim([-10,100])
-    plt.savefig(f"../MISSLABEL_F-score-precision_29102024/seaborn_plot/{auteur}_{version}_teste1.png",dpi=300, bbox_inches="tight")##NER Multi
+    plt.ylim([-10,150])
+    plt.savefig(f"../MISSLABEL_F-score-precision_29102024/seaborn_plot/{auteur}_{version}_mislabelling.png",dpi=300, bbox_inches="tight")##NER Multi
