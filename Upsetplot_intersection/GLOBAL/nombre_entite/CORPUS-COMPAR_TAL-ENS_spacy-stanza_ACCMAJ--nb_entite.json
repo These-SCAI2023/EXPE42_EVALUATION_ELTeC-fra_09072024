@@ -1,0 +1,58 @@
+{
+  "spacy-lg-3.7.5_REF": {
+    "EN-occ": 61,
+    "EN-type": 31
+  },
+  "spacy-lg-3.7.5_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "spacy-md-3.7.5_REF": {
+    "EN-occ": 52,
+    "EN-type": 34
+  },
+  "spacy-md-3.7.5_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "spacy-sm-3.7.5_REF": {
+    "EN-occ": 69,
+    "EN-type": 36
+  },
+  "spacy-sm-3.7.5_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "stanza-fr-1.8.2_REF": {
+    "EN-occ": 44,
+    "EN-type": 29
+  },
+  "stanza-fr-1.8.2_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "camembert-4.41.1_REF": {
+    "EN-occ": 43,
+    "EN-type": 25
+  },
+  "camembert-4.41.1_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "flair-0.13.1_REF": {
+    "EN-occ": 36,
+    "EN-type": 28
+  },
+  "flair-0.13.1_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  ".csv5000.bio_ACCMAJ": {
+    "EN-occ": 9,
+    "EN-type": 9
+  },
+  "une-vie.csv5000.bio_ACCMAJ": {
+    "EN-occ": 0,
+    "EN-type": 0
+  }
+}

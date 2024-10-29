@@ -1,0 +1,54 @@
+{
+  "spacy-lg-3.7.5_REF": {
+    "EN-occ": 110,
+    "EN-type": 24
+  },
+  "spacy-lg-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-md-3.7.5_REF": {
+    "EN-occ": 93,
+    "EN-type": 28
+  },
+  "spacy-md-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "spacy-sm-3.7.5_REF": {
+    "EN-occ": 83,
+    "EN-type": 33
+  },
+  "spacy-sm-3.7.5_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "stanza-fr-1.8.2_REF": {
+    "EN-occ": 37,
+    "EN-type": 22
+  },
+  "stanza-fr-1.8.2_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "camembert-4.41.1_REF": {
+    "EN-occ": 31,
+    "EN-type": 14
+  },
+  "camembert-4.41.1_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "flair-0.13.1_REF": {
+    "EN-occ": 61,
+    "EN-type": 40
+  },
+  "flair-0.13.1_GOLD": {
+    "EN-occ": 154,
+    "EN-type": 90
+  },
+  "GOLD-6000.bio_GOLD": {
+    "EN-occ": 0,
+    "EN-type": 0
+  }
+}

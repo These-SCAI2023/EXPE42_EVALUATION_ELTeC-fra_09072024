@@ -23,9 +23,10 @@ def stocker(chemin, contenu):
 
 annotations = {"e_1" : "PERS", "e_2" : "LOC", "e_3" : "ORG", "e_4" : "OTHER", "e_5" : "WORK", "e_6" : "DEMO", "e_7" :"ROLE","e_8" : "EVENT"}
 
-path_data = "../EXPE49_TAL-ENs_vs_GOLD-WG/small-ELTeC-fra_WorkPakage-ELTeC/*/*_GOLD/*ann.json"
+path_data = "../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/CORPUS_COMPAR_TAL-ENS/*/*_WG-ELTeC/NER/*ann.json"
 
 for file in glob.glob(path_data):
+    auteur = file.split("/")[3]
     liste_label = []
     liste_text = []
     liste_label_iob = []
@@ -69,6 +70,9 @@ for file in glob.glob(path_data):
     print(len(liste_text))
     c = collections.Counter(liste_label)
     print(c)
+    dic_toto={}
+    dic_toto[auteur] = c
+    stocker(f"../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/{auteur}_WG-ELTeC_nbentite.json",dic_toto)
 
     # tableau={}
     # tableau["EN"] = liste_text

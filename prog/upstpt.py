@@ -27,7 +27,7 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 ##___________________GLOBAL_________________________________
-path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS"
+path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS-COMPAR_TAL-ENS2_spacy-stanza"
 # path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/small-*fra-2021*"
 # size=[2000, 4000, 6000, 10000,15000,20000,30000]
@@ -39,7 +39,7 @@ path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*2021-2024*"
 size=[100,200]
 liste_GT = ["GOLD", "ACCMAJ"]
-GT = liste_GT[1]
+GT = liste_GT[0]
 ##___________________PAR AUTEUR_________________________________
 
 # liste_version=[]

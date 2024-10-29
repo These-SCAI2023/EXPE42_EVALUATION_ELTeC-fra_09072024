@@ -27,7 +27,7 @@ def stocker(chemin, contenu):
     return chemin
 liste_GT = ["GOLD", "ACCMAJ"]
 GT = liste_GT[1]
-path_corpora = f"../CORPUS_COMPAR_TAL-ENS/"
+path_corpora = f"../CORPUS-COMPAR_TAL-ENS_spacy-stanza/"
 # path_corpora = f"../CORRECTION_DISTANCES/small-*"
 # path_corpora = f"../small-*"
 
@@ -106,27 +106,27 @@ for gen_path in glob.glob(path_corpora):
             value[GT] = dico_REN[version_REN_ref][GT]
     # print(dico_REN)
     #
-    # # for kle, value in dico_REN.items():
-    # #
-    # #     stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_ACCMAJ_{kle}.json" ,value)
+    for kle, value in dico_REN.items():
+
+        stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{GT}_{kle}.json" ,value)
     #     # stocker(f"../Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
     #     # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/{path_output}/{path_output}_{kle}.json", value)
-    liste_res_nb = {}
-    for key, dico_resultat in dico_REN.items():
-        kk=key.split("-")[-1]
-        # print("kk",kk)
-        for cle, valeur in dico_resultat.items():
-            set_valeur = set(valeur)
-            print(cle)
-            # print(valeur[:100])
-            print(len(valeur))
-            print(len(set(valeur)))
-            liste_res_nb[key+"_"+cle] = {}
-            liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
-            liste_res_nb[key+"_"+cle]["EN-type"] = len(set(valeur))
-            print(liste_res_nb)
-
-        stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{GT}--nb_entite.json",liste_res_nb)
+    # liste_res_nb = {}
+    # for key, dico_resultat in dico_REN.items():
+    #     kk=key.split("-")[-1]
+    #     # print("kk",kk)
+    #     for cle, valeur in dico_resultat.items():
+    #         set_valeur = set(valeur)
+    #         print(cle)
+    #         # print(valeur[:100])
+    #         print(len(valeur))
+    #         print(len(set(valeur)))
+    #         liste_res_nb[key+"_"+cle] = {}
+    #         liste_res_nb[key+"_"+cle]["EN-occ"] = len(valeur)
+    #         liste_res_nb[key+"_"+cle]["EN-type"] = len(set(valeur))
+    #         print(liste_res_nb)
+    #
+    #     stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}_{GT}--nb_entite.json",liste_res_nb)
     # #     stocker(f"../Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
     # # stocker(f"../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/nombre_entite/{path_output}--nb_entite.json", liste_res_nb)
 

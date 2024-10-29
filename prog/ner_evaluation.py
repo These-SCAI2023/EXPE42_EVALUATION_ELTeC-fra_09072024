@@ -47,7 +47,7 @@ for auteur in liste_dossiers_auteurs:
     # en_reference_files = glob.glob(f"{auteur}/*REF/NER/*liste.json")
     # en_ocr_paths = glob.glob(f"{auteur}/*OCR/*/NER/*liste.json")
 
-    en_reference_files = glob.glob(f"{auteur}/*GOLD/NER/*liste.json")
+    en_reference_files = glob.glob(f"{auteur}/*ACCMAJ/NER/*liste.json")
     en_ocr_paths = glob.glob(f"{auteur}/*VERSIONS/*/NER/*liste.json")
 
     # reference_files = glob.glob(f"{auteur}/*REF/*.txt")
@@ -122,7 +122,7 @@ for auteur in liste_dossiers_auteurs:
             new_scores_ner = get_new_scores(toot[0], toot[1])#TODO:merge
             #TODO: CER, WER
             print(new_scores_ner)
-            json_path   = f"{sim_path}sim2-3-GOLD_{configuration}"
+            json_path   = f"{sim_path}sim2-3-ACCMAJ_{configuration}"
             new_scores_ner["clean_eval"] = clean_eval_scores_ner
             for k,v in distance_ner.items():
                 new_scores_ner[k]=v
