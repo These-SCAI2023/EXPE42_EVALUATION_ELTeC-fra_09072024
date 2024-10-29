@@ -11,7 +11,7 @@ def lire_json (chemin):
 
 
 sns.set_theme(style="whitegrid")
-pathdata = "../MISSLABEL_F-score-precision_29102024/*.json"
+pathdata = "../GOLD_SEABORN/*.json"
 
 
 for path in glob.glob(pathdata):
@@ -59,12 +59,12 @@ for path in glob.glob(pathdata):
     tableau["version"] = liste_version
 
     data_tab = pd.DataFrame(tableau)
-    data_tab = data_tab.sort_values(by="Types d'erreurs")
+    data_tab = data_tab.sort_values(by="Catégories")
     print(data_tab)
     # sns.displot(data_tab, x="Statut", hue="Label attribué")
     # sns.catplot(data=data_tab, x="Statut", y="nombre", jitter=False)
     sns.catplot(data=data_tab, x="Types d'erreurs", y="nombre d'entités mal étiquetées (FP)", hue="Catégories", kind="swarm",s=250, palette="colorblind")
     # sns.relplot(data=data_tab, x="Statut", y="nombre", hue="Label attribué", size="nombre")
     # sns.catplot(data=data_tab, x="nombre", y="Statut", hue="Label attribué", kind="violin",)
-    plt.ylim([-10,150])
-    plt.savefig(f"../MISSLABEL_F-score-precision_29102024/seaborn_plot/{auteur}_{version}_mislabelling.png",dpi=300, bbox_inches="tight")##NER Multi
+    plt.ylim([-50,800])
+    plt.savefig(f"../GOLD_SEABORN/seaborn_plot/{auteur}_{version}_mislabelling.png",dpi=300, bbox_inches="tight")##NER Multi
