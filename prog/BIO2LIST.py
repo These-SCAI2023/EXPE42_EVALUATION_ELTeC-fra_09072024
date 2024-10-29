@@ -10,7 +10,8 @@ def lire_csv(chemin):
         next(spamreader)
         for row in spamreader:
             # print(row)
-            if "B-" in row[1]:
+            # if  "B" in row[1]:
+            if len (row) == 2 and "LOC" in row[1]:
                 liste_row.append(row)
         return liste_row
 
@@ -23,10 +24,11 @@ def stocker(chemin, contenu):
     return chemin
 
 
-path_data = "../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/CORPUS_COMPAR/*/*TAL-ENS*/NER/*.bio"
+path_data = "../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/CORPUS_COMPAR_TAL-ENS2_MISLABEL/*/*/*/*.iob"
 dico = {}
 for file_data in glob.glob(path_data):
     print(file_data)
+
     data = lire_csv(file_data)
     liste_loc = []
     liste_per = []
@@ -35,12 +37,12 @@ for file_data in glob.glob(path_data):
     name_file = file_data.split("/")[-1]
     dico[name_file] = {}
     # print(data)
-    # liste_toto = []
-    # liste_mot = []
-    # liste_entite = []
-    # premier = 0
+    liste_toto = []
+    liste_mot = []
+    liste_entite = []
+    premier = 0
     for d in data:
-        # print(d)
+        print(d)
         if d[1] == "B-LOC":
             liste_loc.append(d[0])
             dico[name_file][d[1]] = len(liste_loc)
@@ -54,8 +56,8 @@ for file_data in glob.glob(path_data):
         if d[1] == "B-MISC":
             liste_misc.append(d)
             dico[name_file][d[1]] = len(liste_misc)
-    print(dico)
-    # stocker("../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/CORPUS_COMPAR/dico_nombre.json", dico)
+    # print(dico)
+    # stocker("../EXPE52_COMPARAISONS-ANNOTATIONS-MANUELLES_en cours/CORPUS_COMPAR_TAL-ENS2_MISLABEL/dico_nombre.json", dico)
 
         if d == data[-1]:
             if "B-" in d[1]:

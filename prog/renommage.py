@@ -117,6 +117,18 @@ def archeo_nommage(version, vers_ren):
 #_______________ARCHEOLOGIE DE SPACY _____________________________________________________
 
 def nommage(version):
+    # if version == "Tesseract-ACCMAJ" or "Kraken-ACCMAJ":
+    #     version = re.sub("Tesseract-ACCMAJ|Kraken-ACCMAJ", "Accord majoritaire (OCR)", version)
+    #
+    # if version == "Tesseract-GOLD" or "Kraken-GOLD":
+    #     version = re.sub("Tesseract-GOLD|Kraken-GOLD", "GOLD (OCR)", version)
+    #
+    # if version == "REF-GOLD" :
+    #     version = re.sub("REF-GOLD", "GOLD (Réf.)", version)
+    #
+    # if version == "REF-ACCMAJ" :
+    #     version = re.sub("REF-ACCMAJ", "Accord majoritaire (Réf.)", version)
+
     if version == "PP" or version == "REF":
         version = re.sub("PP", "Ref.", version)
         # print("key : ", version)

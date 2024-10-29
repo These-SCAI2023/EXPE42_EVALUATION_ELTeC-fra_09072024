@@ -1,0 +1,47 @@
+{
+  "GOLD_DAUDET_petit-chose_TesseractFra-PNG_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-MISC": 16,
+    "B-LOC": 46,
+    "B-PER": 80,
+    "B-ORG": 5
+  },
+  "ACCMAJ_DAUDET_petit-chose_TesseractFra-PNG_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-LOC": 10,
+    "B-PER": 60,
+    "B-MISC": 8
+  },
+  "GOLD_DAUDET_petit-chose_Kraken-base_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-MISC": 22,
+    "B-LOC": 101,
+    "B-PER": 167,
+    "B-ORG": 11
+  },
+  "ACCMAJ_DAUDET_petit-chose_Kraken-base_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-LOC": 31,
+    "B-PER": 121,
+    "B-MISC": 11
+  },
+  "ACCMAJ_CARRAUD_petite-Jeanne_Kraken-base_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-PER": 199,
+    "B-LOC": 10,
+    "B-MISC": 22,
+    "B-ORG": 5
+  },
+  "GOLD_CARRAUD_petite-Jeanne_Kraken-base_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-PER": 200,
+    "B-LOC": 40,
+    "B-MISC": 35,
+    "B-ORG": 1
+  },
+  "ACCMAJ_CARRAUD_petite-Jeanne_TesseractFra-PNG_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-PER": 151,
+    "B-LOC": 4,
+    "B-MISC": 10,
+    "B-ORG": 1
+  },
+  "GOLD_CARRAUD_petite-Jeanne_TesseractFra-PNG_spaCy3.7.2-lg.iob.aia_6000.iob": {
+    "B-PER": 156,
+    "B-LOC": 45,
+    "B-MISC": 26
+  }
+}

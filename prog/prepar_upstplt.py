@@ -25,9 +25,9 @@ def stocker(chemin, contenu):
     w.close()
     # print(chemin)
     return chemin
-liste_GT = ["GOLD", "ACCMAJ"]
-GT = liste_GT[1]
-path_corpora = f"../CORPUS-COMPAR_TAL-ENS_spacy-stanza/"
+liste_GT = ["REF-GOLD", "REF-ACCMAJ", "Kraken-GOLD", "Kraken-ACCMAJ", "Tesseract-GOLD", "Tesseract-ACCMAJ"]
+GT = liste_GT[5]
+path_corpora = f"../CORPUS_COMPAR_TAL-ENS2_MISLABEL/"
 # path_corpora = f"../CORRECTION_DISTANCES/small-*"
 # path_corpora = f"../small-*"
 
@@ -100,7 +100,7 @@ for gen_path in glob.glob(path_corpora):
                 dico_REN[version_REN_ref][GT] = liste_ner_ref
     # print(dico_REN["Ref"])
     for kle, value in dico_REN.items():
-        if kle != "ACCMAJ-6000.bio" :
+        if kle != GT :
             # print(kle)
             value[GT] = {}
             value[GT] = dico_REN[version_REN_ref][GT]

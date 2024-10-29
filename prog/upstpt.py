@@ -27,7 +27,7 @@ def stocker(chemin, contenu):
     # print(chemin)
     return chemin
 ##___________________GLOBAL_________________________________
-path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS-COMPAR_TAL-ENS2_spacy-stanza"
+path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS_COMPAR_TAL-ENS2_MISLABEL"
 # path_corpora = "../Upsetplot_intersection/GLOBAL/ELTeC-fra_REN"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/GLOBAL/small-*fra-2021*"
 # size=[2000, 4000, 6000, 10000,15000,20000,30000]
@@ -38,8 +38,8 @@ path_corpora = "../Upsetplot_intersection/GLOBAL/CORPUS-COMPAR_TAL-ENS2_spacy-st
 # path_corpora = "../Upsetplot_intersection/PAR_AUTEUR/small-*por*"
 # path_corpora = "../CORRECTION_DISTANCES/Upsetplot_intersection/PAR_AUTEUR/small-*2021-2024*"
 size=[100,200]
-liste_GT = ["GOLD", "ACCMAJ"]
-GT = liste_GT[0]
+liste_GT = ["REF-GOLD", "REF-ACCMAJ", "Kraken-GOLD", "Kraken-ACCMAJ", "Tesseract-GOLD", "Tesseract-ACCMAJ"]
+GT = liste_GT[5]
 ##___________________PAR AUTEUR_________________________________
 
 # liste_version=[]
@@ -80,7 +80,7 @@ for path in glob.glob(f"{path_corpora}"):
 
         modele_REN = (subpath.split("_")[-1]).split(".json")[0]
         liste_ren.append(modele_REN)
-        print(liste_ren)
+        print("liste REN",liste_ren)
         dico_entite = lire_json(subpath)
         # print(dico_entite["Ref"])
         for key, value in dico_entite.items():
@@ -97,13 +97,13 @@ for path in glob.glob(f"{path_corpora}"):
         liste_moteur.remove(f'{GT}')
         print("LISTE MOTEUR", liste_moteur)
 
-        for a in range(5):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
+        for a in range(3):## mettre à 16 pour Correction small-ELTeC-fra-2021-2024
             # print(a)
             if a>=len(liste_moteur):
                 print(len(liste_moteur))
                 print("liste_moteur trop petite")
                 continue
-            print(len(liste_moteur))
+            print("len liste moteur",len(liste_moteur))
             print("liste_moteur OK")
             #
             dico_entite = {k: set(v)for k, v in sorted(new_dic.items()) if k == liste_moteur[a] or k == GT}
@@ -142,6 +142,8 @@ for path in glob.glob(f"{path_corpora}"):
             )
             for x in size:
                 sortie=f"{path_output}_{liste_moteur[a]}_upsetplot-size-{x}.png"
+                # sortie = f"{path_output}_upsetplot-size-{x}.png"
+                print(liste_moteur[a])
                 print("SORTIE --------->>>>>>>",sortie)
                 if os.path.exists(sortie) == False:
                     fig = plt.figure()
