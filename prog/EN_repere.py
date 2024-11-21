@@ -18,8 +18,8 @@ def nertools(chemin):
 # path_SEM = "../small-ELTeC-fra_SEM-WiNER/ADAM/*/*/*"
 # path_CasEN = "../small-ELTeC-fra_CasEN/ADAM/*/*/*"
 # path_NERtools = "../small-ELTeC-fra-2021-2024_REN/*/*"
-# path_NERtools = "../small-ELTeC-fra-2021-2024_REN_PST/DASH/*"
-path_NERtools = "../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/*/*"
+path_NERtools = "../small-ELTeC-fra-2021-2024_REN_PST/*/*"
+# path_NERtools = "../CORRECTION_DISTANCES/small-ELTeC-eng-corr-automatique_REN/*/*"
 liste_res=[]
 
 EN_input = input("Entité recherchée : ")
@@ -41,10 +41,10 @@ for pathNERtools in glob.glob(path_NERtools):
     #                         # print(v)
     #                         if EN_input in v:
     #                             print("ALL --> ",toolsNER, value["label"], value["jalons"], v)
-    #                             if value["label"] == "LOC":
-    #                                 liste_res.append(v)
-    #                                 print("LOC --> ",toolsNER, value["label"], value["jalons"], v)
-# print(len(liste_res))
+    #                         # if value["label"] == "LOC":
+    #                         #     liste_res.append(v)
+    #                         #     print("LOC --> ",toolsNER, value["label"], value["jalons"], v)
+# # print(len(liste_res))
     if "OCR" in pathNERtools:
         # print(pathNERtools)
         pathNERtools_REF = f"{pathNERtools}/*/NER"

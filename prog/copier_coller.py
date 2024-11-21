@@ -5,12 +5,18 @@ import os
 import re
 
 # path_input="../ARCHEO_Corr/small-ELTeC-fra2024*/*"
-path_input="../small-ELTeC-fra_SEM-WiNER/*/*/*/*"
-
+# path_input="../small-ELTeC-fra_SEM-WiNER/*/*/*/*"
+path_input="../Upsetplot_intersection/GLOBAL/small-ELTeC-fra-2021-2024_REN/small-ELTeC-fra-2021-2024_REN_PNG/*10000.png"
+path_output = "../Upsetplot_intersection/GLOBAL/small-ELTeC-fra-2021-2024_REN/small-ELTeC-fra-2021-2024_REN_PNG_10000/"
 # path_input="../Archeo_spaCy-3.7.5/small-*/*/*REF/*/*"
 
 for path in glob.glob(path_input):
     print(path)
+    pathout = path.split("/")[-1]
+    print(pathout)
+    output = path_output+pathout
+    print(">>",output)
+
     # rep_output=path.split("_")
     # print("rep_output",rep_output)
     # path_output= "../ARCHEO_Correction_Distances"+"/"+rep_output[-2].split("/")[-1]+"/"+path.split("/")[-1]
@@ -65,5 +71,5 @@ for path in glob.glob(path_input):
     # print("PATH OUTPUT",path_output)
     # #
     # #
-    # shutil.copytree(path,path_output)
+    shutil.copy2(path,output)
 
